@@ -11,7 +11,7 @@ A website to showcase our work, our company and our school.
 ## How
 Get involved! https://github.com/foundersandcoders/oursite/issues
 
-The site is built in [harp](http://harpjs.com/), you'll need to:
+The site uses [Harp](http://harpjs.com/), you'll need to:
 ```
 $ npm install -g harp 
 $ cd Desktop
