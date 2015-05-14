@@ -3,15 +3,12 @@
 
 <p>Some initial ideas</p>
 
-<p>We need a site which acts both as a face for our work and a face for our school. How this sits, is not completely clear. Do we want our left foot forward or a right? As we're not having any trouble getting great applicants and as it may not be detrimental to the school for it to sit it behind the face of a great agency, agency first might be the way forward. Any thoughts?</p>
+<p>We need a site which acts both as a face for our work and a face for our school. How this sits, is not completely clear. Do we want our left foot forward or a right? As we're not having any trouble getting great applicants - and as it may not be detrimental to the school for it to sit it behind the face of a great agency - agency first might be the way forward. Any thoughts?</p>
 
 
 <p>Note: We may want to do something cleaver with search queries, to decide what people see first when they search for us (e.g. Google search for 'Cheap MVP' leads to a different part of the site than 'Free coding bootcamp'). </p>
 
-If we run with this, we may want the landing page to show be very on message, with quality work being at the heart of what we do.
-
-
-<p class="meta">Running with the agency first idea</p>
+<p><i>Running with the agency first idea<i></p>
 
 <h3>Landing page</h3>
 <p>Strong image showing some of us at work</p>
@@ -28,13 +25,13 @@ If we run with this, we may want the landing page to show be very on message, wi
 	<li>Case studies</li>
 	<li>Client quotes <i>http://builtbybuffalo.com/</li></li>
 	<li>Services<li>
-		<ul>
-			<li>Concept to completion</li>
-			<li>Design</li>
-			<li>Start-up</li>
-			<li>MVP</li>
-			<li>Training</li>
-		</ul>
+	<ul>
+		<li>Concept to completion</li>
+		<li>Design</li>
+		<li>Start-up</li>
+		<li>MVP</li>
+		<li>Training</li>
+	</ul>
 </ul>
 <p>Process</p>
 <ul>
