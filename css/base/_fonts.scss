@@ -1,0 +1,21 @@
+@font-face {
+	font-family: 'UG';
+	src: url('../font/UG.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'UG thin';
+	src: url('../font/UGthin.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+* {
+	font-family: 'UG';
+}
+
+p {
+	font-family: 'UG thin';
+}

@@ -1,0 +1,32 @@
+nav {
+	width: 100%;
+	height: 150px;
+	line-height: 150px;
+	padding: 0 25px;
+	position: fixed;
+	z-index: 1;
+	background-color: #F6F6F6;
+	-webkit-transition:height 0.3s, line-height 0.3s;
+	-moz-transition:height 0.3s line-height 0.3s;
+	-ms-transition:height 0.3s line-height 0.3s;
+	-o-transition:height 0.3s line-height 0.3s;
+	transition:height 0.3s line-height 0.3s;
+	.center {
+		text-align: center;
+	}
+	h3 {
+		display: inline;
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+}
+
+.panel-nav-offset {
+	@extend %panel;
+	height: 150px;
+}
+
+.smaller {
+	height: 70px;
+	line-height: 70px;
+}

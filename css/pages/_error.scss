@@ -1,0 +1,9 @@
+.panel-error {
+	@extend %panel;
+	height: 500px;
+	background-color: #707C80;
+	flex-direction: column;
+	* {
+		color: #F6F6F6;
+	}
+}

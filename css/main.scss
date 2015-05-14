@@ -1,0 +1,17 @@
+@import "base/fonts";
+@import "components/panel";
+@import "features/navbar";
+@import "pages/error";
+@import "pages/landing-page";
+@import "variables";
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  color: #444;
+}
+
+body {
+  background: #f4f4f7;
+}

@@ -1,0 +1,31 @@
+.panel-1 {
+	@extend %panel;
+	height: 500px;
+	background-color: #707C80;
+	* {
+		color: #F6F6F6;
+		margin-bottom: 150px;
+	}
+}
+
+.panel-2 {
+	@extend %panel;
+	background-color: #E7E6E6;
+}
+
+.panel-3 {
+	@extend %panel;
+	background-color: #fff;
+}
+
+.panel-4 {
+	@extend %panel;
+	background-color: #E7E6E6;
+	flex-direction: column;
+
+}
+
+.panel-5 {
+	@extend %panel;
+	background-color: #707C80;
+}

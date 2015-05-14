@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="/css/main.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>  
+  	<body>
+  		<%- partial("partials/_navbar") %>
+    	<%- yield %>
+		<footer>
+			<script>
+			    function init() {
+			        window.addEventListener('scroll', function(e){
+			            var distanceY = window.pageYOffset || document.documentElement.scrollTop,
+			                shrinkOn = 300,
+			                navbar = document.querySelector("navbar");
+			            if (distanceY > shrinkOn) {
+			                document.getElementById("navbar").className += " smaller";
+			            } else {
+			                if(document.getElementById("navbar").className.match(/(?:^|\s)smaller(?!\S)/)) {
+			                document.getElementById("navbar").className = document.getElementById("navbar").className.replace(/(?:^|\s)smaller(?!\S)/g ,'')
+			                }
+			            }
+			        });
+
+			    }
+			    window.onload = init();
+			    function resize()	{
+	                var height = window.innerHeight;
+	                document.getElementById("panel-1").style.height = height-150 + "px";
+	            }
+	            resize();
+	            window.onresize = function() {
+	                resize();
+	            };
+			</script>
+		</footer>
+  	</body>
+</html>
