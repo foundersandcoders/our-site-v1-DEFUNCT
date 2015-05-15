@@ -2,12 +2,12 @@
 function init() {
     window.addEventListener('scroll', function(e){
         var distanceY = window.pageYOffset || document.documentElement.scrollTop,
-            navbar = document.querySelector("navbar");
+            navbar = document.getElementById("navbar");
         if (distanceY > 300) {
-            document.getElementById("navbar").className += " smaller";
+            navbar.className += " smaller";
         } else {
-            if(document.getElementById("navbar").className.match(/(?:^|\s)smaller(?!\S)/)) {
-            document.getElementById("navbar").className = document.getElementById("navbar").className.replace(/(?:^|\s)smaller(?!\S)/g ,'')
+            if(navbar.className.match(/(?:^|\s)smaller(?!\S)/)) {
+            navbar.className = navbar.className.replace(/(?:^|\s)smaller(?!\S)/g ,'')
             }
         }
     });
