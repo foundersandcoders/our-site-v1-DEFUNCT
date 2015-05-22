@@ -14,8 +14,27 @@
 
 * {
 	font-family: 'UG';
+	-webkit-font-smoothing: antialiased;
+	color: #707C80;
 }
 
 p {
 	font-family: 'UG thin';
+}
+
+h3 {
+	font-size: 19px;
+}
+
+@media (max-width: 700px) {
+	h3 {
+		font-size: 15px;
+			color: #707C80;
+
+	}
+}
+@media (max-width: 400px) {
+	h3 {
+		font-size: 13px;
+	}
 }

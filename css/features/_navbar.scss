@@ -12,11 +12,17 @@ nav {
 	-o-transition:height 0.3s line-height 0.3s;
 	transition:height 0.3s line-height 0.3s;
 	.center {
-		text-align: center;
+		// text-align: center;
+		max-width: 700px;
+		margin: auto;
+		display: flex;
+		justify-content: space-between;
+		// justify-content: center;
+		align-items: center;
 	}
 	h3 {
 		display: inline;
-		margin-left: 0 20px;
+		margin: 0 20px;
 	}
 }
 
@@ -28,4 +34,30 @@ nav {
 .smaller {
 	height: 70px;
 	line-height: 70px;
+}
+
+.nav-secondary {
+	height: 150px;
+	line-height: 75px;
+	border: 1px solid #ccc;
+	padding: 0;
+	margin-bottom: 1500px;
+	position: relative;
+
+	.bottom {
+		width: 100%;
+		overflow: hidden;
+		background-color: #D8D8D8;
+	}
+	.center-2 {
+		// text-align: center;
+		max-width: 700px;
+		margin: auto;
+		display: flex;
+		justify-content: space-between;
+		// justify-content: center;
+		align-items: center;
+			background-color: #D8D8D8;
+
+	}
 }
