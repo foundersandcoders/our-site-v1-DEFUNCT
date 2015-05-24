@@ -4,7 +4,7 @@
 	background-color: #707C80;
 	flex-direction: column;
 	* {
-		color: #F6F6F6;
+		color: $color-three;
 	}
 	h1 {
 		font-size: 33px;
@@ -17,7 +17,7 @@
 
 .panel-2 {
 	@extend %panel;
-	background-color: #E7E6E6;
+	background-color: $color-two;
 	height: 120px;
 }
 
@@ -50,7 +50,7 @@
 		background-image: url("/assets/three.jpg");	
 	}
 	.im {
-		background-color: #E7E6E6;
+		background-color: $color-two;
 		position: relative;
 		background-position: center;
 		background-size: cover;
@@ -66,7 +66,7 @@
 			align-items: center;
 			flex-direction: column;
 			h3 {
-				color: #F6F6F6;
+				color: $color-three;
 				margin: 20px;
 			}
 		}
@@ -112,7 +112,7 @@
 
 .panel-4 {
 	@extend %panel;
-	background-color: #E7E6E6;
+	background-color: $color-two;
 	flex-direction: column;
 	height: 200px;
 

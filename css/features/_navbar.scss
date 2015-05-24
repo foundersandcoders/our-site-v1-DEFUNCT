@@ -5,7 +5,7 @@ nav {
 	padding: 0 25px;
 	position: fixed;
 	z-index: 1;
-	background-color: #F6F6F6;
+	background-color: $color-three;
 	-webkit-transition:height 0.3s, line-height 0.3s;
 	-moz-transition:height 0.3s line-height 0.3s;
 	-ms-transition:height 0.3s line-height 0.3s;
@@ -13,7 +13,7 @@ nav {
 	transition:height 0.3s line-height 0.3s;
 	.center {
 		// text-align: center;
-		max-width: 700px;
+		max-width: 450px;
 		margin: auto;
 		display: flex;
 		justify-content: space-between;
@@ -23,6 +23,7 @@ nav {
 	h3 {
 		display: inline;
 		margin: 0 20px;
+		letter-spacing: 2px;
 	}
 }
 
@@ -36,14 +37,13 @@ nav {
 	line-height: 70px;
 }
 
-.nav-secondary {
+.nav-2 {
 	height: 150px;
 	line-height: 75px;
 	border: 1px solid #ccc;
 	padding: 0;
 	margin-bottom: 1500px;
-	position: relative;
-
+	// position: relative;
 	.bottom {
 		width: 100%;
 		overflow: hidden;
@@ -51,7 +51,7 @@ nav {
 	}
 	.center-2 {
 		// text-align: center;
-		max-width: 700px;
+		max-width: 350px;
 		margin: auto;
 		display: flex;
 		justify-content: space-between;
@@ -60,4 +60,9 @@ nav {
 			background-color: #D8D8D8;
 
 	}
+}
+
+.smaller2 {
+	height: 70px;
+	line-height: 35px;
 }

@@ -39,14 +39,14 @@ button {
 .button-one {
 	@extend %button;
 	color: #fff;
-	background-color: #707C80;
+	background-color: $color-one;
 	border: none;
 	width: 48%;
 	&:hover {
 		background-color: #999;
 	}	
 	&:active {
-		background-color: #707C80;
+		background-color: $color-one;
 		// border: 1px solid #ccc;
 	}	
 }	
