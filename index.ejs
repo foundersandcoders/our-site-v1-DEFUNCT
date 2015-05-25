@@ -1,17 +1,11 @@
 <%- partial("partials/_navbar") %>
 
-
-
 <div id="panel-1" class="panel-1">
 	<h1 class="animate-header">Founders & Coders</h1>
 	<p>A digital agency based in London</p>
 </div>
 
-<!-- <div class="panel-2">
-	<h3 class="company-tagline">"We need a company motto"</h3> 
-</div> -->
-
-<div id="portfolio" class="panel-portfolio desaturate">
+<div id="portfolio" class="panel-portfolio">
  	<div class="grid-4">
 		<div id="img" class="image-one im">
 			<div class="overlay">
@@ -36,45 +30,23 @@
 			</div>
 		</div>
 	</div>
-<!-- 	<div class="grid-4 desktop-tablet-only">
-		<div id="img" class="image-four im">
-			<div class="overlay">
-				<h3>Project Four</h3>
-				<h3>Company Four</h3>
-			</div>
-		</div>
-	</div>
-	<div class="grid-4 desktop-only">
-		<div class="image-five im">
-			<div class="overlay">
-				<h3>Project Five</h3>
-				<h3>Company Five</h3>
-			</div>
-		</div>
-	</div>
-	<div class="grid-4 desktop-only">	
-		<div class="image-six im">
-			<div class="overlay">
-				<h3>Project Six</h3>
-				<h3>Company Six</h3>
-			</div>
-		</div>
-	</div> -->
 </div>
 
-<div class="panel-4">
+<div class="panel-client-quotes">
 	<h3 id="client-name">Happy client</h3> 
 	<p id="client-quote">"consectetur adipiscing elit. Suspendisse imperdiet sit amet sapien eu ultrices."</p>
 	<div class="radio">
-		<input id="client-one" type="radio" name="client" onclick='changeText("Happy client", "consectetur adipiscing elit. Suspendisse imperdiet sit amet sapien eu ultrices.")'>
+		<input id="client-one" type="radio" name="client" onclick='changeText("Happy client", "consectetur adipiscing elit. Suspendisse imperdiet sit amet sapien eu ultrices.")' checked>
    		<label for="client-one"></label>
-
     	<input id="client-two" type="radio" name="client" onclick='changeText("Duis finibus", "Nullam rutrum quam ex. ")'>
     	<label for="client-two"></label>
-
     	<input id="client-three" type="radio" name="client" onclick='changeText("Nullam eget diam in diam maximus", "Duis finibus, metus non malesuada bibendum, lacus arcu egestas lacus, eget dictum nisl elit vel tortor.")'>
     	<label for="client-three"></label>
     </div>
 </div>
+
+<div class="panel-services"></div>
+
+<div class="methods"></div>
 
 <script src="js/main.js"></script>
