@@ -12,14 +12,14 @@
 + **Practical training in product management.**
 + **A working prototype.**
 
-*Who is this service for?    
+*Who is this service for?*    
 Companies that want to give our graduate developers an opportunity to demonstrate their capabilities, with a view to commissioning further work from them or offering them employment.
 
 *What sort of prototypes do you build?*     
-We build web applications. In other words, software applications that runs in a web browser.
+We build web applications. In other words, software applications that run in a web browser.
 
 *What can I realistically expect?*     
-You can expect a working prototype or a *minimum viable product*. You would not normally expect to get a complete finished product in a week.
+You can expect a working prototype or a *minimum viable product*. You would not normally get a finished product in just a week, but you should get a product specification that will give you a clear idea of the likely cost and complexity of your complete application requirements.
 
 *What’s the first step?*     
 We will invite you to discuss your idea with us at our campus in Bethnal Green. It is important we understand your idea, what you want to achieve, and when and if you are likely to want any follow up work done. If you wish, you can bring a visual presentation, too. Discussions usually take place on Tuesdays and Thursdays at 5.30pm.
@@ -46,12 +46,12 @@ Generally, not for a protoype. In most cases, it is better to build a prototype 
 If the prototype does not meet the agreed specification, then you can request a full refund and your development team will not be paid.
 
 *What happens if I want further work done on my prototype?*    
-If you are happy with the prototype, you can retain some or all of your development team to continue to work on it for you. Our freelance rates start at £80/day (equivalent to the London Living Wage).
+If you are happy with the prototype, you can retain some or all of your development team to continue to work on it for you.
 
 *How do I find out more?*     
 If you have any further questions, please contact us.
 
-Book now using the form below.
+Book now, using the form below.
 
 <section class="applywrap">
    <iframe class="applyform" src="https://docs.google.com/forms/d/1bRG6tnN7ykf6Dt6MuDQWJJX-44ijj38zY2CrjM_VwZo/viewform?embedded=true" width="100%" height="1250" frameborder="20" marginheigt="50px" marginwidth="0">Loading&amp;#8230;</iframe>
