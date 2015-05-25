@@ -20,7 +20,7 @@ Our general approach is:
 + Test-driven
 + Team-based
 
-Our primary programming language of choice is JavaScript and our primary server-side platform is Node.js.
+Our primary programming language of choice is *JavaScript* and our primary server-side platform is *Node.js*.
 
 ## Pedagogy 
 
@@ -34,7 +34,7 @@ Each group is expected to review each others’ work on a daily basis and to pre
 
 Throughout our courses, we supplement the project-based learning with structured paired-programming exercises using a series of increasingly advanced challenges.  
 
-We introduce our students to CSS frameworks, like Twitter Bootstrap, front-end libraries, like jQuery and React, and application frameworks, like Express and hapi, by encouraging them to build there own versions of these libraries before actually using them, so as to better understand how they work, and when, why and how to use them.
+We introduce our students to CSS frameworks, like *Twitter Bootstrap*, front-end libraries, like *jQuery* and *React*, and application frameworks, like *Express and hapi, by encouraging them to build there own versions of these libraries before actually using them, so as to better understand how they work, and when, why and how to use them.
 
 Students usually learn in groups of 4 and classes of 16. This ensures that all students get to know each other well and that the classroom can develop a cohesive group identity. Larger groups are accommodated by splitting each cohort into two or more classes.  
 
@@ -44,7 +44,7 @@ All our staff are software developers who have taught on and contributed to our 
 
 ## Why JavaScript?
 
-We love many languages, including C, Python, Ruby, Perl, Lisp, Go and Haskell, but JavaScript is the language of the Web. You cannot be a front-end Web developer without knowing JavaScript. With the arrival into the mainstream of Node.js, JavaScipt is now an excellent choice for back-end Web development. And with new technologies like PhoneGap and now Facebook's React library, it can be used for iPhone and Android development, too. If you want to be a Web developer, JavaScript will be useful to you wherever you go.
+We love many languages, including C, Python, Ruby, Perl, Lisp, Go and Haskell, but JavaScript is the language of the Web. You cannot be a front-end Web developer without knowing JavaScript. With the arrival into the mainstream of Node.js, JavaScipt is now an excellent choice for back-end Web development. And with new technologies like *PhoneGap* and now Facebook's *React* library, it can be used for *iPhone* and *Android* development, too. If you want to be a Web developer, JavaScript will be useful to you wherever you go.
 
 In general, we have found that employers are often reluctant to employ inexperienced junior developers to work on their server-side application software. As a result, graduates of our training programmes have found it easier to find work as front-end developers and that means that *in almost every case* JavaScript is the language that they need to learn to break into the job market.
 
