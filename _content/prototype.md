@@ -12,6 +12,9 @@
 + **Practical training in product management.**
 + **A working prototype.**
 
+*Who is this service for?    
+Companies that want to give our graduate developers an opportunity to demonstrate their capabilities, with a view to commissioning further work from them or offering them employment.
+
 *What sort of prototypes do you build?*     
 We build web applications. In other words, software applications that runs in a web browser.
 
