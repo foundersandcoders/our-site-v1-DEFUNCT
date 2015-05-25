@@ -1,6 +1,13 @@
 @font-face {
-	font-family: 'UG';
+	font-family: 'UG bold';
 	src: url('../font/UG.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'UG med';
+	src: url('../font/UGmed.ttf') format('truetype');
 	font-weight: bold;
 	font-style: normal;
 }
@@ -13,13 +20,13 @@
 }
 
 * {
-	// font-family: 'UG';
+	font-family: 'UG med';
 	-webkit-font-smoothing: antialiased;
 	color: $color-one;
 }
 
 p, ul, ol, li {
-	font-family: 'UG thin';
+	font-family: 'UG med';
 	font-size: 18px;
 	line-height: 150%;
 }
@@ -39,7 +46,7 @@ p, ul, ol, li {
 }
 
 h2 {
-	font-family: 'UG thin';
+	font-family: 'UG med';
 	font-size: 28px;
 	line-height: 100%;
 }
@@ -58,7 +65,7 @@ h2 {
 
 
 h3 {
-	font-family: 'UG';
+	font-family: 'UG bold';
 	font-size: 19px;
 	line-height: 100%;
 }
@@ -81,5 +88,5 @@ ul {
 
 a {
 	text-decoration: none;
-	color: #707C83;
+	color: $color-four;
 }
