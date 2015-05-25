@@ -1,65 +1,16 @@
-<%- partial("partials/_navbar") %>
-
-
+<%- partial("_partials/navbar") %>
 
 <div id="panel-1" class="panel-1">
-	<h1 class="animate-header">Founders & Coders</h1>
+	<h1 class="animate-header">Founders &amp; Coders</h1>
 	<p>A digital agency based in London</p>
 </div>
 
-<!-- <div class="panel-2">
-	<h3 class="company-tagline">"We need a company motto"</h3> 
-</div> -->
-
 <div id="portfolio" class="panel-portfolio desaturate">
- 	<div class="grid-4">
-		<div id="img" class="image-one im">
-			<div class="overlay">
-				<h3>Project One</h3>
-				<h3>Company One</h3>
-			</div>
-		</div>
-	</div>
-	<div class="grid-4">
-		<div class="image-two im">
-			<div class="overlay">
-				<h3>Project Two</h3>
-				<h3>Company Two</h3>
-			</div>
-		</div>
-	</div>
-	<div class="grid-4">	
-		<div class="image-three im">
-			<div class="overlay">
-				<h3>Project Three</h3>
-				<h3>Company Three</h3>
-			</div>
-		</div>
-	</div>
-<!-- 	<div class="grid-4 desktop-tablet-only">
-		<div id="img" class="image-four im">
-			<div class="overlay">
-				<h3>Project Four</h3>
-				<h3>Company Four</h3>
-			</div>
-		</div>
-	</div>
-	<div class="grid-4 desktop-only">
-		<div class="image-five im">
-			<div class="overlay">
-				<h3>Project Five</h3>
-				<h3>Company Five</h3>
-			</div>
-		</div>
-	</div>
-	<div class="grid-4 desktop-only">	
-		<div class="image-six im">
-			<div class="overlay">
-				<h3>Project Six</h3>
-				<h3>Company Six</h3>
-			</div>
-		</div>
-	</div> -->
+
+	<%- partial("_partials/portfolio", { "name": "Project one", "company": "Company one", "imageStyle": "image-one" }) %>
+	<%- partial("_partials/portfolio", { "name": "Project two", "company": "Company two", "imageStyle": "image-two" }) %>
+	<%- partial("_partials/portfolio", { "name": "Project three", "company": "Company three", "imageStyle": "image-three" }) %>
+
 </div>
 
 <div class="panel-4">
