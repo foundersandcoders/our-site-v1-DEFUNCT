@@ -8,7 +8,6 @@
 	}
 	h1 {
 		font-size: 33px;
-		// letter-spacing: 1px;
 	}
 	p {
 		margin-bottom: 150px;
@@ -32,19 +31,19 @@
 		padding: 20px;
 	}
 	.image-one {
-		background-image: url("/assets/one.jpg");
+		background-image: url("/assets/three.jpg");
 	}
 	.image-two {
-		background-image: url("/assets/two.jpg");		
+		background-image: url("/assets/three.jpg");		
 	}
 	.image-three {
 		background-image: url("/assets/three.jpg");	
 	}
 	.image-four {
-		background-image: url("/assets/one.jpg");
+		background-image: url("/assets/three.jpg");
 	}
 	.image-five {
-		background-image: url("/assets/two.jpg");		
+		background-image: url("/assets/three.jpg");		
 	}
 	.image-six {
 		background-image: url("/assets/three.jpg");	
@@ -104,16 +103,21 @@
 	}
 }
 
-// @media (max-width: 480px) {
-// 	.panel-portfolio .grid-4 {
-// 		padding: 0;
-// 	}
-// }
-
 .panel-4 {
 	@extend %panel;
 	background-color: $color-two;
 	flex-direction: column;
 	height: 200px;
+	text-align: center;
+	padding-left: 15px;
+	padding-right: 15px;
+}
 
+#client-name {
+	transition: opacity .3s ease-in-out;
+	opacity: 1;
+}
+
+.fade {
+	opacity: 0;
 }

@@ -36,7 +36,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="grid-4 desktop-tablet-only">
+<!-- 	<div class="grid-4 desktop-tablet-only">
 		<div id="img" class="image-four im">
 			<div class="overlay">
 				<h3>Project Four</h3>
@@ -59,11 +59,22 @@
 				<h3>Company Six</h3>
 			</div>
 		</div>
-	</div>
+	</div> -->
 </div>
 
 <div class="panel-4">
-	<h3>Happy client</h3> 
-	<p>"These people build great things"</p>
+	<h3 id="client-name">Happy client</h3> 
+	<p id="client-quote">"consectetur adipiscing elit. Suspendisse imperdiet sit amet sapien eu ultrices."</p>
+	<div class="radio">
+		<input id="client-one" type="radio" name="client" onclick='changeText("Happy client", "consectetur adipiscing elit. Suspendisse imperdiet sit amet sapien eu ultrices.")'>
+   		<label for="client-one"></label>
+
+    	<input id="client-two" type="radio" name="client" onclick='changeText("Duis finibus", "Nullam rutrum quam ex. ")'>
+    	<label for="client-two"></label>
+
+    	<input id="client-three" type="radio" name="client" onclick='changeText("Nullam eget diam in diam maximus", "Duis finibus, metus non malesuada bibendum, lacus arcu egestas lacus, eget dictum nisl elit vel tortor.")'>
+    	<label for="client-three"></label>
+    </div>
 </div>
+
 <script src="js/main.js"></script>

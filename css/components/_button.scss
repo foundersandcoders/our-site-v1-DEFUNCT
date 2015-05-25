@@ -2,19 +2,19 @@
 	font-size: 20px;
 	font-weight: 100;
 	display: inline-block;
-	margin-bottom: 0; // For input.btn
-	text-align: center;
-	vertical-align: middle;
+	// margin-bottom: 0;
+	// text-align: center;
+	// vertical-align: middle;
 	cursor: pointer;
-	background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214
+	background-image: none;
 	white-space: nowrap;
 	padding: 14px 12px;
 	height: 50px;
-	border-radius: 0px;
+	border-radius: 1px;
 	width: 100%;
 	max-width: 350px;
 	box-sizing: border-box;
-	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	&,
 	&:active {
@@ -47,7 +47,6 @@ button {
 	}	
 	&:active {
 		background-color: $color-one;
-		// border: 1px solid #ccc;
 	}	
 }	
 

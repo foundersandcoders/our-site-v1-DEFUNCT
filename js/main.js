@@ -31,3 +31,14 @@ resize();
 window.onresize = function() {
     resize();
 };
+
+function changeText(one, two){
+    document.getElementById('client-name').style.opacity = 0;
+    document.getElementById('client-quote').style.opacity = 0;
+    timeout = setTimeout(function(thing) {
+        document.getElementById("client-name").innerHTML = one;
+        document.getElementById('client-quote').innerHTML = two;
+        document.getElementById('client-name').style.opacity = 1;
+        document.getElementById('client-quote').style.opacity = 1;
+    }, 1000);    
+}
