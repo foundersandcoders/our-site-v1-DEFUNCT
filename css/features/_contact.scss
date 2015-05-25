@@ -32,6 +32,8 @@
 		overflow: hidden;
 		background-color: #fff;
 		padding: 50px;
+		max-width: 500px;
+		margin: auto;
 		.input-one {
 			margin-bottom: 50px;
 		}
@@ -50,9 +52,10 @@
 	}
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
 	.contact {
 		padding: 0;
+		padding-bottom: 50px;
 		.info {
 			text-align: center;
 			padding: 50px;
