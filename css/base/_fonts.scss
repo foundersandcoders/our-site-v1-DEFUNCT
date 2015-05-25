@@ -13,28 +13,73 @@
 }
 
 * {
-	font-family: 'UG';
+	// font-family: 'UG';
 	-webkit-font-smoothing: antialiased;
 	color: $color-one;
 }
 
-p {
+p, ul, ol, li {
 	font-family: 'UG thin';
+	font-size: 18px;
+	line-height: 150%;
 }
 
+@media (max-width: $tablet) {
+	p, ul, ol {
+		font-size: 17px;
+		line-height: 130%;
+	}
+}
+
+@media (max-width: $mobile) {
+	p, ul, ol {
+		font-size: 16px;
+		line-height: 120%;
+	}
+}
+
+h2 {
+	font-family: 'UG thin';
+	font-size: 28px;
+	line-height: 100%;
+}
+
+@media (max-width: $tablet) {
+	h2 {
+		font-size: 26px;
+	}
+}
+
+@media (max-width: $mobile) {
+	h2 {
+		font-size: 24px;
+	}
+}
+
+
 h3 {
+	font-family: 'UG';
 	font-size: 19px;
+	line-height: 100%;
 }
 
 @media (max-width: 700px) {
 	h3 {
 		font-size: 15px;
-			color: $color-one;
-
 	}
 }
+
 @media (max-width: 400px) {
 	h3 {
 		font-size: 13px;
 	}
+}
+
+ul {
+	list-style-position: inside;
+}
+
+a {
+	text-decoration: none;
+	color: #707C83;
 }
