@@ -4,9 +4,11 @@
 
 ## Challenge
 
-The Friends of Chichester Harbour is a registered charity, formed in 1987 to sustain and improve the environment of the harbour for the benefit of both people and wildlife. It has a larger and varied membership. The Friends' Treasurer, Richard Evans, approached us to help the Friends build a new membership management system.
+The Friends of Chichester Harbour is a registered charity, formed in 1987 to sustain and improve the environment of the harbour for the benefit of both people and wildlife. It has a large and varied membership. The Friends' Treasurer, Richard Evans, approached us to help the Friends build a new membership management system.
 
-The existing offline computer system required a lot of administrative effort by the charity's volunteer staff, and the Trustees were keen to find a way to manage and communicate with their members and to allow the members to manage their membership and payments online. Available off-the-shelf membership management systems did not give them the flexibility they needed and, in particular, did not make it easy to manage both tech-savvy and technophobic members nor allow membership contributions to be easily combined with donations in a single transaction nor make it easy to import existing subscriber records.
+The existing offline computer system required a lot of administrative effort by the charity's volunteer staff, and the Trustees were keen to find a way to manage and communicate with their members and to allow the members to manage their membership and payments online. 
+
+Available off-the-shelf systems did not give them the flexibility they needed and, in particular, did not make it easy to manage both tech-savvy and technophobic members nor allow membership contributions to be easily combined with donations in a single transaction nor make it easy to import existing membership records.
 
 ### Solution
 
