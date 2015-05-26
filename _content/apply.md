@@ -31,7 +31,7 @@ We aim to accept around four applicants after each deadline. We do it this way, 
 + Apply early 
 + Record your voice at an adequate sound level on your video and keep it to under two minutes
 + Aim to reach at least 6 kyu on [Codewars](http://www.codewars.com/?language=javascript)
-+ Contribute to the [Coding for everyone](https://github.com/codingforeveryone)  community on GitHub    
++ Contribute to the [Coding for everyone](https://github.com/codingforeveryone) community on GitHub    
 (we will send you an invitation to join when you complete Part 1 of the application) 
 
 You can contribute to the community by communicating with other members of the community: posting questions, answering questions, posting your Codewars kata, or any other way that you like.
@@ -88,5 +88,5 @@ We like [**Eloquent JavaScript**](http://eloquentjavascript.net/). It is availab
 
 [**Inventing on Principle**](http://vimeo.com/36579366), a talk by Bret Victor.
 
-[**Crockford on JavaScript**](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PL7664379246A246CB). A wonderful series of lectures by Doug Crockford. A panaramic overview of JavaScript at an advanced level. Watch each lecture until you are no longer enjoying the experience and then fast forward or move onto the next one (Lecture 3 is probably the hardest to follow). You may want to rewatch these lectures at the end of the course.
+[**Crockford on JavaScript**](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PL7664379246A246CB). A wonderful series of lectures by Doug Crockford. A panoramic overview of JavaScript at an advanced level. Watch each lecture until you are no longer enjoying the experience and then fast forward or move onto the next one (Lecture 3 is probably the hardest to follow). You may want to rewatch these lectures at the end of the course.
 
