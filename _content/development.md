@@ -2,15 +2,26 @@
 
 ## Web and mobile
 
-We specialise in developing software applications for both Web and mobile using *JavaScript*, *Node.js* and *React*.
+We specialise in developing software applications for both Web and mobile using *JavaScript*, *Node.js* and *React*. You can find some examples of our recent work [here](www.foundersandcoders.org/case-studies).
 
 We have particular expertise in:
   
-+ Prototyping and UX design
++ Prototyping
++ UX design (**U**ser e**x**perience)
 + Content management
 + Membership and user management
 + Business productivity
 + Data visualisation and mapping
+
+## Our approach  
+
+We begin every project by working with our clients to agree on the look and feel of the application/website, and develop *user journeys* that plot how users will interact with it. Short-term goals are set and reviewed generally every two weeks, but we aim for *continuous delivery* - and clients are kept fully informed of progress by their dedicated client liaison.  
+
+The *product owner* on the client side will also be able to track progress and give feedback using the product management tool PivotalTracker. We understand that many tools and concepts will be unfamiliar, and so are happy to provide support and training in product management to all clients. This aspect of the process is of general value to any client interested in commissioning web/mobile applications, not just as part of a single project.
+
+All of our code is well-documented and accompanied by concise README documents to ensure that it can be maintained in the future - whether by our team or someone else.
+
+You can read about our approach in greater detail below.
 
 ## Agile project mangement
 
@@ -22,9 +33,9 @@ Change requests are added to the *project backlog* by the product owner and inco
 
 ## Test-driven development
 
-We practice *test-driven development* (TDD) and *behaviour-driven development* (BDD), where product features, expressed as user stories, are turned into *acceptance tests*, i.e. automated software tests that demonstrate whether or not the application software actually behaves as expected, and these are written before any code is actually created. We use automated tools to maintain measures of code coverage (i.e. what proportion of the code is covered by an associated test) and to identify failing tests.  
+We practise *test-driven development* (TDD) and *behaviour-driven development* (BDD), where product features, expressed as user stories, are turned into *acceptance tests*, i.e. automated software tests that demonstrate whether or not the application software actually behaves as expected, and these are written before any code is actually created. We use automated tools to maintain measures of code coverage (i.e. what proportion of the code is covered by an associated test) and to identify failing tests.  
 
-We practice *paired programming* to ensure that all developers involved in a project share a common approach to the codebase and create readable code.  We undertake *code reviews* where developers not involved in a project review the quality of the code being created by the development team.
+We practise *paired programming* to ensure that all developers involved in a project share a common approach to the codebase and create readable code.  We undertake *code reviews* where developers not involved in a project review the quality of the code being created by the development team.
 
 We deliver well-documented code, based around concise README documents, so that in years to come our code will be maintainable, either by us or by others, and that anyone returning to the codebase or looking at it with fresh eyes will be able to understand our original intent. 
 
