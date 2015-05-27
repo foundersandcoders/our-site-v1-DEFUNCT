@@ -3,7 +3,7 @@
 @import "base/fonts";
 @import "components/button";
 @import "components/input";
-@import "components/panel";
+@import "components/section";
 @import "components/radio";
 @import "features/contact";
 @import "features/navbar";
@@ -12,6 +12,7 @@
 @import "pages/error";
 @import "pages/landing/animation";
 @import "pages/landing/landing-page";
+@import "pages/block-copy";
 
 * {
   margin: 0px;

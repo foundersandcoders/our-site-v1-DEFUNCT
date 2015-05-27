@@ -1,12 +1,4 @@
-%panel {
-	width: 100%;
-	position: relative;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-
-.panel-apply {
+.section-copy {
 	background-color: #FFF;
 	padding-top: 30px;
 	padding-bottom: 50px;
@@ -24,7 +16,7 @@
 }
 
 @media (max-width: $tablet) {
-	.panel-apply {
+	.section-copy {
 		padding-top: 20px;
 		h2, h3, p, ul, ol, {
 			margin-bottom: 10px;

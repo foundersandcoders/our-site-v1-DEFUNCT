@@ -21,7 +21,7 @@ window.onload = start;
 function resize()	{
     var height = window.innerHeight;
     var imgWidth = document.getElementById("img").offsetWidth;
-    document.getElementById("panel-1").style.height = height-150 + "px";
+    document.getElementById("section-landing").style.height = height-150 + "px";
     var elements = document.getElementsByClassName('im');
     for (var i=elements.length; i--;) {
         elements[i].style.height = imgWidth*0.66 + "px";

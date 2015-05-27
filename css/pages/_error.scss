@@ -1,5 +1,5 @@
-.panel-error {
-	@extend %panel;
+.section-error {
+	@extend %section;
 	height: 500px;
 	background-color: $color-one;
 	flex-direction: column;

@@ -27,8 +27,8 @@ nav {
 	}
 }
 
-.panel-nav-offset {
-	@extend %panel;
+.section-nav-offset {
+	@extend %section;
 	height: 150px;
 }
 
