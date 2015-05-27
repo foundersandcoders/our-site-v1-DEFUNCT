@@ -1,10 +1,17 @@
-.panel-1 {
-	@extend %panel;
+.home {
+	* {
+		font-family: 'UG thin';
+	}
+}
+
+.section-landing {
+	@extend %section;
 	height: 500px;
 	background-color: #707C80;
 	flex-direction: column;
 	* {
 		color: $color-three;
+		font-family: 'UG thin';
 	}
 	h1 {
 		font-size: 33px;
@@ -14,19 +21,23 @@
 	}
 }
 
-.panel-2 {
-	@extend %panel;
+.section-2 {
+	@extend %section;
 	background-color: $color-two;
 	height: 120px;
 }
 
-.panel-portfolio {
+.section-portfolio {
 	width: 100%;
 	position: relative;
 	background-color: #FFF;
 	height: auto;
-	padding: 20px;
+	padding: 100px 70px;
 	overflow: hidden;
+	text-align: center;
+	h2 {
+		margin-bottom: 30px;
+	}
 	.grid-4 {
 		padding: 20px;
 	}
@@ -39,20 +50,12 @@
 	.image-three {
 		background-image: url("/assets/three.jpg");	
 	}
-	.image-four {
-		background-image: url("/assets/three.jpg");
-	}
-	.image-five {
-		background-image: url("/assets/three.jpg");		
-	}
-	.image-six {
-		background-image: url("/assets/three.jpg");	
-	}
 	.im {
 		background-color: $color-two;
 		position: relative;
 		background-position: center;
 		background-size: cover;
+		height: 200px;
 		.overlay {
 			width: 100%;
 			height: 100%;
@@ -84,7 +87,7 @@
 }
 
 @media (max-width: 700px) {
-	.panel-portfolio {
+	.section-portfolio {
 		padding: 15px;
 		.grid-4 {
 			padding: 15px;
@@ -93,7 +96,7 @@
 }
 
 @media (max-width: 400px) {
-	.panel-portfolio {
+	.section-portfolio {
 		padding: 0;
 		padding-bottom: 15px;
 		.grid-4 {
@@ -103,11 +106,46 @@
 	}
 }
 
-.panel-client-quotes {
-	@extend %panel;
+.section-services {
+	width: 100%;
+	position: relative;
 	background-color: $color-two;
+	height: auto;
+	padding: 100px 50px;
+	overflow: hidden;
+	text-align: center;
+	h2 {
+		margin-bottom: 30px;
+	}
+	.container {
+		max-width: 1000px;
+		margin: auto;
+	}	
+	.grid-4 {
+		padding: 20px;
+		list-style-type: none;
+		height: 250px;
+	}
+	img {
+		width: 150px;
+		margin-bottom: 15px;
+	}
+	p {
+		color: $color-one;
+	}
+}
+
+@media (max-width: 600px) {
+	.section-services {
+		padding: 50px 0;
+	}
+}
+
+.section-client-quotes {
+	@extend %section;
+	background-color: #fff;
 	flex-direction: column;
-	height: 200px;
+	height: 450px;
 	text-align: center;
 	padding-left: 15px;
 	padding-right: 15px;
@@ -115,7 +153,10 @@
 		font-family: "UG thin";
 	}
 	p {
-		padding-top: 15px;
+		padding-top: 45px;
+	}
+	.radio {
+		padding-top: 45px;
 	}
 }
 
