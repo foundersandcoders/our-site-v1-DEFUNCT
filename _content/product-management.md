@@ -16,19 +16,19 @@ The training covers key aspects of product management, including *user experienc
 
 The training consists of a full day of training and practice followed by a full week of continued communication with your development team to deliver your *MVP*.
 
-## Day 1
+### Day 1
 
 On Monday morning, you will be introduced to your development team and together you will receive a full day of training and practice in user experience design and agile project management.
 
 You will help in producing a series of *wireframes* and *user stories*. Then you will be introduced to *agile project management* using *Pivotal Tracker™*. 
 
-## Days 2-4
+### Days 2-4
 
 Throughout the rest of the week, you will be able to practice what you have learnt in the role of *product owner* for your project. 
 
 You will continue to communicate with your team using *Pivotal Tracker™* as they work through the user stories that you defined together on the first day. 
 
-## Day 5
+### Day 5
 
 On Friday afternoon, you will re-join your team for a *sprint review* and *project retrospective* and we will handover the MVP to you.
 
