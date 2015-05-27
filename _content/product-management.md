@@ -30,5 +30,4 @@ You will continue to communicate with your team using *Pivotal Tracker™* as th
 
 ### Day 5
 
-On Friday afternoon, you will re-join your team for a *sprint review* and *project retrospective* and we will handover the MVP to you.
-
+On Friday afternoon, you will re-join your team for a *sprint review*, *project retrospective* and product handover.
