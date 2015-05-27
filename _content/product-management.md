@@ -6,7 +6,7 @@ You are commissioning development work for Web and mobile and you want to get va
 
 ## What problem does this training solve?
 
-Developing a software product is expensive. It is very easy to spend a lot of money and still not get what you want. Even if you outsource the whole process, you—as the *product owner*—need to understand how the development process works in order to get the most out of it.
+Developing a software product is expensive. It is very easy to spend a lot of money and still not get what you want. Even if you outsource the whole process, you—as the *product owner*—need to understand the development process in order to get the most out of it.
 
 ## What does the training offer?
 
