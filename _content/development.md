@@ -23,6 +23,16 @@ All of our code is well-documented and accompanied by concise README documents t
 
 You can read about our approach in greater detail below.
 
+
+## Jump to a section    
+
+* [Agile project management](#agile-project-mangement)  
+* [Test-driven Development](#test-driven-development)  
+* [Teamwork](#teamwork)  
+* [Training](#training)  
+* [Our Technology stack](#our-technology-stack)  
+
+
 ## Agile project mangement
 
 All our projects begin with a period of requirements gathering in which client needs are translated into a series of *user journeys*, *wireframes*, and testable *user stories* that define an application. Development usually proceeds in a series of two-week *sprints*, each involving a planning and review process in which short-term *sprint goals* are set and reviewed. We aim for *continuous delivery* to the client of testable features (*“user stories”*).   
@@ -35,9 +45,11 @@ Change requests are added to the *project backlog* by the product owner and inco
 
 We practise *test-driven development* (TDD) and *behaviour-driven development* (BDD), where product features, expressed as user stories, are turned into *acceptance tests*, i.e. automated software tests that demonstrate whether or not the application software actually behaves as expected, and these are written before any code is actually created. We use automated tools to maintain measures of code coverage (i.e. what proportion of the code is covered by an associated test) and to identify failing tests.  
 
-We practise *paired programming* to ensure that all developers involved in a project share a common approach to the codebase and create readable code.  We undertake *code reviews* where developers not involved in a project review the quality of the code being created by the development team.
+We deliver well-documented code, based around concise README documents, so that in years to come our code will be maintainable, either by us or by others, and that anyone returning to the codebase or looking at it with fresh eyes will be able to understand our original intent.  
 
-We deliver well-documented code, based around concise README documents, so that in years to come our code will be maintainable, either by us or by others, and that anyone returning to the codebase or looking at it with fresh eyes will be able to understand our original intent. 
+## Teamwork  
+
+We practise *paired programming* to ensure that all developers involved in a project share a common approach to the codebase and create readable code.  Because Founders & Coder is a co-operative, project teams are able to draw on the knowledge and experience of the wider agency: we undertake *code reviews* on all of our work, where developers not involved in a project assist the development team by reviewing the quality of the code being created.  
 
 ## Training
 
