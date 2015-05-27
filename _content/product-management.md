@@ -6,7 +6,7 @@ You are commissioning development work for Web and mobile and you want to get va
 
 ## What problem does this training solve?
 
-Developing a software product is expensive. It is very easy to spend a lot of money and still not get what you want. Even if you outsource the whole process, you&emdash;as the *product owner*&emdash;need to understand how the development process works in order to get the most out of it.
+Developing a software product is expensive. It is very easy to spend a lot of money and still not get what you want. Even if you outsource the whole process, you—as the *product owner*—need to understand how the development process works in order to get the most out of it.
 
 ## What does the training offer?
 
@@ -14,13 +14,13 @@ The training covers key aspects of product management, including *user experienc
 
 ## How does it work?
 
-The training consists of a full day of training and practice followed by a full week of continued communicating with your development team to deliver your *MVP*.
+The training consists of a full day of training and practice followed by a full week of continued communication with your development team to deliver your *MVP*.
 
 ## Day 1
 
 On Monday morning, you will be introduced to your development team and together you will receive a full day of training and practice in user experience design and agile project management.
 
-You will help in producing a series of *personas*, *user journeys*, *wireframes* and *user stories*. Then you will be introduced to *agile project management* using *Pivotal Tracker™*. 
+You will help in producing a series of *wireframes* and *user stories*. Then you will be introduced to *agile project management* using *Pivotal Tracker™*. 
 
 ## Days 2-4
 
