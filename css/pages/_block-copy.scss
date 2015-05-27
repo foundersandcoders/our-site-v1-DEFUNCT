@@ -1,0 +1,25 @@
+.section-copy {
+	background-color: #FFF;
+	padding-top: 30px;
+	padding-bottom: 50px;
+	.container {
+		max-width: 800px;
+		margin: auto;
+		padding: 15px;
+	}
+	h2, h3, p, ul, ol, {
+		margin-bottom: 15px;
+	}
+	h2 {
+		margin-top: 30px;
+	}
+}
+
+@media (max-width: $tablet) {
+	.section-copy {
+		padding-top: 20px;
+		h2, h3, p, ul, ol, {
+			margin-bottom: 10px;
+		}
+	}
+}
