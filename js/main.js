@@ -1,4 +1,4 @@
-function init() {
+function nav1() {
     window.addEventListener('scroll', function(e){
         var distanceY = window.pageYOffset || document.documentElement.scrollTop,
             navbar = document.getElementById("navbar");
@@ -12,7 +12,7 @@ function init() {
     });
 }
 
-function init2() {
+function nav2() {
     window.addEventListener('scroll', function(e){
         var distanceY = window.pageYOffset || document.documentElement.scrollTop,
             elements = document.getElementsByClassName('nav-dd');
@@ -27,40 +27,42 @@ function init2() {
                 for (var i=elements.length; i--;) {
                     elements[i].classList.remove("small-dd");
                 }
-
-            // elements.className = elements.className.replace(/(?:^|\s)small-dd(?!\S)/g ,'')
             }
         }
     });
 }
 
-function removeClass( classname, element ) {
-    var cn = element.className;
-    var rxp = new RegExp( "\\s?\\b"+classname+"\\b", "g" );
-    cn = cn.replace( rxp, '' );
-    element.className = cn;
+function nav_resize() {
+    nav1(); 
+    nav2();
 }
 
-function start() {
-    init();init2();
-
-}
-
-window.onload = start;
-
-function resize()	{
+function landing_resize() {
     var height = window.innerHeight;
-    var imgWidth = document.getElementById("img").offsetWidth;
     document.getElementById("section-landing").style.height = height-150 + "px";
+}
+
+function img_resize()	{
+    var imgWidth = document.getElementById("img").offsetWidth;
     var elements = document.getElementsByClassName('im');
     for (var i=elements.length; i--;) {
         elements[i].style.height = imgWidth*0.66 + "px";
     }
 }
-resize();
-window.onresize = function() {
-    resize();
-};
+
+function home_resize() {
+    if (window.location.pathname == '/') {
+        landing_resize();
+        window.onresize = function() {
+            img_resize();
+        };
+    }
+}
+
+window.onload = function() {
+    nav_resize();
+    home_resize();
+}
 
 function changeText(one, two){
     document.getElementById('client-name').style.opacity = 0;
