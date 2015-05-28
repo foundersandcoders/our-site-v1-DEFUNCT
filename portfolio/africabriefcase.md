@@ -11,6 +11,6 @@ After the production of meticulous wireframes and user stories, the project bega
 <!-- <img src="../assets/one.jpg"> -->
 
 ##Results
-A beautiful and effective platform for publishing data driven content to IC publications’ global audience. Easy to use, robust and highly maintainable. 
+A beautiful and effective platform for publishing data-driven content to IC publications’ global audience. Easy to use, robust and highly maintainable. 
 
 Founders and Coders are continuing to expand this platform as our clients’ needs develop.
