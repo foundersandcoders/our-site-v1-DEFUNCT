@@ -34,7 +34,7 @@ Each group is expected to review each others’ work on a daily basis and to pre
 
 Throughout our courses, we supplement the project-based learning with structured paired-programming exercises using a series of increasingly advanced challenges.  
 
-We introduce our students to CSS frameworks, like *Twitter Bootstrap*, front-end libraries, like *jQuery* and *React*, and application frameworks, like *Express* and *hapi*, by encouraging them to build there own versions of these libraries before actually using them, so as to better understand how they work, and when, why and how to use them.
+We introduce our students to CSS frameworks, like *Twitter Bootstrap*, front-end libraries, like *jQuery* and *React*, and application frameworks, like *Express* and *hapi*, by encouraging them to build their own versions of these libraries before actually using them, so as to better understand how they work, and when, why and how to use them.
 
 Students usually learn in groups of 4 and classes of 16. This ensures that all students get to know each other well and that the classroom can develop a cohesive group identity. Larger groups are accommodated by splitting each cohort into two or more classes.  
 
