@@ -1,7 +1,6 @@
 nav {
 	width: 100%;
 	height: 150px;
-	line-height: 150px;
 	padding: 0 25px;
 	position: fixed;
 	z-index: 1;
@@ -11,21 +10,61 @@ nav {
 	-ms-transition:height 0.3s line-height 0.3s;
 	-o-transition:height 0.3s line-height 0.3s;
 	transition:height 0.3s line-height 0.3s;
-	.center {
+	a {
+		width: 100px;
+		text-align: center;
+		height: 100%;
+	}
+	ul {
 		max-width: 600px;
 		margin: auto;
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-		a {
-			width: 100px;
-			text-align: center;
+	}
+	li {
+		display: inline;
+		list-style-type: none;
+		line-height: 150px;
+		-webkit-transition: line-height 0.3s;
+		-moz-transition: line-height 0.3s;
+		-ms-transition: line-height 0.3s;
+		-o-transition: line-height 0.3s;
+		transition: line-height 0.3s;
+		padding: 0 40px;
+		&:hover {
+			.nav-dd {
+				display: block;
+			}
 		}
 	}
+
+	// .nav-dd {
+	// 	li {
+	// 		line-height: 75px;
+	// 	}
+	// }
 	h3 {
 		display: inline;
 		letter-spacing: 2px;
 		font-family: "UG med";
+	}
+
+}
+
+@media (max-width: $tablet) {
+	nav {
+		li {
+			padding: 0 30px;
+		}
+	}
+}
+
+@media (max-width: $mobile) {
+	nav {
+		li {
+			padding: 0 15px;
+		}
 	}
 }
 
@@ -34,9 +73,55 @@ nav {
 	height: 150px;
 }
 
-.smaller {
-	height: 70px;
-	line-height: 70px;
+.nav-dd {
+	width: 100%;
+	top: 150px;
+	left: 0;
+	height: 150px;
+	line-height: 150px;
+	position: absolute;
+	display: none;
+	z-index: 100;
+	-webkit-transition:height 0.3s, line-height 0.3s, top 0.3s;
+	-moz-transition:height 0.3s line-height 0.3s, top 0.3s;
+	-ms-transition:height 0.3s line-height 0.3s, top 0.3s;
+	-o-transition:height 0.3s line-height 0.3s, top 0.3s;
+	transition:height 0.3s line-height 0.3s, top 0.3s;
+	ul {
+		max-width: 400px;
+	}
+	h3 {
+		color: $color-three;
+	}
+}
+
+.small-nav {
+	height: 75px;
+	li {
+		line-height: 75px;
+	}
+}
+
+.small-dd {
+	height: 75px;
+	line-height: 75px;
+	top: 75px;
+}
+
+.col-1 {
+	background-color: #333;
+}
+
+.col-2 {
+	background-color: $color-four;
+}
+
+.col-3 {
+	background-color: #333;
+}
+
+.col-4 {
+	background-color: $color-four;
 }
 
 .nav-2 {
