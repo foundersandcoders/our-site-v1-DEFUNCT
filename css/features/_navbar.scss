@@ -88,7 +88,11 @@ nav {
 	-o-transition:height 0.3s line-height 0.3s, top 0.3s;
 	transition:height 0.3s line-height 0.3s, top 0.3s;
 	ul {
-		max-width: 400px;
+		max-width: 500px;
+		padding: 0 50px;
+		li {
+			padding: 0;
+		}
 	}
 	h3 {
 		color: $color-three;
@@ -113,7 +117,7 @@ nav {
 }
 
 .col-2 {
-	background-color: $color-four;
+	background-color: #333;
 }
 
 .col-3 {
@@ -121,7 +125,7 @@ nav {
 }
 
 .col-4 {
-	background-color: $color-four;
+	background-color: #333;
 }
 
 .nav-2 {
