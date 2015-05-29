@@ -10,7 +10,7 @@ Developing a software product is expensive. It is very easy to spend a lot of mo
 
 ## What does the training offer?
 
-The training covers key aspects of product management, including *user experience design* and *agile project management*. What sets this training apart is that you will get to work with your own develpment team with whom you will develop a real-world protype of of your product.
+The training covers key aspects of product management, including *user experience design* and *agile project management*. What sets this training apart is that you will get to work with your own develpment team with whom you will develop a real-world protype of your product.
 
 ## How does it work?
 
