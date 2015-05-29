@@ -27,6 +27,11 @@
 	height: 120px;
 }
 
+#portfolio-anchor {
+  position: absolute;
+  margin-top: -70px;
+}
+
 .section-portfolio {
 	width: 100%;
 	position: relative;
@@ -102,6 +107,11 @@
 			padding-bottom: 0;
 		}
 	}
+}
+
+#services-anchor {
+  position: absolute;
+  margin-top: -70px;
 }
 
 .section-services {
