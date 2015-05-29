@@ -1,6 +1,6 @@
 # Training 
 
-Founders & Coders runs its hallmark training in Web development from its campus in Bethnal Green, but we also offer a variety of tailored courses, from single-day workshops to eight-week full-time bootcamps that can delivered anywhere.
+Founders & Coders runs our main training programme in Web development from our campus in Bethnal Green, but we also offer a variety of tailored courses, from single-day workshops to eight-week full-time bootcamps that can delivered anywhere.
 
 We have courses suitable for a variety of users, including:
 
