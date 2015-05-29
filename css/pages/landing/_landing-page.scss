@@ -6,7 +6,7 @@
 
 .section-landing {
 	@extend %section;
-	height: 500px;
+	height: 700px;
 	background-color: #707C80;
 	flex-direction: column;
 	* {
@@ -28,8 +28,7 @@
 }
 
 #portfolio-anchor {
-  position: absolute;
-  margin-top: -70px;
+  @extend %anchor
 }
 
 .section-portfolio {
@@ -110,8 +109,7 @@
 }
 
 #services-anchor {
-  position: absolute;
-  margin-top: -70px;
+  @extend %anchor
 }
 
 .section-services {
