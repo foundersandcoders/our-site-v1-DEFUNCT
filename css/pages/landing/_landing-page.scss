@@ -27,6 +27,11 @@
 	height: 120px;
 }
 
+#portfolio-anchor {
+  position: absolute;
+  margin-top: -70px;
+}
+
 .section-portfolio {
 	width: 100%;
 	position: relative;
@@ -104,6 +109,11 @@
 	}
 }
 
+#services-anchor {
+  position: absolute;
+  margin-top: -70px;
+}
+
 .section-services {
 	width: 100%;
 	position: relative;
@@ -154,7 +164,7 @@
 		padding-top: 45px;
 	}
 	.radio {
-		margin-top: 48px;
+		margin-top: 50px;
 	}
 }
 

@@ -4,40 +4,54 @@
 		<p>A digital agency based in London</p>
 	</div>
 
+	<div id="portfolio-anchor"></div>
 	<div id="portfolio" class="section-portfolio">
 		<h2>Portfolio</h2>
 		<%- partial("_partials/portfolio", { "link": "portfolio/africabriefcase", "name": "Project one", "company": "Company one", "imageStyle": "image-one" }) %>
 		<%- partial("_partials/portfolio", { "link": "portfolio/camdenmaps", "name": "Project two", "company": "Company two", "imageStyle": "image-two" }) %>
 		<%- partial("_partials/portfolio", { "link": "portfolio/null", "name": "Project three", "company": "Company three", "imageStyle": "image-three" }) %>
+		<%- partial("_partials/portfolio", { "link": "portfolio/null", "name": "Project four", "company": "Company four", "imageStyle": "image-three tablet-only" }) %>
 	</div>
 
-
+	<div id="services-anchor"></div>
 	<div id="services" class="section-services">
 		<ul class="container">
 			<h2>Services</h2>
 			<div class="grid-4">
-				<img src="assets/icons/application.png">
-				<p>Web Application Development</p>
+				<a href="services/application-development">
+					<img src="assets/icons/application.png">
+					<p>Web Application Development</p>
+				</a>
 			</div>
 			<div class="grid-4">
-				<img src="assets/icons/training.png">
-				<p>Training</p>
+				<a href="services/training">
+					<img src="assets/icons/training.png">
+					<p>Training</p>
+				</a>
 			</div>
 			<div class="grid-4">
-				<img src="assets/icons/content.png">
-				<p>Content Management</p>
+				<a href="services/content-management">
+					<img src="assets/icons/content.png">
+					<p>Content Management</p>
+				</a>
 			</div>
 			<div class="grid-4">
-				<img src="assets/icons/proto.png">
-				<p>Prototyping</p>
+				<a href="services/prototyping">				
+					<img src="assets/icons/proto.png">
+					<p>Prototyping</p>
+				</a>
 			</div>	
 			<div class="grid-4">
-				<img src="assets/icons/mobile.png">
-				<p>Mobile Development</p>
+				<a href="services/mobile-development">				
+					<img src="assets/icons/mobile.png">
+					<p>Mobile Development</p>
+				</a>
 			</div>	
 			<div class="grid-4">
-				<img src="assets/icons/responsive.png">
-				<p>Responsive Web Design</p>
+				<a href="services/responsive-web-design">				
+					<img src="assets/icons/responsive.png">
+					<p>Responsive Web Design</p>
+				</a>
 			</div>	
 		</li>
 		</ul>
@@ -60,10 +74,10 @@
 
 
 	<div class="section-client-quotes">
-		<h3 id="client-name">Happy Client</h3> 
-		<p id="client-quote">"consectetur adipiscing elit. Suspendisse imperdiet sit amet sapien eu ultrices."</p>
+		<h3 id="client-name">Tom Humphreys, CEO Muduno</h3> 
+		<p id="client-quote">"Founders & Coders have been a game-changing resource for our business"</p>
 		<div class="radio">
-			<input id="client-one" type="radio" name="client" onclick='changeText("Happy Client", "consectetur adipiscing elit. Suspendisse imperdiet sit amet sapien eu ultrices.")' checked>
+			<input id="client-one" type="radio" name="client" onclick='changeText("Tom Humphreys, CEO Muduno", "\"Founders & Coders have been a game-changing resource for our business\"")' checked>
 	   		<label for="client-one"></label>
 	    	<input id="client-two" type="radio" name="client" onclick='changeText("Duis finibus", "Nullam rutrum quam ex. ")'>
 	    	<label for="client-two"></label>
