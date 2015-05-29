@@ -18,6 +18,24 @@
 	}
 }
 
+.tablet-only {
+	display: none;
+}
+
+@media (max-width: 1000px) {
+	.tablet-only {
+		display: block;
+	}
+}
+
+@media (max-width: 400px) {
+	.tablet-only {
+		display: none;
+	}
+}
+
+
+
 .desaturate{
   -webkit-filter: grayscale(1);
   -webkit-filter: grayscale(100%);
