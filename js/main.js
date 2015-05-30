@@ -12,7 +12,7 @@ var fac = (function (){
     
     var navbar_animation = {
         /**
-         *  Main navabr  
+         *  Navbar  
          *
          */
         navbar: function () {
@@ -20,10 +20,10 @@ var fac = (function (){
                 var distanceY = window.pageYOffset || document.documentElement.scrollTop,
                     navbar = document.getElementById("navbar");
                 if (distanceY > 300) {
-                    navbar.className += " small-nav";
+                    navbar.classList.add("small-nav");
                 } else {
                     if(navbar.className.match(/(?:^|\s)small-nav(?!\S)/)) {
-                    navbar.className = navbar.className.replace(/(?:^|\s)small-nav(?!\S)/g ,'')
+                    navbar.classList.remove("small-nav");
                     }
                 }
             });
@@ -43,7 +43,6 @@ var fac = (function (){
                 } 
                 else {
                     if(elements[0].className.match(/(?:^|\s)small-dd(?!\S)/)) {
-
                         for (var i=elements.length; i--;) {
                             elements[i].classList.remove("small-dd");
                         }
@@ -57,11 +56,20 @@ var fac = (function (){
         navbar_animation.navbar(); 
         navbar_animation.nav_dropdown();
     }
+    /**
+     *  Landing page section hight to match window height.
+     *
+     */    
 
     function landing_resize() {
         var height = window.innerHeight;
         document.getElementById("section-landing").style.height = height-150 + "px";
     }
+
+    /**
+     *  Consistent aspect ration for portfolio images
+     *
+     */  
 
     function img_resize()	{
         var imgWidth = document.getElementById("img").offsetWidth;
@@ -86,7 +94,7 @@ var fac = (function (){
     }
 
     /**
-     *
+     * Changes the text for the client quotes on the landing page
      *
      */
     function changeText(nameText, quoteText){
@@ -103,17 +111,6 @@ var fac = (function (){
             client_quote.style.opacity = 1;
         }, 1000);
     }
-
-    // function go(x) {
-    //     var pos = document.getElementById(x).getBoundingClientRect();
-    //     window.scroll(0, pos.top);
-    // }
-
-    // function sc(){
-    //     var element = document.getElementById("portfolio");
-    //     element.scrollIntoView();
-    // }
-
 
     function currentYPosition() {
         if (self.pageYOffset) return self.pageYOffset;
@@ -134,7 +131,7 @@ var fac = (function (){
     }
 
     /**
-     *
+     * Scroll section into view.
      *
      */
     function smoothScroll (eID) {
@@ -162,8 +159,9 @@ var fac = (function (){
     }
 
     /**
-     *  Get the user to the specific section,
-     *  even if this is in another page.
+     *  Get the user to the specific section. Scrolls to section 
+     *  if already on the correct page. Navigates directly to content
+     *  if navigating between pages.
      *
      *  @param {String} - path to the page where
      *                    where section is
@@ -184,7 +182,4 @@ var fac = (function (){
      *  public methods
      */
     return reveal;
-    
-    // alternatively location = page + special: anchor
-    // onload smoothScroll(anchor)
 }());
