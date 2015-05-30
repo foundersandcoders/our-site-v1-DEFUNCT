@@ -9,12 +9,12 @@ var fac = (function (){
         nav_scroll: nav_scroll
     };
     
-    var navbarObj = {
+    var navbar_animation = {
         /**
          *  Main navabr  
          *
          */
-        nav1: function () {
+        navbar: function () {
             window.addEventListener('scroll', function(e){
                 var distanceY = window.pageYOffset || document.documentElement.scrollTop,
                     navbar = document.getElementById("navbar");
@@ -31,7 +31,7 @@ var fac = (function (){
          *  Dropdown menu  
          *
          */
-        nav2: function () {
+        nav_dropdown: function () {
             window.addEventListener('scroll', function(e){
                 var distanceY = window.pageYOffset || document.documentElement.scrollTop,
                     elements = document.getElementsByClassName('nav-dd');
@@ -52,11 +52,9 @@ var fac = (function (){
         }
     };
 
-
-
     function nav_resize() {
-        navbarObj.nav1(); 
-        navbarObj.nav2();
+        navbar_animation.navbar(); 
+        navbar_animation.nav_dropdown();
     }
 
     function landing_resize() {
@@ -97,15 +95,15 @@ var fac = (function (){
         }, 1000);    
     }
 
-    function go(x) {
-        var pos = document.getElementById(x).getBoundingClientRect();
-        window.scroll(0, pos.top);
-    }
+    // function go(x) {
+    //     var pos = document.getElementById(x).getBoundingClientRect();
+    //     window.scroll(0, pos.top);
+    // }
 
-    function sc(){
-        var element = document.getElementById("portfolio");
-        element.scrollIntoView();
-    }
+    // function sc(){
+    //     var element = document.getElementById("portfolio");
+    //     element.scrollIntoView();
+    // }
 
 
     function currentYPosition() {
