@@ -6,7 +6,8 @@ var fac = (function (){
      *  when the function is invoked
      */
     var reveal = {
-        nav_scroll: nav_scroll
+        nav_scroll: nav_scroll,
+        changeText: changeText
     };
     
     var navbar_animation = {
@@ -84,15 +85,23 @@ var fac = (function (){
         home_resize();
     }
 
-    function changeText(one, two){
-        document.getElementById('client-name').style.opacity = 0;
-        document.getElementById('client-quote').style.opacity = 0;
+    /**
+     *
+     *
+     */
+    function changeText(nameText, quoteText){
+
+        var client_name  = document.getElementById('client-name');
+        var client_quote = document.getElementById('client-quote');
+
+        client_name.style.opacity = 0;
+        client_quote.style.opacity = 0;
         timeout = setTimeout(function(thing) {
-            document.getElementById("client-name").innerHTML = one;
-            document.getElementById('client-quote').innerHTML = two;
-            document.getElementById('client-name').style.opacity = 1;
-            document.getElementById('client-quote').style.opacity = 1;
-        }, 1000);    
+            client_name.innerHTML = nameText;
+            client_quote.innerHTML = quoteText;
+            client_name.style.opacity = 1;
+            client_quote.style.opacity = 1;
+        }, 1000);
     }
 
     // function go(x) {
