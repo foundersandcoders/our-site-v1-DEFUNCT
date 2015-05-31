@@ -1,3 +1,48 @@
+//TODO: Refactor
+//Priorities landing resize?
+
+function toggleHandler(toggle) {
+  var iconplease = document.getElementById("cmn-toggle-switch");
+  (iconplease.classList.contains("active") === true) ? iconplease.classList.remove("active") : iconplease.classList.add("active");
+}
+
+var dropdown      = document.querySelectorAll('.dropdownToggle');
+var dropdownArray = Array.prototype.slice.call(dropdown,0);
+
+dropdownArray.forEach(function (dropdown){
+  var button = dropdown.querySelector('a[data-toggle="dropdown"]');
+  var menu   = dropdown.querySelector('.nav-settings-dropdown') || dropdown.querySelector('.dropdown-menu');
+
+  var wait = false;
+
+  window.onclick = function (event){
+    wait = !wait;
+    if(menu.hasClass('show') && wait){
+      menu.classList.remove('show');
+      menu.classList.add('hide');
+      toggleHandler();
+    }
+  };
+
+  button.onclick = function(event) {
+    wait = true;
+    if(!menu.hasClass('show')) {
+      menu.classList.add('show');
+      menu.classList.remove('hide');
+      toggleHandler();
+    }else{
+      menu.classList.remove('show');
+      menu.classList.add('hide');
+      toggleHandler();
+    };
+  };
+});
+
+Element.prototype.hasClass = function(className) {
+  var a = this.className && new RegExp("(^|\\s)" + className + "(\\s|$)").test(this.className);
+  return a;
+};
+
 /**
  *  Animation/style-related
  *
@@ -19,13 +64,19 @@ var fac = (function (){
          */
         navbar: function () {
             window.addEventListener('scroll', function(e){
-                var distanceY = window.pageYOffset || document.documentElement.scrollTop,
-                    navbar = document.getElementById("navbar");
+                var distanceY = window.pageYOffset || document.documentElement.scrollTop;
+                var navbar = document.getElementById("navbar");
+                var icon = document.getElementById("cmn-toggle-switch");
+                var navTablet = document.getElementById("nav-dd-tablet");
                 if (distanceY > 300) {
                     navbar.classList.add("small-nav");
+                    navTablet.classList.add("small-dd-tabet");
+                    icon.classList.add("small-icon");
                 } else {
                     if(navbar.className.match(/(?:^|\s)small-nav(?!\S)/)) {
                     navbar.classList.remove("small-nav");
+                    navTablet.classList.remove("small-dd-tabet");
+                    icon.classList.remove("small-icon");
                     }
                 }
             });
@@ -161,14 +212,21 @@ var fac = (function (){
      *  @param {String} - id of the section
      */
     function nav_scroll(page, anchor) {
-        if (window.location.pathname != page) {
-            location = page+'#'+anchor
+        if(anchor) {
+          if (window.location.pathname != page) {
+              location = page+'#'+anchor
+          }
+          // stop page scrolling before load
+          setTimeout(function() {
+              smoothScroll(anchor);
+          }, 1);
         }
-        // stop page scrolling before load
-        setTimeout(function() {
-            smoothScroll(anchor);
-        }, 1);
-    }
+        if(!anchor) {
+          if (window.location.pathname != page) {
+              location = page+'#'
+          }
+        }
+      }
     /**
      *  Returns object with the
      *  public methods
