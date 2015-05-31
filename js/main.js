@@ -1,5 +1,53 @@
-var fac = (function (){
+//TODO: Refactor
+//Priorities landing resize?
 
+function toggleHandler(toggle) {
+  var iconplease = document.getElementById("cmn-toggle-switch");
+  (iconplease.classList.contains("active") === true) ? iconplease.classList.remove("active") : iconplease.classList.add("active");
+}
+
+var dropdown      = document.querySelectorAll('.dropdownToggle');
+var dropdownArray = Array.prototype.slice.call(dropdown,0);
+
+dropdownArray.forEach(function (dropdown){
+  var button = dropdown.querySelector('a[data-toggle="dropdown"]');
+  var menu   = dropdown.querySelector('.nav-settings-dropdown') || dropdown.querySelector('.dropdown-menu');
+
+  var wait = false;
+
+  window.onclick = function (event){
+    wait = !wait;
+    if(menu.hasClass('show') && wait){
+      menu.classList.remove('show');
+      menu.classList.add('hide');
+      toggleHandler();
+    }
+  };
+
+  button.onclick = function(event) {
+    wait = true;
+    if(!menu.hasClass('show')) {
+      menu.classList.add('show');
+      menu.classList.remove('hide');
+      toggleHandler();
+    }else{
+      menu.classList.remove('show');
+      menu.classList.add('hide');
+      toggleHandler();
+    };
+  };
+});
+
+Element.prototype.hasClass = function(className) {
+  var a = this.className && new RegExp("(^|\\s)" + className + "(\\s|$)").test(this.className);
+  return a;
+};
+
+/**
+ *  Animation/style-related
+ *
+ */
+var fac = (function (){
     /**
      *  Reveal object with public
      *  methods to be returned
@@ -9,7 +57,6 @@ var fac = (function (){
         nav_scroll: nav_scroll,
         changeText: changeText
     };
-    
     var navbar_animation = {
         /**
          *  Navbar  
@@ -17,13 +64,19 @@ var fac = (function (){
          */
         navbar: function () {
             window.addEventListener('scroll', function(e){
-                var distanceY = window.pageYOffset || document.documentElement.scrollTop,
-                    navbar = document.getElementById("navbar");
+                var distanceY = window.pageYOffset || document.documentElement.scrollTop;
+                var navbar = document.getElementById("navbar");
+                var icon = document.getElementById("cmn-toggle-switch");
+                var navTablet = document.getElementById("nav-dd-tablet");
                 if (distanceY > 300) {
                     navbar.classList.add("small-nav");
+                    navTablet.classList.add("small-dd-tabet");
+                    icon.classList.add("small-icon");
                 } else {
                     if(navbar.className.match(/(?:^|\s)small-nav(?!\S)/)) {
                     navbar.classList.remove("small-nav");
+                    navTablet.classList.remove("small-dd-tabet");
+                    icon.classList.remove("small-icon");
                     }
                 }
             });
@@ -60,17 +113,14 @@ var fac = (function (){
      *  Landing page section hight to match window height.
      *
      */    
-
     function landing_resize() {
         var height = window.innerHeight;
         document.getElementById("section-landing").style.height = height-150 + "px";
     }
-
     /**
      *  Consistent aspect ration for portfolio images
      *
      */  
-
     function img_resize()	{
         var imgWidth = document.getElementById("img").offsetWidth;
         var elements = document.getElementsByClassName('im');
@@ -78,7 +128,6 @@ var fac = (function (){
             elements[i].style.height = imgWidth*0.66 + "px";
         }
     }
-
     function home_resize() {
         if (window.location.pathname == '/') {
             landing_resize();
@@ -87,12 +136,10 @@ var fac = (function (){
             };
         }
     }
-
     window.onload = function() {
         nav_resize();
         home_resize();
     }
-
     /**
      * Changes the text for the client quotes on the landing page
      *
@@ -111,7 +158,6 @@ var fac = (function (){
             client_quote.style.opacity = 1;
         }, 1000);
     }
-
     function currentYPosition() {
         if (self.pageYOffset) return self.pageYOffset;
         if (document.documentElement && document.documentElement.scrollTop)
@@ -129,7 +175,6 @@ var fac = (function (){
             y += node.offsetTop;
         } return y;
     }
-
     /**
      * Scroll section into view.
      *
@@ -157,7 +202,6 @@ var fac = (function (){
             leapY -= step; if (leapY < stopY) leapY = stopY; timer++;
         }
     }
-
     /**
      *  Get the user to the specific section. Scrolls to section 
      *  if already on the correct page. Navigates directly to content
@@ -168,17 +212,74 @@ var fac = (function (){
      *  @param {String} - id of the section
      */
     function nav_scroll(page, anchor) {
-        if (window.location.pathname != page) {
-            location = page+'#'+anchor
+        if(anchor) {
+          if (window.location.pathname != page) {
+              location = page+'#'+anchor
+          }
+          // stop page scrolling before load
+          setTimeout(function() {
+              smoothScroll(anchor);
+          }, 1);
         }
-        // stop page scrolling before load
-        setTimeout(function() {
-            smoothScroll(anchor);
-        }, 1);
-    }
-
+        if(!anchor) {
+          if (window.location.pathname != page) {
+              location = page+'#'
+          }
+        }
+      }
     /**
-     *  Returns the object with the
+     *  Returns object with the
+     *  public methods
+     */
+    return reveal;
+}());
+
+
+/**
+ *  Contact form
+ *  
+ */
+var contact_form = (function (){
+    var reveal = {
+        sendMail:sendMail
+    };
+    /**
+     *  Constructs the email for Mandrill
+     *  which we will recieve
+     */
+    function createParams(name, email, message, location) { 
+        var params = {
+            "message": {
+                "from_email":email,
+                "to":[{"email":"contact@foundersandcoders.org"}],
+                "subject": name + " from " + location,
+                "text": message
+            }
+        };
+        return params;
+    };
+    /**
+     *  TODO
+     *  
+     */
+    m = new mandrill.Mandrill('J23eakjghP54ii1jfviYfg');
+     /**
+     *  Send params with input value
+     *  from contact form to Madrill
+     */
+    function sendMail() {
+        var contactName = document.getElementById("contact-form-name").value;
+        var contactEmail = document.getElementById("contact-form-email").value;
+        var contactMessage = document.getElementById("contact-form-message").value;
+        var pathName = window.location.pathname;
+        m.messages.send(createParams(contactName, contactEmail, contactMessage, pathName), function(res) {
+            alert('Your message has been sent. Thank you!')
+        }, function(err) {
+            alert('Error sending message.');
+        });
+    }
+    /**
+     *  Returns object with the
      *  public methods
      */
     return reveal;
