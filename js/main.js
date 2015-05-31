@@ -215,9 +215,9 @@ var contact_form = (function (){
         var contactMessage = document.getElementById("contact-form-message").value;
         var pathName = window.location.pathname;
         m.messages.send(createParams(contactName, contactEmail, contactMessage, pathName), function(res) {
-            console.log(contactName, contactEmail, contactMessage, pathName);
+            alert('Your message has been sent. Thank you!')
         }, function(err) {
-            console.log(err);
+            alert('Error sending message.');
         });
     }
     /**
