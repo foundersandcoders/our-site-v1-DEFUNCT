@@ -10,46 +10,41 @@ nav {
 	-ms-transition:height 0.3s line-height 0.3s;
 	-o-transition:height 0.3s line-height 0.3s;
 	transition:height 0.3s line-height 0.3s;
-	a {
-		width: 100px;
-		text-align: center;
-		height: 100%;
-	}
-	ul {
-		max-width: 600px;
-		margin: auto;
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
-	}
-	li {
-		display: inline;
-		list-style-type: none;
-		line-height: 150px;
-		-webkit-transition: line-height 0.3s;
-		-moz-transition: line-height 0.3s;
-		-ms-transition: line-height 0.3s;
-		-o-transition: line-height 0.3s;
-		transition: line-height 0.3s;
-		padding: 0 40px;
-		&:hover {
-			.nav-dd {
-				display: block;
+	.desktop-only {
+		a {
+			width: 100px;
+			text-align: center;
+			height: 100%;
+		}
+		ul {
+			max-width: 600px;
+			margin: auto;
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+		}
+		li {
+			display: inline;
+			list-style-type: none;
+			line-height: 150px;
+			-webkit-transition: line-height 0.3s;
+			-moz-transition: line-height 0.3s;
+			-ms-transition: line-height 0.3s;
+			-o-transition: line-height 0.3s;
+			transition: line-height 0.3s;
+			padding: 0 40px;
+			&:hover {
+				.nav-dd {
+					display: block;
+				}
 			}
 		}
+		h3 {
+			display: inline;
+			letter-spacing: 2px;
+			font-family: "UG med";
+		}
 	}
-
-	// .nav-dd {
-	// 	li {
-	// 		line-height: 75px;
-	// 	}
-	// }
-	h3 {
-		display: inline;
-		letter-spacing: 2px;
-		font-family: "UG med";
-	}
-
 }
 
 @media (max-width: $tablet) {
@@ -87,6 +82,7 @@ nav {
 	-ms-transition:height 0.3s line-height 0.3s, top 0.3s;
 	-o-transition:height 0.3s line-height 0.3s, top 0.3s;
 	transition:height 0.3s line-height 0.3s, top 0.3s;
+	background-color: #333;
 	ul {
 		max-width: 500px;
 		padding: 0 50px;
@@ -99,10 +95,73 @@ nav {
 	}
 }
 
+.tablet-mobile-navigation {
+	.icon {
+		float: right;
+		margin-top: 54px;
+		-webkit-transition:height 0.3s, margin-top 0.3s, top 0.3s;
+		-moz-transition:height 0.3s margin-top 0.3s, top 0.3s;
+		-ms-transition:height 0.3s margin-top 0.3s, top 0.3s;
+		-o-transition:height 0.3s margin-top 0.3s, top 0.3s;
+		transition:height 0.3s margin-top 0.3s, top 0.3s;
+	}
+	.small-icon {
+		margin-top: 19px;
+	}
+	.container {
+		width: 100%;
+		top: 150px;
+		left: 0;
+		height: 150px;
+		line-height: 150px;
+		position: absolute;
+		// display: none;
+		z-index: 100;
+		-webkit-transition:height 0.3s, line-height 0.3s, top 0.3s;
+		-moz-transition:height 0.3s line-height 0.3s, top 0.3s;
+		-ms-transition:height 0.3s line-height 0.3s, top 0.3s;
+		-o-transition:height 0.3s line-height 0.3s, top 0.3s;
+		transition:height 0.3s line-height 0.3s, top 0.3s;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		background-color: #333;
+		padding: 0 15px;
+		ul {
+			height: 100px;
+
+			flex-direction: column;
+		}
+		li {
+			list-style-type: none;
+		}
+		h3 {
+			color: $color-three;
+			font-family: 'UG thin';
+			line-height: 25px;
+		}
+	}
+	.small-dd-tabet {
+		top: 75px;
+	}
+	.nav-settings-dropdown {
+		display: none;
+	}
+	.show {
+		display: initial;
+	}
+
+	.hide {
+		display: none;
+	}
+}
+
 .small-nav {
 	height: 75px;
-	li {
-		line-height: 75px;
+	.desktop-only {
+		li {
+			line-height: 75px;
+		}
 	}
 }
 
@@ -110,22 +169,6 @@ nav {
 	height: 75px;
 	line-height: 75px;
 	top: 75px;
-}
-
-.col-1 {
-	background-color: #333;
-}
-
-.col-2 {
-	background-color: #333;
-}
-
-.col-3 {
-	background-color: #333;
-}
-
-.col-4 {
-	background-color: #333;
 }
 
 .nav-2 {
