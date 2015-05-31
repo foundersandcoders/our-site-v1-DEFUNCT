@@ -193,7 +193,7 @@ var contact_form = (function (){
         var params = {
             "message": {
                 "from_email":email,
-                "to":[{"email":"izaakrogan@googlemail.com"}],
+                "to":[{"email":"contact@foundersandcoders.org"}],
                 "subject": name + " from " + location,
                 "text": message
             }
