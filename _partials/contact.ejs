@@ -1,3 +1,5 @@
+<script type="text/javascript" src="https://mandrillapp.com/api/docs/js/mandrill.js"></script>
+
 <div id="contact-anchor"></div>
 <div class="contact">
 	<div class="container">
@@ -9,11 +11,12 @@
 		</div>
 		<div class="grid-6">
 			<div class="form" method="post">
-				<form method="post" target="_blank">
-					<input type="text" placeholder="Name" class="input-one">
-					<input type="email" placeholder="Email" class="input-one">
-					<textarea type="text" placeholder="Message"></textarea>
-					<button class="button-one" type"submit">Send</button>
+				<form method="post">
+					<input id="contact-form-name" name="contact-form-name" type="text" placeholder="Name" class="input-one">
+					<input id="contact-form-email" type="email" placeholder="Email" class="input-one">
+					<textarea id="contact-form-message" type="text" placeholder="Message"></textarea>
+					<button onclick="contact_form.sendMail(); return false;" class="button-one" type"submit">Send</button>
+					<pre id="response"></pre>
 				</form>
 			</div>
 		</div>
