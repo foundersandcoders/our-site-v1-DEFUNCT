@@ -99,6 +99,7 @@ nav {
 	.icon {
 		float: right;
 		margin-top: 54px;
+		margin-right: 5px;
 		-webkit-transition:height 0.3s, margin-top 0.3s, top 0.3s;
 		-moz-transition:height 0.3s margin-top 0.3s, top 0.3s;
 		-ms-transition:height 0.3s margin-top 0.3s, top 0.3s;
@@ -112,7 +113,7 @@ nav {
 		width: 100%;
 		top: 150px;
 		left: 0;
-		height: 150px;
+		height: 190px;
 		line-height: 150px;
 		position: absolute;
 		// display: none;
@@ -128,7 +129,7 @@ nav {
 		background-color: #333;
 		padding: 0 15px;
 		ul {
-			height: 100px;
+			height: 127px;
 
 			flex-direction: column;
 		}
@@ -138,7 +139,7 @@ nav {
 		h3 {
 			color: $color-three;
 			font-family: 'UG thin';
-			line-height: 25px;
+			line-height: 32px;
 		}
 	}
 	.small-dd-tabet {
@@ -153,6 +154,20 @@ nav {
 
 	.hide {
 		display: none;
+	}
+}
+
+@media (max-width: $mobile) {
+	.tablet-mobile-navigation {
+		.container {
+			height: 150px;
+			ul {
+				height: 100px;
+			}
+			h3 {
+				line-height: 25px;
+			}
+		}
 	}
 }
 
