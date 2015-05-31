@@ -1,5 +1,8 @@
+/**
+ *  Animation/style-related
+ *
+ */
 var fac = (function (){
-
     /**
      *  Reveal object with public
      *  methods to be returned
@@ -9,7 +12,6 @@ var fac = (function (){
         nav_scroll: nav_scroll,
         changeText: changeText
     };
-    
     var navbar_animation = {
         /**
          *  Navbar  
@@ -60,17 +62,14 @@ var fac = (function (){
      *  Landing page section hight to match window height.
      *
      */    
-
     function landing_resize() {
         var height = window.innerHeight;
         document.getElementById("section-landing").style.height = height-150 + "px";
     }
-
     /**
      *  Consistent aspect ration for portfolio images
      *
      */  
-
     function img_resize()	{
         var imgWidth = document.getElementById("img").offsetWidth;
         var elements = document.getElementsByClassName('im');
@@ -78,7 +77,6 @@ var fac = (function (){
             elements[i].style.height = imgWidth*0.66 + "px";
         }
     }
-
     function home_resize() {
         if (window.location.pathname == '/') {
             landing_resize();
@@ -87,12 +85,10 @@ var fac = (function (){
             };
         }
     }
-
     window.onload = function() {
         nav_resize();
         home_resize();
     }
-
     /**
      * Changes the text for the client quotes on the landing page
      *
@@ -111,7 +107,6 @@ var fac = (function (){
             client_quote.style.opacity = 1;
         }, 1000);
     }
-
     function currentYPosition() {
         if (self.pageYOffset) return self.pageYOffset;
         if (document.documentElement && document.documentElement.scrollTop)
@@ -129,7 +124,6 @@ var fac = (function (){
             y += node.offsetTop;
         } return y;
     }
-
     /**
      * Scroll section into view.
      *
@@ -157,7 +151,6 @@ var fac = (function (){
             leapY -= step; if (leapY < stopY) leapY = stopY; timer++;
         }
     }
-
     /**
      *  Get the user to the specific section. Scrolls to section 
      *  if already on the correct page. Navigates directly to content
@@ -176,9 +169,59 @@ var fac = (function (){
             smoothScroll(anchor);
         }, 1);
     }
-
     /**
-     *  Returns the object with the
+     *  Returns object with the
+     *  public methods
+     */
+    return reveal;
+}());
+
+
+/**
+ *  Contact form
+ *  
+ */
+var contact_form = (function (){
+    var reveal = {
+        sendMail:sendMail
+    };
+    /**
+     *  Constructs the email for Mandrill
+     *  which we will recieve
+     */
+    function createParams(name, email, message, location) { 
+        var params = {
+            "message": {
+                "from_email":email,
+                "to":[{"email":"izaakrogan@googlemail.com"}],
+                "subject": name + " from " + location,
+                "text": message
+            }
+        };
+        return params;
+    };
+    /**
+     *  TODO
+     *  
+     */
+    m = new mandrill.Mandrill('J23eakjghP54ii1jfviYfg');
+     /**
+     *  Send params with input value
+     *  from contact form to Madrill
+     */
+    function sendMail() {
+        var contactName = document.getElementById("contact-form-name").value;
+        var contactEmail = document.getElementById("contact-form-email").value;
+        var contactMessage = document.getElementById("contact-form-message").value;
+        var pathName = window.location.pathname;
+        m.messages.send(createParams(contactName, contactEmail, contactMessage, pathName), function(res) {
+            console.log(contactName, contactEmail, contactMessage, pathName);
+        }, function(err) {
+            console.log(err);
+        });
+    }
+    /**
+     *  Returns object with the
      *  public methods
      */
     return reveal;
