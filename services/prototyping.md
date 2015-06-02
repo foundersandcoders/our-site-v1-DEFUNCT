@@ -4,7 +4,7 @@
 
 + **A startup looking to create an [MVP](http://en.wikipedia.org/wiki/Minimum_viable_product)?**
 + **A business looking to test out a new idea?**
-+ **A commissioning organisation looking to increase in-house expertise?**
++ **An employer looking to recruit developers?** 
 
 ## What you receive
 
