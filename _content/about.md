@@ -18,3 +18,8 @@ Ines is a director of *Founders & Coders C.I.C.*, project manager, developer and
 
 **Nelson Correia**    
 Nelson is our lead technical mentor. He has previously led development teams at *Thomas Cook*, *Pearson* and *Groupon* and has been an IT consultant at *Deloitte*.
+
+[ pics of members ]
+
+
+
