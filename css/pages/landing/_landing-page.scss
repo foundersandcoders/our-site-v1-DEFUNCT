@@ -1,8 +1,9 @@
 .home {
-	* {
+	h2 {
 		font-family: 'UG thin';
 	}
 }
+
 
 .section-landing {
 	@extend %section;
@@ -46,10 +47,10 @@
 		padding: 20px;
 	}
 	.image-one {
-		background-image: url("/assets/three.jpg");
+		background-image: url("/assets/abc.jpg");
 	}
 	.image-two {
-		background-image: url("/assets/three.jpg");		
+		background-image: url("/assets/africaneye.jpg");		
 	}
 	.image-three {
 		background-image: url("/assets/three.jpg");	
@@ -155,8 +156,11 @@
 	text-align: center;
 	padding-left: 15px;
 	padding-right: 15px;
+	// * {
+	// 	font-family: "UG thin";
+	// }
 	* {
-		font-family: "UG thin";
+		font-family: "UG thin"
 	}
 	p {
 		padding-top: 45px;

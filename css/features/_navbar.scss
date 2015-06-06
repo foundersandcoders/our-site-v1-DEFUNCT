@@ -10,6 +10,9 @@ nav {
 	-ms-transition:height 0.3s line-height 0.3s;
 	-o-transition:height 0.3s line-height 0.3s;
 	transition:height 0.3s line-height 0.3s;
+	h3 {
+		cursor: pointer;
+	}
 	.desktop-only {
 		a {
 			width: 100px;
@@ -99,7 +102,6 @@ nav {
 	.icon {
 		float: right;
 		margin-top: 54px;
-		margin-right: 5px;
 		-webkit-transition:height 0.3s, margin-top 0.3s, top 0.3s;
 		-moz-transition:height 0.3s margin-top 0.3s, top 0.3s;
 		-ms-transition:height 0.3s margin-top 0.3s, top 0.3s;
@@ -138,7 +140,7 @@ nav {
 		}
 		h3 {
 			color: $color-three;
-			font-family: 'UG thin';
+			font-family: 'UG med';
 			line-height: 32px;
 		}
 	}
