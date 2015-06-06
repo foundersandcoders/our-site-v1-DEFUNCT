@@ -1,6 +1,6 @@
 #Africaneye
 
-Africaneye is a service-orientated responsive web application.
+Africaneye is a service-orientated responsive web application, built using Sails and Angular.
 
 <p class="center"><img class="abc-desktop" src="../assets/africaneye-laptop.jpg"></p>
 
