@@ -1,7 +1,3 @@
-## The programme
-
-Founders & Coders runs what is probably the most challenging course of its kind in the UK: An eight-week, full-time foundation course in software development for the Web, followed by a further eight weeks [building a portfolio](/mvp) and then the possibility of an apprenticeship as a member of the Founders & Coders freelance co-operative.
-
 ## The next course
 
 We are now taking applications for the course starting on September 14th, based at our campus in London's East End.
@@ -77,6 +73,8 @@ Learn to touch type. And make sure that you know not just the main letter keys, 
 ### Reading
 
 We like [**Eloquent JavaScript**](http://eloquentjavascript.net/). It is available free online and includes a number of embedded code snippets that you can edit and run as you read.
+
+We just keep coming back to [**JavaScript: The Good Parts**](http://it-ebooks.info/book/274/). Keep it by your bedside. Go to sleep each night dreaming in JavaScript.
 
 [**Steve Yegge's Google platforms rant**](https://plus.google.com/+RipRowan/posts/eVeouesvaVX). *"Amazon does everything wrong, and Google does everything right...But there's one thing they do really really well that pretty much makes up for ALL of their political, philosophical and technical screw-ups"*.
 
