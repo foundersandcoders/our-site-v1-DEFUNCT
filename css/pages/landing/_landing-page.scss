@@ -54,6 +54,9 @@
 	.image-three {
 		background-image: url("/assets/map-portfolio.jpg");	
 	}
+	.image-four {
+		background-image: url("/assets/chichester-harbour.jpg");	
+	}
 	.im {
 		background-color: $color-two;
 		position: relative;
@@ -109,6 +112,10 @@
 }
 
 #services-anchor {
+  @extend %anchor
+}
+
+#faq-anchor {
   @extend %anchor
 }
 

@@ -1,0 +1,12 @@
+#about-anchor {
+  @extend %anchor;
+  margin-top: -100px;
+}
+
+#faq-anchor {
+  @extend %anchor;
+}
+
+#apply-anchor {
+  @extend %anchor;
+}
