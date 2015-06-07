@@ -1,6 +1,6 @@
-#Content Managemnent
+# Content Management
 
-We develope bespoke content management systems for all types of digital content.
+We develop bespoke content management systems for all types of digital content, including editorial systems for journalistic content and image management systems.
 
 <p class="center">
 	<img class="abc-laptop" src="../assets/abc-laptop-content.jpg">
