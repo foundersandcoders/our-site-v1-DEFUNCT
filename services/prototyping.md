@@ -2,9 +2,9 @@
 
 Our prototyping service is probably the best-value service of its kind in London.
 
-For £500 a week, a client recieves:
+For £500 a week, a client receives:
 
-+ A product development team, made up of at least two recent graduates of our intensive training programme
++ A product development team, made up of at least two recent graduates of our training programme
 + A working prototype
 + An optional practical training in product management
 
@@ -69,7 +69,7 @@ You will be the *product owner* for your project. On the first day of the build 
 
 <a name="FAQ10">
 *Wireframes?? Pivotal Tracker?? What training will I receive?*    
-On the first day, you will receive a full day of training and practice in *product management*, *user experience design* and *agile development*. You will get an opportunity to work with your development team to produce *user journeys*, *wireframes* and *user stories* and you will be introduced to *agile project management* using *Pivotal Tracker™*. Throughout the rest of the project, you will be able to practise what you have learnt in the role of *product owner* for your project. 
+On the first day, if you request it, you will receive training in *product management*, *user experience design* and *agile development*. You will also get an opportunity to work with your development team to produce *user journeys*, *wireframes* and *user stories* and you will be introduced to *agile project management* using *Pivotal Tracker™*. Throughout the rest of the project, you will be able to practise what you have learnt in the role of *product owner* for your project. 
 
 <a name="FAQ11">
 *What benefits will I get from the process?*     
@@ -80,9 +80,7 @@ You will improve your understanding of the software development process and your
 If you are happy with the prototype, you can retain some or all of your development team to continue to work on it for you.
 
 </a>*How do I find out more?*     
-If you have any further questions, please contact us.
-
-Book now, using the form below.
+If you have any further questions, please [contact us](#contact-anchor) or tell us about your project using the form below and we will contact you.
 
 <section class="applywrap">
    <iframe class="applyform" src="https://docs.google.com/forms/d/1bRG6tnN7ykf6Dt6MuDQWJJX-44ijj38zY2CrjM_VwZo/viewform?embedded=true" width="100%" height="1250" frameborder="20" marginheigt="50px" marginwidth="0">Loading&amp;#8230;</iframe>
