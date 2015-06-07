@@ -1,8 +1,6 @@
-## The next course
+# Applications
 
 We are now taking applications for the course starting on September 14th, based at our campus in London's East End.
-
-Although tuition is free, we cannot assist you with living expenses nor can we guarantee work for you after you complete the course.
 
 ## The application process
 
