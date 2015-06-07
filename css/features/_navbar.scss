@@ -37,7 +37,7 @@ nav {
 			transition: line-height 0.3s;
 			padding: 0 40px;
 			&:hover {
-				h3 {
+				.bold {
 					font-family: 'UG bold';
 				}
 				.nav-dd {
@@ -49,6 +49,9 @@ nav {
 			display: inline;
 			letter-spacing: 2px;
 			font-family: "UG med";
+			&:hover {
+				font-family: 'UG bold';
+			}
 		}
 	}
 }

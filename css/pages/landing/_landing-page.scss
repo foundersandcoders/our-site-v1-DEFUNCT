@@ -4,11 +4,10 @@
 	}
 }
 
-
 .section-landing {
 	@extend %section;
 	height: 550px;
-	background-color: #707C80;
+	background-color: $color-one;
 	flex-direction: column;
 	* {
 		color: $color-three;
@@ -133,9 +132,63 @@
 		list-style-type: none;
 		height: 250px;
 	}
-	img {
+	.services-icon {
+		height: 150px;
 		width: 150px;
+		margin: auto;
+		background-position: center;
+		background-size: cover;
 		margin-bottom: 15px;
+	}
+	.web-application {
+		background-image: url("/assets/icons/application.png");
+	}
+	a:hover {
+		.web-application {
+			background-image: url("/assets/icons/application-alt.png");
+		}
+	}
+	.training {
+		background-image: url("/assets/icons/training.png");
+	}
+	a:hover {
+		.training {
+			background-image: url("/assets/icons/training-alt.png");
+		}
+	}
+
+	.content-management {
+		background-image: url("/assets/icons/content.png");
+	}
+	a:hover {
+		.content-management {
+			background-image: url("/assets/icons/content-alt.png");
+		}
+	}
+
+	.prototyping {
+		background-image: url("/assets/icons/prototype.png");
+	}
+	a:hover {
+		.prototyping {
+			background-image: url("/assets/icons/prototype-alt.png");
+		}
+	}
+	.mobile-development {
+		background-image: url("/assets/icons/mobile.png");
+	}
+	a:hover {
+		.mobile-development {
+			background-image: url("/assets/icons/mobile-alt.png");
+		}
+	}
+	.responsive-design {
+		background-image: url("/assets/icons/responsive.png");
+	}	
+	a:hover {
+		.responsive-design {
+			background-image: url("/assets/icons/responsive-alt.png");
+		}
 	}
 	p {
 		color: $color-one;
@@ -156,14 +209,11 @@
 	text-align: center;
 	padding-left: 15px;
 	padding-right: 15px;
-	// * {
-	// 	font-family: "UG thin";
-	// }
 	* {
 		font-family: "UG thin"
 	}
-	p {
-		padding-top: 45px;
+	.margin {
+		margin-top: 45px;
 	}
 	.radio {
 		margin-top: 50px;
