@@ -131,7 +131,9 @@ var fac = (function (){
     function home_resize() {
         if (window.location.pathname == '/') {
             landing_resize();
+            img_resize();
             window.onresize = function() {
+                landing_resize();
                 img_resize();
             };
         }

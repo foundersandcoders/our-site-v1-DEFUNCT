@@ -1,16 +1,23 @@
-# A Prototype for less than the cost of a new iMac?
+#Prototyping Service
 
-## Yes, really: are you...
+Our prototyping service is probably the best-value service of its kind in London.
 
-+ **A startup looking to create an [MVP](http://en.wikipedia.org/wiki/Minimum_viable_product)?**
-+ **A business looking to test out a new idea?**
-+ **An employer looking to recruit developers?** 
+For £500 a week, a client recieves:
 
-## What you receive
++ A product development team, made up of at least two recent graduates of our intensive training programme
++ A working prototype
++ An optional practical training in product management
 
-+ **Your own product development team**
-+ **Practical training in product management**
-+ **A working prototype**
+The intention of the prototyping service is to help recent graduates build a portfolio, showcase their extensive capabilities and build client/employer relationships. We offer this service to ambitious individuals and businesses where we feel there is a good chance of repeat work or employment - particularly once clients understand what our graduates are capable of producing.
+
+We also offer this service to those who are interested in doing something for social good. For example, we are working with Stockport Council on a project around suicide prevention.
+
+Typically, we offer this service to:
+
++ Startups looking to create an [MVP](http://en.wikipedia.org/wiki/Minimum_viable_product)
++ Businesses looking to test out a new idea
++ Employers looking to recruit developers
++ Any project that may have a positive impact on the world
  
 ## You may be wondering...  
 
@@ -38,7 +45,7 @@ We are certainly capable of this, but it's generally not something we do for a p
 
 <a name="FAQ4">
 *Why isn't the price ten times higher?*    
-As well as being an agency of developers, we are also a coding school. Prototype projects are generally undertaken by our recent graduate developers as an opportunity to showcase their capabilities, with the aim of being commissioned for further work from satisfied clients or even being offered employment. But rest assured that all graduates are able to draw on the experience and resources of the wider agency: all code goes though extensive testing and is reviewed by developers not involved in the project as an extra layer of qualty assurance.    
+As well as being an agency of developers, we are also a coding school. Prototyping projects are generally undertaken by our graduate developers as an opportunity to showcase their capabilities. Ultimately, the aim is for graduates to be commissioned for further work or offered employment.
 
 <a name="FAQ5">
 *What’s the first step?*     

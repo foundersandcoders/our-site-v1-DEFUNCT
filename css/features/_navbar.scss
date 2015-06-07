@@ -37,6 +37,9 @@ nav {
 			transition: line-height 0.3s;
 			padding: 0 40px;
 			&:hover {
+				h3 {
+					font-family: 'UG bold';
+				}
 				.nav-dd {
 					display: block;
 				}
