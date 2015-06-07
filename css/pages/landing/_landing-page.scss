@@ -4,11 +4,10 @@
 	}
 }
 
-
 .section-landing {
 	@extend %section;
 	height: 550px;
-	background-color: #707C80;
+	background-color: $color-one;
 	flex-direction: column;
 	* {
 		color: $color-three;
@@ -133,14 +132,74 @@
 		list-style-type: none;
 		height: 250px;
 	}
-	img {
+	.services-icon {
+		height: 150px;
 		width: 150px;
+		margin: auto;
+		background-position: center;
+		background-size: cover;
 		margin-bottom: 15px;
 	}
+	.web-application {
+		background-image: url("/assets/icons/application.png");
+		&:hover {
+			background-image: url("/assets/icons/application-alt.png");
+		}
+	}
+	.training {
+		background-image: url("/assets/icons/training.png");
+		&:hover {
+			background-image: url("/assets/icons/training-alt.png");
+		}
+	}
+	.content-management {
+		background-image: url("/assets/icons/content.png");
+		&:hover {
+			background-image: url("/assets/icons/content-alt.png");
+		}
+	}
+	.prototyping {
+		background-image: url("/assets/icons/prototype.png");
+		&:hover {
+			background-image: url("/assets/icons/prototype-alt.png");
+		}
+	}
+	.mobile-development {
+		background-image: url("/assets/icons/mobile.png");
+		&:hover {
+			background-image: url("/assets/icons/mobile-alt.png");
+		}
+	}
+	.responsive-design {
+		background-image: url("/assets/icons/responsive.png");
+		&:hover {
+			background-image: url("/assets/icons/responsive-alt.png");
+		}
+	}	
+
+	// img {
+	// 	width: 150px;
+	// 	margin-bottom: 15px;
+	// }
 	p {
 		color: $color-one;
 	}
 }
+
+// .logo-test {
+// 	height: 150px;
+// 	width: 150px;
+// 	margin: auto;
+// 	// position: relative;
+// 	background-position: center;
+// 	background-size: cover;
+// 	margin-bottom: 15px;
+// 	background-image: url("/assets/icons/application.png");
+// 	&:hover {
+// 		background-image: url("/assets/icons/application-alt.png");
+// 	}
+// }
+
 
 @media (max-width: 600px) {
 	.section-services {
