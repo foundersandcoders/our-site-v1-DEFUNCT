@@ -8,4 +8,7 @@ The graduates are currently working on a variety of paid post-graduate projects,
 
 The course runs for a total of 16 weeks and is split into eight weeks of training and eight weeks of working on projects the community has found through freelancing.
 
-[Read more at ComputerWeekly.com](http://www.computerweekly.com/news/2240236082/Founders-Coders-pooling-developer-talent-through-free-education-course)
+Read more at [ComputerWeekly.com](http://www.computerweekly.com/news/2240236082/Founders-Coders-pooling-developer-talent-through-free-education-course)
+
+*December 5, 2014*
+

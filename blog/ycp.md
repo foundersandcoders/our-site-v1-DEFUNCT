@@ -6,6 +6,6 @@ Their eight-week full-time course is as free as open source software. And upon c
  
 Out of 15 students who completed a Founders and Coders course in November, nine are working full-time on freelance projects secured by the very organisation that delivered the learning in the first place. And the graduates can also become a member of the growing army of freelance web developers who make up Founders and Coders.
  
-The current workforce is made up of 11 apprentice developers and course graduates, and three software-savvy mentors. Founders and Coders is a worker co-operative, with each member having an equal say in the business, while all profits are ploughed back into the organisation.
+Read more at [Co-operatives UK](http://www.uk.coop/pressrelease/web-developers-crack-tuition-code-snap-young-co-operators-prize) 
 
-[Read more at *Co-operatives UK*](http://www.uk.coop/pressrelease/web-developers-crack-tuition-code-snap-young-co-operators-prize) 
+*March 26, 2015*
