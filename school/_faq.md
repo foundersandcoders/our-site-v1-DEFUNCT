@@ -13,7 +13,7 @@ As a full-time classroom-based course running Monday to Friday from 10am to 6pm 
 Courses are peer-led and project-based with sixteen students working in four teams of four. Students take turns to deliver seminars, run code reviews and manage projects.
 
 **What does the curriculum cover?**    
-Primarily, we cover *test-driven development* Web development using *JavaScript* and *Node.js*.
+Primarily, we cover *test-driven* Web development using *JavaScript* and *Node.js*.
 
 **What are the main reasons to apply for this programme?**     
 The quality of the learning experience. The commitment of your fellow students. The *Founders & Coders* community.
