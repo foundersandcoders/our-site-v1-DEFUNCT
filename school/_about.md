@@ -1,5 +1,3 @@
-## The programme
+# The programme
 
-Founders & Coders runs what is probably the most challenging course of its kind in the UK: An eight-week, full-time foundation course in software development for the Web, followed by a further eight weeks building a portfolio and then the possibility of an apprenticeship as a member of the Founders & Coders freelance co-operative.
-
-Applications for the next course are now open. [Apply here](/apply)
+Founders & Coders runs what is probably the most challenging course of its kind in the UK: An eight-week, full-time foundation course in software development for the Web, followed by another eight weeks building a portfolio and then the possibility of a further eight weeks helping us deliver the course to our next cohort of students, while continuing to sharpen your skills as a developer.

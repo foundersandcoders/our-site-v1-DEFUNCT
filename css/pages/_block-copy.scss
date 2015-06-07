@@ -13,6 +13,12 @@
 	h2 {
 		margin-top: 30px;
 	}
+	a {
+		font-family: 'UG bold';
+	}	
+	a:hover {
+		text-decoration: underline;
+	}
 }
 
 @media (max-width: $tablet) {
