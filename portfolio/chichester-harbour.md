@@ -1,5 +1,7 @@
 #Chichester Harbour
 
+A membership management system for the Friends of Chichester Harbour.
+
 ##Challenge
 
 The Friends of Chichester Harbour is a registered charity, formed in 1987 to sustain and improve the environment of the harbour for the benefit of both people and wildlife. It has a large and varied membership. They approached us to help them build a new membership management system.
