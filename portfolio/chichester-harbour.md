@@ -1,14 +1,19 @@
 #Chichester Harbour
 
-A customer relationship system (CRM) for membership management, events booking and subscription payments for the Friends of Chichester Harbor.
-
 ##Challenge
-The Friends of Chichester Harbor needed a bespoke platform for managing their many offerings.
+
+The Friends of Chichester Harbour is a registered charity, formed in 1987 to sustain and improve the environment of the harbour for the benefit of both people and wildlife. It has a large and varied membership. They approached us to help them build a new membership management system.
+
+The existing offline computer system required a lot of administrative effort by the charity's volunteer staff, and the Trustees were keen to find a way to manage and communicate with their members and to allow the members to manage their membership and payments online. 
+
+Available off-the-shelf systems did not give them the flexibility they needed and, in particular, did not make it easy to manage both tech-savvy and technophobic members, nor allow membership contributions to be easily combined with donations in a single transaction, or make it easy to import existing membership records.
 
 ##Solution
-After wireframing and user stories, the team worked in weekly agile sprints until completion.
+An agile two-person team—pair programming for almost the entire project—produced a technically innovative and highly modular solution using *Node.js*, *Sails*, *Browserify* and the React-like framework *virtual-dom* to create a hybrid between a single-page webapp and a normal Web-based application. 
+
+The team was able to respond quickly as the requirements continued to change throughout the early stages of the build, by first developing a light-weight and flexible framework, which they were then able to use as a platform for the finished product. 
 
 ##Results
-A beautiful and easy to use customer relationship system. Built mobile first as and as a hybrid between a single web page application and normal web application.
+A beautiful and easy to use customer relationship management system, built mobile first and offering a blazingly-fast user experience on both desktop and mobile.
 
-The project uses Virtual Dom for faster dom rendering and a better mobile experience. Virtual Dom, unlike angular, does not impose a stucture. Virtual Dom allowed the team the freedom to build a small framwork which acts as a platform for the finished product.
+
