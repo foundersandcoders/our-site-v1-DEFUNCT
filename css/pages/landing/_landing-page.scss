@@ -142,64 +142,58 @@
 	}
 	.web-application {
 		background-image: url("/assets/icons/application.png");
-		&:hover {
+	}
+	a:hover {
+		.web-application {
 			background-image: url("/assets/icons/application-alt.png");
 		}
 	}
 	.training {
 		background-image: url("/assets/icons/training.png");
-		&:hover {
+	}
+	a:hover {
+		.training {
 			background-image: url("/assets/icons/training-alt.png");
 		}
 	}
+
 	.content-management {
 		background-image: url("/assets/icons/content.png");
-		&:hover {
+	}
+	a:hover {
+		.content-management {
 			background-image: url("/assets/icons/content-alt.png");
 		}
 	}
+
 	.prototyping {
 		background-image: url("/assets/icons/prototype.png");
-		&:hover {
+	}
+	a:hover {
+		.prototyping {
 			background-image: url("/assets/icons/prototype-alt.png");
 		}
 	}
 	.mobile-development {
 		background-image: url("/assets/icons/mobile.png");
-		&:hover {
+	}
+	a:hover {
+		.mobile-development {
 			background-image: url("/assets/icons/mobile-alt.png");
 		}
 	}
 	.responsive-design {
 		background-image: url("/assets/icons/responsive.png");
-		&:hover {
+	}	
+	a:hover {
+		.responsive-design {
 			background-image: url("/assets/icons/responsive-alt.png");
 		}
-	}	
-
-	// img {
-	// 	width: 150px;
-	// 	margin-bottom: 15px;
-	// }
+	}
 	p {
 		color: $color-one;
 	}
 }
-
-// .logo-test {
-// 	height: 150px;
-// 	width: 150px;
-// 	margin: auto;
-// 	// position: relative;
-// 	background-position: center;
-// 	background-size: cover;
-// 	margin-bottom: 15px;
-// 	background-image: url("/assets/icons/application.png");
-// 	&:hover {
-// 		background-image: url("/assets/icons/application-alt.png");
-// 	}
-// }
-
 
 @media (max-width: 600px) {
 	.section-services {
@@ -215,14 +209,11 @@
 	text-align: center;
 	padding-left: 15px;
 	padding-right: 15px;
-	// * {
-	// 	font-family: "UG thin";
-	// }
 	* {
 		font-family: "UG thin"
 	}
-	p {
-		padding-top: 45px;
+	.margin {
+		margin-top: 45px;
 	}
 	.radio {
 		margin-top: 50px;
