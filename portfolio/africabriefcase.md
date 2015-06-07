@@ -1,6 +1,6 @@
 #Africa Briefcase
 
-Africa briefcase is a service-orientated responsive web application, built using Sails and Angular.
+Africa briefcase is a service-orientated responsive web application, built using Node.js, Sails and AngularJS.
 
 <p class="center"><img class="abc-desktop" src="../assets/abc-desktop.jpg"></p>
 
