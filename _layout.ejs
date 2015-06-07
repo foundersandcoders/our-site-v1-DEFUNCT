@@ -3,11 +3,14 @@
 	<head>
 		<link rel="stylesheet" href="/css/main.css">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+		 <link rel="shortcut icon" href="/assets/favicon.ico" >
 	</head>  
   	<body>
+  		<%- partial("_partials/navbar") %>
     	<%- yield %>
     	<%- partial("_partials/contact") %>
 		<footer>
+			<script src="/js/main.js"></script>
 		</footer>
   	</body>
 </html>

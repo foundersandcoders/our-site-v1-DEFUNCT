@@ -1,10 +1,97 @@
 <nav id="navbar">
-	<div class="center animate-header">
-		<a><h3>WORK</h3></a>
-		<a><h3>COMPANY</h3></a>
-		<a><h3>BLOG</h3></a>
-		<a><h3>SCHOOL</h3></a>
+	<div class="desktop-only">
+		<ul class="animate-header">
+			<li>
+				<a href="/"><h3 class="bold">HOME</h3></a>
+				<div class="nav-dd">
+					<ul>
+						<li>
+							<h3 onclick="fac.nav_scroll('/', 'portfolio-anchor')">Portfolio</h3>
+						</li>
+						<li>
+							<h3 onclick="fac.nav_scroll('/', 'services-anchor')">Services</h3>
+						</li>
+						<li>
+							<h3 onclick="fac.nav_scroll('/', 'contact-anchor')">Contact</h3>
+						</li>
+					</ul>	
+				</div>
+			</li>
+			<li>
+				<a href="/about"><h3 class="bold">ABOUT</h3></a>
+			</li>
+			<li>
+				<a href="/blog"><h3 class="bold">BLOG</h3></a>
+			</li>
+			<li>
+				<a href="/school"><h3 class="bold">SCHOOL</h3></a>
+				<div class="nav-dd">
+					<ul>
+						<li>
+							<h3 onclick="fac.nav_scroll('/school/', 'faq-anchor')">FAQ</h3>
+						</li>
+						<li>
+							<h3 onclick="fac.nav_scroll('/school/', 'apply-anchor')">Applications</h3>
+						</li>
+						<li>
+							<h3 onclick="fac.nav_scroll('/school/', 'prerequisites-anchor')">Prerequisites</h3>
+						</li>
+					</ul>	
+				</div>
+			</li>
+		</ul>
 	</div>
+	<div class="dropdownToggle">
+		<div class="tablet-mobile-only tablet-mobile-navigation">
+			<a data-toggle="dropdown">
+				<button id="cmn-toggle-switch" class="icon cmn-toggle-switch cmn-toggle-switch__htx">
+		  			<span>toggle menu</span>
+				</button>
+			</a>
+			<div class="nav-settings-dropdown">
+				<div id="nav-dd-tablet" class="container">
+					<ul>
+						<li>
+							<h3 onclick="fac.nav_scroll('/')">HOME</h3>
+						</li>
+						<li>
+							<h3 onclick="fac.nav_scroll('/', 'portfolio-anchor')">Portfolio</h3>
+						</li>
+						<li>
+							<h3 onclick="fac.nav_scroll('/', 'services-anchor')">Services</h3>
+						</li>
+						<li>
+							<h3 onclick="fac.nav_scroll('/', 'contact-anchor')">Contact</h3>
+						</li>
+					</ul>
+					<ul>
+						<li>
+							<h3 onclick="fac.nav_scroll('/about')">ABOUT</h3>
+						</li>
+					</ul>
+					<ul>
+						<li>
+							<h3 onclick="fac.nav_scroll('/blog')">BLOG</h3>
+						</li>
+					</ul>
+					<ul>
+						<li>
+							<h3 onclick="fac.nav_scroll('/school')">SCHOOL</h3>
+						</li>
+						<li>
+							<h3 onclick="fac.nav_scroll('/school/', 'faq-anchor')">FAQ</h3>
+						</li>
+						<li>
+							<h3 onclick="fac.nav_scroll('/school/', 'apply-anchor')">Applications</h3>
+						</li>
+						<li>
+							<h3 onclick="fac.nav_scroll('/school/', 'prerequisites-anchor')">Prerequisites</h3>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>	
 </nav>
 
-<div class="panel-nav-offset"></div>
+<div class="section-nav-offset"></div>

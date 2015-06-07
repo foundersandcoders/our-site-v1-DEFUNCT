@@ -1,47 +1,93 @@
-<%- partial("_partials/navbar") %>
+<div class="home">
+	<div id="section-landing" class="section-landing">
+		<h1 class="animate-header">Founders &amp; Coders</h1>
+		<p>A digital agency based in London</p>
+	</div>
 
-<div id="panel-1" class="panel-1">
-	<h1 class="animate-header">Founders &amp; Coders</h1>
-	<p>A digital agency based in London</p>
+	<div id="portfolio-anchor"></div>
+	<div id="portfolio" class="section-portfolio">
+		<h2>Portfolio</h2>
+		<%- partial("_partials/portfolio", { "link": "portfolio/africabriefcase", "name": "Africa Briefcase", "company": "IC Publications", "imageStyle": "image-one" }) %>
+		<%- partial("_partials/portfolio", { "link": "portfolio/africaneye", "name": "Africaneye", "company": "IC publications", "imageStyle": "image-two" }) %>
+		<%- partial("_partials/portfolio", { "link": "portfolio/camdenmaps", "name": "Camden Maps", "company": "Camden Council", "imageStyle": "image-three" }) %>
+		<%- partial("_partials/portfolio", { "link": "portfolio/chichester-harbour", "name": "Membership Management", "company": "Friends of Chichester Harbour", "imageStyle": "image-four tablet-only" }) %>
+	</div>
+
+	<div id="services-anchor"></div>
+	<div id="services" class="section-services">
+		<ul class="container">
+			<h2>Services</h2>
+			<div class="grid-4">
+				<a href="services/application-development">
+					<div class="services-icon web-application"></div>
+					<!-- <img src="assets/icons/application.png"> -->
+					<p>Web Application Development</p>
+				</a>
+			</div>
+			<div class="grid-4">
+				<a href="services/training">
+					<div class="services-icon training"></div>
+					<!-- <img src="assets/icons/training.png"> -->
+					<p>Training</p>
+				</a>
+			</div>
+			<div class="grid-4">
+				<a href="services/prototyping">				
+					<div class="services-icon prototyping"></div>
+					<p>Prototyping</p>
+				</a>
+			</div>	
+			<div class="grid-4">
+				<a href="services/content-management">
+					<div class="services-icon content-management"></div>
+					<p>Content Management</p>
+				</a>
+			</div>
+			<div class="grid-4">
+				<a href="services/mobile-development">				
+					<div class="services-icon mobile-development"></div>
+					<p>Mobile Development</p>
+				</a>
+			</div>	
+			<div class="grid-4">
+				<a href="services/responsive-web-design">				
+					<div class="services-icon responsive-design"></div>
+					<p>Responsive Web Design</p>
+				</a>
+			</div>	
+		</li>
+		</ul>
+	</div>
+
+
+
+
+	<!-- 6 services: 
+
+	Working on these 3 now:
+		prototyping - DONE
+		web application development
+		training
+
+	These 3 can go straight to case studies:
+		content management
+		membership management 
+	  interactive maps -->
+
+	<!-- <div id="services-anchor"></div> -->
+<!--
+	<div class="section-client-quotes">
+		<p id="client-name">Tom Humphreys, CEO Muduno</p> 
+		<p id="client-quote" class="margin">"Founders & Coders have been a game-changing resource for our business"</p>
+		<div class="radio">
+			<input id="client-one" type="radio" name="client" onclick='fac.changeText("Tom Humphreys, CEO Muduno", "\"Founders & Coders have been a game-changing resource for our business\"")' checked>
+	   		<label for="client-one"></label>
+	    	<input id="client-two" type="radio" name="client" onclick='fac.changeText("Duis finibus", "Nullam rutrum quam ex. ")'>
+	    	<label for="client-two"></label>
+	    	<input id="client-three" type="radio" name="client" onclick='fac.changeText("Nullam eget diam in diam maximus", "Duis finibus, metus non malesuada bibendum, lacus arcu egestas lacus, eget dictum nisl elit vel tortor.")'>
+	    	<label for="client-three"></label>
+	    </div>
+	</div>
+-->
+	<div class="methods"></div>
 </div>
-
-<div id="portfolio" class="panel-portfolio desaturate">
-
-	<%- partial("_partials/portfolio", { "name": "Project one", "company": "Company one", "imageStyle": "image-one" }) %>
-	<%- partial("_partials/portfolio", { "name": "Project two", "company": "Company two", "imageStyle": "image-two" }) %>
-	<%- partial("_partials/portfolio", { "name": "Project three", "company": "Company three", "imageStyle": "image-three" }) %>
-
-</div>
-
-<div id="services">
-
-6 services: 
-
-Working on these 3 now:
-	prototyping - DONE
-	web application development
-	training
-
-These 3 can go straight to case studies:
-	content management
-	membership management 
-  interactive maps
-
-</div>
-
-<div class="panel-4">
-	<h3 id="client-name">Happy client</h3> 
-	<p id="client-quote">"consectetur adipiscing elit. Suspendisse imperdiet sit amet sapien eu ultrices."</p>
-	<div class="radio">
-		<input id="client-one" type="radio" name="client" onclick='changeText("Happy client", "consectetur adipiscing elit. Suspendisse imperdiet sit amet sapien eu ultrices.")'>
-   		<label for="client-one"></label>
-
-    	<input id="client-two" type="radio" name="client" onclick='changeText("Duis finibus", "Nullam rutrum quam ex. ")'>
-    	<label for="client-two"></label>
-
-    	<input id="client-three" type="radio" name="client" onclick='changeText("Nullam eget diam in diam maximus", "Duis finibus, metus non malesuada bibendum, lacus arcu egestas lacus, eget dictum nisl elit vel tortor.")'>
-    	<label for="client-three"></label>
-    </div>
-</div>
-
-<script src="js/main.js"></script>

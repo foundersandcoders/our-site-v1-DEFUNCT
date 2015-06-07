@@ -25,7 +25,7 @@ label:before {
     position: absolute;
     left: 0;
     bottom: 1px;
-    background-color: #F6F6F6;
+    background-color: $color-two;
 }
 
 .radio label:before {
@@ -35,7 +35,7 @@ label:before {
 input[type=radio]:checked + label:before {
  	width: 16px;
     height: 16px;    
-    background-color: #707C83;
+    background-color: $color-one;
     font-size: 30px;
     text-align: center;
     line-height: 18px;

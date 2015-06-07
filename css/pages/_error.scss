@@ -1,6 +1,6 @@
-.panel-error {
-	@extend %panel;
-	height: 500px;
+.section-error {
+	@extend %section;
+	height: 100vh;
 	background-color: $color-one;
 	flex-direction: column;
 	* {

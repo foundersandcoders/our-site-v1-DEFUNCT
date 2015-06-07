@@ -1,17 +1,23 @@
 @import "variables";
 @import "base/fontello";
+@import "base/anchor";
+@import "base/fontello";
 @import "base/fonts";
 @import "components/button";
 @import "components/input";
-@import "components/panel";
+@import "components/section";
 @import "components/radio";
 @import "features/contact";
+@import "features/nav-animation";
 @import "features/navbar";
 @import "layout/responsive-grid";
 @import "layout/specifics";
 @import "pages/error";
+@import "pages/portfolio";
+@import "pages/school";
 @import "pages/landing/animation";
 @import "pages/landing/landing-page";
+@import "pages/block-copy";
 
 * {
   margin: 0px;

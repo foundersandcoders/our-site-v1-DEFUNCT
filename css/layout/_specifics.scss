@@ -18,6 +18,32 @@
 	}
 }
 
+.tablet-only {
+	display: none;
+}
+
+@media (max-width: 1000px) {
+	.tablet-only {
+		display: block;
+	}
+}
+
+@media (max-width: 500px) {
+	.tablet-only {
+		display: none;
+	}
+}
+
+.tablet-mobile-only {
+	display: none;
+}
+
+@media (max-width: $tablet) {
+	.tablet-mobile-only {
+		display: block;
+	}
+}
+
 .desaturate{
   -webkit-filter: grayscale(1);
   -webkit-filter: grayscale(100%);
