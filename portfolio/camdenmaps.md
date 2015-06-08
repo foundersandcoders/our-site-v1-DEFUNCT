@@ -20,7 +20,7 @@ We were thrilled to take on the challenge, collaborate with Camden Council and b
 ##SOLUTION
 Once a formal agreement had been established, Founders & Coders and Francois arranged a date to commence their weekly conference calls. This was the beginning of the discovery phase where we established with his team key features of the app and defined many of its aesthetics.
 
-Weekly meetings with Francois continued throughout the course of the project. This was important to us because, at Founders & Coders we manage the development of our software through Agile principles. This means that we can ensure the quality of our software at every stage, by continuously delivering iterations of the project to the client. Most importantly, it means that we are able to adapt quickly to any changing priorities that the client may have, without it being too costly to the overall deliery effective. A weekly show and tell with Francois provided the heartbeat of the project ensuring we delivered on our weekly commitments.
+Weekly meetings with Francois continued throughout the course of the project. This was important to us because, at Founders & Coders we manage the development of our software through Agile principles. This means that we can ensure the quality of our software at every stage, by continuously delivering iterations of the project to the client. Most importantly, it means that we are able to adapt quickly to any changing priorities that the client may have, without it being too costly to the overall delivery. A weekly show and tell with Francois provided the heartbeat of the project ensuring we delivered on our weekly commitments.
 
 <p class="center"><img src="../assets/mobile.png" class="cm-image"></p>
 
