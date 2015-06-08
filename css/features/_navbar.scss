@@ -35,11 +35,9 @@ nav {
 			-ms-transition: line-height 0.3s;
 			-o-transition: line-height 0.3s;
 			transition: line-height 0.3s;
-			padding: 0 40px;
+			width: 250px;
+			text-align: center;
 			&:hover {
-				.bold {
-					font-family: 'UG bold';
-				}
 				.nav-dd {
 					display: block;
 				}
@@ -49,7 +47,7 @@ nav {
 			display: inline;
 			letter-spacing: 2px;
 			font-family: "UG med";
-			&:hover {
+			&:hover, &:active {
 				font-family: 'UG bold';
 			}
 		}
@@ -59,18 +57,18 @@ nav {
 @media (max-width: $tablet) {
 	nav {
 		li {
-			padding: 0 30px;
+			padding: 0;
 		}
 	}
 }
 
-@media (max-width: $mobile) {
-	nav {
-		li {
-			padding: 0 15px;
-		}
-	}
-}
+// @media (max-width: $mobile) {
+// 	nav {
+// 		li {
+// 			padding: 0 15px;
+// 		}
+// 	}
+// }
 
 .section-nav-offset {
 	@extend %section;
@@ -117,7 +115,7 @@ nav {
 	.small-icon {
 		margin-top: 19px;
 	}
-	.container {
+	.nav-dd-tab {
 		width: 100%;
 		top: 150px;
 		left: 0;
@@ -131,11 +129,17 @@ nav {
 		-ms-transition:height 0.3s line-height 0.3s, top 0.3s;
 		-o-transition:height 0.3s line-height 0.3s, top 0.3s;
 		transition:height 0.3s line-height 0.3s, top 0.3s;
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
 		background-color: #333;
 		padding: 0 15px;
+		.container {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			max-width: 650px;
+			margin: auto;
+			height: 190px;
+			padding: 0 40px;
+		}
 		ul {
 			height: 127px;
 
@@ -148,6 +152,12 @@ nav {
 			color: $color-three;
 			font-family: 'UG med';
 			line-height: 32px;
+			&:hover, &:active {
+				font-family: 'UG bold'
+			}
+		}
+		.top-level {
+			color: $color-one;
 		}
 	}
 	.small-dd-tabet {
@@ -165,10 +175,23 @@ nav {
 	}
 }
 
+@media (max-width: 500px) {
+	.tablet-mobile-navigation {
+		.nav-dd-tab {
+			.container {
+				padding: 0 15px;
+			}
+		}
+	}
+}
+
 @media (max-width: $mobile) {
 	.tablet-mobile-navigation {
-		.container {
+		.nav-dd-tab {
 			height: 150px;
+			.container {
+				height: 150px;
+			}
 			ul {
 				height: 100px;
 			}
