@@ -19,6 +19,15 @@
 	a:hover {
 		text-decoration: underline;
 	}
+	.quote {
+	  font-style: italic;
+		padding: 1em 4em;
+	}
+	.source {
+	  font-style: normal;
+		padding: 1em;
+	  text-align: right;
+	}
 }
 
 @media (max-width: $tablet) {
