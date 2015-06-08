@@ -1,12 +1,3 @@
-#about-anchor {
-  @extend %anchor;
-  margin-top: -100px;
-}
-
-#faq-anchor {
-  @extend %anchor;
-}
-
-#apply-anchor {
+#faq-anchor, #apply-anchor, #prerequisites-anchor {
   @extend %anchor;
 }

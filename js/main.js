@@ -1,47 +1,49 @@
 //TODO: Refactor
 //Priorities landing resize?
 
-function toggleHandler(toggle) {
-  var iconplease = document.getElementById("cmn-toggle-switch");
-  (iconplease.classList.contains("active") === true) ? iconplease.classList.remove("active") : iconplease.classList.add("active");
-}
+(function (){
+  function toggleHandler(toggle) {
+    var iconplease = document.getElementById("cmn-toggle-switch");
+    (iconplease.classList.contains("active") === true) ? iconplease.classList.remove("active") : iconplease.classList.add("active");
+  }
 
-var dropdown      = document.querySelectorAll('.dropdownToggle');
-var dropdownArray = Array.prototype.slice.call(dropdown,0);
+  var dropdown      = document.querySelectorAll('.dropdownToggle');
+  var dropdownArray = Array.prototype.slice.call(dropdown,0);
 
-dropdownArray.forEach(function (dropdown){
-  var button = dropdown.querySelector('a[data-toggle="dropdown"]');
-  var menu   = dropdown.querySelector('.nav-settings-dropdown') || dropdown.querySelector('.dropdown-menu');
+  dropdownArray.forEach(function (dropdown){
+    var button = dropdown.querySelector('a[data-toggle="dropdown"]');
+    var menu   = dropdown.querySelector('.nav-settings-dropdown') || dropdown.querySelector('.dropdown-menu');
 
-  var wait = false;
+    var wait = false;
 
-  window.onclick = function (event){
-    wait = !wait;
-    if(menu.hasClass('show') && wait){
-      menu.classList.remove('show');
-      menu.classList.add('hide');
-      toggleHandler();
-    }
-  };
-
-  button.onclick = function(event) {
-    wait = true;
-    if(!menu.hasClass('show')) {
-      menu.classList.add('show');
-      menu.classList.remove('hide');
-      toggleHandler();
-    }else{
-      menu.classList.remove('show');
-      menu.classList.add('hide');
-      toggleHandler();
+    window.onclick = function (event){
+      wait = !wait;
+      if(menu.hasClass('show') && wait){
+        menu.classList.remove('show');
+        menu.classList.add('hide');
+        toggleHandler();
+      }
     };
-  };
-});
 
-Element.prototype.hasClass = function(className) {
-  var a = this.className && new RegExp("(^|\\s)" + className + "(\\s|$)").test(this.className);
-  return a;
-};
+    button.onclick = function(event) {
+      wait = true;
+      if(!menu.hasClass('show')) {
+        menu.classList.add('show');
+        menu.classList.remove('hide');
+        toggleHandler();
+      }else{
+        menu.classList.remove('show');
+        menu.classList.add('hide');
+        toggleHandler();
+      };
+    };
+  });
+
+  Element.prototype.hasClass = function(className) {
+    var a = this.className && new RegExp("(^|\\s)" + className + "(\\s|$)").test(this.className);
+    return a;
+  };
+}());
 
 /**
  *  Animation/style-related
