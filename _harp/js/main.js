@@ -112,14 +112,6 @@ var fac = (function (){
         navbar_animation.nav_dropdown();
     }
     /**
-     *  Landing page section hight to match window height.
-     *
-     */    
-    function landing_resize() {
-        var height = window.innerHeight;
-        document.getElementById("section-landing").style.height = height-150 + "px";
-    }
-    /**
      *  Consistent aspect ration for portfolio images
      *
      */  
@@ -132,10 +124,8 @@ var fac = (function (){
     }
     function home_resize() {
         if (window.location.pathname == '/') {
-            landing_resize();
             img_resize();
             window.onresize = function() {
-                landing_resize();
                 img_resize();
             };
         }

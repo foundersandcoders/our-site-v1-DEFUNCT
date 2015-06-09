@@ -1,9 +1,7 @@
 .cmn-toggle-switch {
-  display: block;
+  display: inline;
   position: relative;
   overflow: hidden;
-  margin: 0;
-  padding: 0;
   width: 54px;
   height: 43px;
   font-size: 0;
@@ -16,7 +14,11 @@
   border: none;
   cursor: pointer;
   -webkit-transition: background 0.3s;
-          transition: background 0.3s;
+  -moz-transition:background 0.3s;
+  -ms-transition:background 0.3s;
+  -o-transition:background 0.3s;
+  transition: background 0.3s;
+  vertical-align: -5px;
 }
 
 .cmn-toggle-switch:focus {

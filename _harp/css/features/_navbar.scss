@@ -1,6 +1,6 @@
 nav {
 	width: 100%;
-	height: 150px;
+	height: 20vh;
 	padding: 0 25px;
 	position: fixed;
 	z-index: 1;
@@ -12,6 +12,15 @@ nav {
 	transition:height 0.3s line-height 0.3s;
 	h4 {
 		cursor: pointer;
+	}
+	p {
+		float: right;
+		line-height: 20vh;
+		-webkit-transition:line-height 0.3s;
+		-moz-transition:line-height 0.3s;
+		-ms-transition:line-height 0.3s;
+		-o-transition:line-height 0.3s;
+		transition:line-height 0.3s;
 	}
 	.desktop-only {
 		a {
@@ -29,7 +38,7 @@ nav {
 		li {
 			display: inline;
 			list-style-type: none;
-			line-height: 150px;
+			line-height: 20vh;
 			-webkit-transition: line-height 0.3s;
 			-moz-transition: line-height 0.3s;
 			-ms-transition: line-height 0.3s;
@@ -72,15 +81,15 @@ nav {
 
 .section-nav-offset {
 	@extend %section;
-	height: 150px;
+	height: 20vh;
 }
 
 .nav-dd {
 	width: 100%;
-	top: 150px;
+	top: 20vh;
 	left: 0;
-	height: 150px;
-	line-height: 150px;
+	height: 20vh;
+	line-height: 20vh;
 	position: absolute;
 	display: none;
 	z-index: 100;
@@ -104,8 +113,6 @@ nav {
 
 .tablet-mobile-navigation {
 	.icon {
-		float: right;
-		margin-top: 54px;
 		-webkit-transition:height 0.3s, margin-top 0.3s, top 0.3s;
 		-moz-transition:height 0.3s margin-top 0.3s, top 0.3s;
 		-ms-transition:height 0.3s margin-top 0.3s, top 0.3s;
@@ -113,14 +120,14 @@ nav {
 		transition:height 0.3s margin-top 0.3s, top 0.3s;
 	}
 	.small-icon {
-		margin-top: 19px;
+		// margin-top: 19px;
 	}
 	.nav-dd-tab {
 		width: 100%;
-		top: 150px;
+		top: 20vh;
 		left: 0;
 		height: 190px;
-		line-height: 150px;
+		line-height: 20vh;
 		position: absolute;
 		// display: none;
 		z-index: 100;
@@ -161,7 +168,7 @@ nav {
 		}
 	}
 	.small-dd-tabet {
-		top: 75px;
+		top: 10vh;
 	}
 	.nav-settings-dropdown {
 		display: none;
@@ -188,9 +195,9 @@ nav {
 @media (max-width: $mobile) {
 	.tablet-mobile-navigation {
 		.nav-dd-tab {
-			height: 150px;
+			height: 20vh;
 			.container {
-				height: 150px;
+				height: 20vh;
 			}
 			ul {
 				height: 100px;
@@ -203,23 +210,26 @@ nav {
 }
 
 .small-nav {
-	height: 75px;
+	height: 10vh;
+	p {
+		line-height: 10vh;
+	}
 	.desktop-only {
 		li {
-			line-height: 75px;
+			line-height: 10vh;
 		}
 	}
 }
 
 .small-dd {
-	height: 75px;
-	line-height: 75px;
-	top: 75px;
+	height: 10vh;
+	line-height: 10vh;
+	top: 10vh;
 }
 
 .nav-2 {
-	height: 150px;
-	line-height: 75px;
+	height: 20vh;
+	line-height: 10vh;
 	border: 1px solid #ccc;
 	padding: 0;
 	margin-bottom: 1500px;
