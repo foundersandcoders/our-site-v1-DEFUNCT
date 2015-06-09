@@ -2,8 +2,7 @@
 
 Before you join us, you will be expected to complete all the material below. If you have any doubts about your ability to complete any of it, please contact us before the start of the course.
 
-### Codecademy
-
+**Codecademy**	
 If you are not at all familiar with web programming, Codecademy is a good place to start. We recommend the following tracks.
 
 + [Make a website](http://www.codecademy.com/en/skills/make-a-website/) 
@@ -14,8 +13,7 @@ If you are not at all familiar with web programming, Codecademy is a good place 
 + [Web Projects](http://www.codecademy.com/tracks/projects)
 + [YouTube API](http://www.codecademy.com/en/tracks/youtube)
 
-### Communities
-
+**Communities**	
 Once you are somewhat familiar with Javascript, you should join Codewars, Stackoverflow and GitHub. We will also invite you to join the *Coding for everyone* community on GitHub.
 
 [Sign up for Code Wars](http://www.codewars.com/?language=javascript) and aim to reach at least Novice level with their JavaScript challenges.
@@ -24,24 +22,20 @@ Once you are somewhat familiar with Javascript, you should join Codewars, Stacko
 
 [Sign up for GitHub](https://github.com/) and contribute to [Coding for everyone](https://github.com/codingforeveryone). 
 
-### Exercises
-
+**Exercises**	
 [CSS Diner](http://flukeout.github.io/#). A great way to learn CSS selectors. Hint: the answers to the first three levels are: *plate*, *bento* and *#fancy*. Hopefully, you will be able to take it from there.
 
-### Typing
-
+**Typing**	
 Learn to touch type. And make sure that you know not just the main letter keys, but all the outer keys, too. There are many good teaching apps, but [Typing Club](http://www.typingclub.com/) is good (and free).
 
-### Reading
-
+**Reading**	
 We like [Eloquent JavaScript](http://eloquentjavascript.net/). It is available free online and includes a number of embedded code snippets that you can edit and run as you read.
 
 We just keep coming back to [JavaScript: The Good Parts](http://it-ebooks.info/book/274/). Keep it by your bedside. Re-read Chapter weekly until it begins to sink in. Go to sleep each night dreaming in JavaScript.
 
 For fun, read [Steve Yegge's Google platforms rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX). *"Amazon does everything wrong, and Google does everything right...But there's one thing they do really really well that pretty much makes up for ALL of their political, philosophical and technical screw-ups"*.
 
-### Watching
-
+**Watching**	
 [Computer Science: Past, Present, and Future](http://youtu.be/5Tk09c0FQ3M), a talk by Ed Lazowska.
 
 [The Future Doesn't Have to Be Incremental](http://youtu.be/gTAghAJcO1o), a talk by Alan Kay.
