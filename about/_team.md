@@ -29,7 +29,7 @@ Robin Houston is a web developer and mathematician. He has worked at MySociety, 
 <a href="https://www.linkedin.com/pub/robin-houston/3/bba/677" target="_blank" class="team-image robin"></a>
 
 **Campbell Morgan**	
-Campbell is a web-developer with a background in design and 3D animation. Campbell is a director at his own company <a href="http://www.sitechef.co.uk/" target="_blank">SiteChef</a>. He also founded <a href="http://www.folissimo.com/#/" target="_blank">Folissimo</a> in 2012.
+Campbell is a web-developer with a background in design and 3D animation. Campbell is a director at his own company <a href="http://www.sitechef.co.uk/" target="_blank">SiteChef</a>. He is also the founder of <a href="http://www.folissimo.com/#/" target="_blank">Folissimo</a>.
 
 <a href="https://uk.linkedin.com/pub/campbell-morgan/46/b60/805" target="_blank" class="team-image campbell"></a>
 
