@@ -6,7 +6,7 @@
 
 .section-landing {
 	@extend %section;
-	height: 550px;
+	height: 80vh;
 	background-color: $color-one;
 	flex-direction: column;
 	* {
