@@ -67,3 +67,13 @@ button {
 		border: none;
 	}	
 }
+
+.tickets {
+	max-width: 100px;
+	border-radius: 30px;
+	margin: 20px 0;
+	display: block;
+	&:hover {
+		text-decoration: none;
+	}
+}
