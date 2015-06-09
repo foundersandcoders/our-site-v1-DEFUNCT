@@ -10,7 +10,7 @@ nav {
 	-ms-transition:height 0.3s line-height 0.3s;
 	-o-transition:height 0.3s line-height 0.3s;
 	transition:height 0.3s line-height 0.3s;
-	h3 {
+	h4 {
 		cursor: pointer;
 	}
 	.desktop-only {
@@ -43,7 +43,7 @@ nav {
 				}
 			}
 		}
-		h3 {
+		h4 {
 			display: inline;
 			letter-spacing: 2px;
 			font-family: "UG med";
@@ -97,7 +97,7 @@ nav {
 			padding: 0;
 		}
 	}
-	h3 {
+	h4 {
 		color: $color-three;
 	}
 }
@@ -148,7 +148,7 @@ nav {
 		li {
 			list-style-type: none;
 		}
-		h3 {
+		h4 {
 			color: $color-three;
 			font-family: 'UG med';
 			line-height: 32px;
@@ -195,7 +195,7 @@ nav {
 			ul {
 				height: 100px;
 			}
-			h3 {
+			h4 {
 				line-height: 25px;
 			}
 		}
