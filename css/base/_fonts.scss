@@ -45,21 +45,39 @@ p, ul, ol, li {
 	}
 }
 
+h1 {
+	font-family: 'UG med';
+	font-size: 30px;
+	line-height: 100%;
+}
+
+@media (max-width: $tablet) {
+	h1 {
+		font-size: 28px;
+	}
+}
+
+@media (max-width: $mobile) {
+	h1 {
+		font-size: 26px;
+	}
+}
+
 h2 {
 	font-family: 'UG med';
-	font-size: 28px;
+	font-size: 24px;
 	line-height: 100%;
 }
 
 @media (max-width: $tablet) {
 	h2 {
-		font-size: 26px;
+		font-size: 22px;
 	}
 }
 
 @media (max-width: $mobile) {
 	h2 {
-		font-size: 24px;
+		font-size: 20px;
 	}
 }
 
