@@ -2,9 +2,9 @@
 
 Our prototyping service is probably the best-value service of its kind in London.
 
-For £500 a week, a client receives:
+For £500 a week a client receives:
 
-+ A product development team, made up of at least two recent graduates of our training programme
++ A product development team, made up of at least two graduates of our academy
 + A working prototype
 + An optional practical training in product management
 
