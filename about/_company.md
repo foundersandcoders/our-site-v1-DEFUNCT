@@ -1,8 +1,8 @@
 # About us
 
-*Founders & Coders C.I.C.* is a not-for-profit social enterprise and freelance co-operative founded in January 2015. We develop both software and educational programmes. 
+*Founders & Coders C.I.C.* is a not-for-profit social enterprise and freelance co-operative. We develop both software and educational programmes.
 
-Our innovative training programme and software apprenticeship, in its first year of operation, is already greatly over-subscribed and attracts applications from all over London, the rest of  the UK and abroad.
+Our immersive training programme and software apprenticeship is greatly over-subscribed and attracts applications from all over the world.
 
 Our digital agency, which employs the graduates of our training programme, specialises in developing software applications for both Web and mobile.
 
