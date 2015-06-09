@@ -1,0 +1,24 @@
+<script type="text/javascript" src="https://mandrillapp.com/api/docs/js/mandrill.js"></script>
+
+<div id="contact-anchor"></div>
+<div class="contact">
+	<div class="container">
+		<div class="grid-6 info">
+			<h2 class="margin">Contact</h2>
+			<p class="margin"> <!-- <span class="icon-phone"></span> --> +44 20 3583 2442</p>
+			<p class="margin"> <!-- <span class="icon-location"></span> --> contact@foundersandcoders.org</p>
+			<p> <!-- <span class="icon-mail-1"></span> --> 14 Palmers Road, London E2 OSY</p>
+		</div>
+		<div class="grid-6">
+			<div class="form" method="post">
+				<form method="post">
+					<input id="contact-form-name" name="contact-form-name" type="text" placeholder="Name" class="input-one">
+					<input id="contact-form-email" type="email" placeholder="Email" class="input-one">
+					<textarea id="contact-form-message" type="text" placeholder="Message"></textarea>
+					<button onclick="contact_form.sendMail(); return false;" class="button-one" type"submit">Send</button>
+					<pre id="response"></pre>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>

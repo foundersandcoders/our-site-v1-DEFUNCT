@@ -1,0 +1,225 @@
+.home {
+	h2 {
+		font-family: 'UG thin';
+	}
+}
+
+.section-landing {
+	@extend %section;
+	height: 550px;
+	background-color: $color-one;
+	flex-direction: column;
+	* {
+		color: $color-three;
+		font-family: 'UG thin';
+	}
+	h1 {
+		font-size: 33px;
+	}
+	p {
+		margin-bottom: 150px;
+	}
+}
+
+.section-2 {
+	@extend %section;
+	background-color: $color-two;
+	height: 120px;
+}
+
+.section-portfolio {
+	width: 100%;
+	position: relative;
+	background-color: #FFF;
+	height: auto;
+	padding: 100px 70px;
+	overflow: hidden;
+	text-align: center;
+	h2 {
+		margin-bottom: 30px;
+	}
+	.grid-4 {
+		padding: 20px;
+	}
+	.image-one {
+		background-image: url("/assets/abc.jpg");
+	}
+	.image-two {
+		background-image: url("/assets/children-kenya.jpg");		
+	}
+	.image-three {
+		background-image: url("/assets/map-portfolio.jpg");	
+	}
+	.image-four {
+		background-image: url("/assets/chichester-harbour.jpg");	
+	}
+	.im {
+		background-color: $color-two;
+		position: relative;
+		background-position: center;
+		background-size: cover;
+		height: 200px;
+		.overlay {
+			width: 100%;
+			height: 100%;
+			background-color: #707C80;
+			opacity: 0.1;
+			visibility:hidden;
+			position: absolute;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			flex-direction: column;
+			h3 {
+				color: $color-three;
+				margin: 20px;
+			}
+		}
+		&:hover {
+			.overlay {
+				visibility: visible;
+				opacity: 0.9;
+				transition: opacity .3s ease-in-out;
+				h3 {
+					margin: 5px;
+					transition: margin 1s ease-in-out;
+				}
+			}
+		}	
+	}
+}
+
+@media (max-width: 700px) {
+	.section-portfolio {
+		padding: 50px 0;
+		.grid-4 {
+			padding: 15px;
+		}
+	}
+}
+
+@media (max-width: 400px) {
+	.section-portfolio {
+		.grid-4 {
+			padding: 15px;
+			padding-bottom: 0;
+		}
+	}
+}
+
+.section-services {
+	width: 100%;
+	position: relative;
+	background-color: $color-two;
+	height: auto;
+	padding: 100px 50px;
+	overflow: hidden;
+	text-align: center;
+	h2 {
+		margin-bottom: 30px;
+	}
+	.container {
+		max-width: 1000px;
+		margin: auto;
+	}	
+	.grid-4 {
+		padding: 20px;
+		list-style-type: none;
+		height: 250px;
+	}
+	.services-icon {
+		height: 150px;
+		width: 150px;
+		margin: auto;
+		background-position: center;
+		background-size: cover;
+		margin-bottom: 15px;
+	}
+	.web-application {
+		background-image: url("/assets/icons/application.png");
+	}
+	a:hover {
+		.web-application {
+			background-image: url("/assets/icons/application-alt.png");
+		}
+	}
+	.training {
+		background-image: url("/assets/icons/training.png");
+	}
+	a:hover {
+		.training {
+			background-image: url("/assets/icons/training-alt.png");
+		}
+	}
+
+	.content-management {
+		background-image: url("/assets/icons/content.png");
+	}
+	a:hover {
+		.content-management {
+			background-image: url("/assets/icons/content-alt.png");
+		}
+	}
+
+	.prototyping {
+		background-image: url("/assets/icons/prototype.png");
+	}
+	a:hover {
+		.prototyping {
+			background-image: url("/assets/icons/prototype-alt.png");
+		}
+	}
+	.mobile-development {
+		background-image: url("/assets/icons/mobile.png");
+	}
+	a:hover {
+		.mobile-development {
+			background-image: url("/assets/icons/mobile-alt.png");
+		}
+	}
+	.responsive-design {
+		background-image: url("/assets/icons/responsive.png");
+	}	
+	a:hover {
+		.responsive-design {
+			background-image: url("/assets/icons/responsive-alt.png");
+		}
+	}
+	p {
+		color: $color-one;
+	}
+}
+
+@media (max-width: 600px) {
+	.section-services {
+		padding: 50px 0;
+	}
+}
+
+.section-client-quotes {
+	@extend %section;
+	background-color: #fff;
+	flex-direction: column;
+	height: 450px;
+	text-align: center;
+	padding-left: 15px;
+	padding-right: 15px;
+	* {
+		font-family: "UG thin"
+	}
+	.margin {
+		margin-top: 45px;
+	}
+	.radio {
+		margin-top: 50px;
+	}
+}
+
+#client-name {
+	transition: opacity .3s ease-in-out;
+	opacity: 1;
+}
+
+.fade {
+	opacity: 0;
+}

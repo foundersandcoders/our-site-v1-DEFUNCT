@@ -1,0 +1,31 @@
+@import "variables";
+@import "base/fontello";
+@import "base/anchor";
+@import "base/fontello";
+@import "base/fonts";
+@import "components/button";
+@import "components/input";
+@import "components/section";
+@import "components/radio";
+@import "features/contact";
+@import "features/nav-animation";
+@import "features/navbar";
+@import "layout/copy";
+@import "layout/responsive-grid";
+@import "layout/specifics";
+@import "pages/about";
+@import "pages/error";
+@import "pages/portfolio";
+@import "pages/landing/animation";
+@import "pages/landing/landing-page";
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  color: #444;
+}
+
+body {
+  background: #f4f4f7;
+}

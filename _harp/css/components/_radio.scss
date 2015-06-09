@@ -1,0 +1,42 @@
+.radio {
+	margin-top: 20px;
+	margin-left: 30px;
+}
+
+label {
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    padding-left: 25px;
+    margin-right: 25px;
+    font-size: 13px;
+}
+
+input[type=radio] {
+    display: none;
+}
+
+label:before {
+    content: "";
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-right: 10px;
+    position: absolute;
+    left: 0;
+    bottom: 1px;
+    background-color: $color-two;
+}
+
+.radio label:before {
+    border-radius: 8px;
+}
+
+input[type=radio]:checked + label:before {
+ 	width: 16px;
+    height: 16px;    
+    background-color: $color-one;
+    font-size: 30px;
+    text-align: center;
+    line-height: 18px;
+}
