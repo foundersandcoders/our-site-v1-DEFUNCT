@@ -1,9 +1,6 @@
-##Request training for your organisation
-
 If you are intrested in having us put together a training programme for you or your staff feel free to <a onclick="fac.nav_scroll('/training/', 'contact-anchor')">get in touch</a>.
 
-### Our technology stack
-  
+<p class="list-margin-offset"><strong>Our technology stack</strong></p>
 + Languages: JavaScript 
 + Backend: Node.js, hapi, Express, Sails.js
 + Frontend: React, AngularJS
