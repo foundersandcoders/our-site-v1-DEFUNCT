@@ -20,8 +20,10 @@ $ cd oursite
 $ harp server _harp
 ```
 
-Before making a PR, don't forget to compile!
+Do NOT compile your branch and merge with master.
+The default branch is the master branch
+The master branch is not compiled (to keep our README intact and so we don't have to worry about compiling all the time)
 
-```
-$ harp compile _harp ./
+The repo owner will merge your branch with master, compile master locally and merge this with gh-pages (the live site)... If you have to do this yourself, take care.
+
 ```
