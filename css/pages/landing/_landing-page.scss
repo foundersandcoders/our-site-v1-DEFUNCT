@@ -21,6 +21,12 @@
 	}
 }
 
+.no-cssvhunit {
+	.section-landing {
+		height: 564px;
+	}
+}
+
 .section-2 {
 	@extend %section;
 	background-color: $color-two;

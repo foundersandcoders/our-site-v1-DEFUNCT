@@ -111,9 +111,6 @@ nav {
 		-o-transition:height 0.3s margin-top 0.3s, top 0.3s;
 		transition:height 0.3s margin-top 0.3s, top 0.3s;
 	}
-	.small-icon {
-		// margin-top: 19px;
-	}
 	.nav-dd-tab {
 		width: 100%;
 		top: 20vh;
@@ -121,7 +118,6 @@ nav {
 		height: 190px;
 		line-height: 190px;
 		position: absolute;
-		// display: none;
 		z-index: 100;
 		-webkit-transition:height 0.3s, line-height 0.3s, top 0.3s;
 		-moz-transition:height 0.3s line-height 0.3s, top 0.3s;
@@ -210,4 +206,50 @@ nav {
 	height: 10vh;
 	line-height: 10vh;
 	top: 10vh;
+}
+
+.no-cssvhunit {
+	nav {
+		height: 74px;
+		p {
+			line-height: 74px;
+		}
+		.desktop-only {
+			li {
+				line-height: 74px
+			}
+		}
+	}
+	.section-nav-offset {
+		height: 74px;
+	}
+	.nav-dd {
+		top: 74px;
+		height: 74px;
+		line-height: 74px;
+	}
+	.tablet-mobile-navigation {
+		.nav-dd-tab {
+			top: 74px;
+		}
+		.small-dd-tabet {
+			top: 37px;
+		}
+	}
+	.small-nav {
+		height: 37px;
+		p {
+			line-height: 37px;
+		}
+		.desktop-only {
+			li {
+				line-height: 37px;
+			}
+		}
+	}
+	.small-dd {
+		height: 37px;
+		line-height: 37px;
+		top: 37px;
+	}
 }
