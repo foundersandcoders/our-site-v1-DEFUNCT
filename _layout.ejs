@@ -2,10 +2,17 @@
 <html>
 	<head>
 		<link rel="stylesheet" href="/css/main.css">
+		<!-- Check if browser supports vh. If not, add styling for crappy browser -->
+		<script type="text/javascript">
+		 	if (Modernizr.cssvwunit) {
+				document.getElementById("body").className = "no-cssvhunit";
+			}
+		</script>
+
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		 <link rel="shortcut icon" href="/assets/favicon.ico" >
 	</head>  
-  	<body>
+  	<body id="body">
   		<%- partial("_partials/navbar") %>
     	<%- yield %>
     	<%- partial("_partials/contact") %>
