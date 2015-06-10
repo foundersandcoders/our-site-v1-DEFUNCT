@@ -1,5 +1,4 @@
 **'Git' Comfortable with the Command Line and Version Control**	
-
 Saturday 27th June 2015	
 
 If you have been dipping your toes into the world of coding, you will probably have quickly realised that in order to install most tools and frameworks, you need to interact with the command line (terminal window).

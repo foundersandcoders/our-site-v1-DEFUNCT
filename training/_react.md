@@ -1,5 +1,6 @@
 **Learning React**	
 Date TBD 	
+
 A series of three one-day workshops on Facebook's [*React*](https://facebook.github.io/react/)—a declarative, efficient and flexible JavaScript library for building user interfaces.
 
 *How to think in React*	 
