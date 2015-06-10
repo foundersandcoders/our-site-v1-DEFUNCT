@@ -26,7 +26,7 @@ This programme is challenging. We want you to be prepared for it and we do not w
 
 
 **How competitive is the entry?**    
-Very. We get several applicants for each place.
+Very. We get many applicants for each place.
 
 **How much does it cost?**     
 There are no fees.
