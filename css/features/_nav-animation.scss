@@ -1,10 +1,10 @@
 .cmn-toggle-switch {
-  display: inline;
+  // display: inline;
   position: relative;
-  overflow: hidden;
+  // overflow: hidden;
   width: 54px;
   height: 43px;
-  font-size: 0;
+  // font-size: 0;
   text-indent: -9999px;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -18,7 +18,7 @@
   -ms-transition:background 0.3s;
   -o-transition:background 0.3s;
   transition: background 0.3s;
-  vertical-align: -5px;
+  vertical-align: -6px;
 }
 
 .cmn-toggle-switch:focus {
@@ -57,7 +57,7 @@
 }
 
 .cmn-toggle-switch__htx {
-  background-color: $color-three;
+  background-color: transparent;
 }
 
 .cmn-toggle-switch__htx span {

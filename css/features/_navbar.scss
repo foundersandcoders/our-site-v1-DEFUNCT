@@ -71,14 +71,6 @@ nav {
 	}
 }
 
-// @media (max-width: $mobile) {
-// 	nav {
-// 		li {
-// 			padding: 0 15px;
-// 		}
-// 	}
-// }
-
 .section-nav-offset {
 	@extend %section;
 	height: 20vh;
@@ -127,7 +119,7 @@ nav {
 		top: 20vh;
 		left: 0;
 		height: 190px;
-		line-height: 20vh;
+		line-height: 190px;
 		position: absolute;
 		// display: none;
 		z-index: 100;
@@ -148,7 +140,7 @@ nav {
 			padding: 0 40px;
 		}
 		ul {
-			height: 127px;
+			height: 150px;
 
 			flex-direction: column;
 		}
@@ -158,7 +150,7 @@ nav {
 		h4 {
 			color: $color-three;
 			font-family: 'UG med';
-			line-height: 32px;
+			line-height: 37px;
 			&:hover, &:active {
 				font-family: 'UG bold'
 			}
@@ -195,15 +187,8 @@ nav {
 @media (max-width: $mobile) {
 	.tablet-mobile-navigation {
 		.nav-dd-tab {
-			height: 20vh;
 			.container {
-				height: 20vh;
-			}
-			ul {
-				height: 100px;
-			}
-			h4 {
-				line-height: 25px;
+				padding: 0;
 			}
 		}
 	}
@@ -225,34 +210,4 @@ nav {
 	height: 10vh;
 	line-height: 10vh;
 	top: 10vh;
-}
-
-.nav-2 {
-	height: 20vh;
-	line-height: 10vh;
-	border: 1px solid #ccc;
-	padding: 0;
-	margin-bottom: 1500px;
-	// position: relative;
-	.bottom {
-		width: 100%;
-		overflow: hidden;
-		background-color: #D8D8D8;
-	}
-	.center-2 {
-		// text-align: center;
-		max-width: 350px;
-		margin: auto;
-		display: flex;
-		justify-content: space-between;
-		// justify-content: center;
-		align-items: center;
-			background-color: #D8D8D8;
-
-	}
-}
-
-.smaller2 {
-	height: 70px;
-	line-height: 35px;
 }
