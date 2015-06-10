@@ -53,7 +53,7 @@
 		background-image: url("/assets/children-kenya.jpg");		
 	}
 	.image-three {
-		background-image: url("/assets/map-portfolio.jpg");	
+		background-image: url("/assets/camden.jpg");	
 	}
 	.image-four {
 		background-image: url("/assets/chichester-harbour.jpg");	
@@ -87,16 +87,16 @@
 				transition: opacity .3s ease-in-out;
 				h3 {
 					margin: 5px;
-					transition: margin 1s ease-in-out;
+					transition: margin .3s ease-in-out;
 				}
 			}
 		}	
 	}
 }
 
-@media (max-width: 700px) {
+@media (max-width: 1000px) {
 	.section-portfolio {
-		padding: 50px 0;
+		padding: 50px 10px;
 		.grid-4 {
 			padding: 15px;
 		}
@@ -105,6 +105,7 @@
 
 @media (max-width: 400px) {
 	.section-portfolio {
+		padding: 50px 0;
 		.grid-4 {
 			padding: 15px;
 			padding-bottom: 0;

@@ -41,7 +41,8 @@ button {
 	color: #fff;
 	background-color: $color-one;
 	border: none;
-	width: 48%;
+	width: 100px;
+	border-radius: 40px;
 	&:hover {
 		background-color: #999;
 	}	
@@ -69,8 +70,6 @@ button {
 }
 
 .tickets {
-	max-width: 100px;
-	border-radius: 30px;
 	margin: 20px 0;
 	display: block;
 	&:hover {
