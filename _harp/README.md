@@ -17,5 +17,11 @@ $ npm install -g harp
 $ cd Desktop
 $ git clone https://github.com/foundersandcoders/oursite.git
 $ cd oursite
-$ harp server
+$ harp server _harp
+```
+
+Before making a PR, don't forget to compile!
+
+```
+$ harp compile _harp ./
 ```
