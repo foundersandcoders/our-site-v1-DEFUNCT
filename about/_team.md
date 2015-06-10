@@ -42,7 +42,7 @@ Campbell is a web-developer with a background in design and 3D animation. Campbe
 		<a href="https://github.com/FilWisher" target="_blank"><div class="team-image-grid will"></div></a>
 	</div>
 	<div class="grid-4">
-		<a href="https://uk.linkedin.com/pub/izaak-rogan/99/476/1b0" target="_blank"><div class="team-image-grid izaak"></div></a>
+		<a href="https://github.com/izaakrogan" target="_blank"><div class="team-image-grid izaak"></div></a>
 	</div>
 	<div class="grid-4">
 		<a href="https://github.com/besarthoxhaj" target="_blank"><div class="team-image-grid bes"></div></a>
