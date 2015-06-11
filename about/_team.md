@@ -59,3 +59,56 @@ Campbell is a web-developer with a background in design and 3D animation. Campbe
 	</div>
 </div>
 
+## Current Students
+<div class="overflow-hidden">
+	<div class="grid-4">
+		<a href="https://github.com/abdiahmed" target="_blank"><div class="team-image-grid abdi-5"></div></a>
+	</div>
+	<div class="grid-4">
+		<a href="https://github.com/heron2014" target="_blank"><div class="team-image-grid anitac-5"></div></a>
+	</div>
+	<div class="grid-4">
+		<a href="https://github.com/anniva" target="_blank"><div class="team-image-grid anni-5"></div></a>
+	</div>
+	<div class="grid-4">
+		<a href="https://github.com/nofootnotes" target="_blank"><div class="team-image-grid claire-5"></div></a>
+	</div>
+	<div class="grid-4">
+		<a href="https://github.com/Danwhy" target="_blank"><div class="team-image-grid daniel-5"></div></a>
+	</div>
+	<div class="grid-4">
+		<a href="https://github.com/jackpandas" target="_blank"><div class="team-image-grid jackm-5"></div></a>
+	</div>
+	<div class="grid-4">
+		<a href="https://github.com/jrans" target="_blank"><div class="team-image-grid jackr-5"></div></a>
+	</div>
+	<div class="grid-4">
+		<a href="https://github.com/joshpitzalis" target="_blank"><div class="team-image-grid josh-5"></div></a>
+	</div>
+	<div class="grid-4">
+		<a href="https://github.com/Lukars" target="_blank"><div class="team-image-grid lukas-5"></div></a>
+	</div>
+	<div class="grid-4">
+		<a href="https://github.com/msmichellegar" target="_blank"><div class="team-image-grid michelle-5"></div></a>
+	</div>
+	<div class="grid-4">
+		<a href="https://github.com/minaorangina" target="_blank"><div class="team-image-grid mina-5"></div></a>
+	</div>
+	<div class="grid-4">
+		<a href="https://github.com/nikhilaravi" target="_blank"><div class="team-image-grid nikhila-5"></div></a>
+	</div>
+	<div class="grid-4">
+		<a href="https://github.com/rjmk" target="_blank"><div class="team-image-grid rafe-5"></div></a>
+	</div>
+	<div class="grid-4">
+		<a href="https://github.com/wallcrawler" target="_blank"><div class="team-image-grid ronan-5"></div></a>
+	</div>
+	<div class="grid-4">
+		<a href="https://github.com/rub1e" target="_blank"><div class="team-image-grid rubie-5"></div></a>
+	</div>
+	<div class="grid-4"><p></p></div>
+	<div class="grid-4">
+		<a href="https://github.com/SimonLab" target="_blank"><div class="team-image-grid simon-5"></div></a>
+	</div>
+</div>
+
