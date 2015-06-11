@@ -21,7 +21,7 @@ $ harp server _harp
 ```
 
 Do NOT compile your branch and merge with master.
-The default branch is the master branch
+The default branch is the master branch.
 The master branch is not compiled (to keep our README intact and so we don't have to worry about compiling all the time)
 
 The repo owner will merge your branch with master, merge master with gh-pages, then compile gh-pages... If you have to do this yourself, take care.
