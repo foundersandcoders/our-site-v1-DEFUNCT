@@ -59,6 +59,34 @@ Campbell is a web-developer with a background in design and 3D animation. Campbe
 	</div>
 </div>
 
+##Graduate Developers
+
+<div class="overflow-hidden">
+	<div class="grid-4">
+		<a href="https://github.com/adamkowalczyk" target="_blank"><div class="team-image-grid adam-4"></div></a>
+	</div>
+	<div class="grid-4">
+		<a href="https://github.com/amilvasishtha" target="_blank"><div class="team-image-grid amil-4"></div></a>
+	</div>
+	<div class="grid-4">
+		<a href="https://github.com/Neats29" target="_blank"><div class="team-image-grid anita-4"></div></a>
+	</div>
+		<div class="grid-4">
+		<a href="https://github.com/MIJOTHY" target="_blank"><div class="team-image-grid james-4"></div></a>
+	</div>
+	<div class="grid-4">
+		<a href="https://github.com/Jasonspd" target="_blank"><div class="team-image-grid jason-4"></div></a>
+	</div>
+	<div class="grid-4">
+		<a href="https://github.com/perborgen" target="_blank"><div class="team-image-grid per-4"></div></a>
+	</div>
+	<div class="grid-4"><p></p></div>
+	<div class="grid-4">
+		<a href="https://github.com/rorysedgwick" target="_blank"><div class="team-image-grid rory-4"></div></a>
+	</div>	
+</div>
+
+
 ## Current Students
 <div class="overflow-hidden">
 	<div class="grid-4">
