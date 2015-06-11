@@ -24,6 +24,10 @@ Do NOT compile your branch and merge with master.
 The default branch is the master branch
 The master branch is not compiled (to keep our README intact and so we don't have to worry about compiling all the time)
 
-The repo owner will merge your branch with master, compile master locally and merge this with gh-pages (the live site)... If you have to do this yourself, take care.
+The repo owner will merge your branch with master, merge master with gh-pages, then compile gh-pages... If you have to do this yourself, take care.
+
+FYI when using harp with gh-pages, file structure is important. The development branch file structure needs to be the same as uncompiled part of the compiled site file structure. For example, in this project, our development branch (master) has the whole site inside a folder called _harp. The compiled production branch (gh-pages) also has an uncompild folder called _harp. 
+
+We merge the uncompiled part of the production branch with the uncompiled dev branch, then compile production and commit.
 
 ```
