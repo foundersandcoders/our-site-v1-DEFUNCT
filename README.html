@@ -164,10 +164,11 @@ $ git clone https://github.com/foundersandcoders/oursite.git
 $ cd oursite
 $ harp server _harp
 </code></pre><p>Do NOT compile your branch and merge with master.
-The default branch is the master branch
+The default branch is the master branch.
 The master branch is not compiled (to keep our README intact and so we don&#39;t have to worry about compiling all the time)</p>
-<p>The repo owner will merge your branch with master, compile master locally and merge this with gh-pages (the live site)... If you have to do this yourself, take care.</p>
-<p>```</p>
+<p>The repo owner will merge your branch with master, merge master with gh-pages, then compile gh-pages... If you have to do this yourself, take care.</p>
+<p>FYI when using harp with gh-pages, file structure is important. The development branch file structure needs to be the same as uncompiled part of the compiled branch file structure. For example, in this project our development branch (master) has everything inside a folder called _harp. The compiled production branch (gh-pages) has the uncompiled site in a folder also called _harp.</p>
+<p>We merge the uncompiled part of the production branch with the uncompiled dev branch, then compile production and commit.</p>
     	<div id="contact-anchor"></div>
 <div class="contact">
 	<div class="container">
