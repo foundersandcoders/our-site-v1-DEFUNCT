@@ -2,11 +2,18 @@
 <html>
 	<head>
 		<link rel="stylesheet" href="/css/main.css">
+		<!-- Check if browser supports vh. If not, add styling for crappy browser -->
+		<script type="text/javascript">
+		 	if (Modernizr.cssvwunit) {
+				document.getElementById("body").className = "no-cssvhunit";
+			}
+		</script>
+		<script type="text/javascript" src="https://mandrillapp.com/api/docs/js/mandrill.js"></script>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="shortcut icon" href="/assets/favicon.ico">
+		<link rel="shortcut icon" href="/assets/favicon.ico" >
 	</head>  
-  	<body>
-  		<nav id="navbar">
+    <body id="body">
+        <nav id="navbar">
 	<div class="desktop-only">
 		<ul class="animate-header">
 			<li>
@@ -146,17 +153,57 @@
 
 <div class="section-nav-offset"></div>
 
-  		<div class="section-copy">
-			<div class="container">
-				<h1>Chichester Harbour</h1><p>A membership management system for the Friends of Chichester Harbour.</p>
-<h2>Challenge</h2><p>The Friends of Chichester Harbour is a registered charity, formed in 1987 to sustain and improve the environment of the harbour for the benefit of both people and wildlife. It has a large and varied membership. They approached us to help them build a new membership management system.</p>
-<p>The existing offline computer system required a lot of administrative effort by the charity&#39;s volunteer staff, and the Trustees were keen to find a way to manage and communicate with their members and to allow the members to manage their membership and payments online. </p>
-<p>Available off-the-shelf systems did not give them the flexibility they needed and, in particular, did not make it easy to manage both tech-savvy and technophobic members, nor allow membership contributions to be easily combined with donations in a single transaction, or make it easy to import existing membership records.</p>
-<h2>Solution</h2><p>An agile two-person team—pair programming for almost the entire project—produced a technically innovative and highly modular solution using <em>Node.js</em>, <em>Sails</em>, <em>Browserify</em> and the React-like framework <em>virtual-dom</em> to create a hybrid between a single-page webapp and a normal Web-based application. </p>
-<p>The team was able to respond quickly as the requirements continued to change throughout the early stages of the build, by first developing a light-weight and flexible framework, which they were then able to use as a platform for the finished product. </p>
-<h2>Results</h2><p>A beautiful and easy to use customer relationship management system, built mobile first and offering a blazingly-fast user experience on both desktop and mobile.</p>
+    	<div class="section-copy">
+	<div id="portfolio" class="section-portfolio no-padding`">
+		<h1>Portfolio</h1>
+		<div class="images-container">
+			<div class="grid-4">
+	<a href="/portfolio/p/africabriefcase">
+		<div id="img" class="image-one im">
+			<div class="overlay">
+				<h3>Africa Briefcase</h3>
+				<h3>IC Publications</h3>
 			</div>
 		</div>
+	</a>
+</div>
+
+			<div class="grid-4">
+	<a href="/portfolio/p/camdenmaps">
+		<div id="img" class="image-three im">
+			<div class="overlay">
+				<h3>Camden Maps</h3>
+				<h3>Camden Council</h3>
+			</div>
+		</div>
+	</a>
+</div>
+
+			<div class="grid-4">
+	<a href="/portfolio/p/chichester-harbour">
+		<div id="img" class="image-four im">
+			<div class="overlay">
+				<h3>Membership Management</h3>
+				<h3>Chichester Harbour</h3>
+			</div>
+		</div>
+	</a>
+</div>
+
+			<div class="grid-4">
+	<a href="/portfolio/p/africaneye">
+		<div id="img" class="image-two im">
+			<div class="overlay">
+				<h3>Africaneye</h3>
+				<h3>IC Publications</h3>
+			</div>
+		</div>
+	</a>
+</div>
+
+		</div>
+	</div>
+</div>
     	<div id="contact-anchor"></div>
 <div class="contact">
 	<div class="container">
@@ -170,22 +217,21 @@
 		</div>
 		<div class="grid-6">
 			<div class="form" method="post">
-				<form method="post">
+				<form action="//foundersandcoders.us9.list-manage.com/subscribe/post?u=a7247a4b4a67ac1517dba5895&amp;id=ee56d303a5" method="post" target="_blank">
 					<input id="contact-form-name" name="contact-form-name" type="text" placeholder="Name" class="input-one">
-					<input id="contact-form-email" type="email" placeholder="Email" class="input-one">
+					<input id="contact-form-email" type="email" name="EMAIL" placeholder="Email" class="input-one">
 					<textarea id="contact-form-message" type="text" placeholder="Message"></textarea>
+					<button type="submit" id="mc-embedded-subscribe" class="button-one subscribe">Subscribe</button>
 					<button onclick="contact_form.sendMail(); return false;" class="button-one" type"submit">Send</button>
 					<pre id="response"></pre>
-				</form>
+				</form> 
 			</div>
 		</div>
 	</div>
 </div>
-
-
-<a href="mailto:someone@example.com?Subject=Hello%20again" target="_top">
 		<footer>
-			<script src="../js/main.js"></script>
+			<script src="/js/main.js"></script>
+			<script>   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');    ga('create', 'UA-35597887-2', 'auto');   ga('send', 'pageview');  </script>
 		</footer>
   	</body>
 </html>
