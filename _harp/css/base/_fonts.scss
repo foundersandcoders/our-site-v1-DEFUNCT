@@ -129,6 +129,10 @@ a {
 	color: $color-four;
 }
 
+a:hover {
+	cursor: pointer
+}
+
 strong {
 	font-family: 'UG bold';
 }
