@@ -1,0 +1,14 @@
+.training-image-container {
+	position: relative;
+	width: 100%;
+	height: 80vh;
+	background-image: url("/assets/fac-sofa-hd-2.jpg");
+	background-position: top;
+	background-size: cover;
+}
+
+@media (max-width: $mobile) {
+	.training-image-container {
+		height: 90vh;
+	}
+}
