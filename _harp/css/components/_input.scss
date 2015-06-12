@@ -5,11 +5,12 @@ input, textarea {
 	height: 50px;
 	border: none;
 	border-bottom: 1px solid black;
+	border-radius: 0;
 	&:focus {
 		outline: 0;
 	}
 }
 
 textarea {
-	height: 90px;
+	height: 120px;
 }
