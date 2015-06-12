@@ -46,8 +46,14 @@
 	padding: 100px 70px;
 	overflow: hidden;
 	text-align: center;
+	.images-container {
+		overflow: hidden;
+	}
 	h2 {
 		margin-bottom: 30px;
+	}
+	.h2-margin-top {
+		margin-top: 30px;
 	}
 	.grid-4 {
 		padding: 20px;
@@ -99,6 +105,11 @@
 			}
 		}	
 	}
+}
+
+.no-padding {
+	padding-top: 0;
+	padding-bottom: 0;
 }
 
 @media (max-width: 1000px) {
