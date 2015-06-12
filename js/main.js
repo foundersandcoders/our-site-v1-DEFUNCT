@@ -147,20 +147,20 @@ var fac = (function (){
      * Changes the text for the client quotes on the landing page
      *
      */
-    function changeText(nameText, quoteText){
+    // function changeText(nameText, quoteText){
 
-        var client_name  = document.getElementById('client-name');
-        var client_quote = document.getElementById('client-quote');
+    //     var client_name  = document.getElementById('client-name');
+    //     var client_quote = document.getElementById('client-quote');
 
-        client_name.style.opacity = 0;
-        client_quote.style.opacity = 0;
-        timeout = setTimeout(function(thing) {
-            client_name.innerHTML = nameText;
-            client_quote.innerHTML = quoteText;
-            client_name.style.opacity = 1;
-            client_quote.style.opacity = 1;
-        }, 1000);
-    }
+    //     client_name.style.opacity = 0;
+    //     client_quote.style.opacity = 0;
+    //     timeout = setTimeout(function(thing) {
+    //         client_name.innerHTML = nameText;
+    //         client_quote.innerHTML = quoteText;
+    //         client_name.style.opacity = 1;
+    //         client_quote.style.opacity = 1;
+    //     }, 1000);
+    // }
     function currentYPosition() {
         if (self.pageYOffset) return self.pageYOffset;
         if (document.documentElement && document.documentElement.scrollTop)

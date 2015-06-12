@@ -46,6 +46,12 @@
     }
 }
 
+@media (max-width: $mobile) {
+    .animate-header {
+        animation: none;
+    }
+}
+
 .animate {
 	transition: 1s ease-in-out;
 	-moz-transition: 1s ease-in-out;
