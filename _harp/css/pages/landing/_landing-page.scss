@@ -143,6 +143,13 @@
 		list-style-type: none;
 		height: 250px;
 	}
+	.services-icon-container {
+		position: relative;
+		height: 150px;
+		width: 150px;
+		margin: auto;
+		margin-bottom: 15px;
+	}
 	.services-icon {
 		height: 150px;
 		width: 150px;
@@ -150,55 +157,94 @@
 		background-position: center;
 		background-size: cover;
 		margin-bottom: 15px;
+		position: absolute;
+		transition: opacity .3s ease-in-out;
+		opacity: 1;
 	}
+
 	.web-application {
+		z-index: 2;
+		background-image: url("/assets/icons/application-alt.png");
+	}
+	.web-application-alt {
 		background-image: url("/assets/icons/application.png");
 	}
 	a:hover {
 		.web-application {
-			background-image: url("/assets/icons/application-alt.png");
+			opacity: 0;
 		}
 	}
+
+
 	.training {
+		z-index: 2;
+		background-image: url("/assets/icons/training-alt.png");
+	}
+	.training-alt {
 		background-image: url("/assets/icons/training.png");
 	}
 	a:hover {
 		.training {
-			background-image: url("/assets/icons/training-alt.png");
+			opacity: 0;
 		}
 	}
 
+
+
 	.content-management {
+		z-index: 2;
+		background-image: url("/assets/icons/content-alt.png");
+	}
+	.content-management-alt {
 		background-image: url("/assets/icons/content.png");
 	}
 	a:hover {
 		.content-management {
-			background-image: url("/assets/icons/content-alt.png");
+			opacity: 0;
 		}
 	}
 
+
+
 	.prototyping {
+		z-index: 2;
+		background-image: url("/assets/icons/prototype-alt.png");
+	}
+	.prototyping-alt {
 		background-image: url("/assets/icons/prototype.png");
+
 	}
 	a:hover {
 		.prototyping {
-			background-image: url("/assets/icons/prototype-alt.png");
+			opacity: 0;
 		}
 	}
+
+
 	.mobile-development {
-		background-image: url("/assets/icons/mobile.png");
+		z-index: 2;
+		background-image: url("/assets/icons/mobile-alt.png");
 	}
-	a:hover {
-		.mobile-development {
-			background-image: url("/assets/icons/mobile-alt.png");
-		}
-	}
-	.responsive-design {
-		background-image: url("/assets/icons/responsive.png");
+	.mobile-development-alt {
+		background-image: url("/assets/icons/mobile.png");		
 	}	
 	a:hover {
+		.mobile-development {
+			opacity: 0;
+		}
+	}
+
+
+	.responsive-design {
+		z-index: 2;
+		background-image: url("/assets/icons/responsive-alt.png");
+	}	
+	.responsive-design-alt {
+		background-image: url("/assets/icons/responsive.png");
+	}
+	a:hover {
 		.responsive-design {
-			background-image: url("/assets/icons/responsive-alt.png");
+			opacity: 0;
 		}
 	}
 	p {
