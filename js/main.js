@@ -37,6 +37,15 @@
         toggleHandler();
       };
     };
+
+    window.onscroll=function(){
+      wait = !wait;
+      if(menu.hasClass('show') && wait){
+        menu.classList.remove('show');
+        menu.classList.add('hide');
+        toggleHandler();
+      }
+    };
   });
 
   Element.prototype.hasClass = function(className) {

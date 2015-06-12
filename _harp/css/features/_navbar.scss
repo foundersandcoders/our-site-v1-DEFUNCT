@@ -1,6 +1,7 @@
 nav {
 	width: 100%;
 	height: 20vh;
+	min-height: 44px;
 	padding: 0 25px;
 	position: fixed;
 	z-index: 1;
@@ -76,17 +77,17 @@ nav {
 	height: 20vh;
 }
 
-// .small-nav {
-// 	height: 10vh;
-// 	p {
-// 		line-height: 10vh;
-// 	}
-// 	.desktop-only {
-// 		li {
-// 			line-height: 10vh;
-// 		}
-// 	}
-// }
+.small-nav {
+	height: 10vh;
+	p {
+		line-height: 10vh;
+	}
+	.desktop-only {
+		li {
+			line-height: 10vh;
+		}
+	}
+}
 
 .nav-dd {
 	width: 100%;
@@ -206,16 +207,18 @@ nav {
 
 @media (max-width: $mobile) {
 	nav {
-		height: 60px !important;
+		height: 10vh;
 		p {
-			line-height: 60px !important;
+			line-height: 10vh;
 		}
 	}
 	.section-nav-offset {
-		height: 60px !important;
+		height: 10vh;
 	}
-	.nav-dd-tab {
-		top: 60px !important;
+	.tablet-mobile-navigation	{
+		.nav-dd-tab {
+			top: 10vh;
+		}
 	}
 }
 

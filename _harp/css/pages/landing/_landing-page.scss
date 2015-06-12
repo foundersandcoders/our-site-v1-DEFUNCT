@@ -110,7 +110,10 @@
 	}
 }
 
-@media (max-width: 400px) {
+@media (max-width: $mobile) {
+	.section-landing {
+		height: 90vh;
+	}
 	.section-portfolio {
 		padding: 50px 0;
 		.grid-4 {
