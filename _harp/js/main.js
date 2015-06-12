@@ -66,7 +66,7 @@ var fac = (function (){
      */
     var reveal = {
         nav_scroll: nav_scroll,
-        changeText: changeText
+        // changeText: changeText
     };
     var navbar_animation = {
         /**

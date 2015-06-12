@@ -5,10 +5,10 @@ Before you join us, you will be expected to complete all the material below. If 
 **Codecademy**	
 If you are not at all familiar with web programming, Codecademy is a good place to start. We recommend the following tracks.
 
-+ [Make a website](http://www.codecademy.com/en/skills/make-a-website/) 
-+ [Make an interactive website](http://www.codecademy.com/en/skills/make-an-interactive-website/) 
 + [HTML & CSS](http://www.codecademy.com/en/tracks/web)
 + [jQuery](http://www.codecademy.com/en/tracks/jquery)
++ [Make a website](http://www.codecademy.com/en/skills/make-a-website/) 
++ [Make an interactive website](http://www.codecademy.com/en/skills/make-an-interactive-website/) 
 + [JavaScript](http://www.codecademy.com/en/tracks/javascript)
 + [Web Projects](http://www.codecademy.com/tracks/projects)
 + [YouTube API](http://www.codecademy.com/en/tracks/youtube)
