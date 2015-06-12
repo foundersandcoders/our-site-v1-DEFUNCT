@@ -76,6 +76,18 @@ nav {
 	height: 20vh;
 }
 
+// .small-nav {
+// 	height: 10vh;
+// 	p {
+// 		line-height: 10vh;
+// 	}
+// 	.desktop-only {
+// 		li {
+// 			line-height: 10vh;
+// 		}
+// 	}
+// }
+
 .nav-dd {
 	width: 100%;
 	top: 20vh;
@@ -190,15 +202,20 @@ nav {
 	}
 }
 
-.small-nav {
-	height: 10vh;
-	p {
-		line-height: 10vh;
-	}
-	.desktop-only {
-		li {
-			line-height: 10vh;
+//Stop all nav animations on mobile
+
+@media (max-width: $mobile) {
+	nav {
+		height: 60px !important;
+		p {
+			line-height: 60px !important;
 		}
+	}
+	.section-nav-offset {
+		height: 60px !important;
+	}
+	.nav-dd-tab {
+		top: 60px !important;
 	}
 }
 
