@@ -4,7 +4,7 @@ nav {
 	min-height: 44px;
 	padding: 0 25px;
 	position: fixed;
-	z-index: 1;
+	z-index: 10;
 	background-color: $color-three;
 	-webkit-transition:height 0.3s, line-height 0.3s;
 	-moz-transition:height 0.3s line-height 0.3s;
