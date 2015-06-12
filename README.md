@@ -29,3 +29,4 @@ The repo owner will merge your branch with master, merge master with gh-pages, t
 FYI when using harp with gh-pages, file structure is important. The development branch file structure needs to be the same as uncompiled part of the compiled branch file structure. For example, in this project our development branch (master) has everything inside a folder called _harp. The compiled production branch (gh-pages) has the uncompiled site in a folder also called _harp.
 
 We merge the uncompiled part of the production branch with the uncompiled dev branch, then compile production and commit.
+
