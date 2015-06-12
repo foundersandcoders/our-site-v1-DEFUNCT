@@ -132,7 +132,7 @@ var fac = (function (){
         }
     }
     function home_resize() {
-        if (window.location.pathname == '/') {
+        if (window.location.pathname == '/' || window.location.pathname == /portfolio/ ) {
             img_resize();
             window.onresize = function() {
                 img_resize();
