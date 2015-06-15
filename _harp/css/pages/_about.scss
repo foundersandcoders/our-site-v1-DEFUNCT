@@ -1,6 +1,15 @@
-.test {
-	overflow: hidden;
-	z-index: 4;
+.about-team {
+	text-align: center;
+	* {
+		line-height: 140%;
+	}
+	h2 {
+		margin-top: 40px;
+	}
+}
+
+.about-management {
+	margin-bottom: 70px;
 }
 
 .overflow-hidden {
