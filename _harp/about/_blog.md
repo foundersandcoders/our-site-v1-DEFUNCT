@@ -5,3 +5,5 @@
 ### [Pooling developer talent through free education](blog/computerweekly)
 
 ### [What is our Winter 2014 cohort up to?](blog/fac3)
+
+### [Check out our Codewars leaderboard](blog/codewars)
