@@ -6,6 +6,7 @@
 	.container {
 		margin: auto;
 		max-width: 960px;
+		height: 481px;
 		width: 100%;
 		overflow: hidden;
 	}
@@ -13,12 +14,17 @@
 		display: flex;
 		justify-content: space-between;
 		flex-direction: column;
+		height: 100%;
+		padding: 50px;
+		padding-top: 70px;
+		max-width: 500px;
+		margin: auto;
+		background-image: url("/assets/old-east-end-dark.jpeg");
+		background-position: bottom;
+		background-size: cover;
 		* {
 			color: #fff;
 			font-family: 'UG thin';
-		}
-		.margin {
-			margin-bottom: 50px;
 		}
 		span {
 			margin-right: 10px;
@@ -28,6 +34,7 @@
 	}
 	.form {
 		width: 100%;
+		height: 100%;
 		overflow: hidden;
 		background-color: #fff;
 		padding: 50px;
@@ -58,9 +65,17 @@
 	.contact {
 		padding: 0;
 		padding-bottom: 50px;
+		.container {
+			height: initial;
+		}
 		.info {
 			text-align: center;
 			padding: 50px;
+			float: initial;
+			height: 100%;
+			margin-top: 50px;
+			margin-bottom: 50px;
+			height: 480px;
 		}
 		.form {
 			padding: 50px;
@@ -71,5 +86,19 @@
 @media (max-width: 500px) {
 	.contact {
 		padding: 0;
+		.info {
+			margin-top: 0;
+			margin-bottom: 0;
+		}
+		// .form {
+		// 	margin-top: 0;
+		// 	margin-bottom: 0;
+		// }
 	}
+}
+
+.contact-icon {
+	font-size: 35px;
+	// float: left;
+	margin-right: 10px;
 }
