@@ -8,7 +8,7 @@ For £500 a week a client receives:
 + A working prototype
 + An optional practical training in product management
 
-The intention of the prototyping service is to help recent graduates build a portfolio, showcase their extensive capabilities and build client/employer relationships. We offer this service to ambitious individuals and businesses where we feel there is a good chance of repeat work or employment - particularly once clients understand what our graduates are capable of producing.
+The intention of the prototyping service is to help our graduates build a portfolio, showcase their extensive capabilities and build client/employer relationships. We offer this service to ambitious individuals and businesses where we feel there is a good chance of repeat work or employment - particularly once clients understand what our graduates are capable of producing.
 
 We also offer this service to those who are interested in doing something for social good. For example, we are working with Stockport Council on a project around suicide prevention.
 
