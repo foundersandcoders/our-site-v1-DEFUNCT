@@ -7,7 +7,7 @@
 
 	<a href="https://github.com/FilWisher" target="_blank"><div class="team-image-grid will"></div></a>
 	[William Fisher](https://github.com/FilWisher)  
-	Developer with Founders & Coders
+	Developer at Founders & Coders
 
 	<a href="https://uk.linkedin.com/pub/emma-milner/29/a00/a05" target="_blank"><div class="team-image-grid emma"></div></a>
 	[Emma Milner](https://www.linkedin.com/profile/view?id=215076158)     
