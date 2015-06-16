@@ -16,7 +16,7 @@ If you are not at all familiar with web programming, Codecademy is a good place 
 **Communities**	
 Once you are somewhat familiar with Javascript, you should join Codewars, Stackoverflow and GitHub. We will also invite you to join the *Coding for everyone* community on GitHub.
 
-[Sign up for Code Wars](http://www.codewars.com/?language=javascript) and aim to reach at least Novice level with their JavaScript challenges.
+[Sign up for Codewars](http://www.codewars.com/?language=javascript), join the Founders & Coders clan and reach at least Novice level with their JavaScript challenges.
 
 [Sign up for Stack Overflow](http://stackoverflow.com/) and start asking questions.   
 
