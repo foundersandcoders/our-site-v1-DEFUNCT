@@ -14,7 +14,7 @@ Please be aware that we receive many applications for each place and selection i
 ## Application deadlines
 
 + ~~First application deadline: May 18th.~~
-+ Second application deadline: June 15th.
++ ~~Second application deadline: June 15th.~~
 + Third application deadline: July 13th.
 + Final application deadline: August 10th.
 
