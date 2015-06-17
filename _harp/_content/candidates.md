@@ -70,7 +70,7 @@ Portfolio: [github](https://github.com/msmichellegar)
 Availability: August 2015 (TBC)
 
 **Mina Gyimah | Student**     
-University of Birmingham, 2011. BA French, German & European Politics, 2:1      
+French, German & European Politics, University of Birmingham 2:1      
 Skills: Pending    
 Portfolio: [github](https://github.com/minaorangina)    
 Availability: August 2015 (TBC)
