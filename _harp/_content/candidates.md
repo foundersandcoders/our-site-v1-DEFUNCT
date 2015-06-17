@@ -15,7 +15,7 @@ Portfolio: WIP | [linkedIn](https://uk.linkedin.com/in/alexrubner)
 Availability: August 2015 (TBC)  
 
 **Anita  | Student**  
-Marketing and Management, University of Science and Technology, Distinction 
+Marketing and Management, University of Science and Technology, Distinction   
 Skills: Pending   
 Portfolio: WIP | [linkedIn](https://github.com/heron2014)  
 Availability: August 2015 (TBC) 
