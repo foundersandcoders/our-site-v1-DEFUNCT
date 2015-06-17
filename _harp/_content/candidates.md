@@ -2,14 +2,14 @@
 ### May 2015 cohort  
 
 **Abdi Ahmed | Student**  
-IT, University of Greenwich 
+IT, University of Greenwich   
 Skills: Pending  
 Portfolio: WIP | [linkedIn](https://github.com/abdiahmed)  
 Availability: August 2015 (TBC)  
 
 **Alex Rubner | Student**   
 BA Classics, University of Oxford, 1st  
-MA Philosophy, University College London
+MA Philosophy, University College London  
 Skills: Pending   
 Portfolio: WIP | [linkedIn](https://uk.linkedin.com/in/alexrubner)  
 Availability: August 2015 (TBC)  
@@ -33,7 +33,7 @@ Portfolio: [github](https://github.com/nofootnotes)
 Availability: August 2015 (TBC)
 
 **Daniel Whyte | Student**  
-English Language and Creative Writing, Kingston University, 2.1 
+English Language and Creative Writing, Kingston University, 2.1   
 Skills: Pending   
 Portfolio: [github](https://github.com/Danwhy)    
 Availability: August 2015 (TBC)
@@ -46,7 +46,7 @@ Portfolio: [github](https://github.com/jackpandas)
 Availability: August 2015 (TBC)  
 
 **Jack Rans | Student**   
-Mathematics, University of Cambridge, 2.1 
+Mathematics, University of Cambridge, 2.1   
 Skills: Pending   
 Portfolio: [github](https://github.com/jrans)    
 Availability: August 2015 (TBC)
@@ -76,25 +76,25 @@ Portfolio: [github](https://github.com/minaorangina)
 Availability: August 2015 (TBC)
 
 **Nikhila Ravi | Student**     
-MEng Bioengineering, University of Cambridge, 1st 
+MEng Bioengineering, University of Cambridge, 1st   
 Skills: Pending    
 Portfolio: [github](https://github.com/nikhilaravi)    
 Availability: August 2015 (TBC)
 
 **Rafe Kennedy | Student**      
-Physics & Philosophy, University of Oxford, 2.1 
+Physics & Philosophy, University of Oxford, 2.1   
 Skills: Pending    
 Portfolio: [github](https://github.com/rjmk)    
 Availability: August 2015 (TBC)
 
 **Ronan McCabe | Student**    
-Actuarial Mathematics, Heriot-Watt University 
+Actuarial Mathematics, Heriot-Watt University   
 Skills: Pending    
 Portfolio: [github](https://github.com/wallcrawler)    
 Availability: August 2015 (TBC)
 
 **Simon Labondance | Student**     
-Information Technology, Jean Jaures University, 13.5/20 
+Information Technology, Jean Jaures University, 13.5/20   
 Skills: Pending    
 Portfolio: [github](https://github.com/SimonLab)    
 Availability: August 2015 (TBC)
