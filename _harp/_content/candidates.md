@@ -1,30 +1,102 @@
 
 ### May 2015 cohort  
 
+**Abdi Ahmed | Student** 
+IT, University of Greenwich
+Skills: Pending   
+Portfolio: WIP | [linkedIn](https://github.com/abdiahmed)  
+Availability: August 2015 (TBC)  
+
 **Alex Rubner | Student**  
-BA Classics, University of Oxford, 2007  
-MA Philosophy, University College, London, 2008     
+BA Classics, University of Oxford, 1st  
+MA Philosophy, University College London
 Skills: Pending   
 Portfolio: WIP | [linkedIn](https://uk.linkedin.com/in/alexrubner)  
 Availability: August 2015 (TBC)  
 
+**Anita  | Student** 
+Marketing and Management, University of Science and Technology, Distinction
+Skills: Pending   
+Portfolio: WIP | [linkedIn](https://github.com/heron2014)  
+Availability: August 2015 (TBC) 
+
+**Anni Väänänen  | Student** 
+Marketing & PR, Estonian Business School, 2.67
+Skills: Pending   
+Portfolio: WIP | [linkedIn](https://github.com/anniva)  
+Availability: August 2015 (TBC) 
+
 **Claire Mitchell | Student**  
-MEng Engineering Science, University of Oxford, 2013    
+MEng Engineering Science, University of Oxford, Merit    
 Skills: Pending   
 Portfolio: [github](https://github.com/nofootnotes)    
+Availability: August 2015 (TBC)
+
+**Daniel Whyte | Student** 
+English Language and Creative Writing, Kingston University, 2.1
+Skills: Pending   
+Portfolio: [github](https://github.com/Danwhy)    
 Availability: August 2015 (TBC)
 
 **Jack McDonald | Student**  
 PhD War Studies, King's College London, 2013  
 MA International Peace & Security, King's College London, 2005  
 Skills: Pending  
-Portfolio: [github](https://github.com/jackpandas/cv/blob/master/README.md)    
+Portfolio: [github](https://github.com/jackpandas)    
 Availability: August 2015 (TBC)  
+
+**Jack Rans | Student**  
+Mathematics, University of Cambridge, 2.1
+Skills: Pending    
+Portfolio: [github](https://github.com/jrans)    
+Availability: August 2015 (TBC)
+
+**Joshua Pitzalis | Student**  
+Psychology, Open University, 2.1
+Skills: Pending    
+Portfolio: [github](https://github.com/joshpitzalis)    
+Availability: August 2015 (TBC)
+
+**Lukas Siebeck | Student**  
+Physical Engineering, Technische Universität Berlin, 2
+Skills: Pending    
+Portfolio: [github](https://github.com/Lukars)    
+Availability: August 2015 (TBC)
+
+**Michelle Garrett | Student**  
+English/French Literature, Gender Studies, University of Sydney, Distinction
+Skills: Pending    
+Portfolio: [github](https://github.com/msmichellegar)    
+Availability: August 2015 (TBC)
 
 **Mina Gyimah | Student**    
 University of Birmingham, 2011. BA French, German & European Politics, 2:1    
 Skills: Pending    
 Portfolio: [github](https://github.com/minaorangina)    
+Availability: August 2015 (TBC)
+
+**Nikhila Ravi | Student**    
+MEng Bioengineering, University of Cambridge, 1st
+Skills: Pending    
+Portfolio: [github](https://github.com/nikhilaravi)    
+Availability: August 2015 (TBC)
+
+**Rafe Kennedy | Student**    
+Physics & Philosophy, University of Oxford, 2.1
+Skills: Pending    
+Portfolio: [github](https://github.com/rjmk)    
+Availability: August 2015 (TBC)
+
+**Ronan McCabe | Student**  
+Actuarial Mathematics, Heriot-Watt University
+Skills: Pending    
+Portfolio: [github](https://github.com/wallcrawler)    
+Availability: August 2015 (TBC)
+
+**Simon Labondance | Student**    
+Information Technology, Jean Jaures University, 13.5/20
+Skills: Pending    
+Portfolio: [github](https://github.com/SimonLab)    
 Availability: August 2015 (TBC)
 
 ### January 2015 cohort
