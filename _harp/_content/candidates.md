@@ -2,7 +2,7 @@
 ### May 2015 cohort  
 
 **Abdi Ahmed | Student**  
-IT, University of Greenwich   
+IT, University of Greenwich    
 Skills: Pending  
 Portfolio: WIP | [linkedIn](https://github.com/abdiahmed)  
 Availability: August 2015 (TBC)  
