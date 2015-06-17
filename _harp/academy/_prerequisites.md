@@ -29,7 +29,7 @@ Once you are somewhat familiar with Javascript, you should join Codewars, Stacko
 Learn to touch type. And make sure that you know not just the main letter keys, but all the outer keys, too. There are many good teaching apps, but [Typing Club](http://www.typingclub.com/) is good (and free).
 
 **Reading**	
-We like [Eloquent JavaScript](http://eloquentjavascript.net/). It is available free online and includes a number of embedded code snippets that you can edit and run as you read.
+We like [Eloquent JavaScript](http://eloquentjavascript.net/). It is available free online and includes a number of embedded code snippets that you can edit and run as you read. You may also want to look at [The Annotated Version](https://watchandcode.com/courses/eloquent-javascript-the-annotated-version).
 
 We just keep coming back to [JavaScript: The Good Parts](http://it-ebooks.info/book/274/). Keep it by your bedside. Re-read Chapter weekly until it begins to sink in. Go to sleep each night dreaming in JavaScript.
 

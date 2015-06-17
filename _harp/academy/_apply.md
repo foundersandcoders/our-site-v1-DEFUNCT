@@ -24,7 +24,7 @@ We aim to accept around four applicants after each deadline. We do it this way, 
 
 + Apply early 
 + Record your voice at an adequate sound level on your video and keep it to under two minutes
-+ Reach at least 6 kyu on [Codewars](http://www.codewars.com/?language=javascript)
++ Reach at least 6 kyu on [Codewars](http://www.codewars.com/?language=javascript) (5 or 4 kyu is better)
 + Contribute to the [Coding for everyone](https://github.com/codingforeveryone) community on GitHub    
 (we will send you an invitation to join when you complete Part 1 of the application) 
 
