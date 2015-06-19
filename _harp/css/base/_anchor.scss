@@ -8,25 +8,25 @@
 	margin-top: -90px;
 }
 
-#portfolio-anchor, #services-anchor, #faq-anchor, #contact-anchor {
+#portfoliosection, #servicessection, #faqsection, #contactsection {
   	@extend %anchor;
 }
 
-#faq-anchor, #prerequisites-anchor, #request-anchor, #team-anchor, #blog-anchor {
+#faqsection, #prerequisitessection, #requestsection, #teamsection, #blogsection {
   	@extend %anchor2;
 }
 
-#schedule-anchor {
+#schedulesection {
 	position: absolute;
 	margin-top: -100px;
 }
 
-#company-anchor {
+#companysection {
 	position: absolute;
 	margin-top: -170px;
 }
 
-#apply-anchor {
+#applysection {
 	position: absolute;
 	margin-top: -90px;
 }
@@ -47,7 +47,7 @@
 	%anchor4 {
 		margin-top: -160px;
 	}
-	#apply-anchor {
+	#applysection {
 		margin-top: -160px;
 	}
 }

@@ -1,5 +1,5 @@
 **Learning React**	
-Date TBD 	
+Saturday 4th to Sunday 5th July
 
 A series of three one-day workshops on Facebook's [*React*](https://facebook.github.io/react/)—a declarative, efficient and flexible JavaScript library for building user interfaces.
 

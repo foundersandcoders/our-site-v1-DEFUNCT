@@ -1,4 +1,4 @@
-If you are intrested in having us put together a training programme for you or your staff feel free to <a onclick="fac.nav_scroll('/training/', 'contact-anchor')">get in touch</a>.
+If you are intrested in having us put together a training programme for you or your staff feel free to <a onclick="fac.nav_scroll('/training/', 'contactsection')">get in touch</a>.
 
 <p class="list-margin-offset"><strong>Our technology stack</strong></p>
 + Languages: JavaScript 
