@@ -8,25 +8,25 @@
 	margin-top: -90px;
 }
 
-#portfoliosection, #servicessection, #faqsection, #contactsection {
+#portfolio, #services, #faq, #contact {
   	@extend %anchor;
 }
 
-#faqsection, #prerequisitessection, #requestsection, #teamsection, #blogsection {
+#faq, #prerequisites, #request, #team, #blog {
   	@extend %anchor2;
 }
 
-#schedulesection {
+#schedule {
 	position: absolute;
 	margin-top: -100px;
 }
 
-#companysection {
+#company {
 	position: absolute;
 	margin-top: -170px;
 }
 
-#applysection {
+#apply {
 	position: absolute;
 	margin-top: -90px;
 }
@@ -47,7 +47,7 @@
 	%anchor4 {
 		margin-top: -160px;
 	}
-	#applysection {
+	#apply {
 		margin-top: -160px;
 	}
 }
