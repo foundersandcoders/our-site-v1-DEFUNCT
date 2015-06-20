@@ -4,7 +4,7 @@
 |----|---:|
 |Graduate developer team|£500/week|
 |Graduate developer - follow-up work|£80/day|
-|Apprentice developer|£100/day|
+|Apprentice developer|from £100/day|
 |Developer|from £150/day|
 |Lead developer|from £225/day|
 
