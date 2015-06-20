@@ -4,7 +4,7 @@ Africa briefcase is a service-orientated responsive web application, built using
 
 <p class="center"><img class="abc-desktop" src="/assets/abc-desktop.jpg"></p>
 
-##Challenge
+<!-- ##Challenge
 IC publications needed a service which would allow their freelance journalists, working around the world, to create journalistic material. They needed their editors to be able to curate and publish that material in beautiful collections of articles.
 
 ##Solution
@@ -23,3 +23,4 @@ Founders and Coders are continuing to expand this platform as our clients’ nee
 	<img class="abc-mobile" src="/assets/abc-mobile.jpg">
 	<img class="abc-laptop" src="/assets/abc-laptop.jpg">
 </p>
+ -->
