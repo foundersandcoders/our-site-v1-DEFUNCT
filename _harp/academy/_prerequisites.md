@@ -2,6 +2,8 @@
 
 Before you join us, you will be expected to complete all the material below. If you have any doubts about your ability to complete any of it, please contact us before the start of the course.
 
+## Code
+
 **Codecademy**	
 If you are not at all familiar with web programming, Codecademy is a good place to start. We recommend the following tracks.
 
@@ -43,4 +45,14 @@ For fun, read [Steve Yegge's Google platforms rant](https://plus.google.com/+Rip
 [Inventing on Principle](http://vimeo.com/36579366), a talk by Bret Victor.
 
 [Crockford on JavaScript](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PL7664379246A246CB). A wonderful series of lectures by Doug Crockford. A panoramic overview of JavaScript at an advanced level. Watch each lecture until you are no longer enjoying the experience and then fast forward or move onto the next one (Lecture 3 is probably the hardest to follow). You may want to rewatch these lectures at the end of the course.
+
+## UX
+
+Follow Scott Klemmer's [Human-Computer Interaction Design](https://www.coursera.org/course/hcidesign) on Coursera. (You do not have to do all the exercises, but do watch the lectures)
+
+## Startups
+
+Follow Steve Blank's [How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245) on Udacity. (about 24 hours)
+
+
 
