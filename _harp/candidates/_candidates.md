@@ -8,7 +8,7 @@ Portfolio: WIP | [linkedIn](https://github.com/abdiahmed)
 Availability: August 2015 (TBC)  
 
 **Alex Rubner | Student**   
-BA Classics, University of Oxford, 1st  
+BA Classics, University of Oxford, 2.1  
 MA Philosophy, University College London  
 Skills: Pending   
 Portfolio: WIP | [linkedIn](https://uk.linkedin.com/in/alexrubner)  
@@ -58,7 +58,7 @@ Portfolio: [github](https://github.com/joshpitzalis)
 Availability: August 2015 (TBC)
 
 **Lukas Siebeck | Student**   
-Physical Engineering, Technische Universität Berlin, 2  
+Physical Engineering, Technische Universität Berlin  
 Skills: Pending    
 Portfolio: [github](https://github.com/Lukars)    
 Availability: August 2015 (TBC)
@@ -88,7 +88,6 @@ Portfolio: [github](https://github.com/rjmk)
 Availability: August 2015 (TBC)
 
 **Ronan McCabe | Student**    
-Actuarial Mathematics, Heriot-Watt University   
 Skills: Pending    
 Portfolio: [github](https://github.com/wallcrawler)    
 Availability: August 2015 (TBC)
@@ -106,20 +105,27 @@ GSMD 2008. MMus BMus
 University of Warwick, 2003. BA Philosophy   
 Skills: JavaScript, Node.js, D3.js, HTML5, CSS3   
 Portfolio: <a href="https://github.com/adamkowalczyk/cv">cv</a> | <a href="https://github.com/adamkowalczyk">github</a> | <a href="https://www.linkedin.com/in/kowalczykadam">linkedIn</a>    
-Availability: April 2015
+Availability: Available
+
+**Sarah Johnson | Full-stack developer**     
+King's College London, Maths and Computer Science, 1st	
+Skills: JavaScript, Node.js, D3.js, HTML5, CSS3   
+Portfolio:<a href="https://github.com/sarahabimay">github</a> | <a href="https://www.linkedin.com/profile/view?id=51542113">linkedIn</a>  
+Availability: Available
+
 
 **Anita Amini | Full-stack developer**    
 Pharmaceutical Science 2:1    
 Kingston University, London    
 Skills: JavaScript, Node.js, React.js, D3.js, HTML5, CSS3, Sass    
 Portfolio: [github](https://github.com/Neats29) | [linkedIn](http://uk.linkedin.com/pub/anita-amini/53/464/707)    
-Availability: May 2015
+Availability: On request
 
 **James Griffiths | Full-stack developer**    
 Oxford University BA Philosophy, Politics & Economics, 2:1    
 Skills: JavaScript, Node.js, React.js, D3.js, HTML5, CSS3    
 Portfolio: [github](https://github.com/MIJOTHY)    
-Availability: on request
+Availability: On request
 
 **Olu Niyi-Awosusi | Full-stack developer**    
 University of Southampton, 2014, BA Philosophy, 2:1    
@@ -141,25 +147,25 @@ Availability: On request
 University of Leeds, 2014.	MEng Civil Engineering, 2:1    
 Skills: hapi, AngularJS, HTML5, Sass, D3.js    
 Portfolio:   <a href="https://github.com/benjaminlees">github</a>    
-Availability: on request
+Availability: On request
 
 **Harry Fox |	Front-end developer**    
 Kings College London, 2013.	LLB Law    
 Skills: UI/UX, HTML5, CSS3, Javascript    
 Portfolio:  <a href="http://harryfox.me" target="_blank">website</a> | <a href="https://uk.linkedin.com/pub/harry-fox/90/632/7b8/" target="_blank">linkedin</a> | <a href="https://github.com/harrygfox" target="_blank">github</a>
-Availability: on request
+Availability: On request
 
 **Natalia Baltazar |	Full-stack developer**    
 Birkbeck, University of London.	BSc Psychology, 2:1    
 Skills: HTML5, CSS, Sass, JS, Node.js, AngularJS, hapi, D3.js    
 Porfolio: <a href="https://github.com/NataliaLKB">github</a>    
-Availability: on request
+Availability: On request
 
 **William Fisher |	Full-stack developer**    
 University of Leeds, 2014.	BA Music, 1st    
 Skills: AngularJS, hapi, D3.js    
 Portfolio: <a href="https://github.com/FilWisher">github</a>    
-Availability: on request
+Availability: On request
 
 ### June 2014 cohort
 
@@ -167,10 +173,10 @@ Availability: on request
 University of Trieste (Italy), 2014.	Finance (108/110)    
 Skills: Express, AngularJS, D3.js, OAuth    
 Portfolio: <a href="http://www.bteamfc.co.uk">website</a>    
-Availability: on request
+Availability: On request
 
 **Izaak Rogan |	Full-stack developer**    
 King's College London.	BSc Mathematics, 1st    
 Skills: MEAN stack    
 Portfolio: <a href="http://www.bteamfc.co.uk">website</a>    
-Availability: on request
+Availability: On request
