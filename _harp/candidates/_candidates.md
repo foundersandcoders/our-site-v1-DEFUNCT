@@ -58,7 +58,7 @@ Portfolio: [github](https://github.com/joshpitzalis)
 Availability: August 2015 (TBC)
 
 **Lukas Siebeck | Student**   
-Physical Engineering, Technische Universität Berlin, 2  
+Physical Engineering, Technische Universität Berlin  
 Skills: Pending    
 Portfolio: [github](https://github.com/Lukars)    
 Availability: August 2015 (TBC)
@@ -88,7 +88,6 @@ Portfolio: [github](https://github.com/rjmk)
 Availability: August 2015 (TBC)
 
 **Ronan McCabe | Student**    
-Actuarial Mathematics, Heriot-Watt University   
 Skills: Pending    
 Portfolio: [github](https://github.com/wallcrawler)    
 Availability: August 2015 (TBC)
