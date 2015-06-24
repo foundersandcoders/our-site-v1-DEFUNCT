@@ -14,10 +14,12 @@
 	<a href="https://www.linkedin.com/in/nelsonic" target="_blank" class="team-image nelson"></a>
 
 	**Nelson Correia**    
-	Nelson is our lead technical mentor. He has previously led development teams at *Thomas Cook*, *Pearson* and *Groupon* and has been an IT consultant at *Deloitte*.
+	Nelson is our lead technical mentor. He has previously led development teams at *Thomas Cook*, *Pearson* and *Groupon* and has been an IT consultant at *Deloitte*.	
+</div>	
 
-	## Mentors
+## Mentors
 
+<div class="about-mentors">
 	<a href="https://www.linkedin.com/in/stephanfowler" target="_blank" class="team-image stephan"></a>
 
 	**Stephan Fowler**	
@@ -32,7 +34,7 @@
 
 	**Campbell Morgan**	
 	Campbell is a web-developer with a background in design and 3D animation. Campbell is a director at his own company <a href="http://www.sitechef.co.uk/" target="_blank">SiteChef</a>. He is also the founder of <a href="http://www.folissimo.com/#/" target="_blank">Folissimo</a>.
-</div>
+</div>	
 
 ## Developers
 <div class="overflow-hidden">
