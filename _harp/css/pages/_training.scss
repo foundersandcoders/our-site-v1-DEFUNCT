@@ -7,6 +7,15 @@
 	background-size: cover;
 }
 
+.training {
+	h1 {
+		font-size: 24px;
+	}
+	h2 {
+		font-size: 17px;
+	}
+}
+
 @media (max-width: $mobile) {
 	.training-image-container {
 		height: 90vh;
