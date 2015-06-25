@@ -16,7 +16,10 @@ As a full-time classroom-based course running Monday to Friday from 10am to 7pm 
 Courses are peer-led and project-based with sixteen students working in four teams of four. Students take turns to deliver seminars, run code reviews and manage projects.
 
 **What does the curriculum cover?**    
-Primarily, we cover *test-driven* development, using *JavaScript* and *Node.js*. We also cover aspects of UX design, product management and business development.
+Primarily, we cover *test-driven* development, using *JavaScript* and *Node.js*. We also cover aspects of UX design, product management and entrepreneurship.
+
+**What projects will I work on in the second half of the programme?**  
+That will be up to you. Working together, it is the responsibility of each cohort of students to find their own clients. In the first half of the programme, we will set aside time each week to help you develop and execute a business development plan.
 
 **What are the main reasons to apply for this programme?**     
 The quality of the learning experience. The commitment of your fellow students. The *Founders & Coders* community.
@@ -33,26 +36,18 @@ Very. We get many applicants for each place.
 **How much does it cost?**     
 There are no fees.
 
-**What projects will I work on in the second half of the programme?**  
-We aim to give you an opportunity to work on a variety of charitable, social enterprise, startup and commercial projects. Broadly speaking, we aim to work pro bono on good causes in Weeks 9-12 and then switch to paid projects in Weeks 13-16.
-
-**How will the projects be sourced?**    
-During the foundation course we will set aside time each week to develop and execute a business development plan. We will team up with partner organisations to find charitable and social enterprise projects. And we will invite pitches from prospective clients.
-
 **Will I be paid for the projects?**    
-From around Week 13, we aim to find you projects that will pay a modest remuneration. We aim initially for a rate of pay of around £50/day. However, this is dependent on us executing a successful business development plan together in the first 12 weeks of the programme.
+If we execute a successful business development plan together, then yes, you can expect to receive modest remuneration from your clients. We aim for around £50/day in the second half of the programme.
 
 **Do you get paid for the projects?**    
 We make no money from student projects. All payments recieved from clients go to the students after completion of each project.
 
 **How are you supporting yourselves?**    
-By working on freelance projects together. None of us is paid for teaching or mentoring on the programme.
+By working on freelance projects and delivering commercial training programmes. None of us is paid for teaching or mentoring on the programme.
 
 **If this programme is so good, why are you offering it for free?**    
 We are trying to build a community and we do not think we can do that by charging an entry fee.
 
 **How can I give something back?**    
-After the 16-week programme is finished, help us deliver the programme to our next cohort of students. 
+After the 16-week programme is finished, you can help us by joining the *Founders & Coders* co-operative, by mentoring on the programme, by finding projects for us to work on, and by continuing to work on projects with us.
 
-**Can I become a part of Founders & Coders?**    
-We are a freelance co-operative. While you are studying with us, you are treated as a non-paying member of the co-operative. After you have completed the 16-week training programme, you may, if you wish, join us as a full fee-paying member.
