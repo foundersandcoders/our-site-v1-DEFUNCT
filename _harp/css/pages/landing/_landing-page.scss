@@ -27,6 +27,64 @@
 	}
 }
 
+.section-value-proposition {
+	height: 90vh;
+	overflow: hidden;
+	.img {
+		background-image: url("/assets/action-1.jpg");
+		background-position: center;
+		background-size: cover;
+		height: 100%;
+		width: 40%;
+		float: left;
+	}
+	.img-2 {
+		background-image: url("/assets/pairing.jpg");
+		background-position: center;
+		background-size: cover;
+		height: 50%;
+		width: 30%;
+		float: left;
+	}
+	.img-3 {
+		background-image: url("/assets/the-women.jpg");
+		background-position: center;
+		background-size: cover;
+		height: 50%;
+		width: 30%;
+		float: left;
+	}
+	.vid {
+		// height: 50%;
+		width: 60%;
+		float: left;
+	}
+	.text-container {
+		height: 50%;
+		width: 60%;
+		padding: 50px;
+		float: left;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+		.text {
+			max-width: 500px;
+		}
+	}
+}
+
+@media (max-width: $tablet) {
+	.section-value-proposition {
+		.img-2, .img-3 {
+			display: none;
+		}
+		.text-container {
+			height: 100%;
+		}
+	}
+}
+
 .section-2 {
 	@extend %section;
 	background-color: $color-two;
