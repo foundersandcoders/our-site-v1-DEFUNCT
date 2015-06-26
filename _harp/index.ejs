@@ -4,20 +4,22 @@
 		<p>A co-operative of coders in London</p>
 	</div>
 
-
-	<div id="portfolio"></div>
-	<div class="section-portfolio">
-		<h2>Portfolio</h2>
-		<div class="images-container">
-			<%- partial("_partials/portfolio", { "link": "portfolio/p/africabriefcase", "name": "Africa Briefcase", "company": "Africa Media Lab", "imageStyle": "image-one", "display": "" }) %>
-			<%- partial("_partials/portfolio", { "link": "portfolio/p/camdenmaps", "name": "Camden Maps", "company": "Camden Council", "imageStyle": "image-three", "display": "" }) %>
-			<%- partial("_partials/portfolio", { "link": "portfolio/p/chichester-harbour", "name": "Membership Management", "company": "Chichester Harbour", "imageStyle": "image-four", "display": "" }) %>
-
-			<!-- <%- partial("_partials/portfolio", { "link": "portfolio/p/africaneye", "name": "Africaneye", "company": "Africa Media Lab", "imageStyle": "image-two", "display": "tablet-only" }) %> -->
-
+	<div class="section-value-proposition">
+		<div class="img"></div>
+		<div class="text-container">
+			<div class="text">
+				<p>Founders and Coders is an organisation like no other. Our goal is to build a highly skilled co-operative of developers, which is capable of sustainably providing the best web-development training in the UK - for free.</p>
+			</div>
 		</div>
-		<a href="/portfolio"><h2 class="h2-margin-top">View More</h2></a>
+		<div class="img-2"></div>
+		<div class="img-3"></div>
+
+		<!-- <div class="vid"> -->
+		<!-- <iframe src="https://player.vimeo.com/video/115169756" width="720px" height="408px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+		<!-- <div class="img-3"> -->
+		<!-- </div> -->
 	</div>
+
 	<div id="services"></div>
 	<div class="section-services">
 		<ul class="container">
@@ -80,18 +82,21 @@
 		</ul>
 	</div>
 
+	<div id="portfolio"></div>
+	<div class="section-portfolio">
+		<h2>Portfolio</h2>
+		<div class="images-container">
+			<%- partial("_partials/portfolio", { "link": "portfolio/p/africabriefcase", "name": "Africa Briefcase", "company": "Africa Media Lab", "imageStyle": "image-one", "display": "" }) %>
+			<%- partial("_partials/portfolio", { "link": "portfolio/p/camdenmaps", "name": "Camden Maps", "company": "Camden Council", "imageStyle": "image-three", "display": "" }) %>
+			<%- partial("_partials/portfolio", { "link": "portfolio/p/chichester-harbour", "name": "Membership Management", "company": "Chichester Harbour", "imageStyle": "image-four", "display": "" }) %>
+
+			<!-- <%- partial("_partials/portfolio", { "link": "portfolio/p/africaneye", "name": "Africaneye", "company": "Africa Media Lab", "imageStyle": "image-two", "display": "tablet-only" }) %> -->
+
+		</div>
+		<a href="/portfolio"><h2 class="h2-margin-top">View More</h2></a>
+	</div>
+
 	<!-- 6 services: 
-
-	Working on these 3 now:
-		prototyping - DONE
-		web application development
-		training
-
-	These 3 can go straight to case studies:
-		content management
-		membership management 
-	  interactive maps -->
-
 	<!-- <div id="services"></div> -->
 <!--
 	<div class="section-client-quotes">
