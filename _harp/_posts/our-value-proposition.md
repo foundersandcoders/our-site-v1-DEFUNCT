@@ -25,7 +25,7 @@ Since the beginning, *Founders & Coders* has been primarily about the empowermen
 From that motivation comes our value proposition:
 
     We empower people and organisations
-    Through deep and open collaboration
+    Through wholehearted and open collaboration
     To solve interesting problems with software.
 
 *Dan Sofer, June 27, 2015*
