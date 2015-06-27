@@ -7,3 +7,5 @@
 ### [What is our Winter 2014 cohort up to?](blog/fac3)
 
 ### [Check out our Codewars leaderboard](blog/codewars)
+
+### [Video from the archives](blog/video-archive)
