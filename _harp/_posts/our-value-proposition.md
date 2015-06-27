@@ -1,6 +1,6 @@
 # Our value proposition
 
-We can start in the Autumn of 2012 when I signed up for Andrew Ng's online [machine Learning](https://www.coursera.org/course/ml) course. I loved the idea of having access to a world of learning online, but I failed to complete the course. The turning point came with the next online course that I tried in early 2013. This time, I organised a meetup for it at the café in the British Library. 
+In the Autumn of 2012, I signed up for Andrew Ng's online [machine Learning](https://www.coursera.org/course/ml) course. I loved the idea of having access to a world of learning online, but I failed to complete the course. The turning point came with the next online course that I tried in early 2013. This time, I organised a meetup for it at the café in the British Library. 
 
 Four of us completed that course together and then, over the year, I ended up organising dozens of meetups for several other online courses. The experience was transformative and not because of the online materials, but because of the meetups. The courses just created a context for what really mattered: sharing the experience of studying something  interesting together.
 
