@@ -4,7 +4,7 @@
 It is a 16-week programme of study in software development for the web.
 
 **What is the aim of the programme?**    
-To give students sufficient skills to create web applications and find employment as a developer.
+To give students sufficient skills to create web applications and find employment as a web developer.
 
 **What is the structure of the programme?**    
 It is divided into two parts: an eight-week foundation course followed by eight weeks working on real-world projects.
@@ -19,7 +19,7 @@ Courses are peer-led and project-based with sixteen students working in four tea
 Primarily, we cover *test-driven* development, using *JavaScript* and *Node.js*. We also cover aspects of UX design, product management and entrepreneurship.
 
 **What projects will I work on in the second half of the programme?**  
-That will be up to you. Working together, it is the responsibility of each cohort of students to find their own clients. In the first half of the programme, we will set aside time each week to help you develop and execute a business development plan.
+We aim to give you an opportunity to work on a variety of open source, charitable, social enterprise, startup and commercial projects. The programme is under continuous development and the balance between learning and earning a living is under review.  
 
 **What are the main reasons to apply for this programme?**     
 The quality of the learning experience. The commitment of your fellow students. The *Founders & Coders* community.
@@ -36,18 +36,14 @@ Very. We get many applicants for each place.
 **How much does it cost?**     
 There are no fees.
 
-**Will I be paid for the projects?**    
-If we execute a successful business development plan together, then yes, you can expect to receive modest remuneration from your clients. We aim for around £50/day in the second half of the programme.
-
-**Do you get paid for the projects?**    
-We make no money from student projects. All payments recieved from clients go to the students after completion of each project.
-
 **How are you supporting yourselves?**    
-By working on freelance projects and delivering commercial training programmes. None of us is paid for teaching or mentoring on the programme.
+By working on freelance projects. None of us is paid for teaching or mentoring on the programme.
 
 **If this programme is so good, why are you offering it for free?**    
 We are trying to build a community and we do not think we can do that by charging an entry fee.
 
 **How can I give something back?**    
-After the 16-week programme is finished, you can help us by joining the *Founders & Coders* co-operative, by mentoring on the programme, by finding projects for us to work on, and by continuing to work on projects with us.
+After the 16-week programme is finished, help us deliver the programme to our next cohort of students.
 
+**Can I become a part of Founders & Coders?**    
+We are a freelance co-operative. While you are studying with us, you are treated as a non-paying member of the co-operative. After you have completed the 16-week training programme, you may, if you wish, join us as a full fee-paying member.
