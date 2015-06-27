@@ -85,6 +85,14 @@
 	}
 }
 
+@media (max-width: $mobile) {
+	.section-value-proposition {
+		.text-container {
+			padding: 20px;
+		}
+	}
+}
+
 .section-2 {
 	@extend %section;
 	background-color: $color-two;

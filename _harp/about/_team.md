@@ -33,7 +33,17 @@
 	<a href="https://uk.linkedin.com/pub/campbell-morgan/46/b60/805" target="_blank" class="team-image campbell"></a>
 
 	**Campbell Morgan**	
-	Campbell is a web-developer with a background in design and 3D animation. Campbell is a director at his own company <a href="http://www.sitechef.co.uk/" target="_blank">SiteChef</a>. He is also the founder of <a href="http://www.folissimo.com/#/" target="_blank">Folissimo</a>.
+	Campbell is a web-developer with a background in design and 3D animation. Campbell is the founder of <a href="http://www.sitechef.co.uk/" target="_blank">SiteChef</a>. He is also the founder of <a href="http://www.folissimo.com/#/" target="_blank">Folissimo</a>.
+
+	<a href="https://github.com/alanshaw/" target="_blank" class="team-image alan"></a>
+
+	**Alan Shaw**	
+	Alan is a full-stack developer and co-founder of <a href="https://tableflip.io/" target="_blank">Tableflip</a>. He builds websites, apps and robots.
+
+	<a href="https://uk.linkedin.com/in/olizilla" target="_blank" class="team-image oli"></a>
+
+	**Oli Evans**	
+	Oli is a full-stack deverloper and co-founder of <a href="https://tableflip.io/" target="_blank">Tableflip</a>. He has previously been a senior developer at Correspondent Corp. and lead front-end developer at Pole Star Space Applications.
 </div>	
 
 ## Developers
