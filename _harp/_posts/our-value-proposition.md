@@ -20,7 +20,7 @@ By now, we had turned ourselves into a social enterprise and were operating as a
 
 As our second cohort of students prepare to graduate from our new home on the Roman Road, as we take on increasingly ambitious projects, as we have ever greater confidence in our own skills, we are beginning to look beyond our own space and are seeking ways to collaborate with others.
 
-Since the beginning, *Founders & Coders* has been primarily about the empowerment that we have all experienced from being in a deeply collaborative environment working on interesting problems. We thrive as an organisation only because that sense of empowerment is shared by us all.
+Since the beginning, *Founders & Coders* has been primarily about the empowerment that we have all experienced from being in a deeply collaborative learning environment working on interesting problems. We thrive as an organisation only because that sense of empowerment is shared by us all.
 
 From that motivation comes our value proposition:
 
