@@ -70,55 +70,99 @@ var fac = (function (){
     };
     var navbar_animation = {
         /**
-         *  Navbar  
+         *  Resize navbar menu on load
          *
          */
-        navbar: function () {
-            window.addEventListener('scroll', function(e){
-                var distanceY = window.pageYOffset || document.documentElement.scrollTop;
-                var navbar = document.getElementById("navbar");
-                var icon = document.getElementById("cmn-toggle-switch");
-                var navTablet = document.getElementById("nav-dd-tablet");
-                if (distanceY > 300) {
-                    navbar.classList.add("small-nav");
-                    navTablet.classList.add("small-dd-tabet");
-                    icon.classList.add("small-icon");
-                } else {
-                    if(navbar.className.match(/(?:^|\s)small-nav(?!\S)/)) {
-                    navbar.classList.remove("small-nav");
-                    navTablet.classList.remove("small-dd-tabet");
-                    icon.classList.remove("small-icon");
-                    }
-                }
-            });
+        nav_resize: function () {
+          var distanceY = window.pageYOffset || document.documentElement.scrollTop;
+          var navbar = document.getElementById("navbar");
+          var icon = document.getElementById("cmn-toggle-switch");
+          var navTablet = document.getElementById("nav-dd-tablet");
+          if (distanceY > 300) {
+            navbar.classList.add("small-nav");
+            navTablet.classList.add("small-dd-tabet");
+            icon.classList.add("small-icon");
+          } else {
+            if(navbar.className.match(/(?:^|\s)small-nav(?!\S)/)) {
+            navbar.classList.remove("small-nav");
+            navTablet.classList.remove("small-dd-tabet");
+            icon.classList.remove("small-icon");
+            }
+          }
         },
         /**
-         *  Dropdown menu  
+         *  Resize navbar menu on scroll
          *
          */
-        nav_dropdown: function () {
-            window.addEventListener('scroll', function(e){
-                var distanceY = window.pageYOffset || document.documentElement.scrollTop,
-                    elements = document.getElementsByClassName('nav-dd');
-                if (distanceY > 300) {
+        nav_resize_scroll: function () {
+          window.addEventListener('scroll', function(){
+            var distanceY = window.pageYOffset || document.documentElement.scrollTop;
+            var navbar = document.getElementById("navbar");
+            var icon = document.getElementById("cmn-toggle-switch");
+            var navTablet = document.getElementById("nav-dd-tablet");
+            if (distanceY > 300) {
+                navbar.classList.add("small-nav");
+                navTablet.classList.add("small-dd-tabet");
+                icon.classList.add("small-icon");
+            } else {
+              if(navbar.className.match(/(?:^|\s)small-nav(?!\S)/)) {
+                navbar.classList.remove("small-nav");
+                navTablet.classList.remove("small-dd-tabet");
+                icon.classList.remove("small-icon");
+              }
+            }
+          });
+        },
+        /**
+         *  Resize dropdown menu on load
+         *
+         */
+        dropdown_resize: function () {
+          var distanceY = window.pageYOffset || document.documentElement.scrollTop;
+          var elements = document.getElementsByClassName('nav-dd');
+            if (distanceY > 300) {
+                for (var i=elements.length; i--;) {
+                    elements[i].classList.add("small-dd");
+                }
+            } 
+            else {
+                if(elements[0].className.match(/(?:^|\s)small-dd(?!\S)/)) {
                     for (var i=elements.length; i--;) {
-                        elements[i].classList.add("small-dd");
-                    }
-                } 
-                else {
-                    if(elements[0].className.match(/(?:^|\s)small-dd(?!\S)/)) {
-                        for (var i=elements.length; i--;) {
-                            elements[i].classList.remove("small-dd");
-                        }
+                        elements[i].classList.remove("small-dd");
                     }
                 }
-            });
+            }
+        },
+
+         /**
+         *  Resize dropdown menu on scroll
+         *
+         */
+        dropdown_resize_scroll: function () {
+          window.addEventListener('scroll', function(e){
+              var distanceY = window.pageYOffset || document.documentElement.scrollTop;
+              var elements = document.getElementsByClassName('nav-dd');
+              if (distanceY > 300) {
+                  for (var i=elements.length; i--;) {
+                      elements[i].classList.add("small-dd");
+                  }
+              } 
+              else {
+                  if(elements[0].className.match(/(?:^|\s)small-dd(?!\S)/)) {
+                      for (var i=elements.length; i--;) {
+                          elements[i].classList.remove("small-dd");
+                      }
+                  }
+              }
+          });
         }
     };
 
     function nav_resize() {
-        navbar_animation.navbar(); 
-        navbar_animation.nav_dropdown();
+      navbar_animation.nav_resize();
+      navbar_animation.nav_resize_scroll();
+      navbar_animation.dropdown_resize();
+      navbar_animation.dropdown_resize_scroll();
     }
     /**
      *  Consistent aspect ration for portfolio images
