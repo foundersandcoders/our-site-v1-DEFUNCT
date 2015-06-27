@@ -8,7 +8,7 @@ Towards the end of the year, I was offered a space in the [Collective project](h
 
 The curriculum evolved rapidly. We stopped using structured online material and started developing an open-ended, group-led, project-based approach. At one point the shift in course content was so radical that one student asked to take the course again. He became an unofficial teaching assistant. 
 
-Then, unexpectedly, three students were offered the chance to work together on a project that should have been far too ambitious for them. It wasn't. And their example inspired the next cohort of students. By the time of the fourth, and what proved to be the last, course in Camden Town, the ambition of the students had escalated to the point where most of them, after only 8 weeks of learning, aspired to be software developers.
+Then, unexpectedly, three students were offered the chance to work together on a project that should have been far too ambitious for them. It wasn't. And their example inspired the next cohort of students. By the time of the fourth, and what proved to be the last, course in Camden Town, the ambition of the students had escalated to the point where most of them, after only eight weeks of learning, aspired to be software developers.
 
 Work opportunities began to trickle in. Camden Council offered some of our graduates a mapping project; a couple of startups asked for our help. This had never been about building a business and our first customers felt more like collaborators than clients, but slowly we were bootstrapping ourselves.
 
@@ -16,9 +16,9 @@ When the funding and support in Camden Town ran out, almost the entire body of 1
 
 We now had not just students, but several mentors. Delivering the curriculum and supporting the students became a collective effort. New ideas emerged weekly. The pace of curriculum development picked up and the quality of the learning experience continued to improve. The mentors seemed to be learning as much as the students.
 
-By now, we had turned ourselves into a social enterprise and were operating as a freelance co-operative. Work was trickling in, barely enough to support ourselves, but we were too busy with the pedagogy to take business development seriously.
+By now, we had turned ourselves into a social enterprise and were operating as a freelance co-operative. Work was coming in, barely enough to support ourselves, but we were too busy with the pedagogy to take business development seriously.
 
-As our second cohort of students prepare to graduate from our new home on the Roman Road, as we take on increasingly ambitious projects, as we have ever greater confidence in our own skills, we are beginning to look beyond our own space and are seeking ways to collaborate with others.
+Now, as our second cohort of students prepares to graduate from our new home on the Roman Road, as we take on increasingly ambitious projects, as we have ever greater confidence in our own skills, we are beginning to look beyond our own space and are seeking ways to collaborate with others.
 
 Since the beginning, *Founders & Coders* has been primarily about the empowerment that we have all experienced from being in a deeply collaborative learning environment working on interesting problems. We thrive as an organisation only because that sense of empowerment is shared by us all.
 
