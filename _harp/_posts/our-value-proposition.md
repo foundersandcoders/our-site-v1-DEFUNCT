@@ -2,7 +2,7 @@
 
 We can start in the Autumn of 2012 when I signed up for Andrew Ng's online [machine Learning](https://www.coursera.org/course/ml) course. I loved the idea of having access to a world of learning online, but I failed to complete the course. The turning point came with the next online course that I tried in early 2013. This time, I organised a meetup for it at the café in the British Library. 
 
-Four of us completed that course together and then, over the course of a year, I ended up organising dozens of meetups for several other online courses. The experience was transformative and not because of the online materials, but because of the meetups. The courses just created a context for what really mattered: sharing the experience of studying something together that we all found interesting.
+Four of us completed that course together and then, over the year, I ended up organising dozens of meetups for several other online courses. The experience was transformative and not because of the online materials, but because of the meetups. The courses just created a context for what really mattered: sharing the experience of studying something together that we all found interesting.
 
 Towards the end of the year, I was offered a space in the [Collective project](http://camdencollective.co.uk/) in Camden Town. This gave me the chance to experiment with the idea of free, peer-led learning with a full-time web development course based around online material. The first course begun in January 2014. 
 
