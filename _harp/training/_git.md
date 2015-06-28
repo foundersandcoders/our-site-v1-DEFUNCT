@@ -7,4 +7,4 @@ Or perhaps you would like to use Github or collaborate with other developers and
 
 In this course we aim to teach you the fundamentals of working in the command line and the version control software, git. You will walk away with a new found knowledge and confidence to start using the command line.
 
-<a href="https://ti.to/founders-coders/git-comfortable-with-the-command-line-and-version-control" target="_blank" class="no-dec"><button class="button-one tickets">Tickets</button></a>	
+<!-- <a href="https://ti.to/founders-coders/git-comfortable-with-the-command-line-and-version-control" target="_blank" class="no-dec"><button class="button-one tickets">Tickets</button></a>	 -->
