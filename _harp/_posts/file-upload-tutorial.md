@@ -1,4 +1,4 @@
-# A tutorial on doing file uploads in Hapi
+# A tutorial on doing file uploads in hapi
 
 ### Why file uploads
 
@@ -6,7 +6,7 @@ Every website needs content, but not every website needs to create its own conte
 
 ### What we made
 
-We have built a simple website using the Hapi framework for Node.js. It provides a form for the users that allows them to submit files to the server. The server then saves that in a 'pix' directory (though the files do not have to be pictures!).
+We have built a simple website using the hapi framework for Node.js. It provides a form for the users that allows them to submit files to the server. The server then saves that in a 'pix' directory (though the files do not have to be pictures!).
 
 To aid the rest of our FAC cohort, we have developed a repo that provides a tutorial on building the site.
 
@@ -16,7 +16,7 @@ Certain modules can help in the parsing of complicated input to the server -- in
   * The first is that seeing if you can do something yourself is a good learning exercise. Even if you know you would use a module in production, it's worth having some idea how it works so that you can understand what's possible and what might be going on while it breaks. This leads to our second reason.
   * If you write all the code yourself, it's simpler to understand and debug in simple cases. There's a fairly fixed overhead in understanding the syntax and functionality of an external module. This is often a very good tradeoff, particularly if it's a module that you will be using frequently. In the case of a toy example, it would probably have been more trouble than it's worth.
 
-  * Thirdly, Hapi has some parsing ability of its own by default. We're trying to understand Hapi and what it provides, so there's not much point overwriting that capability with an extra module. If we had followed the examples we found online, we may never have known about Hapi's native parsing abilities.
+  * Thirdly, hapi has some parsing ability of its own by default. We're trying to understand hapi and what it provides, so there's not much point overwriting that capability with an extra module. If we had followed the examples we found online, we may never have known about hapi's native parsing abilities.
 
 ### The tutorial and how to use it
 
