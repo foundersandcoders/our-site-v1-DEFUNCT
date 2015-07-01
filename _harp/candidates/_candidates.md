@@ -104,13 +104,13 @@ Availability: August 2015 (TBC)
 GSMD 2008. MMus BMus   
 University of Warwick, 2003. BA Philosophy   
 Skills: JavaScript, Node.js, D3.js, HTML5, CSS3   
-Portfolio: <a href="https://github.com/adamkowalczyk/cv">cv</a> | <a href="https://github.com/adamkowalczyk">github</a> | <a href="https://www.linkedin.com/in/kowalczykadam">linkedIn</a>    
+Portfolio: <a href="https://github.com/adamkowalczyk/cv" target='_blank'>cv</a> | <a href="https://github.com/adamkowalczyk" target='_blank'>github</a> | <a href="https://www.linkedin.com/in/kowalczykadam" target='_blank'>linkedIn</a>    
 Availability: Available
 
 **Sarah Johnson | Full-stack developer**     
 King's College London, Maths and Computer Science, 1st	
-Skills: JavaScript, Node.js, D3.js, HTML5, CSS3   
-Portfolio:<a href="https://github.com/sarahabimay">github</a> | <a href="https://www.linkedin.com/profile/view?id=51542113">linkedIn</a>  
+Skills: JavaScript, Node.js, C++, D3.js, HTML5, CSS3   
+Portfolio:<a href="https://github.com/sarahabimay/CV" target='_blank'>cv</a> | <a href="https://github.com/sarahabimay" target='_blank'>github</a> | <a href="https://www.linkedin.com/profile/view?id=51542113" target='_blank'>linkedIn</a>	
 Availability: Available
 
 
@@ -130,15 +130,15 @@ Availability: On request
 **Olu Niyi-Awosusi | Full-stack developer**    
 University of Southampton, 2014, BA Philosophy, 2:1    
 Skills: JavaScript, Node.js, HTML5, CSS3    
-Portfolio: <a href="http://uk.linkedin.com/in/oluniyiawosusi">LinkedIn</a>| 
-<a href="https://github.com/oluoluoxenfree">Github</a>| 
-<a href="http://www.opentagclosetag.com/">Website</a>    
+Portfolio: <a href="http://uk.linkedin.com/in/oluniyiawosusi" target='_blank'>LinkedIn</a>| 
+<a href="https://github.com/oluoluoxenfree" target='_blank'>Github</a>| 
+<a href="http://www.opentagclosetag.com/" target='_blank'>Website</a>    
 Availability: On request
 
 **Rory Sedgwick | Full-stack Javascript developer**    
 Newcastle University 2012, BSc Marine Biology 2:1  
 Node, React, Hapi, HTML5, CSS3, D3  
-Portfolio: <a href="https://github.com/rorysedgwick">Github</a>   
+Portfolio: <a href="https://github.com/rorysedgwick" target='_blank'>Github</a>   
 Availability: On request  
 
 ### September 2014 cohort
@@ -146,7 +146,7 @@ Availability: On request
 **Benjamin Lees	| Full-stack developer**    
 University of Leeds, 2014.	MEng Civil Engineering, 2:1    
 Skills: hapi, AngularJS, HTML5, Sass, D3.js    
-Portfolio:   <a href="https://github.com/benjaminlees">github</a>    
+Portfolio:   <a href="https://github.com/benjaminlees" target='_blank'>github</a>    
 Availability: On request
 
 **Harry Fox |	Front-end developer**    
@@ -158,13 +158,13 @@ Availability: On request
 **Natalia Baltazar |	Full-stack developer**    
 Birkbeck, University of London.	BSc Psychology, 2:1    
 Skills: HTML5, CSS, Sass, JS, Node.js, AngularJS, hapi, D3.js    
-Porfolio: <a href="https://github.com/NataliaLKB">github</a>    
+Porfolio: <a href="https://github.com/NataliaLKB" target='_blank'>github</a>    
 Availability: On request
 
 **William Fisher |	Full-stack developer**    
 University of Leeds, 2014.	BA Music, 1st    
 Skills: AngularJS, hapi, D3.js    
-Portfolio: <a href="https://github.com/FilWisher">github</a>    
+Portfolio: <a href="https://github.com/FilWisher" target='_blank'>github</a>    
 Availability: On request
 
 ### June 2014 cohort
@@ -172,11 +172,11 @@ Availability: On request
 **Besart Hoxhaj	| Full-stack developer**    
 University of Trieste (Italy), 2014.	Finance (108/110)    
 Skills: Express, AngularJS, D3.js, OAuth    
-Portfolio: <a href="http://www.bteamfc.co.uk">website</a>    
+Portfolio: <a href="http://www.bteamfc.co.uk" target='_blank'>website</a>    
 Availability: On request
 
 **Izaak Rogan |	Full-stack developer**    
 King's College London.	BSc Mathematics, 1st    
 Skills: MEAN stack    
-Portfolio: <a href="http://www.bteamfc.co.uk">website</a>    
+Portfolio: <a href="http://www.bteamfc.co.uk" target='_blank'>website</a>    
 Availability: On request
