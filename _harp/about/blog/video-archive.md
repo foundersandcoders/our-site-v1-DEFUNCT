@@ -6,4 +6,4 @@
 
 This video was recorded in Autumn 2014, by our good friends Matteo Sanguinetti and Ben Symonds of <a href="http://www.wearefigure.com/">Figure</a>.
 
-We've come a long way in a short space of time but our ethos of creative, collaborate and free learning is still the same.
+We've come a long way in a short space of time but our ethos of creative, collaborative and free learning is still the same.
