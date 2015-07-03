@@ -30,16 +30,17 @@
   font-weight: normal;
   font-style: normal;
 }
-/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
-/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
-/*
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-  @font-face {
-    font-family: 'fontello';
-    src: url('../font/fontello.svg?38503109#fontello') format('svg');
-  }
+
+@font-face {
+  font-family: 'fontello';
+  src: url('../assets/icon-meetup/fontello.eot?27533110');
+  src: url('../assets/icon-meetup/fontello.eot?27533110#iefix') format('embedded-opentype'),
+       url('../assets/icon-meetup/fontello.woff?27533110') format('woff'),
+       url('../assets/icon-meetup/fontello.ttf?27533110') format('truetype'),
+       url('../assets/icon-meetup/fontello.svg?27533110#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
-*/
  
  [class^="icon-"]:before, [class*=" icon-"]:before {
   font-family: "fontello";
@@ -94,3 +95,4 @@
 .icon-github-circled-alt:before { content: '\e817'; } /* '' */
 .icon-github-circled-1:before { content: '\e818'; } /* '' */
 .icon-cancel-1:before { content: '\e80a'; } /* '' */
+.icon-meetup:before { content: '\e818'; } /* '' */
