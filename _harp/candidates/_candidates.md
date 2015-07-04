@@ -152,7 +152,7 @@ Availability: On request
 **Harry Fox |	Front-end developer**    
 Kings College London, 2013.	LLB Law    
 Skills: UI/UX, HTML5, CSS3, Javascript    
-Portfolio:  <a href="http://harryfox.me" target="_blank">website</a> | <a href="https://uk.linkedin.com/pub/harry-fox/90/632/7b8/" target="_blank">linkedin</a> | <a href="https://github.com/harrygfox" target="_blank">github</a>
+Portfolio:  <a href="http://harryfox.me" target="_blank">website</a> | <a href="https://uk.linkedin.com/pub/harry-fox/90/632/7b8/" target="_blank">linkedin</a> | <a href="https://github.com/harrygfox" target="_blank">github</a>	
 Availability: On request
 
 **Natalia Baltazar |	Full-stack developer**    
