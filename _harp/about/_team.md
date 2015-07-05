@@ -43,7 +43,7 @@
 	<a href="https://uk.linkedin.com/in/olizilla" target="_blank" class="team-image oli"></a>
 
 	**Oli Evans**	
-	Oli is a full-stack deverloper and co-founder of <a href="https://tableflip.io/" target="_blank">Tableflip</a>. He has previously been a senior developer at Correspondent Corp. and lead front-end developer at Pole Star Space Applications.
+	Oli is a full-stack developer and co-founder of <a href="https://tableflip.io/" target="_blank">Tableflip</a>. He has previously been a senior developer at Correspondent Corp. and lead front-end developer at Pole Star Space Applications.
 </div>	
 
 ## Developers
