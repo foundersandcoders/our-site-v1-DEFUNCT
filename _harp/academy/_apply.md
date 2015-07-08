@@ -11,6 +11,8 @@ In some cases, we may also request a short in-person paired programming session 
 
 Please be aware that we receive many applications for each place and selection is highly competitive.
 
+We are currently looking for someone who would like to join our organisation prior to starting the course. More information [here](/internship)
+
 ## Application deadlines
 
 + ~~First application deadline: May 18th.~~
