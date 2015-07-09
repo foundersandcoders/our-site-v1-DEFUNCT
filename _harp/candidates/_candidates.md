@@ -21,7 +21,7 @@ Portfolio: WIP | [linkedIn](https://github.com/heron2014)
 Availability: August 2015 (TBC) 
 
 **Anni Väänänen  | Student**  
-Marketing & PR, Estonian Business School, 2.67  
+Marketing & PR, Estonian Business School
 Skills: Pending   
 Portfolio: WIP | [linkedIn](https://github.com/anniva)  
 Availability: August 2015 (TBC) 
