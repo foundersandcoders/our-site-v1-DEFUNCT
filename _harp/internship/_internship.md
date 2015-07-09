@@ -6,6 +6,6 @@ The role will primarily be based around business development.
 
 A typical day might include meeting clients, going to meetups, approaching funders, talking to potential partners, organising events, updating the website, updating social media and preparing for the course.
 
-You will learn. You will have a positive impact on the world. If you are interested, you will be offered a place on our September course.
+You will learn. You will have a positive impact on the world. You will be offered a place on our September course.
 
 If you are interested in applying, please contact izaak@foundersandcoders.com
