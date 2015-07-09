@@ -1,4 +1,4 @@
-v//TODO: Refactor
+//TODO: Refactor
 //Priorities landing resize?
 
 (function (){
@@ -289,7 +289,7 @@ var fac = (function (){
 var contact_form = (function (){
 
     var reveal = {
-      sendMail:sendMail
+      sendMail:sendEmail
     };
 
     var apiEmail = "http://test-izaak.herokuapp.com/";
@@ -298,23 +298,38 @@ var contact_form = (function (){
 
       var postDate = getParams();
 
-  		var xhr = new XMLHttpRequest();
-  		xhr.onreadstatechange = function () {
-  			
-  			console.log("OK");
-  		}
-  		
-  		xhr.open("POST", apiEmail, true);
-  		xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
-  		xhr.send(JSON.stringify(postDate));
+      $.ajax({
+         type: 'POST',
+          url: apiEmail,
+          async: false,
+          jsonpCallback: 'jsonCallback',
+          contentType: "application/json",
+          dataType: 'jsonp',
+          success: function(json) {
+            console.dir(json.sites);
+          },
+          error: function(e) {
+            console.log(e.message);
+          }
+      });
+              		// var xhr = new XMLHttpRequest();
+              		// xhr.onreadstatechange = function () {
+              			
+              		// 	console.log("OK");
+              		// }
+              		
+              		// xhr.open("POST", apiEmail, true);
+                //   xhr.withCredentials = true;
+              		// xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+              		// xhr.send(JSON.stringify(postDate));
   	}
 
     function getParams() {
 
       return {
-        contactName:    document.getElementById("contact-form-name").value,
-        contactEmail:   document.getElementById("contact-form-email").value,
-        contactMessage: document.getElementById("contact-form-message").value
+        // contactName:    document.getElementById("contact-form-name").value,
+        address:   document.getElementById("contact-form-email").value,
+        message: document.getElementById("contact-form-message").value
       }
     }
     /**
