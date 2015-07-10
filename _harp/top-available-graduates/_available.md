@@ -23,7 +23,6 @@ Portfolio: [github](https://github.com/abdiahmed) | [linkedIn](https://github.co
 Marketing and Management, University of Science and Technology, Distinction   
 Skills: JavaScript, Node.js, HTML5, CSS3	 
 Portfolio: [github](https://github.com/heron2014) | [linkedIn](https://github.com/heron2014)  
-   
 
 **Mina Gyimah | Student**     
 French, German & European Politics, University of Birmingham   
@@ -39,3 +38,8 @@ Portfolio: [github](https://github.com/anniva) | [linkedIn](https://github.com/a
 Psychology, Open University	
 Skills: JavaScript, Node.js, HTML5, CSS3	 
 Portfolio: [github](https://github.com/joshpitzalis)    
+
+**Simon Labondance | Student**     
+Information Technology, Jean Jaures University  
+Skills: JavaScript, Node.js, HTML5, CSS3	
+Portfolio: [github](https://github.com/SimonLab)    
