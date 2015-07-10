@@ -93,7 +93,7 @@ Portfolio: [github](https://github.com/wallcrawler)
 Availability: Available
 
 **Simon Labondance | Student**     
-Information Technology, Jean Jaures University, 13.5/20   
+Information Technology, Jean Jaures University  
 Skills: Pending    
 Portfolio: [github](https://github.com/SimonLab)    
 Availability: August 2015 (TBC)
