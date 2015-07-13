@@ -12,7 +12,7 @@ BA Classics, University of Oxford, 2.1
 MA Philosophy, University College London  
 Skills: Pending   
 Portfolio: WIP | [linkedIn](https://uk.linkedin.com/in/alexrubner)  
-Availability: August 2015 (TBC)  
+Availability: August 2015 (TBC)   
 
 **Anita  | Student**  
 Marketing and Management, University of Science and Technology, Distinction   
