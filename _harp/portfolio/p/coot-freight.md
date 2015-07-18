@@ -6,7 +6,7 @@ A freight management system.
 
 ##Challenge
 
-Coot Freight acts as an intermediary between shipping companies and customers. They help organise, optimise and order shipping services. Previously, Coot Freight used Excel for managing the core component of their business. The challenge for Founders & Coders was to develope a tool that would streamline these processes.
+Coot Freight acts as an intermediary between shipping companies and customers. They help organise, optimise and order shipping services. Previously, Coot Freight used Excel for managing the core component of their business. The challenge for Founders & Coders was to develop a tool that would streamline these processes.
 
 ##Solution
 
