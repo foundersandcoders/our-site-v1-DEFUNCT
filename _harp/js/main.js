@@ -292,21 +292,23 @@ var contact_form = (function (){
       sendMail:sendEmail
     };
 
-    var apiEmail = "http://test-izaak.herokuapp.com/";
-
   	function sendEmail (){
+      
+      var apiEmail = "http://localhost:1337?";
 
-      var postDate = getParams();
+      var queryString = $.param(getParams());
+      apiEmail += queryString;
+      console.log(apiEmail);
 
       $.ajax({
-         type: 'POST',
+         type: 'GET',
           url: apiEmail,
           async: false,
-          jsonpCallback: 'jsonCallback',
-          contentType: "application/json",
+          // jsonpCallback: 'jsonCallback',
+          // contentType: "application/json",
           dataType: 'jsonp',
           success: function(json) {
-            console.dir(json.sites);
+            console.log(json);
           },
           error: function(e) {
             console.log(e.message);
@@ -327,7 +329,7 @@ var contact_form = (function (){
     function getParams() {
 
       return {
-        // contactName:    document.getElementById("contact-form-name").value,
+        contactName:    document.getElementById("contact-form-name").value,
         address:   document.getElementById("contact-form-email").value,
         message: document.getElementById("contact-form-message").value
       }
