@@ -30,12 +30,17 @@ Once you are somewhat familiar with Javascript, you should join Codewars, Stacko
 **Typing**	
 Learn to touch type. And make sure that you know not just the main letter keys, but all the outer keys, too. There are many good teaching apps, but [Typing Club](http://www.typingclub.com/) is good (and free).
 
-**Reading**	
+**Books**    	
 We like [Eloquent JavaScript](http://eloquentjavascript.net/). It is available free online and includes a number of embedded code snippets that you can edit and run as you read. You may also want to look at [The Annotated Version](https://watchandcode.com/courses/eloquent-javascript-the-annotated-version).
 
 We just keep coming back to [JavaScript: The Good Parts](http://it-ebooks.info/book/274/). Keep it by your bedside. Re-read Chapter weekly until it begins to sink in. Go to sleep each night dreaming in JavaScript.
 
+**Articles**    
+
 For fun, read [Steve Yegge's Google platforms rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX). *"Amazon does everything wrong, and Google does everything right...But there's one thing they do really really well that pretty much makes up for ALL of their political, philosophical and technical screw-ups"*.
+
+[What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/), a recent feature by Paul Ford.
+
 
 **Watching**	
 [Computer Science: Past, Present, and Future](http://youtu.be/5Tk09c0FQ3M), a talk by Ed Lazowska.

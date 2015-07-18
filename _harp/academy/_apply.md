@@ -17,7 +17,7 @@ We are currently looking for someone who would like to join our organisation pri
 
 + ~~First application deadline: May 18th.~~
 + ~~Second application deadline: June 15th.~~
-+ Third application deadline: July 13th.
++ ~~Third application deadline: July 13th.~~
 + Final application deadline: August 10th.
 
 We aim to accept around four applicants after each deadline. We do it this way, so that applicants can get feedback on their application within a month or so of applying. Early applicants will either get a confirmed place or (so long as they continue to make progress with the prerequisites) their application will remain in the applicant pool until the final deadline.

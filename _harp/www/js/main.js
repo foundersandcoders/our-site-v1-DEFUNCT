@@ -287,57 +287,52 @@ var fac = (function (){
  *  
  */
 var contact_form = (function (){
+
     var reveal = {
-        sendMail:sendMail
+      sendMail:sendEmail
     };
-    /**
-     *  Constructs the email for Mandrill
-     *  which we will recieve
-     */
-    function createParams(name, email, message, location) { 
-        var params = {
-            "message": {
-                "from_email":email,
-                "to":[{"email":"contact@foundersandcoders.org"}],
-                "subject": name + " from " + location,
-                "text": message
-            }
-        };
-        return params;
-    };
-    /**
-     *  TODO
-     *  
-     */
-    m = new mandrill.Mandrill('J23eakjghP54ii1jfviYfg');
-     /**
-     *  Send params with input value
-     *  from contact form to Madrill
-     */
 
+  	function sendEmail (){
+      
+      var apiEmail = "http://localhost:1337?";
 
+      var queryString = $.param(getParams());
+      apiEmail += queryString;
+      console.log(apiEmail);
 
-    function sendMail() {
+      $.ajax({
+         type: 'GET',
+          url: apiEmail,
+          async: false,
+          // jsonpCallback: 'jsonCallback',
+          // contentType: "application/json",
+          dataType: 'jsonp',
+          success: function(json) {
+            console.log(json);
+          },
+          error: function(e) {
+            console.log(e.message);
+          }
+      });
+              		// var xhr = new XMLHttpRequest();
+              		// xhr.onreadstatechange = function () {
+              			
+              		// 	console.log("OK");
+              		// }
+              		
+              		// xhr.open("POST", apiEmail, true);
+                //   xhr.withCredentials = true;
+              		// xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+              		// xhr.send(JSON.stringify(postDate));
+  	}
 
-      var xhr = new XMLHttpRequest();
-      xhr.open('POST', '/Controller/Action');
-      xhr.setRequestHeader('Content-Type', 'application/json');
-      xhr.onreadystatechange = function () {
-        if (xhr.readyState == 4 && xhr.status == 200) {
-            alert(xhr.responseText);
-        }
+    function getParams() {
+
+      return {
+        contactName:    document.getElementById("contact-form-name").value,
+        address:   document.getElementById("contact-form-email").value,
+        message: document.getElementById("contact-form-message").value
       }
-      xhr.send(JSON.stringify(myData));
-
-        var contactName = document.getElementById("contact-form-name").value;
-        var contactEmail = document.getElementById("contact-form-email").value;
-        var contactMessage = document.getElementById("contact-form-message").value;
-        var pathName = window.location.pathname;
-        m.messages.send(createParams(contactName, contactEmail, contactMessage, pathName), function(res) {
-            alert('Your message has been sent. Thank you!')
-        }, function(err) {
-            alert('Error sending message.');
-        });
     }
     /**
      *  Returns object with the
