@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+		<title>Founders & Coders | Javascript Course London</title>
+		<meta name="description" content="Javascript Courses in London | Founders and Coders is a non-profit co-operative. We produce beautiful software and provide training, classes and workshops.">
+		<link rel="stylesheet" href="/css/main.css">
+		<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+		<!-- Check if browser supports vh. If not, add styling for crappy browser -->
+		<script src="/js/modernizr.js"></script>
+		<script type="text/javascript">
+		 	if (Modernizr.cssvwunit) {
+				document.getElementById("body").className = "no-cssvhunit";
+			}
+		</script>
+		<script type="text/javascript" src="https://mandrillapp.com/api/docs/js/mandrill.js"></script>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" href="/assets/favicon.ico" >
+		<meta name="google-site-verification" content="mOpWptCT92oi7c5sI1qLgywVvQyN8eAalYCjl3qNurw" />
+		<meta name="google-site-verification" content="mOpWptCT92oi7c5sI1qLgywVvQyN8eAalYCjl3qNurw" />
+	</head>  
+    <body id="body">
+        <nav id="navbar">
+	<div class="desktop-only">
+		<ul class="animate-header">
+			<li>
+				<a href="/"><h4 class="bold">HOME</h4></a>
+				<div class="nav-dd">
+					<ul>
+						<li>
+							<h4 onclick="fac.nav_scroll('/', 'portfolio')">Portfolio</h4>
+						</li>
+						<li>
+							<h4 onclick="fac.nav_scroll('/', 'services')">Services</h4>
+						</li>
+						<li>
+							<h4 onclick="fac.nav_scroll('/', 'contact')">Contact</h4>
+						</li>
+					</ul>	
+				</div>
+			</li>
+			<li>
+				<a href="/training"><h4 class="bold">TRAINING</h4></a>
+				<div class="nav-dd">
+					<ul>
+						<li>
+							<h4 onclick="fac.nav_scroll('/training/', 'schedule')">Schedule</h4>
+						</li>
+						<li>
+							<h4 onclick="fac.nav_scroll('/training/', 'request')">Request</h4>
+						</li>
+					</ul>
+				</div>
+			</li>
+			<li>
+				<a href="/academy"><h4 class="bold">ACADEMY</h4></a>
+				<div class="nav-dd">
+					<ul>
+						<li>
+							<h4 onclick="fac.nav_scroll('/academy/', 'apply')">Applications</h4>
+						</li>
+						<li>
+							<h4 onclick="fac.nav_scroll('/academy/', 'faq')">FAQ</h4>
+						</li>
+						<li>
+							<h4 onclick="fac.nav_scroll('/academy/', 'prerequisites')">Prerequisites</h4>
+						</li>
+					</ul>	
+				</div>
+			</li>
+			<li>
+				<a href="/about"><h4 class="bold">ABOUT</h4></a>
+				<div class="nav-dd">
+					<ul>
+						<li>
+							<h4 onclick="fac.nav_scroll('/about/', 'company')">Company</h4>
+						</li>
+						<li>
+							<h4 onclick="fac.nav_scroll('/about/', 'team')">Team</h4>
+						</li>
+						<li>
+							<h4 onclick="fac.nav_scroll('/about/', 'blog')">Blog</h4>
+						</li>
+						<li>
+							<h4 onclick="fac.nav_scroll('/about/', 'contact')">Contact</h4>
+						</li>
+					</ul>	
+				</div>
+			</li>
+		</ul>
+	</div>
+	<div class="dropdownToggle">
+		<div class="tablet-mobile-only tablet-mobile-navigation">
+			<a data-toggle="dropdown">
+				<p>
+					<button id="cmn-toggle-switch" class="icon cmn-toggle-switch cmn-toggle-switch__htx">
+			  			<span>toggle menu</span>
+					</button>
+				</p>
+			</a>
+			<div class="nav-settings-dropdown">
+				<div id="nav-dd-tablet" class="nav-dd-tab">
+					<div class="container">
+						<ul>
+							<li>
+								<h4 onclick="fac.nav_scroll('/')" class="top-level">HOME</h4>
+							</li>
+							<li>
+								<h4 onclick="fac.nav_scroll('/', 'portfolio')">Portfolio</h4>
+							</li>
+							<li>
+								<h4 onclick="fac.nav_scroll('/', 'services')">Services</h4>
+							</li>
+							<li>
+								<h4 onclick="fac.nav_scroll('/', 'contact')">Contact</h4>
+							</li>
+						</ul>
+						<ul>
+							<li>
+								<h4 onclick="fac.nav_scroll('/training')" class="top-level">TRAINING</h4>
+							</li>
+							<li>
+								<h4 onclick="fac.nav_scroll('/training/', 'schedule')">Schedule</h4>
+							</li>
+							<li>
+								<h4 onclick="fac.nav_scroll('/training/', 'request')">Request</h4>
+							</li>
+						</ul>
+						<ul>
+							<li>
+								<h4 onclick="fac.nav_scroll('/academy')" class="top-level">ACADEMY</h4>
+							</li>
+							<li>
+								<h4 onclick="fac.nav_scroll('/academy/', 'apply')">Applications</h4>
+							</li>
+							<li>
+								<h4 onclick="fac.nav_scroll('/academy/', 'faq')">FAQ</h4>
+							</li>
+							<li>
+								<h4 onclick="fac.nav_scroll('/academy/', 'prerequisites')">Prerequisites</h4>
+							</li>
+						</ul>
+						<ul>
+							<li>
+								<h4 onclick="fac.nav_scroll('/about')" class="top-level">ABOUT</h4>
+							</li>
+							<li>
+								<h4 onclick="fac.nav_scroll('/about/', 'company')">Company</h4>
+							</li>
+							<li>
+								<h4 onclick="fac.nav_scroll('/about/', 'team')">Team</h4>
+							</li>
+							<li>
+								<h4 onclick="fac.nav_scroll('/about/', 'blog')">Blog</h4>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>	
+</nav>
+
+<div class="section-nav-offset"></div>
+
+    	<div class="training-image-container">
+</div>
+<div class="section-copy training">
+	<div class="container">
+		<div id="schedule"></div>
+		<h1 class="small-h1">Intensive. Collaborative. Javascript Course, London.</h1>
+		<h2 class="small-h2">Founders & Coders is offering the following web development classes and training workshops in JavaScript, Nodejs, Angularjs, React and related subjects.</h2>
+		<br>	
+		<!-- <h2>Coming Up<h2> -->
+		<p><strong>Learn Reactjs</strong><br>Date TBD</p>
+<p>A weekend workshop on Facebook&#39;s <a href="https://facebook.github.io/react/"><em>React</em></a>—a declarative, efficient and flexible JavaScript library for building user interfaces.</p>
+<p><em>How to think in React</em><br>The first of is an introductory, interactive workshop in which you will be introduced to the fundamental concepts of React, learn how to set up your dev environment for an optimal workflow, and how to start building your own library of components for reuse across projects. Some knowledge of JavaScript is expected, but other than that, all you need is a laptop and an inquisitive mind!  </p>
+<p><em>Building a real-world app in React</em><br>A follow-up to How to think in React, in which we will learn how to apply the concepts already learnt through building an app. To get the most out of this workshop, you will either have attended <em>How to think in React</em> or will already have a good working knowledge of React fundamentals.</p>
+<!-- *Introduction to Flux*    
+In the third of three workshops on *React*,  we will be converting a purely *React* app into one built with the *Flux* design pattern. By doing so, you will be able to see why you might want to use Flux if you're using React, and how you might start going about changing your app accordingly.  To get the most out of this workshop, you will either have attended our earlier workshops or you will have some experience with using React, and you understand the difference between *state* and *props*, where state should lie, and how components can set the state of other components. -->
+<!-- <a href="https://ti.to/founders-coders/begin-react-workshop-copy" target="_blank" class="no-dec"><button class="button-one tickets">Tickets</button></a>     -->
+		<br>
+		<p><strong>JavaScript Masterclass: Node.js and Express</strong><br>Date TBD</p>
+<p>In this masterclass, we will be building our own stripped down version of Express. Concepts covered will include routing, handlers and middleware. A good working knowledge of JavaScript and some experience of Node.js is essential for this workshop.
+<!-- <a href="https://ti.to/founders-coders/javascript-node-js-and-express" target="_blank" class="no-dec"><button class="button-one tickets">Tickets</button></a> --></p>
+
+		<br>
+		<p><strong>&#39;Git&#39; Comfortable with the Command Line and Version Control</strong><br>Date TBD    </p>
+<p>If you have been dipping your toes into the world of coding, you will probably have quickly realised that in order to install most tools and frameworks, you need to interact with the command line (terminal window).</p>
+<p>Or perhaps you would like to use Github or collaborate with other developers and need to learn git. But interacting with your computer using the command line can be very intimidating at first.</p>
+<p>In this course we aim to teach you the fundamentals of working in the command line and the version control software, git. You will walk away with a new found knowledge and confidence to start using the command line.</p>
+<!-- <a href="https://ti.to/founders-coders/git-comfortable-with-the-command-line-and-version-control" target="_blank" class="no-dec"><button class="button-one tickets">Tickets</button></a>     -->
+		<div id="request"></div>
+		<h2>Request training for your organisation</h2>
+		<p>If you are intrested in having us put together a training programme for you or your staff feel free to <a onclick="fac.nav_scroll('/training/', 'contactsection')">get in touch</a>.</p>
+<p></p><p class="list-margin-offset"><strong>Our technology stack</strong></p>
+<ul>
+<li>Languages: JavaScript </li>
+<li>Backend: Node.js, hapi, Express, Sails.js</li>
+<li>Frontend: React, AngularJS</li>
+<li>Mobile: React Native, Cordova, PhoneGap, Ionic, Famous</li>
+<li>Data visualisation and mapping: D3, Leaflet </li>
+<li>Deployment: GitHub, Docker, Vagrant, Heroku, Amazon S3, Microsoft Azure </li>
+<li>Databases: MongoDB, PostgresSQL, Redis, ElasticSearch</li>
+<li>Testing: QUnit, Mocha, Lab, Tape, Jasmine, Protractor</li>
+<li>Code coverage: Code Climate</li>
+<li>Continuous integration: Travis CI, Codeship</li>
+<li>Agile project management tools: Pivotal Tracker</li>
+</ul>
+
+	</div>
+</div>
+    	<div id="contact"></div>
+<div class="contact">
+	<div class="container">
+		<div itemscope itemtype="http://schema.org/LocalBusiness" class="grid-6 info">
+			<p itemprop="telephone">+44 20 3583 2442</p>
+			<a href="mailto:contact@foundersandcoders.org"><p itemprop="email">contact@foundersandcoders.org</p></a>
+			<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+				<span itemprop="streetAddress">14 Palmers Road</span>, 
+				<span itemprop="addressLocality">London</span>, 
+				<span itemprop="postalCode">E2 OSY</span>
+			</p>
+			<p><span itemprop="name">FOUNDERS & CODERS</span> <span>C.I.C. </span><br/> Company No. 09408874</p>
+			<div>
+				<a href="https://twitter.com/founderscoders" target="_blank"><i class="icon-twitter-circled contact-icon"></i></a>
+				<a href="https://www.facebook.com/foundersandcoders" target="_blank"><i class="icon-facebook-circled contact-icon"></i></a>
+				<a href="https://github.com/foundersandcoders" target="_blank"><i class="icon-github-circled contact-icon"></i></a>						
+				<a href="mailto:contact@foundersandcoders.org" target="_blank"><i class="icon-mail-circled contact-icon"></i></a>
+				<a href="https://www.google.co.uk/maps/place/14+Palmers+Rd,+London+E2+0SY" target="_blank"><i class="icon-location-circled contact-icon"></i></a>
+				<a href="http://www.meetup.com/founderscoders/" target="_blank"><i class="icon-meetup contact-icon"></i></a>
+				<!-- <a href=""><i class="icon-instagram-circled contact-icon"></i></a>			 -->
+			</div>	
+		</div>
+		<div class="grid-6">
+			<div class="form" method="post">
+				<form action="//foundersandcoders.us9.list-manage.com/subscribe/post?u=a7247a4b4a67ac1517dba5895&amp;id=ee56d303a5" method="post" target="_blank">
+					<input id="contact-form-name" name="contact-form-name" type="text" placeholder="Name" class="input-one">
+					<input id="contact-form-email" type="email" name="EMAIL" placeholder="Email" class="input-one">
+					<textarea id="contact-form-message" type="text" placeholder="Message"></textarea>
+					<button type="submit" id="mc-embedded-subscribe" class="button-one subscribe">Subscribe</button>
+					<button onclick="contact_form.sendMail(); return false;" class="button-one" type"submit">Send</button>
+					<pre id="response"></pre>
+				</form> 
+			</div>
+		</div>
+	</div>
+</div>
+		<footer>
+			<script src="/js/main.js"></script>
+			<script>   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');    ga('create', 'UA-35597887-2', 'auto');   ga('send', 'pageview');  </script>
+		</footer>
+  	</body>
+</html>
