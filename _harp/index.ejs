@@ -4,7 +4,41 @@
 		<p>A co-operative of coders in London</p>
 	</div>
 
-	
+	<div id="portfolio"></div>
+	<div class="section-portfolio">
+		<h2>Portfolio</h2>
+		<div class="images-container">
+			<%- partial("_partials/portfolio", { "link": "portfolio/p/africabriefcase", "name": "Africa Briefcase", "company": "Africa Media Lab", "imageStyle": "image-one", "display": "" }) %>
+			<%- partial("_partials/portfolio", { "link": "portfolio/p/camdenmaps", "name": "Camden Maps", "company": "Camden Council", "imageStyle": "image-three", "display": "" }) %>
+			<%- partial("_partials/portfolio", { "link": "portfolio/p/chichester-harbour", "name": "Membership Management", "company": "Chichester Harbour", "imageStyle": "image-four", "display": "" }) %>
+			<%- partial("_partials/portfolio", { "link": "portfolio/p/chichester-harbour/stockport", "name": "Suicide Prevention", "company": "Stockport Council", "imageStyle": "image-five", "display": "tablet-only" }) %>
+
+			<!-- <%- partial("_partials/portfolio", { "link": "portfolio/p/africaneye", "name": "Africaneye", "company": "Africa Media Lab", "imageStyle": "image-two", "display": "tablet-only" }) %> -->
+
+		</div>
+		<a href="/portfolio"><h2 class="h2-margin-top">View More</h2></a>
+	</div>
+
+	<!-- 6 services: 
+	<!-- <div id="services"></div> -->
+<!--
+	<div class="section-client-quotes">
+		<p id="client-name">Tom Humphreys, CEO Muduno</p> 
+		<p id="client-quote" class="margin">"Founders & Coders have been a game-changing resource for our business"</p>
+		<div class="radio">
+			<input id="client-one" type="radio" name="client" onclick='fac.changeText("Tom Humphreys, CEO Muduno", "\"Founders & Coders have been a game-changing resource for our business\"")' checked>
+	   		<label for="client-one"></label>
+<<<<<<< HEAD
+	    	<input id="client-two" type="radio" name="client" onclick='fac.changeText("Tom Humphreys, CEO Muduno", "\"Founders & Coders have been a game-changing resource for our business\"")'>
+=======
+	    	<input id="client-two" type="radio" name="client" onclick='fac.changeText("Francois Mounier, Head of Development Services, Camden Council", "The level of energy and commitment from the team and the wider Founders & Coders community throughout the project was fantastic.")'>
+>>>>>>> af23d1458a53b3ade288d1bdeb3ff48bd7f9ea16
+	    	<label for="client-two"></label>
+	    	<input id="client-three" type="radio" name="client" onclick='fac.changeText("Tom Humphreys, CEO Muduno", "\"Founders & Coders have been a game-changing resource for our business\"")'>
+	    	<label for="client-three"></label>
+	    </div>
+	</div>
+-->
 	<div class="section-value-proposition">
 		<a href="/about">
 			<img src="./assets/montage-flower.png"/>
@@ -20,6 +54,9 @@
 	</div>
 
 
+
+	
+	
 	<div id="services"></div>
 	<div class="section-services">
 		<ul class="container">
@@ -82,40 +119,6 @@
 		</ul>
 	</div>
 
-	<div id="portfolio"></div>
-	<div class="section-portfolio">
-		<h2>Portfolio</h2>
-		<div class="images-container">
-			<%- partial("_partials/portfolio", { "link": "portfolio/p/africabriefcase", "name": "Africa Briefcase", "company": "Africa Media Lab", "imageStyle": "image-one", "display": "" }) %>
-			<%- partial("_partials/portfolio", { "link": "portfolio/p/camdenmaps", "name": "Camden Maps", "company": "Camden Council", "imageStyle": "image-three", "display": "" }) %>
-			<%- partial("_partials/portfolio", { "link": "portfolio/p/chichester-harbour", "name": "Membership Management", "company": "Chichester Harbour", "imageStyle": "image-four", "display": "" }) %>
-			<%- partial("_partials/portfolio", { "link": "portfolio/p/chichester-harbour/stockport", "name": "Suicide Prevention", "company": "Stockport Council", "imageStyle": "image-five", "display": "tablet-only" }) %>
 
-			<!-- <%- partial("_partials/portfolio", { "link": "portfolio/p/africaneye", "name": "Africaneye", "company": "Africa Media Lab", "imageStyle": "image-two", "display": "tablet-only" }) %> -->
-
-		</div>
-		<a href="/portfolio"><h2 class="h2-margin-top">View More</h2></a>
-	</div>
-
-	<!-- 6 services: 
-	<!-- <div id="services"></div> -->
-<!--
-	<div class="section-client-quotes">
-		<p id="client-name">Tom Humphreys, CEO Muduno</p> 
-		<p id="client-quote" class="margin">"Founders & Coders have been a game-changing resource for our business"</p>
-		<div class="radio">
-			<input id="client-one" type="radio" name="client" onclick='fac.changeText("Tom Humphreys, CEO Muduno", "\"Founders & Coders have been a game-changing resource for our business\"")' checked>
-	   		<label for="client-one"></label>
-<<<<<<< HEAD
-	    	<input id="client-two" type="radio" name="client" onclick='fac.changeText("Tom Humphreys, CEO Muduno", "\"Founders & Coders have been a game-changing resource for our business\"")'>
-=======
-	    	<input id="client-two" type="radio" name="client" onclick='fac.changeText("Francois Mounier, Head of Development Services, Camden Council", "The level of energy and commitment from the team and the wider Founders & Coders community throughout the project was fantastic.")'>
->>>>>>> af23d1458a53b3ade288d1bdeb3ff48bd7f9ea16
-	    	<label for="client-two"></label>
-	    	<input id="client-three" type="radio" name="client" onclick='fac.changeText("Tom Humphreys, CEO Muduno", "\"Founders & Coders have been a game-changing resource for our business\"")'>
-	    	<label for="client-three"></label>
-	    </div>
-	</div>
--->
 	<div class="methods"></div>
 </div>
