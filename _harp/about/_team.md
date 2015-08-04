@@ -66,15 +66,9 @@
 	<div class="grid-4">
 		<a href="https://github.com/harrygfox" target="_blank"><div class="team-image-grid harry"></div></a>
 	</div>
-	<div class="grid-4"><p></p></div>
 	<div class="grid-4">
 		<a href="https://uk.linkedin.com/pub/emma-milner/29/a00/a05" target="_blank"><div class="team-image-grid emma"></div></a>
 	</div>
-</div>
-
-##Graduate Developers
-
-<div class="overflow-hidden">
 	<div class="grid-4">
 		<a href="https://github.com/adamkowalczyk" target="_blank"><div class="team-image-grid adam-4"></div></a>
 	</div>
@@ -93,15 +87,9 @@
 	<div class="grid-4">
 		<a href="https://github.com/perborgen" target="_blank"><div class="team-image-grid per-4"></div></a>
 	</div>
-	<div class="grid-4"><p></p></div>
 	<div class="grid-4">
 		<a href="https://github.com/rorysedgwick" target="_blank"><div class="team-image-grid rory-4"></div></a>
 	</div>	
-</div>
-
-
-## Current Students
-<div class="overflow-hidden">
 	<div class="grid-4">
 		<a href="https://github.com/abdiahmed" target="_blank"><div class="team-image-grid abdi-5"></div></a>
 	</div>
@@ -147,9 +135,10 @@
 	<div class="grid-4">
 		<a href="https://github.com/rub1e" target="_blank"><div class="team-image-grid rubie-5"></div></a>
 	</div>
-	<div class="grid-4"><p></p></div>
 	<div class="grid-4">
 		<a href="https://github.com/SimonLab" target="_blank"><div class="team-image-grid simon-5"></div></a>
 	</div>
 </div>
+
+
 
