@@ -7,11 +7,9 @@ We are now taking applications for the course starting on January 11th, based at
 + [Application form, Part 1](apply1.html) (the shorter one) 
 + [Application form, Part 2](apply2.html) (the longer one) 
 
-In some cases, we may also request a short in-person paired programming session (remote sessions can also be arranged). 
+We may also request a short in-person paired programming session (remote sessions can also be arranged). 
 
-Please be aware that we receive many applications for each place and selection is highly competitive.
-
-We are currently looking for applicants who would like to join our organisation prior to starting the course. More information [here](/internship)
+We are currently looking for applicants who would like to join our organisation prior to starting the course. More information [here](/internship).
 
 ## Application deadlines
 
@@ -22,23 +20,21 @@ We are currently looking for applicants who would like to join our organisation 
 
 We aim to accept around four applicants after each deadline. We do it this way, so that applicants can get feedback on their application within a month or so of applying. Early applicants will either get a confirmed place or (so long as they continue to make progress with the prerequisites) their application will remain in the applicant pool until the final deadline.
 
-## Things you can do to improve your chances of getting on the course
+## Application criteria
+
+We receive many applications for each place and selection is highly competitive. we will expect you to have started on your journey to become a software developer before you join us on the programme.
 
 + Apply early 
-+ Record your voice at an adequate sound level on your video and keep it to under two minutes
-+ Reach at least 5 kyu on [Codewars](http://www.codewars.com/?language=javascript) (4 kyu is better)
++ Record your voice at an adequate sound level on your video and keep it to under two minutes;
++ Reach at least 5 kyu on [Codewars](http://www.codewars.com/?language=javascript);
++ Create some kata on [CodeWars](http://www.codewars.com/kata/new);
++ Ask or answer some questions on [stackoverflow](http://stackoverflow.com/users/2660363/dejs);
++ Get active on [GitHub](https://github.com/); create some pull requests, open some issues, and make some commits;
 + Contribute to [our community on GitHub](https://github.com/codingforeveryone)    
-(we will send you an invitation to join when you complete Part 1 of the application) 
+(we will send you an invitation to join when you complete Part 1 of the application); 
 + Be active in  [our Gitter chatroom](https://gitter.im/codingforeveryone)
 
-We particularly recommend:
-+ Creating your own kata on Codewars and posting them to the Gitter chatroom.
-+ Trying out other applicants' kata and leaving feedback for them on Codewars.
-+ Being helpful to newbies on Gitter.
-
-Successful early applicants will usually be given offers conditional on remaining active in Gitter.
-
-If you have no coding experience, getting to 5 kyu (or higher) in Code wars will take time. If you are an absolute beginner, you will need to spend a considerable amount of time to meet the required standard. 
+If you have no coding experience, creating kata on Codewars, getting familiar with GitHub, and getting to the point where you feel comfortable asking questions on Stackoverflow will take time.
 
 But please do not be daunted. We encourage you to seek help and encouragement from other applicants. Join us on GitHub, use our Gitter channel, and if you live in London consider signing up for our [Monday evening meetups](http://www.meetup.com/founderscoders/).
 
