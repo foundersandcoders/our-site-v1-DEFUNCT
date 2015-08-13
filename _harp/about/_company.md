@@ -1,11 +1,5 @@
 # About us
 
-*Founders & Coders C.I.C.* is a not-for-profit social enterprise and freelance co-operative that is owned and managed by graduates of its free coding programme.
+*Founders & Coders C.I.C.* runs what is probably the most challenging course in software development in the UK. We take students with little or no knowledge of programming and bring them up to a level where they are capable of finding employment, working freelance or starting their own project. We aim for 100% of our graduates to be earning a living in software development.
 
-Our goal is to build a highly skilled co-operative of developers, which is capable of producing beautifully crafted software; while providing the best web-development training in the UK - for free.
-
-Our digital agency develops software applications for both Web and mobile.
-
-Our programme is greatly over-subscribed and attracts applicants from all over the world.
-
-All of our profits go back into improving the quality of our training programmes and supporting our graduates.
+Our intention is to provide the best possible training in web development - for free. We manage this through the support of our mentors, the tech communtiy and our graduates, who often join our faculty to help to teach future cohorts.
