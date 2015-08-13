@@ -2,5 +2,4 @@
 
 <img src="/assets/fac-logo.png" class="fac-logo">
 
-
-Founders & Coders runs what is probably the most challenging course of its kind in the UK: An eight-week, full-time foundation course in software development for the Web, followed by another eight weeks building a portfolio and then the possibility of a further eight weeks helping us deliver the course to our next cohort of students, while continuing to sharpen your skills as a developer.
+Founders & Coders runs what is probably the most challenging course of its kind in the UK: A 16-week, full-time course in software development for the Web.
