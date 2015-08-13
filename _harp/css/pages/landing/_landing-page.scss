@@ -14,7 +14,7 @@
 		font-family: 'UG thin';
 	}
 	h1 {
-		font-size: 33px;
+		font-size: 52px;
 	}
 	p {
 		margin-bottom: 20vh;
@@ -24,6 +24,31 @@
 .no-cssvhunit {
 	.section-landing {
 		height: 564px;
+	}
+}
+
+@media (max-width: 820px) {
+	.section-landing {
+		h1 {
+			font-size: 30px;
+		}
+		.T {
+			display: none;
+		}
+	}
+}
+
+@media (max-width: 620px) {
+	.section-landing {
+		h1 {
+			font-size: 25px;
+		}
+		span {
+			display: none;
+		}
+		.T {
+			display: inline;
+		}
 	}
 }
 
