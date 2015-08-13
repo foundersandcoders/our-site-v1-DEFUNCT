@@ -19,6 +19,9 @@
 	p {
 		margin-bottom: 20vh;
 	}
+	.capital-t {
+		display: none;
+	}
 }
 
 .no-cssvhunit {
@@ -32,9 +35,6 @@
 		h1 {
 			font-size: 30px;
 		}
-		.T {
-			display: none;
-		}
 	}
 }
 
@@ -46,7 +46,7 @@
 		span {
 			display: none;
 		}
-		.T {
+		.capital-t {
 			display: inline;
 		}
 	}
