@@ -8,4 +8,4 @@ A typical day might include meeting clients, going to meetups, approaching funde
 
 You will learn. You will have a positive impact on the world. You will be offered a place on a future course.
 
-If you are interested in applying, please contact izaak@foundersandcoders.com
+If you are interested in applying, please contact dan@foundersandcoders.com
