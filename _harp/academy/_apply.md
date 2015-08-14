@@ -9,7 +9,7 @@ We are now taking applications for the course starting on January 11th, based at
 
 We may also request a short in-person paired programming session (remote sessions can also be arranged). 
 
-We are currently looking for applicants who would like to join our organisation prior to starting the course. More information [here](/internship).
+We also now run a pre-course internship programme. The aim of the programme is to give promising candidates who may not yet have met our application criteria to continue with their preparation in a supportive environment and to work as part of a small business development team for the course that you will be participating in. Just check the *"I am interested in participating in the internship programme"* box when completing the application form.
 
 ## Application deadlines
 
