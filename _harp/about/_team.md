@@ -94,6 +94,9 @@
 		<a href="https://github.com/abdiahmed" target="_blank"><div class="team-image-grid abdi-5"></div></a>
 	</div>
 	<div class="grid-4">
+		<a href="https://uk.linkedin.com/in/gregaubert" target="_blank"><div class="team-image-grid greg-4"></div></a>
+	</div>
+	<div class="grid-4">
 		<a href="https://github.com/heron2014" target="_blank"><div class="team-image-grid anitac-5"></div></a>
 	</div>
 	<div class="grid-4">
