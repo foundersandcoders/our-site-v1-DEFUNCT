@@ -33,7 +33,7 @@
 	<a href="https://uk.linkedin.com/pub/campbell-morgan/46/b60/805" target="_blank" class="team-image campbell"></a>
 
 	**Campbell Morgan**
-	Campbell is a web-developer with a background in design and 3D animation. Campbell is the founder of <a href="http://www.sitechef.co.uk/" target="_blank">SiteChef</a>. He is also the founder of <a href="http://www.folissimo.com/#/" target="_blank">Folissimo</a>.
+	Campbell is a web developer with a background in design and 3D animation. Campbell is the founder of <a href="http://www.sitechef.co.uk/" target="_blank">SiteChef</a>. He is also the founder of <a href="http://www.folissimo.com/#/" target="_blank">Folissimo</a>.
 
 	<a href="https://github.com/alanshaw/" target="_blank" class="team-image alan"></a>
 
