@@ -9,7 +9,7 @@
 	<a href="https://www.linkedin.com/in/iteles" target="_blank" class="team-image ines"></a>
 
 	**Ines Teles**
-	Ines is a director of *Founders & Coders C.I.C.*, project manager, developer and organiser of *Ladies who Code*. She previously spent several years as a consultant at *Accenture*.
+	Ines is a director of *Founders & Coders C.I.C.*, project manager, developer and organiser of [*Ladies who Code*](www.meetup.com/Ladies-Who-Code-UK/). She previously spent several years as a consultant at *Accenture*.
 
 	<a href="https://www.linkedin.com/in/nelsonic" target="_blank" class="team-image nelson"></a>
 
