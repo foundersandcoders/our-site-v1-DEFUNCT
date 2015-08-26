@@ -3,7 +3,7 @@
 <div class="fac3">
 	<a href="https://github.com/NataliaLKB" target="_blank"><div class="team-image-grid natalia"></div></a>
 	[Natalia Baltazar](https://github.com/NataliaLKB)    	
-	Developer at Founders & Coders. Currently working on Street Flowers, in collaboration with [Table-Flip](http://tableflip.io/)
+	Developer at [the Guardian](http://www.theguardian.com/uk)
 
 	<a href="https://github.com/FilWisher" target="_blank"><div class="team-image-grid will"></div></a>
 	[William Fisher](https://github.com/FilWisher)  
