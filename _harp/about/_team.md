@@ -9,7 +9,7 @@
 	<a href="https://www.linkedin.com/in/iteles" target="_blank" class="team-image ines"></a>
 
 	**Ines Teles**
-	Ines is a director of *Founders & Coders C.I.C.*, project manager, developer and organiser of [*Ladies who Code*](www.meetup.com/Ladies-Who-Code-UK/). She previously spent several years as a consultant at *Accenture*.
+	Ines is a director of *Founders & Coders C.I.C.*, project manager, developer and organiser of *Ladies who Code*. She previously spent several years as a consultant at *Accenture*.
 
 	<a href="https://www.linkedin.com/in/nelsonic" target="_blank" class="team-image nelson"></a>
 
@@ -33,7 +33,7 @@
 	<a href="https://uk.linkedin.com/pub/campbell-morgan/46/b60/805" target="_blank" class="team-image campbell"></a>
 
 	**Campbell Morgan**
-	Campbell is a web developer with a background in design and 3D animation. Campbell is the founder of <a href="http://www.sitechef.co.uk/" target="_blank">SiteChef</a>. He is also the founder of <a href="http://www.folissimo.com/#/" target="_blank">Folissimo</a>.
+	Campbell is a web-developer with a background in design and 3D animation. Campbell is the founder of <a href="http://www.sitechef.co.uk/" target="_blank">SiteChef</a>. He is also the founder of <a href="http://www.folissimo.com/#/" target="_blank">Folissimo</a>.
 
 	<a href="https://github.com/alanshaw/" target="_blank" class="team-image alan"></a>
 
@@ -67,9 +67,6 @@
 		<a href="https://github.com/harrygfox" target="_blank"><div class="team-image-grid harry"></div></a>
 	</div>
 	<div class="grid-4">
-		<a href="https://uk.linkedin.com/pub/emma-milner/29/a00/a05" target="_blank"><div class="team-image-grid emma"></div></a>
-	</div>
-	<div class="grid-4">
 		<a href="https://github.com/adamkowalczyk" target="_blank"><div class="team-image-grid adam-4"></div></a>
 	</div>
 	<div class="grid-4">
@@ -86,9 +83,6 @@
 	</div>
 	<div class="grid-4">
 		<a href="https://github.com/perborgen" target="_blank"><div class="team-image-grid per-4"></div></a>
-	</div>
-	<div class="grid-4">
-		<div class="team-image-grid dave-4"></div>
 	</div>
 	<div class="grid-4">
 		<a href="https://github.com/rorysedgwick" target="_blank"><div class="team-image-grid rory-4"></div></a>

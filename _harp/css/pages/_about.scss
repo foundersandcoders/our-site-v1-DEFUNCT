@@ -35,8 +35,32 @@
 	background-size:cover;
 	background-position:center center;
 	background-repeat:no-repeat;
-		margin: 30px auto;
+		margin: 1em auto;
 
+}
+
+.review {
+	height: 10em;
+	background-color: white;
+	position: relative;
+	border-radius: 1em;
+	padding: 1em;
+}
+
+.square {
+	position: absolute;
+	bottom: 0;
+	margin: auto;
+	width: 10%;
+	height: 2em;
+	background-color: white;
+	transform: rotate(45deg);
+	left:45%;
+	z-index: -1;
+}
+
+.grid-4 {
+	padding: 2em;
 }
 
 .dan {
@@ -189,10 +213,6 @@
 
 .per-4 {
 	background-image:url("../img/us/fac4/per-4.jpeg");
-}
-
-.dave-4 {
-	background-image:url("../img/us/fac4/dave-4.jpg");
 }
 
 .rory-4 {

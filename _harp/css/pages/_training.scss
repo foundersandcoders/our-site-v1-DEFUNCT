@@ -21,3 +21,18 @@
 		height: 90vh;
 	}
 }
+
+.employers {
+	padding-top: 20px;
+	h2 {
+		margin: 40px 0  5px 0;
+		font-style: normal;
+	}
+	h2:first-child {
+		margin-top: 0;
+	}
+	p {
+		margin-bottom: 20px;
+		font-style: normal;
+	}
+}

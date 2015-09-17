@@ -41,11 +41,11 @@ button {
 	border-radius: 40px;
 	&:hover {
 		background-color: #999;
-	}	
+	}
 	&:active {
 		background-color: $color-one;
-	}	
-}	
+	}
+}
 
 .button-two {
 	@extend %button;
@@ -56,13 +56,41 @@ button {
 		background-color: #999;
 		color: #fff;
 		border: none;
-	}	
+	}
 	&:active {
-		background-color: #333;	
+		background-color: #333;
 		color: #fff;
 		border: none;
-	}	
+	}
 }
+
+.button-three {
+	@extend %button;
+	background-color: $color-three;
+	color: $color-one;
+	border: 1px solid #ccc;
+	border-radius: 40px;
+	font-family: 'UG bold';
+	letter-spacing: 1px;
+	font-size: 20px;
+	padding: 10px 20px;
+	opacity: 0.7;
+	&:hover {
+		background-color: #999;
+		border: 1px solid #999;
+		color: #fff;
+	}
+	&:active {
+		background-color: #333;
+		border: 1px solid #ccc;
+		color: #fff;
+	}
+}
+
+.button-four {
+	@extend %button;
+}
+
 
 .tickets {
 	margin: 20px 0 50px 0;

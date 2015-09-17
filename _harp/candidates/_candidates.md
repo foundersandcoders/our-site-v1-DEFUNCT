@@ -155,6 +155,12 @@ Skills: UI/UX, HTML5, CSS3, Javascript
 Portfolio:  <a href="http://harryfox.me" target="_blank">website</a> | <a href="https://uk.linkedin.com/pub/harry-fox/90/632/7b8/" target="_blank">linkedin</a> | <a href="https://github.com/harrygfox" target="_blank">github</a>	
 Availability: On request
 
+**Natalia Baltazar |	Full-stack developer**    
+Birkbeck, University of London.	BSc Psychology, 2:1    
+Skills: HTML5, CSS, Sass, JS, Node.js, AngularJS, hapi, D3.js    
+Porfolio: <a href="https://github.com/NataliaLKB" target='_blank'>github</a>    
+Availability: On request
+
 **William Fisher |	Full-stack developer**    
 University of Leeds, 2014.	BA Music, 1st    
 Skills: AngularJS, hapi, D3.js    

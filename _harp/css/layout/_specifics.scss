@@ -91,3 +91,23 @@
 	width: 100px;
 	float: right;
 }
+
+.display-inline-dektop {
+	display: inline;
+}
+
+@media (max-width: $tablet) {
+	.display-inline-dektop {
+		display: none;
+	}
+}
+
+.display-inline-tablet {
+	display: none;
+}
+
+@media (max-width: $tablet) {
+	.display-inline-tablet {
+		display: inline;
+	}
+}

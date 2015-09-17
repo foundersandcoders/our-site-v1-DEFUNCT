@@ -1,5 +1,5 @@
 # About us
 
-*Founders & Coders C.I.C.* runs what is probably the most challenging course in software development in the UK. We take students with little or no knowledge of programming and bring them up to a level where they are capable of finding employment, working freelance or starting their own project. We aim for 100% of our graduates to be earning a living in software development.
+*Founders & Coders C.I.C.* provides the industry's leading training in full-stack JavaScript. Our courses are free and all of the profits we make from placing our graduates go back into improving the quality of our training programme.
 
-Our intention is to provide the best possible training in web development - for free. We manage this through the support of our mentors, the tech community and our graduates, who often join our faculty to help to teach future cohorts.
+We believe that an elite eduction should not just be accessible to those who can afford to pay for it. We aim to provide the best possible training in web development for free. We manage this through the support of our mentors, the tech community and our graduates, who often join our faculty to help to teach future cohorts.

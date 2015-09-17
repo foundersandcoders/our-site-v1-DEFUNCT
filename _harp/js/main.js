@@ -124,7 +124,7 @@ var fac = (function (){
                 for (var i=elements.length; i--;) {
                     elements[i].classList.add("small-dd");
                 }
-            } 
+            }
             else {
                 if(elements[0].className.match(/(?:^|\s)small-dd(?!\S)/)) {
                     for (var i=elements.length; i--;) {
@@ -146,7 +146,7 @@ var fac = (function (){
                   for (var i=elements.length; i--;) {
                       elements[i].classList.add("small-dd");
                   }
-              } 
+              }
               else {
                   if(elements[0].className.match(/(?:^|\s)small-dd(?!\S)/)) {
                       for (var i=elements.length; i--;) {
@@ -167,7 +167,7 @@ var fac = (function (){
     /**
      *  Consistent aspect ration for portfolio images
      *
-     */  
+     */
     function img_resize()	{
         var imgWidth = document.getElementById("img").offsetWidth;
         var elements = document.getElementsByClassName('im');
@@ -176,7 +176,7 @@ var fac = (function (){
         }
     }
     function home_resize() {
-        if (window.location.pathname == '/' || window.location.pathname == /portfolio/ ) {
+        if (window.location.pathname == '/agency/') {
             img_resize();
             window.onresize = function() {
                 img_resize();
@@ -250,7 +250,7 @@ var fac = (function (){
         }
     }
     /**
-     *  Get the user to the specific section. Scrolls to section 
+     *  Get the user to the specific section. Scrolls to section
      *  if already on the correct page. Navigates directly to content
      *  if navigating between pages.
      *
@@ -282,48 +282,43 @@ var fac = (function (){
 }());
 
 /**
- *  Contact form
- *  
+ *  New contact form functionality with Heroku
+ *
  */
-
 var contact_form = (function (){
+
     var reveal = {
-        sendMail:sendMail
+      sendMail:sendEmail
     };
-    /**
-     *  Constructs the email for Mandrill
-     *  which we will recieve
-     */
-    function createParams(name, email, message, location) { 
-        var params = {
-            "message": {
-                "from_email":email,
-                "to":[{"email":"contact@foundersandcoders.org"}],
-                "subject": name + " from " + location,
-                "text": message
-            }
-        };
-        return params;
-    };
-    /**
-     *  TODO
-     *  
-     */
-    m = new mandrill.Mandrill('J23eakjghP54ii1jfviYfg');
-     /**
-     *  Send params with input value
-     *  from contact form to Madrill
-     */
-    function sendMail() {
-        var contactName = document.getElementById("contact-form-name").value;
-        var contactEmail = document.getElementById("contact-form-email").value;
-        var contactMessage = document.getElementById("contact-form-message").value;
-        var pathName = window.location.pathname;
-        m.messages.send(createParams(contactName, contactEmail, contactMessage, pathName), function(res) {
-            alert('Your message has been sent. Thank you!')
-        }, function(err) {
-            alert('Error sending message.');
-        });
+
+    function sendEmail (){
+
+      var postData = getParams();
+
+      var apiEmail = "http://founderscoders.herokuapp.com/email?body=" + JSON.stringify(postData);
+
+      $.ajax({
+        type: 'GET',
+        url: apiEmail,
+        dataType: 'jsonp',
+        success: function(json) {
+          console.dir(json);
+          window.alert("Message sent");
+        },
+        error: function(e) {
+          console.log(e);
+          window.alert("Message sent");
+        }
+      });
+  	}
+
+    function getParams() {
+
+      return {
+        contactName: document.getElementById("contact-form-name").value,
+        address:     document.getElementById("contact-form-email").value,
+        message:     document.getElementById("contact-form-message").value
+      }
     }
     /**
      *  Returns object with the
@@ -332,61 +327,10 @@ var contact_form = (function (){
     return reveal;
 }());
 
-
-
-/**
- *  New contact form functionality with Heroku
- *  
- */
-// var contact_form = (function (){
-
-//     var reveal = {
-//       sendMail:sendEmail
-//     };
-
-//     var apiEmail = "http://test-izaak.herokuapp.com/";
-
-//   	function sendEmail (){
-
-//       var postDate = getParams();
-
-//       $.ajax({
-//          type: 'POST',
-//           url: apiEmail,
-//           async: false,
-//           jsonpCallback: 'jsonCallback',
-//           contentType: "application/json",
-//           dataType: 'jsonp',
-//           success: function(json) {
-//             console.dir(json.sites);
-//           },
-//           error: function(e) {
-//             console.log(e.message);
-//           }
-//       });
-//               		// var xhr = new XMLHttpRequest();
-//               		// xhr.onreadstatechange = function () {
-              			
-//               		// 	console.log("OK");
-//               		// }
-              		
-//               		// xhr.open("POST", apiEmail, true);
-//                 //   xhr.withCredentials = true;
-//               		// xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
-//               		// xhr.send(JSON.stringify(postDate));
-//   	}
-
-//     function getParams() {
-
-//       return {
-//         // contactName:    document.getElementById("contact-form-name").value,
-//         address:   document.getElementById("contact-form-email").value,
-//         message: document.getElementById("contact-form-message").value
-//       }
-//     }
-//     /**
-//      *  Returns object with the
-//      *  public methods
-//      */
-//     return reveal;
-// }());
+$(document).ready(function(){
+  $("#button").hover(function(){
+      $("#image").css("opacity", 0);
+      }, function(){
+      $("#image").css("opacity", 1);
+  });
+});
