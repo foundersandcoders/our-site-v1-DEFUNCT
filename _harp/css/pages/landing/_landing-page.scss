@@ -203,6 +203,12 @@
 	}
 }
 
+@media (max-width: 700px) {
+	.testimonial-section {
+		display: none;
+	}
+}
+
 .apply-section {
 	background-image: url('../assets/fac4.png');
 	background-size: cover;
