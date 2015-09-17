@@ -131,8 +131,6 @@ nav {
 		width: 100%;
 		top: 20vh;
 		left: 0;
-		height: 190px;
-		line-height: 190px;
 		position: absolute;
 		z-index: 100;
 		-webkit-transition:height 0.3s, line-height 0.3s, top 0.3s;
@@ -141,7 +139,6 @@ nav {
 		-o-transition:height 0.3s line-height 0.3s, top 0.3s;
 		transition:height 0.3s line-height 0.3s, top 0.3s;
 		background-color: #333;
-		padding: 0 15px;
 		.container {
 			display: flex;
 			justify-content: space-between;
@@ -149,10 +146,10 @@ nav {
 			max-width: 650px;
 			margin: auto;
 			height: 190px;
-			padding: 0 40px;
+			padding: 30px;
 		}
 		ul {
-			height: 150px;
+			height: auto;
 
 			flex-direction: column;
 		}
@@ -190,17 +187,9 @@ nav {
 	.tablet-mobile-navigation {
 		.nav-dd-tab {
 			.container {
-				padding: 0 15px;
-			}
-		}
-	}
-}
-
-@media (max-width: $mobile) {
-	.tablet-mobile-navigation {
-		.nav-dd-tab {
-			.container {
-				padding: 0;
+				height: 100%;
+				display: flex;
+				align-items: center;
 			}
 		}
 	}
