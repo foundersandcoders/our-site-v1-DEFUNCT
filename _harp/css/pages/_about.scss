@@ -1,0 +1,266 @@
+.about-team {
+	text-align: center;
+	* {
+		line-height: 140%;
+	}
+	h2 {
+		margin-top: 40px;
+	}
+}
+
+.about-management, .about-mentors {
+	margin-bottom: 70px;
+}
+
+.overflow-hidden {
+	overflow: hidden;
+}
+
+.team-image {
+	width:200px;
+	height:200px;
+	display:block;
+	border-radius: 100%;
+	background-size:cover;
+	background-position:center center;
+	background-repeat:no-repeat;
+	margin: 40px auto;
+}
+
+.team-image-grid{
+	width:200px;
+	height:200px;
+	display:block;
+	border-radius: 100%;
+	background-size:cover;
+	background-position:center center;
+	background-repeat:no-repeat;
+		margin: 1em auto;
+
+}
+
+.review {
+	height: 10em;
+	background-color: white;
+	position: relative;
+	border-radius: 1em;
+	padding: 1em;
+}
+
+.square {
+	position: absolute;
+	bottom: 0;
+	margin: auto;
+	width: 10%;
+	height: 2em;
+	background-color: white;
+	transform: rotate(45deg);
+	left:45%;
+	z-index: -1;
+}
+
+.grid-4 {
+	padding: 2em;
+}
+
+.dan {
+	background-image:url("../img/us/mentors/dan.jpg");
+}
+
+.ines {
+	background-image:url("../img/us/mentors/ines.jpg");
+}
+
+.nelson {
+	background-image:url("../img/us/mentors/nelson.jpg");
+}
+
+.stephan {
+	background-image:url("../img/us/mentors/stephan.jpg");
+}
+
+.robin {
+	background-image:url("../img/us/mentors/robin.jpg");
+}
+
+.campbell {
+	background-image:url("../img/us/mentors/campbell.png");
+}
+
+.alan {
+	background-image:url("../img/us/mentors/alan.jpg");
+}
+
+.oli {
+	background-image:url("../img/us/mentors/oli.jpg");
+}
+
+.izaak {
+	background-image:url("../img/us/2014/izaak-beach.jpg");
+}
+
+.bes {
+	background-image:url("../img/us/2014/bes.jpg");
+}
+
+.natalia {
+	background-image:url("../img/us/2014/natalia.jpg");
+}
+
+.will {
+	background-image:url("../img/us/2014/will.jpg");
+}
+
+.benji {
+	background-image:url("../img/us/2014/benji-boat.jpg");
+}
+
+.harry {
+	background-image:url("../img/us/2014/harry.jpg");
+}
+
+.emma {
+	background-image:url("../img/us/2014/emma.jpg");
+}
+
+//FAC5
+
+.abdi-5 {
+	background-image:url("../img/us/fac5/abdi.jpg");
+}
+
+.anitac-5 {
+	background-image:url("../img/us/fac5/anitac.jpg");
+}
+
+.anni-5 {
+	background-image:url("../img/us/fac5/anni.jpg");
+}
+
+.claire-5 {
+	background-image:url("../img/us/fac5/claire.jpg");
+}
+
+.daniel-5 {
+	background-image:url("../img/us/fac5/daniel.jpg");
+}
+
+.jackm-5 {
+	background-image:url("../img/us/fac5/jackm.jpg");
+}
+
+.jackr-5 {
+	background-image:url("../img/us/fac5/jackr.jpg");
+}
+
+.josh-5 {
+	background-image:url("../img/us/fac5/josh.jpg");
+}
+
+.lukas-5 {
+	background-image:url("../img/us/fac5/lukas.jpg");
+}
+
+.michelle-5 {
+	background-image:url("../img/us/fac5/michelle.jpg");
+}
+
+.mina-5 {
+	background-image:url("../img/us/fac5/mina.jpg");
+}
+
+.nikhila-5 {
+	background-image:url("../img/us/fac5/nikhila.jpg");
+}
+
+.rafe-5 {
+	background-image:url("../img/us/fac5/rafe.jpg");
+}
+
+.ronan-5 {
+	background-image:url("../img/us/fac5/ronan.jpg");
+}
+
+.rubie-5 {
+	background-image:url("../img/us/fac5/rubie.jpg");
+}
+
+.simon-5 {
+	background-image:url("../img/us/fac5/simon.jpg");
+}
+
+//FAC4
+
+.adam-4 {
+	background-image:url("../img/us/fac4/adam-4.jpeg");
+}
+
+.amil-4 {
+	background-image:url("../img/us/fac4/amil-4.jpg");
+}
+
+.anita-4 {
+	background-image:url("../img/us/fac4/anita-4.jpg");
+}
+
+.james-4 {
+	background-image:url("../img/us/fac4/james-4.jpg");
+}
+
+.jason-4 {
+	background-image:url("../img/us/fac4/jason-4.jpg");
+}
+
+.per-4 {
+	background-image:url("../img/us/fac4/per-4.jpeg");
+}
+
+.rory-4 {
+	background-image:url("../img/us/fac4/rory-4.png");
+}
+
+.greg-4 {
+	background-image:url("../img/us/fac4/greg-4.jpg");
+}
+
+//FAC 3
+
+.adam-3 {
+	background-image:url("../img/us/2014/adam.jpg");
+}
+
+.marc-3 {
+	background-image:url("../img/us/2014/marc-3.jpg");
+}
+
+.naomi-3 {
+	background-image:url("../img/us/2014/naomi.jpg");
+}
+
+.natalia-3 {
+	background-image:url("../img/us/2014/nat.jpg");
+}
+
+.subhan-3 {
+	background-image:url("../img/us/2014/subhan.jpg");
+}
+
+.joe-3 {
+	background-image:url("../img/us/2014/joe.jpg");
+}
+
+.maryam-3 {
+	background-image:url("../img/us/2014/maryam-3.jpg");
+}
+
+.max-3 {
+	background-image:url("../img/us/2014/max.jpg");
+}
+
+.hugh-3 {
+	background-image:url("../img/us/2014/hugh.jpg");
+}
+
+.ben-3 {
+	background-image:url("../img/us/2014/ben-3.jpg");
+}

@@ -1,0 +1,53 @@
+%anchor {
+	position: absolute;
+	margin-top: -70px;
+}
+
+%anchor2 {
+	position: absolute;
+	margin-top: -90px;
+}
+
+#portfolio, #services, #faq, #contact {
+  	@extend %anchor;
+}
+
+#faq, #prerequisites, #request, #team, #blog, #why {
+  	@extend %anchor2;
+}
+
+#schedule {
+	position: absolute;
+	margin-top: -100px;
+}
+
+#company {
+	position: absolute;
+	margin-top: -170px;
+}
+
+#apply {
+	position: absolute;
+	margin-top: -90px;
+}
+
+@media (max-width: $tablet) {
+	%anchor {
+		margin-top: -60px;
+	}
+
+	%anchor2 {
+		margin-top: -80px;
+	}
+
+	%anchor3 {
+		margin-top: -140px;
+	}
+
+	%anchor4 {
+		margin-top: -160px;
+	}
+	#apply {
+		margin-top: -160px;
+	}
+}

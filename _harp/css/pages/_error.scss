@@ -1,0 +1,15 @@
+.section-error {
+	@extend %section;
+	height: 100vh;
+	background-color: $color-one;
+	flex-direction: column;
+	* {
+		color: $color-three;
+	}
+}
+
+.no-cssvhunit {
+	.section-error {
+		height: 690px;
+	}
+}

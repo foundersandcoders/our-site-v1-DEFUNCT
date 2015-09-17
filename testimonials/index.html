@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+		<title>Founders & Coders | Javascript Course London</title>
+		<meta name="description" content="Javascript Courses in London | Founders and Coders is a non-profit co-operative. We produce beautiful software and provide training, classes and workshops.">
+		<link rel="stylesheet" href="/css/main.css">
+		<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+		<!-- Check if browser supports vh. If not, add styling for crappy browser -->
+		<script src="/js/modernizr.js"></script>
+		<script type="text/javascript">
+		 	if (Modernizr.cssvwunit) {
+				document.getElementById("body").className = "no-cssvhunit";
+			}
+		</script>
+		<script type="text/javascript" src="https://mandrillapp.com/api/docs/js/mandrill.js"></script>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" href="/assets/favicon.ico" >
+		<meta name="google-site-verification" content="mOpWptCT92oi7c5sI1qLgywVvQyN8eAalYCjl3qNurw" />
+		<meta name="google-site-verification" content="mOpWptCT92oi7c5sI1qLgywVvQyN8eAalYCjl3qNurw" />
+	</head>
+    <body id="body">
+        <nav id="navbar">
+	<div class="desktop-only">
+		<ul class="animate-header">
+			<li>
+				<a href="/"><h4 class="bold">HOME</h4></a>
+				<!-- <div class="nav-dd">
+					<ul>
+						<li>
+							<h4 onclick="fac.nav_scroll('/', 'portfolio')">Portfolio</h4>
+						</li>
+						<li>
+							<h4 onclick="fac.nav_scroll('/', 'services')">Services</h4>
+						</li>
+						<li>
+							<h4 onclick="fac.nav_scroll('/', 'contact')">Contact</h4>
+						</li>
+					</ul>
+				</div> -->
+			</li>
+			<!-- <li>
+				<a href="/training"><h4 class="bold">TRAINING</h4></a>
+				<div class="nav-dd">
+					<ul>
+						<li>
+							<h4 onclick="fac.nav_scroll('/training/', 'schedule')">Schedule</h4>
+						</li>
+						<li>
+							<h4 onclick="fac.nav_scroll('/training/', 'request')">Request</h4>
+						</li>
+					</ul>
+				</div>
+			</li> -->
+			<li>
+				<a href="/academy"><h4 class="bold">ACADEMY</h4></a>
+				<div class="nav-dd">
+					<ul>
+						<li>
+							<h4 onclick="fac.nav_scroll('/academy/', 'apply')">Apply</h4>
+						</li>
+						<li>
+							<h4 onclick="fac.nav_scroll('/academy/', 'prerequisites')">Prepare</h4>
+						</li>
+						<li>
+							<h4 onclick="fac.nav_scroll('/academy/', 'faq')">FAQ</h4>
+						</li>
+					</ul>
+				</div>
+			</li>
+			<li>
+				<a href="/agency"><h4 class="bold">AGENCY</h4></a>
+			</li>
+			<li>
+				<a href="/employers"><h4 class="bold">EMPLOYERS</h4></a>
+			</li>
+			<li>
+				<a href="/partners"><h4 class="bold">PARTNERS</h4></a>
+			</li>
+			<li>
+				<a href="/about"><h4 class="bold">ABOUT</h4></a>
+				<div class="nav-dd">
+					<ul>
+						<li>
+							<h4 onclick="fac.nav_scroll('/about/', 'company')">Company</h4>
+						</li>
+						<li>
+							<h4 onclick="fac.nav_scroll('/about/', 'team')">Team</h4>
+						</li>
+						<li>
+							<h4 onclick="fac.nav_scroll('/about/', 'blog')">Blog</h4>
+						</li>
+						<li>
+							<h4 onclick="fac.nav_scroll('/about/', 'contact')">Contact</h4>
+						</li>
+					</ul>
+				</div>
+			</li>
+		</ul>
+	</div>
+	<div class="dropdownToggle">
+		<div class="tablet-mobile-only tablet-mobile-navigation">
+			<a data-toggle="dropdown">
+				<p>
+					<button id="cmn-toggle-switch" class="icon cmn-toggle-switch cmn-toggle-switch__htx">
+			  			<span>toggle menu</span>
+					</button>
+				</p>
+			</a>
+			<div class="nav-settings-dropdown">
+				<div id="nav-dd-tablet" class="nav-dd-tab">
+					<div class="container">
+						<ul>
+							<li>
+								<h4 onclick="fac.nav_scroll('/')" class="top-level">HOME</h4>
+							</li>
+							<!-- <li>
+								<h4 onclick="fac.nav_scroll('/', 'portfolio')">Portfolio</h4>
+							</li>
+							<li>
+								<h4 onclick="fac.nav_scroll('/', 'services')">Services</h4>
+							</li> -->
+							<!-- <li>
+								<h4 onclick="fac.nav_scroll('/', 'contact')">Contact</h4>
+							</li> -->
+						</ul>
+						<!-- <ul>
+							<li>
+								<h4 onclick="fac.nav_scroll('/training')" class="top-level">TRAINING</h4>
+							</li>
+							<li>
+								<h4 onclick="fac.nav_scroll('/training/', 'schedule')">Schedule</h4>
+							</li>
+							<li>
+								<h4 onclick="fac.nav_scroll('/training/', 'request')">Request</h4>
+							</li>
+						</ul> -->
+						<ul>
+							<li>
+								<h4 onclick="fac.nav_scroll('/academy')" class="top-level">ACADEMY</h4>
+							</li>
+							<li>
+								<h4 onclick="fac.nav_scroll('/academy/', 'apply')">Applications</h4>
+							</li>
+							<li>
+								<h4 onclick="fac.nav_scroll('/academy/', 'faq')">FAQ</h4>
+							</li>
+							<li>
+								<h4 onclick="fac.nav_scroll('/academy/', 'prerequisites')">Prerequisites</h4>
+							</li>
+						</ul>
+						<ul>
+							<li>
+								<h4 onclick="fac.nav_scroll('/about')" class="top-level">ABOUT</h4>
+							</li>
+							<li>
+								<h4 onclick="fac.nav_scroll('/about/', 'company')">Company</h4>
+							</li>
+							<li>
+								<h4 onclick="fac.nav_scroll('/about/', 'team')">Team</h4>
+							</li>
+							<li>
+								<h4 onclick="fac.nav_scroll('/about/', 'blog')">Blog</h4>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</nav>
+
+<div class="section-nav-offset"></div>
+
+    	<div class="section-copy">
+	<div class="container-wide">
+    <div class="overflow-hidden testimonials">
+			<a href="full/natalia">
+	    	<div class="grid-4">
+	        <div class="quote-box">
+	          <div class="container">
+	            <p>"Hands down the best experience of my life..."</p>
+	          </div>
+	        </div>
+	    		<div class="team-image-grid natalia"></div>
+	    	</div>
+			</a>
+			<a href="full/bes">
+			<div class="grid-4">
+				<div class="quote-box">
+					<div class="container">
+						<p>"Founders & Coders has been life changing..."</p>
+					</div>
+				</div>
+				<div class="team-image-grid bes"></div>
+			</div>
+			</a>
+			<a href="full/nikhila">
+			<div class="grid-4">
+				<div class="quote-box">
+					<div class="container">
+						<p>"Joining the Founders & Coders course is one of the best decision I made so far in my life!"</p>
+					</div>
+				</div>
+				<div class="team-image-grid nikhila-5"></div>
+			</div>
+			</a>
+			<a href="full/izaak">
+			<div class="grid-4">
+				<div class="quote-box">
+					<div class="container">
+						<p>"I did not think it was possible to learn so much in such a short space of time..."</p>
+					</div>
+				</div>
+				<div class="team-image-grid izaak"></div>
+			</div>
+			</a>
+			<a href="full/jack">
+				<div class="grid-4">
+					<div class="quote-box">
+						<div class="container">
+							<p>"This place has changed my life! Amazing space full or energy and wonderful people. Learning and having fun every minute!"</p>
+						</div>
+					</div>
+					<div class="team-image-grid jackr-5"></div>
+				</div>
+			</a>
+    	<div class="grid-4">
+        <div class="quote-box">
+          <div class="container">
+          <p>"What I learnt in the space of 16 weeks still leaves me astounded. Best experience of my life to date."</p>
+    	   </div>
+        </div>
+      	<a href="https://github.com/benjaminlees" target="_blank"><div class="team-image-grid benji"></div></a>
+    	</div>
+      <div class="grid-4">
+        <div class="quote-box">
+          <div class="container">
+            <p>"Attending FAC was the best decision of my life. It's a space where I learned web development and felt that its ethos fully resonated with me."</p>
+          </div>
+        </div>
+        <a href="https://github.com/Neats29" target="_blank"><div class="team-image-grid anita-4"></div></a>
+      </div>
+      <div class="grid-4">
+        <div class="quote-box">
+          <div class="container">
+            <p>"Founders & Coders set me on the path to a career I love, and proved how enjoyable and rewarding cooperative learning is. I am incredibly lucky to be involved."</p>
+          </div>
+        </div>
+        <a href="https://github.com/rorysedgwick" target="_blank"><div class="team-image-grid rory-4"></div></a>
+      </div>
+      <div class="grid-4">
+        <div class="quote-box">
+          <div class="container">
+            <p>"Founders and Coders was absolutely incredible! I learned so much in just 8 weeks. I feel very confident to learn anything."</p>
+          </div>
+        </div>
+        <a href="https://github.com/abdiahmed" target="_blank"><div class="team-image-grid abdi-5"></div></a>
+      </div>
+      <div class="grid-4">
+        <div class="quote-box">
+          <div class="container">
+            <p>"What can I say other than that Founders & Coders has changed my life. Great space, amazing people - it has been an extremely rewarding time!"</p>
+          </div>
+        </div>
+        <a href="https://github.com/heron2014" target="_blank"><div class="team-image-grid anitac-5"></div></a>
+      </div>
+      <div class="grid-4">
+        <div class="quote-box">
+          <div class="container">
+            <p>"I've achieved so much more here than I ever could have done on my own, and become part of an amazing community on the way."</p>
+          </div>
+        </div>
+        <a href="https://github.com/nofootnotes" target="_blank"><div class="team-image-grid claire-5"></div></a>
+      </div>
+      <div class="grid-4">
+        <div class="quote-box">
+          <div class="container">
+            <p>"FAC has completely changed my life. I have gone from having minimal coding experience to now earning a living as a software developer."</p>
+          </div>
+        </div>
+        <a href="https://github.com/Danwhy" target="_blank"><div class="team-image-grid daniel-5"></div></a>
+      </div>
+      <div class="grid-4">
+        <div class="quote-box">
+          <div class="container">
+            <p>"16 weeks ago I was using Internet Explorer, on a mac - now I can't stop putting semicolons after my statements;"</p>
+          </div>
+        </div>
+        <a href="https://github.com/Lukars" target="_blank"><div class="team-image-grid lukas-5"></div></a>
+      </div>
+      <div class="grid-4">
+        <div class="quote-box">
+          <div class="container">
+            <p>"I went in with little to no coding experience, and came out a fully-fledged developer. One of the best things I've ever done. Truly life-changing."</p>
+          </div>
+        </div>
+        <a href="https://github.com/msmichellegar" target="_blank"><div class="team-image-grid michelle-5"></div></a>
+      </div>
+      <div class="grid-4">
+        <div class="quote-box">
+          <div class="container">
+            <p>"Founders & Coders has an absolutely unbeatable learning curve. You'll meet incredible people and develop a VERY effective (and valuable) skillset."</p>
+          </div>
+        </div>
+        <a href="https://github.com/wallcrawler" target="_blank"><div class="team-image-grid ronan-5"></div></a>
+      </div>
+      <div class="grid-4">
+        <div class="quote-box">
+          <div class="container">
+            <p>I finished the course; I had an idea; 4 weeks later I had a fully-functioning web-app. With this trajectory, just imagine what could be achieved in another 4 weeks.</p>
+          </div>
+        </div>
+        <a href="https://github.com/rub1e" target="_blank"><div class="team-image-grid rubie-5"></div></a>
+      </div>
+      <div class="grid-4">
+        <div class="quote-box">
+          <div class="container">
+            <p>"Joining the Founders & Coders course is one of the best decision I made so far in my life!"</p>
+          </div>
+        </div>
+        <a href="https://github.com/SimonLab" target="_blank"><div class="team-image-grid simon-5"></div></a>
+      </div>
+    	</div> -->
+    </div>
+	</div>
+
+    	<div id="contact"></div>
+<div class="contact">
+	<div class="container">
+		<div itemscope itemtype="http://schema.org/LocalBusiness" class="grid-6 info">
+			<p itemprop="telephone">+44 20 3583 2442</p>
+			<a href="mailto:contact@foundersandcoders.org"><p itemprop="email">contact@foundersandcoders.org</p></a>
+			<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+				<span itemprop="streetAddress">14 Palmers Road</span>, 
+				<span itemprop="addressLocality">London</span>, 
+				<span itemprop="postalCode">E2 OSY</span>
+			</p>
+			<p><span itemprop="name">FOUNDERS & CODERS</span> <span>C.I.C. </span><br/> Company No. 09408874</p>
+			<div>
+				<a href="https://twitter.com/founderscoders" target="_blank"><i class="icon-twitter-circled contact-icon"></i></a>
+				<a href="https://www.facebook.com/foundersandcoders" target="_blank"><i class="icon-facebook-circled contact-icon"></i></a>
+				<a href="https://github.com/foundersandcoders" target="_blank"><i class="icon-github-circled contact-icon"></i></a>						
+				<a href="mailto:contact@foundersandcoders.org" target="_blank"><i class="icon-mail-circled contact-icon"></i></a>
+				<a href="https://www.google.co.uk/maps/place/14+Palmers+Rd,+London+E2+0SY" target="_blank"><i class="icon-location-circled contact-icon"></i></a>
+				<a href="http://www.meetup.com/founderscoders/" target="_blank"><i class="icon-meetup contact-icon"></i></a>
+				<!-- <a href=""><i class="icon-instagram-circled contact-icon"></i></a>			 -->
+			</div>	
+		</div>
+		<div class="grid-6">
+			<div class="form" method="post">
+				<form action="//foundersandcoders.us9.list-manage.com/subscribe/post?u=a7247a4b4a67ac1517dba5895&amp;id=ee56d303a5" method="post" target="_blank">
+					<input id="contact-form-name" name="contact-form-name" type="text" placeholder="Name" class="input-one">
+					<input id="contact-form-email" type="email" name="EMAIL" placeholder="Email" class="input-one">
+					<textarea id="contact-form-message" type="text" placeholder="Message"></textarea>
+					<button type="submit" id="mc-embedded-subscribe" class="button-one subscribe">Subscribe</button>
+					<button onclick="contact_form.sendMail(); return false;" class="button-one" type"submit">Send</button>
+					<pre id="response"></pre>
+				</form> 
+			</div>
+		</div>
+	</div>
+</div>
+		<footer>
+            <script src="/js/main.js"></script>
+            <script src="/js/carousel.js"></script>
+			<script>   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');    ga('create', 'UA-35597887-2', 'auto');   ga('send', 'pageview');  </script>
+		</footer>
+  	</body>
+</html>

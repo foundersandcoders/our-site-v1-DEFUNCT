@@ -1,0 +1,89 @@
+<div class="academy-landing">
+	<h1 class="margin agency">We Know JavaScript.</h1>
+</div>
+<div class="container">
+
+	<div class="marketing-section">
+		<div>
+			<h1>The Founders & Coders agency is made up of over 30 freelancers. Our developers have worked with startups, local councils and FTSE 100 companies so chances are we can work with you.</h1>
+
+			<h1>We specialise in building web and mobile applications in JavaScript and Node.js.</h1>
+
+			<h1>Generally, we provide teams of developers, with varying levels of experience. This is a very effective way of providing value to our clients.</h1>
+
+		</div>
+	</div>
+
+	<div id="servicessection"></div>
+	<div class="section-services">
+		<ul class="container">
+			<div class="grid-4">
+				<a href="services/application-development">
+					<div class="services-icon-container">
+						<div class="services-icon web-application"></div>
+						<div class="services-icon web-application-alt"></div>
+					</div>
+					<p>Web Application Development</p>
+				</a>
+			</div>
+			<div class="grid-4">
+				<a href="/training">
+					<div class="services-icon-container">
+						<div class="services-icon training"></div>
+						<div class="services-icon training-alt"></div>
+					</div>
+					<p>Training</p>
+				</a>
+			</div>
+			<div class="grid-4">
+				<a href="services/prototyping">
+					<div class="services-icon-container">
+						<div class="services-icon prototyping"></div>
+						<div class="services-icon prototyping-alt"></div>
+					</div>
+					<p>Prototyping</p>
+				</a>
+			</div>
+			<div class="grid-4">
+				<a href="services/content-management">
+					<div class="services-icon-container">
+						<div class="services-icon content-management"></div>
+						<div class="services-icon content-management-alt"></div>
+					</div>
+					<p>Content Management</p>
+				</a>
+			</div>
+			<div class="grid-4">
+				<a href="services/mobile-development">
+					<div class="services-icon-container">
+						<div class="services-icon mobile-development"></div>
+						<div class="services-icon mobile-development-alt"></div>
+					</div>
+					<p>Mobile Development</p>
+				</a>
+			</div>
+			<div class="grid-4">
+				<a href="services/responsive-web-design">
+					<div class="services-icon-container">
+						<div class="services-icon responsive-design"></div>
+						<div class="services-icon responsive-design-alt"></div>
+					</div>
+					<p>Responsive Web Design</p>
+				</a>
+			</div>
+		</li>
+		</ul>
+	</div>
+
+	<div id="portfolio"></div>
+	<div class="section-portfolio">
+		<div class="images-container">
+			<%- partial("../_partials/portfolio", { "link": "portfolio/africabriefcase", "name": "Africa Briefcase", "company": "Africa Media Lab", "imageStyle": "image-one", "display": "" }) %>
+			<%- partial("../_partials/portfolio", { "link": "portfolio/camdenmaps", "name": "Camden Maps", "company": "Camden Council", "imageStyle": "image-three", "display": "" }) %>
+			<%- partial("../_partials/portfolio", { "link": "portfolio/chichester-harbour", "name": "Membership Management", "company": "Chichester Harbour", "imageStyle": "image-four", "display": "" }) %>
+			<%- partial("../_partials/portfolio", { "link": "portfolio/coot-freight", "name": "Freight Management", "company": "Coot Freight", "imageStyle": "image-seven", "display": "" }) %>
+			<%- partial("../_partials/portfolio", { "link": "portfolio/streetflower", "name": "Street Flower", "company": "", "imageStyle": "image-six", "display": "" }) %>
+			<%- partial("../_partials/portfolio", { "link": "portfolio/stockport", "name": "Suicide Prevention", "company": "Stockport Council", "imageStyle": "image-five", "display": "" }) %>
+		</div>
+	</div>
+</div>
