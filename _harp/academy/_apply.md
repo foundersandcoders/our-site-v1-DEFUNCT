@@ -28,7 +28,7 @@ We receive many applications for each place and selection is highly competitive.
 + Record your voice at an adequate sound level on your video and keep it to under two minutes;
 + Reach at least 5 kyu on [Codewars](http://www.codewars.com/?language=javascript);
 + Create some kata on [CodeWars](http://www.codewars.com/kata/new);
-+ Ask or answer some questions on [stackoverflow](http://stackoverflow.com/users/2660363/dejs);
++ Ask or answer some questions on [stackoverflow](http://stackoverflow.com/);
 + Get active on [GitHub](https://github.com/); create some pull requests, open some issues, and make some commits;
 + Contribute to [our community on GitHub](https://github.com/codingforeveryone)
 (we will send you an invitation to join when you complete Part 1 of the application);
