@@ -18,6 +18,6 @@ $ cd oursite
 $ harp server _harp
 ```
 
-Pull requests should be made with master as the base. Master is uncompiled so leave your pulls uncompiled too.
+Pull requests should be made with master as the base. Master is uncompiled so leave your pull requests uncompiled too.
 
 The repo owner will merge your pull, pull master into gh-pages, compile and push to gh-pages.
