@@ -24,6 +24,7 @@ nav {
 		transition:line-height 0.3s;
 	}
 	.desktop-only {
+		height: 100%;
 		a {
 			width: 100px;
 			text-align: center;
@@ -35,6 +36,7 @@ nav {
 			display: flex;
 			justify-content: space-between;
 			align-items: center;
+			height: 100%;
 		}
 		li {
 			display: inline;
@@ -60,6 +62,7 @@ nav {
 			display: inline;
 			letter-spacing: 2px;
 			font-family: "UG med";
+			vertical-align: -2px;
 			&:hover, &:active {
 				font-family: 'UG bold';
 			}
