@@ -23,7 +23,7 @@
 	<a href="https://www.linkedin.com/in/stephanfowler" target="_blank" class="team-image stephan"></a>
 
 	**Stephan Fowler**
-	Stephan is tech lead at the Guardian News & Media. He has previously been a senior developer at News International and a front-end architect at Associated Newspapers.
+	Stephan is a product manager at the Guardian. He has been a senior developer at the Guardian, News International, and Associated Newspapers.
 
 	<a href="https://www.linkedin.com/pub/robin-houston/3/bba/677" target="_blank" class="team-image robin"></a>
 
