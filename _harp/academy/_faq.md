@@ -25,7 +25,10 @@ We aim to give you an opportunity to work on a variety of open source, charitabl
 The quality of the learning experience. The commitment of your fellow students. The *Founders & Coders* community.
 
 **Who is this programme suitable for?**    
-There are no academic requirements, but you need to be self-motivated, prepared to work long hours, and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.
+There are no academic requirements, but you need to be self-motivated, prepared to work long hours, and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.  
+
+**Do you accept non-UK citizens on the course?**  
+We absolutely welcome international students onto the course, as long as they are eligible to study and work in the UK. We are currently unable to provide assistance with visas or accommodation. Check the GOV.UK website for details of visa requirements to study and work in the UK. We are not a "Tier 4" education provider for the purposes of visa application.   
 
 **Why are the prerequisites so tough**    
 This programme is challenging and you need to be well-prepared. We aim for a zero drop-out rate, so we need to know that you are serious about becoming a developer before we accept you on to the programme. 
