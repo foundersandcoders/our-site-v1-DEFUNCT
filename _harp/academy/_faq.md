@@ -7,7 +7,7 @@ It is a 16-week programme of study in software development for the web.
 To give students sufficient skills to create web applications and find employment as a web developer.
 
 **What is the structure of the programme?**    
-It is divided into two parts: an eight-week foundation course followed by eight weeks working on real-world projects.
+It is divided into two parts: an 8 to 10-week foundation followed by 6 to 8 weeks working on real-world projects.
 
 **How is the foundation course delivered?**    
 As a full-time classroom-based course running Monday to Friday from 10am to 7pm at our campus in Bethnal Green.
@@ -18,8 +18,8 @@ Courses are peer-led and project-based with sixteen students working in four tea
 **What does the curriculum cover?**    
 Primarily, we cover *test-driven* development, using *JavaScript* and *Node.js*. We also cover aspects of UX design, product management and entrepreneurship.
 
-**What projects will I work on in the second half of the programme?**  
-We aim to give you an opportunity to work on a variety of open source, charitable, social enterprise, startup and commercial projects. The programme is under continuous development and the balance between learning and earning a living is under review.  
+**What projects will I work on in the second part of the programme?**  
+We aim to give you an opportunity to work on a variety of open source, charitable, social enterprise, startup and commercial projects. The programme is under continuous development and the balance between learning and earning a living is always under review.  
 
 **What are the main reasons to apply for this programme?**     
 The quality of the learning experience. The commitment of your fellow students. The *Founders & Coders* community.
@@ -46,7 +46,5 @@ By working on freelance projects. None of us is paid for teaching or mentoring o
 We are trying to build a community and we do not think we can do that by charging an entry fee.
 
 **How can I give something back?**    
-After the 16-week programme is finished, help us deliver the programme to our next cohort of students.
+Almost as soon as you arrive, we will invite you to get involved in helping us run our various free programmes. After the 16-week programme is finished, we will expect you to help us deliver the programme to our next cohort of students.
 
-**Can I become a part of Founders & Coders?**    
-We are a freelance co-operative. While you are studying with us, you are treated as a non-paying member of the co-operative. After you have completed the 16-week training programme, you may, if you wish, join us as a full fee-paying member.
