@@ -1,6 +1,6 @@
 # Applications
 
-We are now taking applications for the course starting on January 11th, based at our Bethnal Green campus.
+We are now taking applications for the course starting on January 18th, based at our Bethnal Green campus.
 
 ## The application process
 
