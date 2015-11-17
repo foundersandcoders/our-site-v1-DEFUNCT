@@ -1,10 +1,10 @@
-#Suicide Prevention Web Resource for Stockport Council
+# Suicide Prevention Web Resource for Stockport Council
 
 An online hub for advice and support to aid those affected by suicide.
 
 <p class="center"><img src="/assets/stockport-desktop.jpg" class="cm-image"></p>
 
-##Challenge
+## Challenge
 
 There are around 6500 suicides every year in the UK and Republic of Ireland alone. This averages out to around 17 per day, or one every 90 minutes.
 
@@ -14,11 +14,11 @@ A text-heavy display and tight UI design specifications proved challenging to im
 
 <p class="center"><img src="/assets/stockport-laptop.jpg" class="cm-image"></p>
 
-##Solution
+## Solution
 
 A two-person team, consisting of one in-house and one remote developer, implemented the specification using the _Jekyll_ platform, deployed on GitHub pages. Following Agile methodologies, the site was deployed early and continuously. A tight feedback loop between client and developers allowed for rapid integration of client requirements, as the design evolved and was refined during the build processs.
 
-##Results
+## Results
 
 An informative, supportive resource that is easily accessible for all, can offer help to those who need it at a critical time, and make a significant difference to people's lives.
 
