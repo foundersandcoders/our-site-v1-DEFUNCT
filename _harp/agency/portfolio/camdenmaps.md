@@ -1,6 +1,6 @@
 <p class="center"><img src="/assets/camden-logo.png" class="cm-image cm-logo"></p>
 
-#Camden Maps
+# Camden Maps
 
 A mapping service for finding local amenities within the London Borough of Camden.
 
@@ -8,7 +8,7 @@ Camden Maps is a single-page user-friendly responsive web application. It displa
 
 <p class="center"><img src="/assets/monitor-primary.jpg" class="cm-image"></p>
 
-##CHALLENGE
+## CHALLENGE
 Camden Council had a home-grown web application that provided information regarding live streetworks, local services and local information. The problem was that the previous site was completely outdated. This meant that the app was not designed for mobile use, it did not fit in with the Camden's latest accessibility guidelines and it was built on an inconsistently formatted XML API.
 
 The poorly formatted XML API was particularly troubling for Francois Mounier, who is Head of Development Services at Camden. He is passionate about open source projects and was very keen to open up the API in order to make it easily accessible for anyone to use. Francois was introduced to Founders & Coders through a mutual connection. He later discovered that we were formed on the premise of developing our software skills through collaboration and open source projects. This is very much aligned to how Camden runs their in-house engineering and delivery practice. As an opportunity arisen Camden asked Founders & Coders to pitch to work on a specific delivery part of the Camden transformation programme aimed at improving digital services.
@@ -17,7 +17,7 @@ We were thrilled to take on the challenge, collaborate with Camden Council and b
 
 <p class="center"><img src="/assets/latter.jpg" class="cm-image"></p>
 
-##SOLUTION
+## SOLUTION
 Once a formal agreement had been established, Founders & Coders and Francois arranged a date to commence their weekly conference calls. This was the beginning of the discovery phase where we established with his team key features of the app and defined many of its aesthetics.
 
 Weekly meetings with Francois continued throughout the course of the project. This was important to us, because at Founders & Coders we manage the development of our software through Agile principles. This means that we can ensure the quality of our software at every stage, by continuously delivering iterations of the project to the client. Most importantly, it means that we are able to adapt quickly to any changing priorities that the client may have, without it being too costly to the overall delivery. A weekly show and tell with Francois provided the heartbeat of the project ensuring we delivered on our weekly commitments.
