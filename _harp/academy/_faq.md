@@ -31,7 +31,7 @@ The quality of the learning experience. The commitment of your fellow students. 
 There are no academic requirements, but you need to be self-motivated, prepared to work long hours, and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.  
 
 **Do you accept non-UK citizens on the course?**  
-We do welcome international students onto the course as long as they are intending to stay and work in the UK after they graduate. The course is provided free in the UK and we expect you to contribute to our community and to the UK economy before you move on again. You will need to be eligible to study and work in the UK. We are currently unable to provide assistance with visas or accommodation.  
+We do welcome international students onto the course as long as they are intending to stay and work in London after they graduate. The course is provided free and in return we expect you to contribute to our community. You will need to be eligible to study and work in the UK. We are currently unable to provide assistance with visas or accommodation.  
 
 **Why are the prerequisites so tough?**    
 This programme is challenging and you need to be well-prepared. We aim for a zero drop-out rate, so we need to know that you are serious about becoming a developer before we accept you on to the programme. 
