@@ -1,63 +1,62 @@
 # Course prerequisites
 
-Before you join us, you will be expected to complete all the material below. If you have any doubts about your ability to complete any of it, please contact us before the start of the course.
+We have chosen these resources as our entrance criteria. If you are not comfortable coding at this standard by the time the course starts you may struggle. These tasks are part of how we will measure whether you are a good candidate for the course as well as whether you can learn in the collaborative environment here. You do not need to have completed these prerequisites before you send in your application, but you should at least have made a good start on them. 
 
-## Code
+**Complete Beginners**  
+If you are completely new to coding, run through these Codecademy tracks first (in this order).
+* [HTML & CSS](https://www.codecademy.com/learn/web)
+* [Make a Website](https://www.codecademy.com/en/skills/make-a-website)
+* [Javascript](https://www.codecademy.com/learn/javascript)
+* [Make an Interactive Website](https://www.codecademy.com/en/skills/make-an-interactive-website) (?? find a better one)
+* [YouTube API](https://www.codecademy.com/en/tracks/youtube)
 
-**Codecademy**	
-If you are not at all familiar with web programming, Codecademy is a good place to start. We recommend the following tracks.
+We are not looking for a row of 100% completed tracks, if you have studied this before you can skip sections but you will need to understand the full content above.
 
-+ [HTML & CSS](http://www.codecademy.com/en/tracks/web)
-+ [jQuery](http://www.codecademy.com/en/tracks/jquery)
-+ [Make a website](http://www.codecademy.com/en/skills/make-a-website/) 
-+ [Make an interactive website](http://www.codecademy.com/en/skills/make-an-interactive-website/) 
-+ [JavaScript](http://www.codecademy.com/en/tracks/javascript)
-+ [Web Projects](http://www.codecademy.com/tracks/projects)
-+ [YouTube API](http://www.codecademy.com/en/tracks/youtube)
+After those tracks, run through [CSS Diner](http://flukeout.github.io/) (we love this!), to reinforce CSS selectors.
 
-**Communities**	
-Once you are somewhat familiar with Javascript, you should join Codewars, Stackoverflow and GitHub. We will also invite you to join the *Coding for everyone* community on GitHub.
+**Codewars**  
+We want you to reach at least **5kyu** on [codewars](http://codewars.com). This is going to take a minimum of 3 weeks and more likely a few months depending on how much time you can spend working on it.  
 
-[Sign up for Codewars](http://www.codewars.com/?language=javascript), join the Founders & Coders clan and reach at least Novice level with their JavaScript challenges.
+It takes a while to get the hang of Codewars (it's quite different to and a jump up from Codecademy). We've written our own guide to Codecademy and Codewars [here](https://github.com/codingforeveryone/learning-with-codewars-and-codecademy), which will help you on your way.
 
-[Sign up for Stack Overflow](http://stackoverflow.com/) and start asking questions.   
+You might feel like you need more preparation. If so, take a look at chapters 1-4 of [Eloquent Javascript](http://eloquentjavascript.net/Eloquent_JavaScript.pdf).  It's helpful for understanding functions and their uses in Javascript and builds nicely on where Codecademy ends.
 
-[Sign up for GitHub](https://github.com/) and contribute to [Coding for everyone](https://github.com/codingforeveryone). 
+If you find yourself struggling or want to meet other learners, come along to our [Monday evening meetups](www.meetup.com/founderscoders/) where we can help. We also run Coding for Women on every other Tuesday.  
 
-**Exercises**	
-[CSS Diner](http://flukeout.github.io/#). A great way to learn CSS selectors. Hint: the answers to the first three levels are: *plate*, *bento* and *#fancy*. Hopefully, you will be able to take it from there.
+Finally, sign up to Stack Overflow and look at some answers given for Javascript questions. The community can be a little intolerant of duplicated questions, so we'll brief on the techniques for asking questions when you arrive. Come join our Gitter channel where we chat about Codewars, Codecademy and other learning resources.
 
-**Typing**	
-Learn to touch type. And make sure that you know not just the main letter keys, but all the outer keys, too. There are many good teaching apps, but [Typing Club](http://www.typingclub.com/) is good (and free).
+**Recommended**  
+We won't judge you as a candidate on these grounds, and they are not completely necessary, but they will put you in a better place for the course.
 
-**Books**    	
-We like [Eloquent JavaScript](http://eloquentjavascript.net/). It is available free online and includes a number of embedded code snippets that you can edit and run as you read. You may also want to look at [The Annotated Version](https://watchandcode.com/courses/eloquent-javascript-the-annotated-version).
+Codecademy tracks we would recommend:
+* [Regex](https://www.codecademy.com/courses/javascript-intermediate-en-NJ7Lr/0/1)
+* [Recursion](https://www.codecademy.com/courses/javascript-lesson-205/0/1)
 
-We just keep coming back to [JavaScript: The Good Parts](http://it-ebooks.info/book/274/). Keep it by your bedside. Re-read Chapter weekly until it begins to sink in. Go to sleep each night dreaming in JavaScript.
+It would help greatly for you to be a relatively quick typist. [Typing Club](https://www.typingclub.com/) is good (and free).
 
-**Articles**    
+Learn some hotkeys on your computer. It will help with switching between programs on your computer, using your browser efficiently and so on.
 
-For fun, read [Steve Yegge's Google platforms rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX). *"Amazon does everything wrong, and Google does everything right...But there's one thing they do really really well that pretty much makes up for ALL of their political, philosophical and technical screw-ups"*.
+Reading [Eloquent Javascript](http://eloquentjavascript.net/Eloquent_JavaScript.pdf) is a good idea, but it can get heavy after Chapter 4, so don't worry if you find it difficult as it will start to make sense during the course. [Javascript: The Good Parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf) is written by the God of Javascript, Douglas Crockford, but the diagrams are difficult to follow and it gets equally heavy as Eloquent.
 
-[What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/), a recent feature by Paul Ford.
+Watch parts 2 and 3 of [Crockford on JavaScript](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PL7664379246A246CB). A wonderful series of lectures by the same Crockford as above. A panoramic overview of JavaScript at an advanced level. These two talks are hard to follow, but anything you can take from them is valuable.
 
+#### Extras
+If you have some spare time, or fancy a break from Codewars, these resources are just for fun!
 
-**Watching**	
-[Computer Science: Past, Present, and Future](http://youtu.be/5Tk09c0FQ3M), a talk by Ed Lazowska.
+**Reading**  
+[Paul Ford - What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) is a great article about his impression of the tech industry and the life of a programmer. It's long, but quite light to read.
 
-[The Future Doesn't Have to Be Incremental](http://youtu.be/gTAghAJcO1o), a talk by Alan Kay.
+[Steve Yegge's Google platforms rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX) shows you how passionate someone can be about their tech company's philosophy.
 
-[Inventing on Principle](http://vimeo.com/36579366), a talk by Bret Victor.
+**Watching**  
+[Inventing on Principle](https://vimeo.com/36579366), a talk by Bret Victor.
 
-[Crockford on JavaScript](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PL7664379246A246CB). A wonderful series of lectures by Doug Crockford. A panoramic overview of JavaScript at an advanced level. Watch each lecture until you are no longer enjoying the experience and then fast forward or move onto the next one (Lecture 3 is probably the hardest to follow). You may want to rewatch these lectures at the end of the course.
+[Computer Science: Past, Present, and Future](https://www.youtube.com/watch?v=5Tk09c0FQ3M&feature=youtu.be), a talk by Ed Lazowska.
 
-## UX
+[The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o&feature=youtu.be), a talk by Alan Kay.
 
-Follow Scott Klemmer's [Human-Computer Interaction Design](https://www.coursera.org/course/hcidesign) on Coursera. (You do not have to do all the exercises, but do watch the lectures)
+Anything with Douglas Crockford in!
 
-## Startups
-
-Follow Steve Blank's [How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245) on Udacity. (about 24 hours)
-
-
-
+**Before you arrive (after course offer)**
+* [Learn Git](https://www.codecademy.com/learn/learn-git)
+* [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
