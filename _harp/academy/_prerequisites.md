@@ -7,7 +7,6 @@ If you are completely new to coding, run through these Codecademy tracks first (
 * [HTML & CSS](https://www.codecademy.com/learn/web)
 * [Make a Website](https://www.codecademy.com/en/skills/make-a-website)
 * [Javascript](https://www.codecademy.com/learn/javascript)
-* [Make an Interactive Website](https://www.codecademy.com/en/skills/make-an-interactive-website) (?? find a better one)
 * [YouTube API](https://www.codecademy.com/en/tracks/youtube)
 
 We are not looking for a row of 100% completed tracks, if you have studied this before you can skip sections but you will need to understand the full content above.
@@ -56,7 +55,3 @@ If you have some spare time, or fancy a break from Codewars, these resources are
 [The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o&feature=youtu.be), a talk by Alan Kay.
 
 Anything with Douglas Crockford in!
-
-**Before you arrive (after course offer)**
-* [Learn Git](https://www.codecademy.com/learn/learn-git)
-* [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
