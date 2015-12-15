@@ -9,7 +9,6 @@ If you are intrested in having us put together a training programme for you or y
 + Deployment: GitHub, Docker, Vagrant, Heroku, Amazon S3, Microsoft Azure 
 + Databases: MongoDB, PostgresSQL, Redis, ElasticSearch
 + Testing: QUnit, Mocha, Lab, Tape, Jasmine, Protractor
-+ Code coverage: Code Climate
++ Code coverage: Code Climate, Codecov
 + Continuous integration: Travis CI, Codeship
-+ Agile project management tools: Pivotal Tracker
 
