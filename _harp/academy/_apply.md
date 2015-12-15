@@ -28,7 +28,7 @@ We receive many applications for each place and selection is highly competitive.
 + Create some kata on [CodeWars](http://www.codewars.com/kata/new);
 + Contribute to [our community on GitHub](https://github.com/codingforeveryone)
 (we will send you an invitation to join when you complete Part 1 of the application);
-+ Be active in  [our Gitter chatroom](https://gitter.im/codingforeveryone)
++ contribute to [our Gitter chatroom](https://gitter.im/codingforeveryone)
 
 If you have no coding experience, creating kata on Codewars, getting familiar with GitHub, and getting to the point where you feel comfortable asking questions on Stackoverflow will take time.
 
