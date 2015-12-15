@@ -1,6 +1,6 @@
 # Applications
 
-We are now taking applications for the course starting on January 18th, based at our Bethnal Green campus.
+We are now taking applications for the course starting on May 16th, based at our Bethnal Green campus.
 
 ## The application process
 
@@ -9,16 +9,14 @@ We are now taking applications for the course starting on January 18th, based at
 
 We may also request a short in-person paired programming session (remote sessions can also be arranged).
 
-We also now run a pre-course programme. The aim of the programme is to give promising candidates a chance to continue with their preparation in a supportive environment, while also volunteering to work as part of a small business development team. Just check the "I am interested in participating in the pre-course programme" box when completing the application form.
-
 ## Application deadlines
 
-+ First application deadline: September 7th.
-+ Second application deadline: October 5th.
-+ Third application deadline: November 2nd.
-+ Final application deadline: December 7th.
++ First application deadline: January 11th.
++ Second application deadline: February 8th.
++ Third application deadline: March 7th.
++ Final application deadline: April 11th.
 
-We aim to accept around four applicants after each deadline. We do it this way, so that applicants can get feedback on their application within a month or so of applying. Early applicants will either get a confirmed place or (so long as they continue to make progress with the prerequisites) their application will remain in the applicant pool until the final deadline.
+Candidates can apply whenever they want, but their application will not be considered until they have met all the prerequisites, after which they will receive feedback within a week of the subsequent application deadline and will remain in the applicant pool either until they have been offered a place or until all the places have been filled.
 
 ## Application criteria
 
@@ -28,11 +26,9 @@ We receive many applications for each place and selection is highly competitive.
 + Record your voice at an adequate sound level on your video and keep it to under two minutes;
 + Reach at least 5 kyu on [Codewars](http://www.codewars.com/?language=javascript);
 + Create some kata on [CodeWars](http://www.codewars.com/kata/new);
-+ Ask or answer some questions on [stackoverflow](http://stackoverflow.com/);
-+ Get active on [GitHub](https://github.com/); create some pull requests, open some issues, and make some commits;
 + Contribute to [our community on GitHub](https://github.com/codingforeveryone)
 (we will send you an invitation to join when you complete Part 1 of the application);
-+ Be active in  [our Gitter chatroom](https://gitter.im/codingforeveryone)
++ contribute to [our Gitter chatroom](https://gitter.im/codingforeveryone)
 
 If you have no coding experience, creating kata on Codewars, getting familiar with GitHub, and getting to the point where you feel comfortable asking questions on Stackoverflow will take time.
 
