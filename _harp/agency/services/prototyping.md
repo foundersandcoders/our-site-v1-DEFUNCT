@@ -24,7 +24,7 @@ Come and tell our developers about your idea.
 One of our development teams will arrange a follow-up meeting to agree on a *minimum set of deliverables* and a start date for your project.
 
 *What is the minimum set of deliverables?*  
-We have two weeks to deliver your prototype. Before we start, We will make a commitment to deliver the minimum that you require in order to be able to successfully test your product idea.
+We have two weeks to deliver your prototype. Before we start, we will make a commitment to deliver the minimum that you require in order to be able to successfully test your product idea.
 
 *How soon will my prototype be delivered?*  
 Your team will aim to deliver your prototype to the agreed specification within approximately 10 working days of the agreed start date (if it takes longer you will not be charged more).
@@ -36,7 +36,7 @@ After a grace period during which you can report any bugs in the delivered softw
 We encourage you to retain one or more of the development team to continue to work on your project on a freelance or permanent basis after delivery of the prototype.
 
 *Who owns the IP on my prototype?*  
-You will own the intellectual property. Your development team will handover all the software, documented and tested, on completion of the project.
+You will own the intellectual property. Your development team will hand over all the software, documented and tested, on completion of the project.
 
 *What is the advantage of this service?*  
 The great advantage of this service is that it will give you an opportunity to work with some very talented developers early in their careers. If you are looking to hire developers or build a team for a new project, you are unlikely to find a better source of affordable talent in London.
@@ -46,5 +46,3 @@ We recommend that you contact the [dwyl](http://dwyl.io) agency, with whom we wo
 
 *How do I find out more?*  
 Please [contact us](#contact) to discuss your project.
-
-
