@@ -1,7 +1,5 @@
 # Prototyping Service
 
-## A working prototype in two weeks.
-
 Are you...?
 
 + A startup looking to create an [MVP](http://en.wikipedia.org/wiki/Minimum_viable_product)
@@ -9,7 +7,7 @@ Are you...?
 + An employer looking to recruit developers
 + Any project that may have a positive impact on the world
 
-## Your questions answered
+## We will build you a working prototype in two weeks.
 
 *What sort of prototypes do you build?*  
 We build working web applications. In other words, software applications that run in a web browser.
