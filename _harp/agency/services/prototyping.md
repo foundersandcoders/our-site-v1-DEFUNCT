@@ -43,4 +43,4 @@ The great advantage of this service is that it will give you an opportunity to w
 We recommend that you contact the [dwyl](http://dwyl.io) agency, with whom we work closely.
 
 *How do I find out more?*  
-Please fill in <a href="https://docs.google.com/forms/d/1u5f_efLMX9dFQSAMnNv1Wx54CDC7XbU9QMpfCRntFNw/viewform" class="margin" target="_newtab">this form</a> and we'll get right back to you.
+Please answer these <a href="https://docs.google.com/forms/d/1u5f_efLMX9dFQSAMnNv1Wx54CDC7XbU9QMpfCRntFNw/viewform" class="margin" target="_newtab">quick questions</a> so we can understand how best to support you.
