@@ -21,3 +21,13 @@ $ harp server _harp
 Pull requests should be made with master as the base. Master is uncompiled so leave your pull requests uncompiled too.
 
 The repo owner will merge your pull, pull master into gh-pages, compile and push to gh-pages.
+
+The process is as follows:
+```
+$ git checkout gh-pages
+$ git merge master
+$ harp compile _harp .
+```
+Then commit and push the changes back to Github.
+
+
