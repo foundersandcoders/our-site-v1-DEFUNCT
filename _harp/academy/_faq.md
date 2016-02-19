@@ -4,7 +4,7 @@
 It is a 16-week programme of study in software development for the web.  
 
 **Do you run multiple programmes every year?**  
-We run three programmes a year - from January, May, and September. Exact dates get confirmed nearer the time so check back regularly for updates.  
+We run three programmes a year - from February, June, and October. Exact dates get confirmed nearer the time so check back regularly for updates.  
 
 **What is the aim of the programme?**    
 To give students sufficient skills to create web applications and find employment as a web developer.
@@ -22,7 +22,10 @@ Courses are peer-led and project-based with sixteen students working in four tea
 Primarily, we cover *test-driven* development, using *JavaScript* and *Node.js*. We also cover aspects of UX design, product management and entrepreneurship.
 
 **What projects will I work on in the second part of the programme?**  
-We aim to give you an opportunity to work on a variety of open source, charitable, social enterprise, startup and commercial projects. The programme is under continuous development and the balance between learning and earning a living is always under review.  
+We aim to give you an opportunity to work on a variety of open source, charitable and social enterprise projects. The programme is under continuous development and the balance between learning and creating useful software is always under review.  
+
+**Will I be able to earn a living working on projects?**  
+After you complete your 16 weeks, we will aim to find you commercial work as soon as we can, either on a freelance basis or with an employer.
 
 **What are the main reasons to apply for this programme?**     
 The quality of the learning experience. The commitment of your fellow students. The *Founders & Coders* community.
