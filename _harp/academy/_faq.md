@@ -43,7 +43,7 @@ This programme is challenging and you need to be well-prepared. We aim for a zer
 Very. We get many applicants for each place.
 
 **How much does it cost?**     
-There are no fees, but students and graduates are expected to help us deliver the course to the next cohort and to contribute to our various community projects. You will also need to cover your own living expenses for at least 4 months, and quite possibly longer, depending on how quickly you can find work. 
+There are no fees, but students and graduates are expected to help us deliver the course to the next cohort and to contribute to our various community projects. You will also need to cover your own living expenses for at least 16 weeks, and quite possibly longer, depending on how quickly you can find work. 
 
 **How are you supporting yourselves?**    
 By working on freelance projects. None of us is paid for teaching or mentoring on the programme.
