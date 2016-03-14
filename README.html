@@ -85,36 +85,22 @@
 
 <div class="section-nav-offset"></div>
 
-    	<div class="section-copy">
-	<div class="container">
-
-		<h2>Companies</h2>
-
-		<p>Founders & Coders C.I.C. is a not-for-profit social enterprise and co-operative of freelance web developers. Our aim is to improve the quality and accessibility of technical education everywhere. We are doing this by building a sustainable and repeatable model for high quality technical training.</p>
-
-		<p>We provide what is probably the best training in web development in the UK and we don't charge our students anything. We generate income by placing our graduates. Some of our graduates stay on and join our freelance agency or start companies of their own.</p>
-
-		<p>We have trained more than 100 novices in full-stack JavaScript. Typically 40% of our students are female and many are from backgrounds under-represented in the tech community. 100% of the graduates of our most recent programme are working as web developers.</p>
-
-		<p>In addition to the intensive programme, we also run free and open-access coding courses for the wider community.</p>
-
-		<p>Nikhila Ravi says, <em>"the Founders & Coders course is easily one of the best things I've ever done. I have learnt more useful practical knowledge in sixteen weeks than in a whole year at university".</em></p>
-
-		<p>We have transformed the lives of many individuals through our educational programmes. One year ago, Besart Hoxhaj was working for less than minimum wage as a waiter in East London. Now Besart is leading a team to build a native iOS application, using React Native. We want to continue to unlock latent potential in individuals like Bes.</p>
-
-		<p>By partnering with us we can continue to improve the quality of our courses, open more schools and change lives. <a onclick="fac.nav_scroll('/partners/', 'contact')">Get in touch</a></p>
-
-		<h2>Individuals</h2>
-
-		<p>We want to improve the accessibility of our educational programmes. Our courses are free but living in London is very expensive and for some people 16 weeks without work is not feasible.</p>
-
-		<p>We want to be able to offer our life changing training to everyone, regardless of their background. If you are interested in supporting less advantaged students we would like to invite you to donate to our maintence grant fund, or consider providing an interest free loan.</p>
-
-		<p>Many of our students could use help with housing during their time on our course. If you have a spare room and would consider sharing it for 16 weeks, <a onclick="fac.nav_scroll('/partners/', 'contact')">speak to us</a>.</p>
-
-		<a href="/testimonials"><button class="button-one">Testimonials</button></a>
-	</div>
-</div>
+    	<h1>Our website</h1><p><img src="http://pbs.twimg.com/profile_banners/971846516/1420718128/1500x500" alt="A pic of us"></p>
+<h2>Why</h2><p>Founders and Coders is a lot of great people doing great work. Our current website doesn&#39;t let the word know who we are or what we&#39;re up to. Building a new one will let us show off and should improve our chances of getting interesting projects to work on.</p>
+<h2>What</h2><p>A website to showcase our work, our company and our school.</p>
+<h2>How</h2><p>Get involved! <a href="https://github.com/foundersandcoders/oursite/issues">https://github.com/foundersandcoders/oursite/issues</a></p>
+<p>Our site uses <a href="http://harpjs.com/">Harp</a>.</p>
+<pre><code>$ npm install -g harp 
+$ cd Desktop
+$ git clone https://github.com/foundersandcoders/oursite.git
+$ cd oursite
+$ harp server _harp
+</code></pre><p>Do NOT compile your branch and merge with master.
+The default branch is the master branch.
+The master branch is not compiled (to keep our README intact and so we don&#39;t have to worry about compiling all the time)</p>
+<p>The repo owner will merge your branch with master, merge master with gh-pages, then compile gh-pages... If you have to do this yourself, take care.</p>
+<p>FYI when using harp with gh-pages, file structure is important. The development branch file structure needs to be the same as uncompiled part of the compiled branch file structure. For example, in this project our development branch (master) has everything inside a folder called _harp. The compiled production branch (gh-pages) has the uncompiled site in a folder also called _harp.</p>
+<p>We merge the uncompiled part of the production branch with the uncompiled dev branch, then compile production and commit.</p>
     	<div id="contact"></div>
 <div class="contact">
 	<div class="container">
