@@ -4,9 +4,9 @@
 
 Founders & Coders and [ipcortex](https://www.ipcortex.co.uk/) are excited to be collaborating to develop prototype services for the Third Sector. 
 
-We are looking for partners who are curious to explore ways to use real-time communication technology to find new and innovative ways to meet the needs of your users. 
+We are looking for partners who are curious to explore ways to use real-time communication technology to find new and innovative ways to use instant messaging, screen sharing and video and audio chat to meet the needs of users. 
 
-All we need from you is your ideas, your enthusiasm, and your expert domain knowledge.
+All we need from you is your ideas, your enthusiasm, and knowledge of your users' needs.
 
 If you would like to participate in this pilot, please contact <a href="mailto:dan@foundersandcoders.com">Dan</a> or call us on 020 3585 2442.
 
