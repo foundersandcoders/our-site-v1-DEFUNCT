@@ -16,7 +16,7 @@ We may also request a short in-person paired programming session (remote session
 + ~~Third application deadline: March 7th.~~
 + Final application deadline: April 11th.
 
-We do recommend that applicants apply early, but your application will not be considered until you have met all of the minimum application criteria. You will remain in the applicant pool until you have been offered a place or all the places have been filled, which you will be notified of within two weeks of the final applicaiton deadline.
+We do recommend that applicants apply early, but your application will not be considered until you have met all of the minimum application criteria. You will remain in the applicant pool until you have been offered a place or all the places have been filled, which you will be notified of within two weeks of the final application deadline.
 
 ## Application criteria
 
