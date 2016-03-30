@@ -6,7 +6,7 @@ After completing the course, students are encouraged to become a part of our fre
 
 Our Autumn 2015 cohort had a 100% programme completion record and all of them are now working as software developers. In the 12 months to April 2016, 17 (36%) out of 47 students completing our programme were women.
 
-We support ourselves entirely through voluntary contributions from our freelancers, through placement fees from employers, and through [dwyl](http://www.dwyl.io/), which provides freelance experience to many of our graduates. 
+We support ourselves entirely through voluntary contributions from our alumni, through placement fees from employers, and through our close working relationship with [dwyl](http://www.dwyl.io/), which provides freelance experience to many of our graduates. 
 
 We believe this to be a replicable model of training that is capable of addressing acute skills shortages, widening access to work opportunities, and offering life-changing personal empowerment free at the point of delivery and without ongoing subsidies.
 
