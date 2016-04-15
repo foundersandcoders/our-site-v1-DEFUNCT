@@ -9,14 +9,9 @@ We are taking applications up until April 11th for the course that is starting o
 
 We may also request a short in-person paired programming session (remote sessions can also be arranged).
 
-## Application deadlines
+We offer places on a rolling basis, but we strongly recommend that you apply early, regardless of whether you have met the minimum application criteria.
 
-+ ~~First application deadline: January 11th.~~
-+ ~~Second application deadline: February 8th.~~
-+ ~~Third application deadline: March 7th.~~
-+ Final application deadline: April 11th.
-
-We do recommend that applicants apply early, but your application will not be considered until you have met all of the minimum application criteria. You will remain in the applicant pool until you have been offered a place or all the places have been filled, which you will be notified of within two weeks of the final application deadline.
+Your application will remain open either until you have been offered a place or until all the places have been filled, which is likely to be on or before September 1st.
 
 ## Application criteria
 
@@ -29,6 +24,10 @@ We receive many applications for each place and selection is highly competitive.
 (in particular, our [READMEs](https://github.com/codingforeveryone/READMEs));
 + contribute to [our Gitter chatroom](https://gitter.im/codingforeveryone)
 
-If you have no coding experience, creating kata on Codewars and getting familiar with GitHub will take time.
+If you have no coding experience, creating kata on Codewars and getting familiar with GitHub will take time, but please do not be daunted. 
 
-But please do not be daunted. We encourage you to seek help and encouragement from other applicants. Join us on GitHub, use our Gitter channel, and if you live in London consider signing up for our [Monday evening meetups](http://www.meetup.com/founderscoders/).
+We encourage you to seek help and encouragement from other applicants. Join us on GitHub, and use our Gitter channel.
+
+Please be aware that meeting the minimum criteria is not alone sufficient to secure a place. Achieving high scores on Codewars and active participation on Gitter and GitHub are helpful to an application, but not necessarily decisive.
+
+Achieving a diversity of skills and backgrounds on each cohort is also important to us.
