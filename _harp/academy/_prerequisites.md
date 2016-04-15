@@ -20,8 +20,6 @@ It takes a while to get the hang of Codewars (it's quite different to and a jump
 
 You might feel like you need more preparation. If so, take a look at chapters 1-4 of [Eloquent Javascript](http://eloquentjavascript.net/Eloquent_JavaScript.pdf).  It's helpful for understanding functions and their uses in Javascript and builds nicely on where Codecademy ends.
 
-If you find yourself struggling or want to meet other learners, come along to our [Monday evening meetups](www.meetup.com/founderscoders/) where we can help. We also run Coding for Women on every other Tuesday.  
-
 Finally, sign up to Stack Overflow and look at some answers given for Javascript questions. The community can be a little intolerant of duplicated questions, so we'll brief on the techniques for asking questions when you arrive. Come join our Gitter channel where we chat about Codewars, Codecademy and other learning resources.
 
 **Recommended**  
