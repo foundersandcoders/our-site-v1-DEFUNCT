@@ -1,6 +1,8 @@
 # Applications
 
-We are taking applications up until April 11th for the course that is starting on June 6th, based at our Bethnal Green campus.
+Our June 2016 course is now full, thank you to all who applied!
+
+We are now taking applications up until 5th September for our October course, based at our Bethnal Green campus.
 
 ## The application process
 
