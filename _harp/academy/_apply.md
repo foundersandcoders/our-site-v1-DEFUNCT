@@ -1,6 +1,8 @@
 # Applications
 
-We are now taking applications for the Autummn 2016 cohort (starting in October), based at our Bethnal Green campus.
+Our June 2016 course is now full, thank you to all who applied!
+
+We are now taking applications for the Autumn 2016 cohort (starting in October), based at our Bethnal Green campus.
 
 ## The application process
 
@@ -9,11 +11,12 @@ We are now taking applications for the Autummn 2016 cohort (starting in October)
 
 We may also request a short in-person paired programming session (remote sessions can also be arranged).
 
-We offer places on a rolling basis. Early application is recommended.
+We offer places on throughout the months leading up to the application deadline. Early application is recommended so we know you are interested and can keep an eye out for you in our community.
 
 ## Minimum application requirements
 
-We will expect you to have started on your journey to become a software developer before you join us on the programme. These are the minimum requirements:
+
+We will expect you to have started on your journey to become a software developer before you join us on the programme. Our minimum requirements provide the guidance you need to achieve this:
 
 + Reach at least 5 kyu on [Codewars](http://www.codewars.com/?language=javascript);
 + Create some kata on [CodeWars](http://www.codewars.com/kata/new);
@@ -25,7 +28,8 @@ Your application will not be considered until you have met all these requirement
 
 If you have no coding experience, creating kata on Codewars and getting familiar with GitHub will take time, but please do not be daunted. 
 
-We encourage you to seek help and encouragement from other applicants. Join us on GitHub, and ask questions on Gitter.
+We encourage you to seek help and encouragement from other applicants. Join us on GitHub, and ask questions on [Gitter](https://gitter.im/codingforeveryone).
 
-Please note that this programme is intended for people without a background in computer science or software engineering. If you have already worked professionally as a software engineer or studied computer science at university, then this programme is probably not for you.
- 
+Please be aware that meeting the minimum criteria alone will not secure you a place. Our course is highly collaborative and as such, we take great care to also achieve a diversity of skills and backgrounds on each cohort. Our aim is to create the best _team_ learning environment for every cohort, not to simply have a set of great _individuals_.
+
+Please also note that this programme is intended for people without a background in computer science or software engineering. If you have already worked professionally as a software engineer or studied computer science at university, then this programme is probably not for you.
