@@ -11,10 +11,9 @@ We are now taking applications for the Autumn 2016 cohort (starting in October),
 
 We may also request a short in-person paired programming session (remote sessions can also be arranged).
 
-We offer places on throughout the months leading up to the application deadline. Early application is recommended so we know you are interested and can keep an eye out for you in our community.
+We offer places throughout the months leading up to the application deadline. Early application is recommended, so we know that you are interested and can keep an eye out for you in our community.
 
 ## Minimum application requirements
-
 
 We will expect you to have started on your journey to become a software developer before you join us on the programme. Our minimum requirements provide the guidance you need to achieve this:
 
