@@ -13,16 +13,18 @@ We offer places on a rolling basis, but we strongly recommend that you apply ear
 
 Your application will remain open either until you have been offered a place or until all the places have been filled, which is likely to be on or before September 1st.
 
-## Application criteria
+## Minimum application requirements
 
-We receive many applications for each place and selection is highly competitive. we will expect you to have started on your journey to become a software developer before you join us on the programme.
+We receive many applications for each place and selection is highly competitive. We will expect you to have started on your journey to become a software developer before you join us on the programme. These are the minimum requirements:
 
 + Record your voice at an adequate sound level on your video and keep it to under two minutes;
 + Reach at least 5 kyu on [Codewars](http://www.codewars.com/?language=javascript);
 + Create some kata on [CodeWars](http://www.codewars.com/kata/new);
 + Contribute to [our community on GitHub](https://github.com/codingforeveryone)
-(in particular, our [READMEs](https://github.com/codingforeveryone/READMEs));
+(e.g. our [READMEs](https://github.com/codingforeveryone/READMEs));
 + contribute to [our Gitter chatroom](https://gitter.im/codingforeveryone)
+
+Your application will not be considered until you have met all these requirements.
 
 If you have no coding experience, creating kata on Codewars and getting familiar with GitHub will take time, but please do not be daunted. 
 
