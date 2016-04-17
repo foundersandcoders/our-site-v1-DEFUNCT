@@ -1,6 +1,8 @@
 # Applications
 
-We are taking applications up until April 11th for the course that is starting on June 6th, based at our Bethnal Green campus.
+Our June 2016 course is now full, thank you to all who applied!
+
+We are now taking applications for the Autumn 2016 cohort (starting in October), based at our Bethnal Green campus.
 
 ## The application process
 
@@ -9,27 +11,24 @@ We are taking applications up until April 11th for the course that is starting o
 
 We may also request a short in-person paired programming session (remote sessions can also be arranged).
 
-We offer places on a rolling basis, but we strongly recommend that you apply early, regardless of whether you have met the minimum application criteria.
-
-Your application will remain open either until you have been offered a place or until all the places have been filled, which is likely to be on or before September 1st.
+We offer places throughout the months leading up to the application deadline. Early application is recommended, so we know that you are interested and can keep an eye out for you in our community.
 
 ## Minimum application requirements
 
-We receive many applications for each place and selection is highly competitive. We will expect you to have started on your journey to become a software developer before you join us on the programme. These are the minimum requirements:
+We will expect you to have started on your journey to become a software developer before you join us on the programme. Our minimum requirements provide the guidance you need to achieve this:
 
-+ Record your voice at an adequate sound level on your video and keep it to under two minutes;
 + Reach at least 5 kyu on [Codewars](http://www.codewars.com/?language=javascript);
 + Create some kata on [CodeWars](http://www.codewars.com/kata/new);
 + Contribute to [our community on GitHub](https://github.com/codingforeveryone)
 (e.g. our [READMEs](https://github.com/codingforeveryone/READMEs));
-+ contribute to [our Gitter chatroom](https://gitter.im/codingforeveryone)
++ Remain active in [our Gitter chatrooms](https://gitter.im/codingforeveryone)
 
 Your application will not be considered until you have met all these requirements.
 
 If you have no coding experience, creating kata on Codewars and getting familiar with GitHub will take time, but please do not be daunted. 
 
-We encourage you to seek help and encouragement from other applicants. Join us on GitHub, and use our Gitter channel.
+We encourage you to seek help and encouragement from other applicants. Join us on GitHub, and ask questions on [Gitter](https://gitter.im/codingforeveryone).
 
-Please be aware that meeting the minimum criteria is not alone sufficient to secure a place. Achieving high scores on Codewars and active participation on Gitter and GitHub are helpful to an application, but not necessarily decisive.
+Please be aware that meeting the minimum criteria alone will not secure you a place. Our course is highly collaborative and as such, we take great care to also achieve a diversity of skills and backgrounds on each cohort. Our aim is to create the best _team_ learning environment for every cohort, not to simply have a set of great _individuals_.
 
-Achieving a diversity of skills and backgrounds on each cohort is also important to us.
+Please also note that this programme is intended for people without a background in computer science or software engineering. If you have already worked professionally as a software engineer or studied computer science at university, then this programme is probably not for you.
