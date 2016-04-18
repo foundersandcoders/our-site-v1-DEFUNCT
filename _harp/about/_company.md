@@ -2,8 +2,6 @@
 
 Founders & Coders C.I.C. runs the only free full-time coding course in the UK. We have developed a highly effective peer-led model of learning which, after only two years of operation, attracts exceptional women and men from all over the world.
 
-Over the last year, 98% of our graduates have gone on to work as software developers. 36% of them were women and many more were from other backgrounds underrepresented in the tech industry.
-
 After completing the course, students are encouraged to join our freelance community and to contribute to a growing array of community activities, including the course itself.
 
 We support ourselves entirely through voluntary contributions from our alumni, through placement fees from employers, and through our close working relationship with [dwyl](http://www.dwyl.io/), which provides freelance experience to many of our graduates.
