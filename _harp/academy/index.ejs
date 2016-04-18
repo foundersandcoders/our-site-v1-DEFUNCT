@@ -1,8 +1,20 @@
 <div class="academy-landing">
+	<div id="academy-bw-image"></div>
+	<div id="academy-image"></div>
 	<h1 class="agency">The Full Stack.</h1>
 	<h1><span class="display">Collaborative Environment +</span> Cutting-edge Curriculum</h1>
-	<a onclick="fac.nav_scroll('/academy/', 'apply')" class="margin"><button class="button-three">APPLY</button></a>
+	<a onclick="fac.nav_scroll('/academy/', 'apply')" class="margin"><button id="button" class="button-three">APPLY</button></a>
 </div>
+
+<%# <div class="section-landing">
+		<div id="section-landing-image"></div>
+		<div class="section-landing-image-alt"></div>
+		<h1>Become a developer</h1>
+		<p><span class="display-inline-dektop">Create software that makes</span><span class="display-inline-tablet">Make</span> the world a better place.</p>
+		<a href="/academy/#apply" class="margin"><button id="button" class="button-three" mouseout="image()">APPLY</button></a>
+</div>%>
+
+
 <div class="section-copy">
 	<div class="container">
 		<%- partial("_about.md") %>
