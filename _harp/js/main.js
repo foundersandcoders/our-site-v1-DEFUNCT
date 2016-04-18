@@ -329,8 +329,8 @@ var contact_form = (function (){
 
 $(document).ready(function(){
   $("#button").hover(function(){
-      $("#image").css("opacity", 0);
+      $("#section-landing-image").css("opacity", 0);
       }, function(){
-      $("#image").css("opacity", 1);
+      $("#section-landing-image").css("opacity", 1);
   });
 });
