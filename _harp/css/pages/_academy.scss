@@ -24,10 +24,13 @@
 	z-index: -2;
 }
 
-.academy-landing {
-  // background-image: url('../assets/fac-sofa.jpg');
-  background-size: cover;
+#hire_us_image {
+	background-image: url('../assets/fac-sofa.jpeg');
+	background-size: cover;
   background-position: center top;
+}
+
+.academy-landing {
   height: 80vh;
   display: flex;
   align-items: center;
