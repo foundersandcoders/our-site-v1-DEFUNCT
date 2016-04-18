@@ -333,4 +333,9 @@ $(document).ready(function(){
       }, function(){
       $("#section-landing-image").css("opacity", 1);
   });
+  $("#button").hover(function(){
+      $("#academy-bw-image").css("opacity", 0);
+      }, function(){
+      $("#academy-bw-image").css("opacity", 1);
+  });
 });
