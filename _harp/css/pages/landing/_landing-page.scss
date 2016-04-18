@@ -1,21 +1,22 @@
+#section-landing-image {
+	background-image: url('../assets/garden-lunch-bw.jpeg');
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	transition: opacity .3s ease-in-out;
+	opacity: 1;
+}
+
 .section-landing {
 	@extend %section;
 	height: 80vh;
 	position: relative;
 	flex-direction: column;
-	.section-landing-image {
-		background-image: url('../assets/garden-lunch-bw.jpeg');
-		background-size: cover;
-		background-position: center;
-		height: 100%;
-		width: 100%;
-		position: absolute;
-		top: 0;
-		left: 0;
-		z-index: -1;
-		transition: opacity .3s ease-in-out;
-		opacity: 1;
-	}
 	.section-landing-image-alt {
 		background-image: url('../assets/garden-lunch.JPG');
 		background-size: cover;
