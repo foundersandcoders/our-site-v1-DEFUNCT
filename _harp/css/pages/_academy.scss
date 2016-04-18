@@ -1,5 +1,31 @@
+#academy-bw-image {
+	background-image: url('../assets/academy-bw.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	transition: opacity .3s ease-in-out;
+	opacity: 1;
+}
+
+#academy-image {
+	background-image: url('../assets/academy.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -2;
+}
+
 .academy-landing {
-  background-image: url('../assets/fac-sofa.jpg');
+  // background-image: url('../assets/fac-sofa.jpg');
   background-size: cover;
   background-position: center top;
   height: 80vh;
@@ -13,6 +39,7 @@
 	}
 	h1 {
 		font-size: 40px;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 	}
 	p {
 		font-size: 20px;
@@ -41,6 +68,7 @@
   .agency {
     font-size: 90px;
     line-height: 80%;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
   }
 }
 
