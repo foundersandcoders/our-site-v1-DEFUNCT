@@ -1,7 +1,36 @@
-.academy-landing {
-  background-image: url('../assets/fac-sofa-hd-2.jpg');
-  background-size: cover;
+#academy-bw-image {
+	background-image: url('../assets/academy-bw.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	transition: opacity .3s ease-in-out;
+	opacity: 1;
+}
+
+#academy-image {
+	background-image: url('../assets/academy.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -2;
+}
+
+#hire_us_image {
+	background-image: url('../assets/fac-sofa.jpeg');
+	background-size: cover;
   background-position: center top;
+}
+
+.academy-landing {
   height: 80vh;
   display: flex;
   align-items: center;
@@ -13,6 +42,7 @@
 	}
 	h1 {
 		font-size: 40px;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 	}
 	p {
 		font-size: 20px;
@@ -27,9 +57,10 @@
     height: 38px;
     font-size: 17px;
     padding-top: 12px;
+    margin-bottom: 4%;
   }
   .margin {
-    margin-bottom: 5%;
+    margin-bottom: 1%;
   }
   .display {
     display: inline;
@@ -40,6 +71,7 @@
   .agency {
     font-size: 90px;
     line-height: 80%;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
   }
 }
 
