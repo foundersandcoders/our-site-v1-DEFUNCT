@@ -9,8 +9,8 @@ We run three programmes a year, starting in February, June, and October. Exact d
 **What is the aim of the programme?**    
 To give students sufficient skills to create web applications and find employment as a web developer.
 
-**What is the structure of the programme?**    
-It is divided into two parts: a 10-week foundation followed by 6 weeks working on real-world projects.
+**What is the programme length?**    
+It consists of a 10-week foundation followed by 5 weeks working on real-world projects, separated by a reading week (two weeks, for the Autumn cohort). The total course length is 16 weeks (17 weeks for the Autumn cohort).
 
 **How is the foundation course delivered?**    
 As a full-time classroom-based course running Monday to Friday from 10am to 7pm at our campus in Bethnal Green.
