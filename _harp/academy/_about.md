@@ -8,11 +8,11 @@ We run a full-time, 16-week course in full-stack software development using Java
 
 We aim to give students the best possible training in software development. In return we ask you to help us deliver subsequent courses and to contribute to our various community projects.
 
-We also ask you to contribute in one of three ways:
+We also ask you to contribute to the academy's sustainability in one of three ways:
 
 - Join our community - earning a living while learning and working on interesting projects with our senior developers.
 
-- Let us to place you with one of our partners so that we can get a recruitment fee.
+- Let us help you find full time employment with one of our hiring partners who will provide us with a referral fee.
 
 - Donate 10% of your salary for your first year of employment.
 
