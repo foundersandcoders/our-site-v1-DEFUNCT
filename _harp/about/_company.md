@@ -16,7 +16,7 @@ Our employment success rate for students who have actively sought development wo
 
 Of the 52 students who studied with us in 2014/15 and who actively sought development work, all 52 are now working either freelance or in permanent roles. This is a reflection of both the quality of our graduates and the level of support we provide to them after they graduate.
 
-In contrast, the proportion of students who have actually decided to seek development work after they graduate has changed dramatically for us in the last two years. The transformation from only one student in our very first (FAC0) cohort to every student in the Autumn 2015 (FAC6) cohort is a reflection of the growing reputation of the programme and the serious intent of our students. 
+Meanwhile, the proportion of students who have actually decided to seek development work after they graduate has grown dramatically for us in the last two years. The transformation from only one student in our very first (FAC0) cohort to every student in the Autumn 2015 (FAC6) cohort is a reflection of the growing reputation of the programme and the serious intent of our students. 
 
 ![Graduates actively seeking development work](/assets/graph1.png)
 
