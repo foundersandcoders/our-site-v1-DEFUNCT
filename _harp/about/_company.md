@@ -10,13 +10,11 @@ We believe this to be a replicable model of training that is capable of addressi
 
 We are partnering with a number of organisations in the social enterprise and charity sectors to provide freelancing and employment opportunities for our graduates and to open new schools in the UK and abroad.
 
-## Our hiring rate
+## Our graduate success rate
 
-Our employment success rate for students who have actively sought development work after graduation is 100%.
+All our graduates who have actively sought be become web developers have been successful in reaching that goal, whether working freelance or in permanent employment or on their own startup.
 
-Of the 52 students who studied with us in 2014/15 and who actively sought development work, all 52 are now working either freelance or in permanent roles. This is a reflection of both the quality of our graduates and the level of support we provide to them after they graduate.
-
-Meanwhile, the proportion of students who have actually decided to seek development work after they graduate has grown dramatically for us in the last two years. The transformation from only one student in our very first (FAC0) cohort to every student in the Autumn 2015 (FAC6) cohort is a reflection of the growing reputation of the programme and the serious intent of our students. 
+Meanwhile, the proportion of our students who decided to become web developers on graduation has grown dramatically in the last two years. The transformation from only one student in our very first (FAC0) cohort to every student in the Autumn 2015 (FAC6) cohort is a reflection of the growing reputation of the programme and the serious intent of our students. 
 
 ![Graduates actively seeking development work](/assets/graph1.png)
 
