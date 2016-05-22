@@ -12,10 +12,13 @@ We are partnering with a number of organisations in the social enterprise and ch
 
 ## Our hiring rate
 
-We encourage our graduates to freelance with us after they graduate, so the usual measure of graduate success, the *"hiring rate"*,  a bit misleading, but of the 52 students who studied with us in 2014/15 and who actively sought development work, all 52 are working either freelance or in permanent roles. In effect, our success rate is 100%. 
+We encourage our graduates to freelance with us after they graduate, so the usual measure of graduate success, the *"hiring rate"*, is a bit misleading, but of the 52 students who studied with us in 2014/15 and who actively sought development work, all 52 are now working either freelance or in permanent roles. In effect, our employment success rate is 100%. 
 
-To reiterate, not a single person who has studied with us since 2014 and who has actively sought development work has failed to find it. 
+To reiterate: not a single person who has studied with us since 2014 and who has actively sought development work has failed to find it. This is a reflection of both the quality of our graduates and the level of support we provide to them after they graduate.
 
+In contrast, the proportion of students who *actively seek development work* after they graduate has changed dramatically for us in the last two years. The transformation from only one student from our very first cohort to all our students from the Autumn 2015 (FAC6) cohort is a reflection of the growing reputation of the programme and the serious intent of our students. 
+
+![Graduates actively seeking development work](/assets/graph1.png)
 
 
 
