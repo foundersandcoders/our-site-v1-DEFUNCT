@@ -1,8 +1,6 @@
 # Applications
 
-Our June 2016 course is now full, thank you to all who applied!
-
-We are now taking applications for the Autumn 2016 cohort (starting in October), based at our Bethnal Green campus.
+We are now taking applications for the Autumn 2016 cohort (starting on October 17th). We strongly recommend getting your application in by July 26th.
 
 ## The application process
 
