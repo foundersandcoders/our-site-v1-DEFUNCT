@@ -25,7 +25,7 @@ Your application will not be considered until you have met all these requirement
 
 If you have no coding experience, creating kata on Codewars and getting familiar with GitHub will take time, but please do not be daunted. 
 
-We encourage you to seek help and encouragement from other applicants. Join us on GitHub, and ask questions on [Gitter](https://gitter.im/codingforeveryone).
+We encourage you to seek help and encouragement from other applicants. Join us on [Gitter](https://gitter.im/codingforeveryone). We encourage you to start by asking questions. It's a friendly community. Beginners are always welcome.  
 
 Please be aware that meeting the minimum criteria alone will not secure you a place. Our course is highly collaborative and as such, we take great care to also achieve a diversity of skills and backgrounds on each cohort. Our aim is to create the best _team_ learning environment for every cohort, not to simply have a set of great _individuals_.
 
