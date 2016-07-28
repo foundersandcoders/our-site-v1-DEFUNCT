@@ -1,6 +1,8 @@
 # Applications
 
-We are now taking applications for the Autumn 2016 cohort (starting on October 17th). We strongly recommend getting your application in by July 26th.
+The Autumn 2016 programme starts on Monday 17th October. 
+
+Applications close on **Friday 19th August**.
 
 ## The application process
 
