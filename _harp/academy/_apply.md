@@ -6,8 +6,8 @@ Applications close on **Friday 19th August**.
 
 ## The application process
 
-+ [Application form, Part 1](apply1.html) (the shorter one)
-+ [Application form, Part 2](apply2.html) (the longer one)
++ [Expression of interest](interest.html)
++ [Application](apply.html)
 
 We may also request a short in-person paired programming session (remote sessions can also be arranged).
 
