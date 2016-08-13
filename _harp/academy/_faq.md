@@ -43,14 +43,14 @@ This programme is challenging and you need to be well-prepared. We aim for a zer
 Very. We get many applicants for each place.
 
 **How much does it cost?**     
-There are no fees, but students and graduates are expected to help us deliver the programme to the next cohort and to contribute to our various community projects. You will also need to cover your own living expenses for at least 6 months, to cover the length of time required to complete the programme and find work.
+There are no fees, but graduates are expected to contribute to the sustainability of the programme after they graduate.
+
+**How are students expected to *contribute to the sustainability of the programme*?**     
+By delivering the programme to the next student cohort and by allowing us find them employment after they graduate.
 
 **How are you supporting yourselves?**    
-By working on freelance projects. None of us is paid for teaching or mentoring on the programme.
+Primarily, through fees earned from employers, but also from voluntary contributions from graduates who choose to find their own employment.
 
 **If this programme is so good, why are you offering it for free?**    
 We are trying to build a community and we do not think we can do that by charging an entry fee.
-
-**How can I give something back?**    
-Almost as soon as you arrive, we will invite you to get involved in helping us run our various free programmes. After the 16-week programme is finished, we will expect you to help us deliver the programme to our next cohort of students.
 
