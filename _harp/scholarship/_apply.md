@@ -2,14 +2,17 @@
 
 The Autumn 2016 programme starts on Monday 17th October. 
 
-Applications for the Palestinian Israeli scholarship close on **Friday 2nd September**.
+Applications for the Arab Israeli scholarship close on **Friday 2nd September**.
 
 ## The application process
 
 + [Expression of interest](interest.html)
+
+This will take 2 minutes to complete and will allow us to invite you to join our online community.
+
 + [Application](apply.html)
 
-We may also request a short remote paired programming session.
+This will take longer and will need to include a 2-minute video.
 
 ## Minimum application requirements
 
@@ -21,8 +24,9 @@ We will expect you to have started on your journey to become a software develope
 
 We also expect you to become active in our online community on [Gitter](https://gitter.im/codingforeveryone). We encourage you to start by asking questions. It's a friendly community. Beginners are always welcome.  
 
-If you are not familiar with the JavaScript programming language, then before you start on Codewars, we recommend an introductory course in JavaScript. We suggest taking a look at the [Partner tutorials that teach JavaScript](https://code.org/learn), such as [Khan Academy](https://www.khanacademy.org/computing/hour-of-code/hour-of-drawing-code/v/welcome-hour-of-code) or [Codecademy](https://www.codecademy.com/hour-of-code).
+If you are not familiar with the JavaScript programming language, then before you start on Codewars, we recommend an introductory course in JavaScript. We suggest taking a look at the [Partner tutorials that teach JavaScript](https://code.org/learn) on code.oeg, such as [Khan Academy](https://www.khanacademy.org/computing/hour-of-code/hour-of-drawing-code/v/welcome-hour-of-code) or [Codecademy](https://www.codecademy.com/hour-of-code).
 
 **Get your [Expression of interest](interest.html) in now.**
 
-(more information about our programme is [here](/academy/))
+[More information about our programme](/academy/)).
+
