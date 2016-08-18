@@ -11,3 +11,18 @@
 	transition: opacity .3s ease-in-out;
 	opacity: 1;
 }
+
+.sponsor-section {
+	div {
+		max-width: 250px;
+		width: 33%;
+	}
+	.embassy {
+		max-width: 150px;
+		width: 90%;
+	}
+	.techhub {
+		max-width: 250px;
+		width: 100%;
+	}
+}

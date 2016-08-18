@@ -28,5 +28,5 @@ If you are not familiar with the JavaScript programming language, then before yo
 
 **Get your [Expression of interest](interest.html) in now.**
 
-[More information about our programme](/academy/)).
+[More information about our programme](/academy/).
 
