@@ -1,13 +1,13 @@
 # Applications
 
-The Autumn 2016 programme starts on Monday 17th October. 
+The Spring 2017 programme starts on Monday 20th February. 
 
-Applications close on **Friday 19th August**.
+Applications will open in October.
 
 ## The application process
 
-+ [Expression of interest](interest.html)
-+ [Application](apply.html)
++ **[Expression of interest](interest.html)** - takes two minutes to complete.
++ Application - opening soon
 
 We may also request a short in-person paired programming session (remote sessions can also be arranged).
 
