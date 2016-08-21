@@ -1,6 +1,6 @@
 # About us
 
-Founders & Coders runs a four-month coding camp in London. We are delighted to announce that in 2017 we will be opening our first international campus in the Arab Israeli city of Nazareth.
+Founders & Coders runs a well-established coding camp in London. We are delighted to announce that in 2017 we will be opening our first international campus in the Arab Israeli city of Nazareth.
 
 We follow a highly-effective peer-led approach to learning and we do not employ any teaching or administrative staff. Our low cost of operation allows us to offer our training without charging any fees to our students.
 
