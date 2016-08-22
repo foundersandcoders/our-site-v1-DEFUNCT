@@ -1,6 +1,6 @@
 # About us
 
-Founders & Coders runs a well-established full-stack JavaScript coding camp in London. In 2017 we plan to open our first international campus in the Arab Israeli city of Nazareth.
+Founders & Coders runs a well-established full-stack JavaScript coding camp in London. In 2017, we plan to open our first international campus in the Arab Israeli city of Nazareth.
 
 We follow a highly-effective peer-led approach to learning and we do not employ any teaching or administrative staff. Thanks to the dedication and effort of our two directors, we are currently able to offer our training without charging any fees to our students.
 
