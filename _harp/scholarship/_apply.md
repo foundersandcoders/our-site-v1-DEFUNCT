@@ -16,9 +16,7 @@ We will expect you to have started on your journey to become a software develope
 
 + Be proficient in spoken English;
 + Be familiar with the JavaScript programming language;
-+ Reach at least 5 kyu on [Codewars](http://www.codewars.com/?language=javascript).
-
-We also expect you to become active in our online community on [Gitter](https://gitter.im/codingforeveryone). We encourage you to start by asking questions. It's a friendly community. Beginners are always welcome.  
++ Reach 5 kyu on [Codewars](http://www.codewars.com/?language=javascript).
 
 If you are not familiar with the JavaScript programming language, then before you start on Codewars, we recommend an introductory course in JavaScript. 
 
