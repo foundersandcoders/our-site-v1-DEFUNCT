@@ -2,7 +2,7 @@
 
 The Autumn 2016 programme starts on Monday 17th October. 
 
-Applications for the Arab Israeli scholarship close on **Friday 2nd September**.
+Expressions of interest for the Arab Israeli scholarship must be in on **Friday 2nd September**.
 
 ## The application process
 
