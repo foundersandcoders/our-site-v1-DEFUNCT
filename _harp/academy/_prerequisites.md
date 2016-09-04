@@ -2,6 +2,10 @@
 
 **Udacity** has several good courses, including [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804), [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015) and [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775).
 
+[**Codecademy**](https://www.codecademy.com/) is another good resource for beginners. We recommend [HTML & CSS](https://www.codecademy.com/learn/web), [Make a Website](https://www.codecademy.com/en/skills/make-a-website), [Javascript](https://www.codecademy.com/learn/javascript) and the [YouTube API](https://www.codecademy.com/en/tracks/youtube).
+
+[**Khan Academy**](https://www.khanacademy.org/computing) is another great resource for complete beginners.
+
 [**Eloquent Javascript**](http://eloquentjavascript.net/Eloquent_JavaScript.pdf) is a great self-contained introduction to Javascript. The first 4 chapters are relatively easy to follow. Subsequent chapters cover more advanced topics.
 
 [**Javascript: The Good Parts**](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf) is written by the God of Javascript, Douglas Crockford, but later chapters can also be hard to follow.
