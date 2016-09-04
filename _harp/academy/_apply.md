@@ -24,6 +24,8 @@ We have no minimum criteria for application, but you are unlikely to secure a pl
 
 5kyu or more on Codewars or, alternatively, completing *Advanced Algorithm Scripting* and some of the *Advanced Front End Development Projects* on Free Code Camp would be good targets to aim for.
 
+If you are not comfortable coding at this standard by the time the course starts you may struggle. The tasks above are part of how we will measure whether you are a good candidate for the course as well as whether you can learn in the collaborative environment here. 
+
 If you have no coding experience, we encourage you to seek help and encouragement from our online community on  [Gitter](https://gitter.im/codingforeveryone). It's a friendly place. Beginners are always welcome.  
 
 Please be aware that meeting our suggested targets will not necessarily secure you a place. Our programme is highly collaborative and we take great care to achieve a diversity of skills and backgrounds on each cohort. Our aim is to create the best _team_ learning environment for every cohort, not to simply have a set of great _individuals_.
