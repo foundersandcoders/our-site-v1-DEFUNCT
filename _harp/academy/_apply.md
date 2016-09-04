@@ -2,33 +2,30 @@
 
 The Spring 2017 programme starts on Monday 20th February. 
 
-Applications will open in October.
+Applications will open on November 1st and close on November 30th.
 
 ## The application process
 
 + **[Expression of interest](interest.html)** - takes two minutes to complete.
-+ Application - opening soon
++ Application - opening on November 1st.
 
-We may also request a short in-person paired programming session (remote sessions can also be arranged).
+We will expect you to have started on your journey to become a software developer before you join us on the programme.
 
-We offer places throughout the months leading up to the application deadline. Early application is recommended, so we know that you are interested and can keep an eye out for you in our community.
+There are a number of ways to demonstrate your readiness for the programme:
 
-## Minimum application requirements
++ Completing and creating JavaScript kata on [Codewars](http://www.codewars.com/?language=javascript)
++ Making progress with [Free Code Camp](http://www.freecodecamp.com/) *
++ Creating your own website using [GitHub pages](https://pages.github.com/) *
++ Participation in one of our [Meetup groups](http://www.meetup.com/founderscoders/)
 
-We will expect you to have started on your journey to become a software developer before you join us on the programme. Our minimum requirements provide the guidance you need to achieve this:
+\* While learning CSS and JavaScript, we recommend against using frameworks like Bootstrap and jQuery.
 
-+ Reach at least 5 kyu on [Codewars](http://www.codewars.com/?language=javascript);
-+ Create some kata on [CodeWars](http://www.codewars.com/kata/new);
-+ Contribute to [our community on GitHub](https://github.com/codingforeveryone)
-(e.g. our [READMEs](https://github.com/codingforeveryone/READMEs));
-+ Remain active in [our Gitter chatrooms](https://gitter.im/codingforeveryone)
+We have no minimum criteria for application, but you are unlikely to secure a place on the programme without a considerable amount of prior effort. 100-200 hours of self-study is probably typical. 
 
-Your application will not be considered until you have met all these requirements.
+5kyu or more on Codewars or, alternatively, completing *Advanced Algorithm Scripting* and some of the *Advanced Front End Development Projects* on Free Code Camp would be good targets to aim for.
 
-If you have no coding experience, creating kata on Codewars and getting familiar with GitHub will take time, but please do not be daunted. 
+If you are not comfortable coding at this standard by the time the course starts you may struggle. The tasks above are part of how we will measure whether you are a good candidate for the course as well as whether you can learn in the collaborative environment here. 
 
-We encourage you to seek help and encouragement from other applicants. Join us on [Gitter](https://gitter.im/codingforeveryone). We encourage you to start by asking questions. It's a friendly community. Beginners are always welcome.  
+If you have no coding experience, we encourage you to seek help and encouragement from our online community on  [Gitter](https://gitter.im/codingforeveryone). It's a friendly place. Beginners are always welcome.  
 
-Please be aware that meeting the minimum criteria alone will not secure you a place. Our course is highly collaborative and as such, we take great care to also achieve a diversity of skills and backgrounds on each cohort. Our aim is to create the best _team_ learning environment for every cohort, not to simply have a set of great _individuals_.
-
-Please also note that this programme is intended for people without a background in computer science or software engineering. If you have already worked professionally as a software engineer or studied computer science at university, then this programme is probably not for you.
+Please be aware that meeting our suggested targets will not necessarily secure you a place. Our programme is highly collaborative and we take great care to achieve a diversity of skills and backgrounds on each cohort. Our aim is to create the best _team_ learning environment for every cohort, not to simply have a set of great _individuals_.
