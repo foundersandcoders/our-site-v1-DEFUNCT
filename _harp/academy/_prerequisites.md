@@ -1,5 +1,7 @@
 ## Other recommended materials
 
+[**A Guide to setting up your developer environment**](https://github.com/dwyl/dev-setup) by our good friends at dwyl is an excellent starting point for new developers.
+
 **Udacity** has several good courses, including [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804), [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015) and [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775).
 
 [**Codecademy**](https://www.codecademy.com/) is another good resource for beginners. We recommend [HTML & CSS](https://www.codecademy.com/learn/web), [Make a Website](https://www.codecademy.com/en/skills/make-a-website), [JavaScript](https://www.codecademy.com/learn/javascript) and the [YouTube API](https://www.codecademy.com/en/tracks/youtube).
