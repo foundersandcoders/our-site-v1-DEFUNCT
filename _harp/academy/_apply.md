@@ -20,7 +20,7 @@ There are a number of ways to demonstrate your readiness for the programme:
 
 \* While learning CSS and JavaScript, we recommend against using frameworks like Bootstrap and jQuery.
 
-We have no minimum criteria for application, but you are unlikely to secure a place on the programme without a considerable amount of prior effort. 1-200 hours of self-study is probably typical.
+We have no minimum criteria for application, but you are unlikely to secure a place on the programme without a considerable amount of prior effort. 100-200 hours of self-study is probably typical. 5kyu or more on codewars or, alternatively, completing *Advanced Algorithm Scripting* and some of the *Advanced Front End Development Projects* on Free Code Camp would be good targets to aim for.
 
 If you have no coding experience, we encourage you to seek help and encouragement from our online community on  [Gitter](https://gitter.im/codingforeveryone). It's a friendly place. Beginners are always welcome.  
 
