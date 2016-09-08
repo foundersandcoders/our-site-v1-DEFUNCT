@@ -15,8 +15,8 @@ It consists of a 10-week foundation followed by 5 weeks working on real-world pr
 **How is the foundation course delivered?**    
 As a full-time classroom-based course running Monday to Friday from 10am to 7pm at our campus in Bethnal Green.
 
-**How is the classroom organised?**     
-Classes are peer-led and project-based with sixteen students working in four teams of four. Students take turns to deliver seminars, run code reviews and manage projects.
+**How is the classroom organised?**
+Classes are peer-led and project-based with sixteen students working in four teams of four. Students take turns to deliver seminars, run code reviews and manage projects. With direction and guidance from our mentors, members of the cohort will spend time both learning from and teaching each other. Depending on your level of preparation, you may spend more time doing one or the other. We consider teaching to be part of the process of learning.
 
 **What does the curriculum cover?**    
 Primarily, we cover *test-driven* development, using *JavaScript* and *Node.js*. We also cover aspects of UX design, product management and entrepreneurship.
@@ -31,13 +31,13 @@ We cannot offer you any guarantees, but the employment success rate of recent al
 The quality of the learning experience. The commitment of your fellow students. The *Founders & Coders* community.
 
 **Who is this programme suitable for?**    
-There are no academic requirements, but you need to be self-motivated, prepared to work long hours, and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure. 
+There are no academic requirements, but you need to be self-motivated, prepared to work long hours, and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.
 
 **Do you accept applications from abroad?**  
 We do welcome international students onto the programme as long as they are intending to stay and work in London after they graduate. The programme is provided free and in return we expect you to contribute to our community. You will need to be eligible to study and work in the UK. We are currently unable to provide assistance with visas or accommodation.  
 
 **Why are the prerequisites so tough?**    
-This programme is challenging and you need to be well-prepared. We aim for a zero drop-out rate, so we need to know that you are serious about becoming a developer before we accept you on to the programme. 
+This programme is challenging and you need to be well-prepared. We aim for a zero drop-out rate, so we need to know that you are serious about becoming a developer before we accept you on to the programme.
 
 **How competitive is the entry?**    
 Very. We get many applicants for each place.
