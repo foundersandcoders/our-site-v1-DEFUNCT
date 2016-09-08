@@ -1,5 +1,4 @@
-#london-image {
-	background-image: url('../assets/thames.jpg');
+@mixin landing-image-defaults () {
 	background-size: cover;
 	background-position: center;
 	height: 100%;
@@ -10,6 +9,17 @@
 	z-index: -1;
 	transition: opacity .3s ease-in-out;
 	opacity: 1;
+}
+
+#london-image {
+	background-image: url('../assets/thames.jpg');
+	@include landing-image-defaults;
+}
+
+
+#nazareth-image {
+	background-image: url('../assets/nazareth.jpg');
+	@include landing-image-defaults;
 }
 
 .sponsor-section {
