@@ -1,13 +1,26 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Founders & Coders</title>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+		<title>Founders &amp; Coders | Javascript Course London</title>
+		<meta name="description" content="Javascript Courses in London | Founders and Coders is a non-profit co-operative. We produce beautiful software and provide training, classes and workshops.">
 		<link rel="stylesheet" href="/css/main.css">
+		<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+		<!-- Check if browser supports vh. If not, add styling for crappy browser -->
+		<script src="/js/modernizr.js"></script>
+		<script type="text/javascript">
+		 	if (Modernizr.cssvwunit) {
+				document.getElementById("body").className = "no-cssvhunit";
+			}
+		</script>
+		<script type="text/javascript" src="https://mandrillapp.com/api/docs/js/mandrill.js"></script>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="shortcut icon" href="/assets/favicon.ico">
+		<link rel="shortcut icon" href="/assets/favicon.ico" >
+		<meta name="google-site-verification" content="mOpWptCT92oi7c5sI1qLgywVvQyN8eAalYCjl3qNurw" />
+		<meta name="google-site-verification" content="mOpWptCT92oi7c5sI1qLgywVvQyN8eAalYCjl3qNurw" />
 	</head>
-  	<body>
-  		<nav id="navbar">
+    <body id="body">
+        <nav id="navbar">
 	<div class="desktop-only">
 		<ul class="animate-header">
 
@@ -75,22 +88,52 @@
 
 <div class="section-nav-offset"></div>
 
-  		<div class="section-copy">
-			<div class="container">
-				<h1>Africaneye</h1><p>Africaneye is a service-orientated responsive web application, built using Node.js, Sails and AngularJS.</p>
-<p class="center"><img class="abc-desktop" src="/assets/africaneye-laptop.jpg"></p>
+    	<!--
+<div class="academy-landing">
+	<div id="academy-bw-image"></div>
+	<div id="academy-image"></div>
+	<h1 class="agency">The Full Stack.</h1>
+	<h1><span class="display">Collaborative Environment +</span> Cutting-edge Curriculum</h1>
+	<a href="/apply" class="margin"><button id="button" class="button-three">APPLY</button></a>
+</div>
+-->
 
+<div class="section-copy">
+	<div class="container">
+		<h1>Digital accelerators</h1><p><em>Our immersive digital accelerator programmes help organisations rapidly develop the digital services they need.</em></p>
+<p>In our 4, 8 and 12-week programmes, you will learn how to:</p>
+<ul>
+<li>Employ a startup mentality</li>
+<li>Design digital products and services</li>
+<li>Create a working software product</li>
+</ul>
+<p>With a dedicated team of our recent graduates, we will engage your whole organisation in the creative process of designing and developing digital products.</p>
+<p>Programme components:  </p>
+<ul>
+<li>Workshops on lean thinking, user testing, sprint planning, product ownership</li>
+<li>Design sprint to develop a prototype</li>
+<li>MVP sprints to develop a working product</li>
+</ul>
+<h2>Partnerships</h2><p>With the <a href="http://www.annafreud.org/">Anna Freud Centre</a>, we have developed a digital accelerator programme for mental health professionals, designed to nurture creative thinking and develop the most promising ideas into working software applications. </p>
+<p>With <a href="http://www.wearecast.org.uk/">CAST</a>, which runs the UK&#39;s first digital charity accelerator, we have paired individual charities with teams of developers to help them develop their expertise in managing software projects and to create real solutions to their organisational challenges.</p>
 
-<h2>Challenge</h2><p>IC publications needed an image handling service to integrate into their existing platform. This service would allow their photographers, working around the world, to upload images, curate these images into collections and make them available to ICP&#39;s global audience.</p>
-<h2>Solution</h2><p>Starting with the production of extensive wireframes and user stories, the team worked in fortnightly sprints, using agile principles until completion. Our processes ensured quality, timing and flexibility.</p>
-<h2>Results</h2><p>An elegant and robust solution, which integrates well with ICP’s other services.</p>
-<p class="center">
-    <img class="abc-mobile" src="/assets/africaneye-mobile.jpg">
-    <img class="abc-laptop" src="/assets/africaneye-laptop-content.jpg">
-</p>
-				<a href="/agency/#portfolio"><button class="button-one top-magin-20">Portfolio</button></a>			
+	</div>
+</div>
+    	<div class="section-copy">
+	<div class="container">
+		<div class="sponsor-section">
+			<div>
+				<img class="dwyl" src="/assets/dwyl-logo.png"/>
+			</div>
+			<div>
+				<img class="cast" src="/assets/cast.png"/>
+			</div>
+			<div>
+				<img class="techhub" src="/assets/ukisraeltechhub.jpg"/>
 			</div>
 		</div>
+	</div>
+</div>
     	<div id="contact"></div>
 <div class="contact">
 	<div class="container">
@@ -131,7 +174,9 @@
 </div>
 
 		<footer>
-			<script src="/js/main.js"></script>
+            <script src="/js/main.js"></script>
+            <script src="/js/carousel.js"></script>
+			<script>   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');    ga('create', 'UA-35597887-2', 'auto');   ga('send', 'pageview');  </script>
 		</footer>
   	</body>
 </html>

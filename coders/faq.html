@@ -1,31 +1,48 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Founders & Coders</title>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+		<title>Founders &amp; Coders | Javascript Course London</title>
+		<meta name="description" content="Javascript Courses in London | Founders and Coders is a non-profit co-operative. We produce beautiful software and provide training, classes and workshops.">
 		<link rel="stylesheet" href="/css/main.css">
+		<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+		<!-- Check if browser supports vh. If not, add styling for crappy browser -->
+		<script src="/js/modernizr.js"></script>
+		<script type="text/javascript">
+		 	if (Modernizr.cssvwunit) {
+				document.getElementById("body").className = "no-cssvhunit";
+			}
+		</script>
+		<script type="text/javascript" src="https://mandrillapp.com/api/docs/js/mandrill.js"></script>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="shortcut icon" href="/assets/favicon.ico">
+		<link rel="shortcut icon" href="/assets/favicon.ico" >
+		<meta name="google-site-verification" content="mOpWptCT92oi7c5sI1qLgywVvQyN8eAalYCjl3qNurw" />
+		<meta name="google-site-verification" content="mOpWptCT92oi7c5sI1qLgywVvQyN8eAalYCjl3qNurw" />
 	</head>
-	<body>
-	   <nav id="navbar">
+    <body id="body">
+        <nav id="navbar">
 	<div class="desktop-only">
 		<ul class="animate-header">
-			<li>
-				<a href="/"><h4 class="bold">HOME</h4></a>
-			</li>
-			<li>
 
-				<a href="/london"><h4 class="bold">LONDON</h4></a>
-			</li>
 			<li>
-				<a href="/nazareth"><h4 class="bold">NAZARETH</h4></a>
-			</li>
-			<li>
-				<a href="/testimonials"><h4 class="bold">TESTIMONIALS</h4></a>
-			</li>
-			<li>
-				<a href="/about"><h4 class="bold">ABOUT</h4></a>
-			</li>
+	<a href="/"><h4 class="bold">HOME</h4></a>
+</li>
+<li>
+	<a href="/coders"><h4 class="bold">BOOTCAMPS</h4></a>
+</li>
+<li>
+	<a href="/founders"><h4 class="bold">ACCELERATORS</h4></a>
+</li>
+<li>
+	<a href="/team"><h4 class="bold">OUR TEAM</h4></a>
+</li>
+
+<li>
+	<a href="/about"><h4 class="bold">OUR STORY</h4></a>
+</li>
+
+
+
 		</ul>
 	</div>
 	<div class="dropdownToggle">
@@ -41,25 +58,26 @@
 				<div id="nav-dd-tablet" class="nav-dd-tab">
 					<div class="container">
 						<ul>
+
 							<li>
-								<a href="/"><h4 class="bold">HOME</h4></a>
-							</li>
-							<li>
-								<a href="/london"><h4 class="bold">LONDON</h4></a>								
-							</li>
-						</ul>
-						<ul>
-							<li>
-								<a href="/nazareth"><h4 class="bold">NAZARETH</h4></a>
-							</li>
-							<li>
-								<a href="/testimonials"><h4 class="bold">TESTIMONIALS</h4></a>
-							</li>	
-						</ul>
-						<ul>
-							<li>
-								<a href="/about"><h4 class="bold">ABOUT</h4></a>
-							</li>
+	<a href="/"><h4 class="bold">HOME</h4></a>
+</li>
+<li>
+	<a href="/coders"><h4 class="bold">BOOTCAMPS</h4></a>
+</li>
+<li>
+	<a href="/founders"><h4 class="bold">ACCELERATORS</h4></a>
+</li>
+<li>
+	<a href="/team"><h4 class="bold">OUR TEAM</h4></a>
+</li>
+
+<li>
+	<a href="/about"><h4 class="bold">OUR STORY</h4></a>
+</li>
+
+
+
 						</ul>
 					</div>
 				</div>
@@ -70,15 +88,37 @@
 
 <div class="section-nav-offset"></div>
 
-	    <div class="section-copy">
-  		  <div class="container">
-  			  <p><a href="https://github.com/izaakrogan" target="_blank"><div class="team-image-grid izaak"></div></a>
-<br>
-<br></p>
-<p>Founders &amp; Coders was everything I wanted university to be and is becoming everything I want my work life to be. I am surrounded by passionate people, who are excited by what they’re doing. I spend my days learning difficult things, with a great amount of support and a real sense of progress. My lunchtimes are spent having interesting conversations, with interesting people, from all over the world. I meet potential employers, partners and clients on a weekly basis. Everything feels like progress and we are having such a good time.</p>
-  		  </div>
-	    </div>
-  	  <div id="contact"></div>
+    	<!--
+<div class="academy-landing">
+	<div id="academy-bw-image"></div>
+	<div id="academy-image"></div>
+	<h1 class="agency">The Full Stack.</h1>
+	<h1><span class="display">Collaborative Environment +</span> Cutting-edge Curriculum</h1>
+	<a href="/apply" class="margin"><button id="button" class="button-three">APPLY</button></a>
+</div>
+-->
+
+<div class="section-copy">
+	<div class="container">
+		
+	</div>
+</div>
+    	<div class="section-copy">
+	<div class="container">
+		<div class="sponsor-section">
+			<div>
+				<img class="dwyl" src="/assets/dwyl-logo.png"/>
+			</div>
+			<div>
+				<img class="cast" src="/assets/cast.png"/>
+			</div>
+			<div>
+				<img class="techhub" src="/assets/ukisraeltechhub.jpg"/>
+			</div>
+		</div>
+	</div>
+</div>
+    	<div id="contact"></div>
 <div class="contact">
 	<div class="container">
 		<div itemscope itemtype="http://schema.org/LocalBusiness" class="grid-6 info">
@@ -117,8 +157,10 @@
 	     <div class="footer">Originally supported by <a href="http://camdencollective.co.uk/">Camden Collective</a></div>
 </div>
 
-      <footer>
-    	  <script src="../js/main.js"></script>
-	    </footer>
-	</body>
+		<footer>
+            <script src="/js/main.js"></script>
+            <script src="/js/carousel.js"></script>
+			<script>   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');    ga('create', 'UA-35597887-2', 'auto');   ga('send', 'pageview');  </script>
+		</footer>
+  	</body>
 </html>
