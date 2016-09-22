@@ -1,6 +1,5 @@
 ## Other recommended materials
 
-
 [A Guide to setting up your developer environment](https://github.com/dwyl/dev-setup) by our good friends at dwyl is an excellent starting point for new developers.
 
 Udacity has several good courses, including [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804), [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015) and [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775).

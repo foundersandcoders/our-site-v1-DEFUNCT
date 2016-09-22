@@ -1,20 +1,20 @@
-## Management Team
+# Our team
 
 <div class="about-management">
 	<a href="https://www.linkedin.com/in/dsofer" target="_blank" class="team-image dan"></a>
 
-	**Dan Sofer**
-	Dan is the founding director of *Founders & Coders C.I.C.*. He has been building websites since 1995 for clients that include *The Guardian* and the *BBC*. He project managed the build of the official website of the *London 2012 Olympic Games*.
+	**Dan Sofer** Dan is the founding director of *Founders & Coders C.I.C.*. He has been building websites since 1995 for clients that include *The Guardian* and the *BBC*. He project managed the build of the official website of the *London 2012 Olympic Games*.
 
 	<a href="https://www.linkedin.com/in/iteles" target="_blank" class="team-image ines"></a>
 
-	**Ines Teles**
-	Ines is a director of *Founders & Coders C.I.C.*, project manager, developer and organiser of *Ladies who Code*. She previously spent several years as a consultant at *Accenture*.
+	**Ines Teles** is a director of *Founders & Coders C.I.C.*, project manager, developer and organiser of *Ladies who Code*. She previously spent several years as a consultant at *Accenture*.
 
 	<a href="https://www.linkedin.com/in/nelsonic" target="_blank" class="team-image nelson"></a>
 
-	**Nelson Correia**
-	Nelson is our lead technical mentor. He has previously led development teams at *Thomas Cook*, *Pearson* and *Groupon* and has been an IT consultant at *Deloitte*.
+	**Nelson Correia** is our lead technical mentor. He has previously led development teams at *Thomas Cook*, *Pearson* and *Groupon* and has been an IT consultant at *Deloitte*.
+
+	<a href="https://www.linkedin.com/in/rebecca-radding" target="_blank" class="team-image rebecca"></a>
+	**Rebecca Radding** is our Director of Development for the Middle East and North Africa. She divides her time between London, our new campus in Nazareth, and Tangier, where she is currently based.
 </div>
 
 ## Mentors

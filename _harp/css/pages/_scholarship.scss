@@ -21,12 +21,3 @@
 	background-image: url('../assets/nazareth.jpg');
 	@include landing-image-defaults;
 }
-
-.sponsor-section {
-	.embassy {
-		width: 100%;
-	}
-	.techhub {
-		width: 125%;
-	}
-}
