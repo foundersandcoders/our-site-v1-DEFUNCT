@@ -8,7 +8,7 @@ In our 4, 8 and 12-week programmes, you will learn how to:
 - Design digital products and services
 - Create a working software product
 
-With a dedicated team of our recent graduates, we will engage your whole organisation in the creative process of designing and developing digital products.
+With a dedicated team of developers, we will engage your whole organisation in the creative process of designing and developing digital products.
 
 Programme components:  
 
