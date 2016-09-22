@@ -28,7 +28,7 @@ JavaScript is the language of the Web. It is the only language that is widely us
 We aim to give you an opportunity to work on a variety of open source, charitable and social enterprise projects through our digital accelerator programmes. 
 
 **Will I be able to earn a living as after I complete the programme?**  
-After completion of the 16-week programme we aim to offer a living income while you build a project portfolio.  The employment success rate of recent alumni is very high and we will do everything that we can to help youy find employment when you are ready to move on.
+After completion of the 16-week programme we aim to offer a living income while you build a project portfolio.  The employment success rate of recent alumni is very high and we will do everything that we can to help you find employment when you are ready to move on.
 
 **What are the main reasons to apply for this programme?**     
 The quality of the learning experience. The commitment of your fellow students. The *Founders & Coders* community.
@@ -37,7 +37,7 @@ The quality of the learning experience. The commitment of your fellow students. 
 There are no academic requirements, but you need to be self-motivated, prepared to work long hours, and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.
 
 **Do you accept applications from abroad?**  
-We do welcome international students onto our programme as long as they are intending to stay and work in the host cities after they graduate. The programme is provided free and in return we expect you to contribute to our community after you coplete the 16-week foundation. 
+We do welcome international students onto our programme as long as they are intending to stay and work with us for at least 10 weeks after they graduate. The programme is provided free and in return we expect you to contribute to our community after you complete the 16-week foundation. 
 
 **Why are the prerequisites so tough?**    
 This programme is challenging and you need to be well-prepared. We aim for a zero drop-out rate, so we need to know that you are serious about becoming a developer before we accept you on to the programme.
