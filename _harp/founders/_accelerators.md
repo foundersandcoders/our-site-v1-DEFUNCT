@@ -4,7 +4,7 @@
 
 <!--<div class="blocksource">Kieron Kirkland, Co-founder & Director, CAST</div>-->
 
-Our immersive one-week digital accelerator programme help organisations rapidly develop the expertise they need to build digital products and services.
+Our immersive one-week digital accelerator programmes help organisations rapidly develop the expertise they need to build digital products and services.
 
 With workshops on lean thinking, user testing, sprint planning and product ownership, and with a dedicated team of developers, we will engage your whole organisation in the creative process of designing and developing digital products.
 
