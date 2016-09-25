@@ -1,4 +1,4 @@
-# Our team
+# Our community
 
 <div class="about-management">
 	<a href="https://www.linkedin.com/in/dsofer" target="_blank" class="team-image dan"></a>
