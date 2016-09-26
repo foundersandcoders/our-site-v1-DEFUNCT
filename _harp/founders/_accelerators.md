@@ -1,6 +1,6 @@
 # The Founders programme
 
-### For startups and organisations that want to think like startups
+### For entrepreneurs and organisations that want to build digital services
 
 > “Working with Founders & Coders has been an awesome experience. The work we've done together on FUSE has meant leading charities have been able to access great developers and build products that are used in the real world with real people to make a real social impact.”  
 
