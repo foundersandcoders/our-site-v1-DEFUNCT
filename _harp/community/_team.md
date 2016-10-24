@@ -1,141 +1,29 @@
-# Our community
+# Our Team
 
 <div class="about-management">
+
 	<a href="https://www.linkedin.com/in/dsofer" target="_blank" class="team-image dan"></a>
 
 	**Dan Sofer** Dan is the founding director of *Founders & Coders C.I.C.*. He has been building websites since 1995 for clients that include *The Guardian* and the *BBC*. He project managed the build of the official website of the *London 2012 Olympic Games*.
 
 	<a href="https://www.linkedin.com/in/iteles" target="_blank" class="team-image ines"></a>
 
-	**Ines Teles** is a director of *Founders & Coders C.I.C.*, project manager, developer and organiser of *Ladies who Code*. She previously spent several years as a consultant at *Accenture*.
+	**Ines Teles** is co-director of *Founders & Coders C.I.C* and co-founder of [dwyl.io](http://www.dwyl.io/), a digital studio specialising in building social impact web apps. She’s a scrum master, developer, advocate of women in tech and organiser of *Ladies of Code* and *NodeGirls*.
 
 	<a href="https://www.linkedin.com/in/nelsonic" target="_blank" class="team-image nelson"></a>
 
-	**Nelson Correia** is our lead technical mentor. He has previously led development teams at *Thomas Cook*, *Pearson* and *Groupon* and has been an IT consultant at *Deloitte*.
+	**Nelson Correia** is our lead technical mentor and co-founder and CTO of [dwyl.io](http://www.dwyl.io/). He’s a prolific open source developer, technical architect, and has previously led development teams at *Thomas Cook*, *Pearson* and *Groupon*.
 
 	<a href="https://www.linkedin.com/in/rebecca-radding" target="_blank" class="team-image rebecca"></a>
-	**Rebecca Radding** is our Director of Development for the Middle East and North Africa. She divides her time between London, our new campus in Nazareth, and Tangier, where she is currently based.
-</div>
 
-## Mentors
+	**Rebecca Radding** is our Director of Development for the Middle East and North Africa. She’s been a teacher, community organizer, and advocate for democratic education in the United States. She divides her time between London, our new campus in Nazareth, and Tangier, Morocco, where she is currently based.
 
-<div class="about-mentors">
-	<a href="https://www.linkedin.com/in/stephanfowler" target="_blank" class="team-image stephan"></a>
+	<a href="https://www.linkedin.com/in/dona-haj-33b7ab84" target="_blank" class="team-image dona"></a>
 
-	**Stephan Fowler**
-	Stephan is a product manager at the Guardian. He has been a senior developer at the Guardian, News International, and Associated Newspapers.
+	**Dona Haj** is our liaison at the *UK Israel Tech Hub*, where she is the creative industries manager. She previously worked as finance team manager for the *Nazareth Business Development Center*. She is based in London.
 
-	<a href="https://www.linkedin.com/pub/robin-houston/3/bba/677" target="_blank" class="team-image robin"></a>
+	<a href="https://www.linkedin.com/in/eoindesmondmccarthy" target="_blank" class="team-image eoin"></a>
 
-	**Robin Houston**
-	Robin Houston is a web developer and mathematician. He has worked at MySociety, the Sanger Institute, 10:10 and the Guardian. He is currently working for his own company <a href="http://www.kiln.it/" target="_blank">Kiln</a>.
+	**Eoin McCarthy** is the developer in residence at *Founders & Coders Nazareth*. He graduated from *Founders & Coders* in February 2016 and works with *DWYL* as a freelance developer.
 
-	<a href="https://uk.linkedin.com/pub/campbell-morgan/46/b60/805" target="_blank" class="team-image campbell"></a>
-
-	**Campbell Morgan**
-	Campbell is a web-developer with a background in design and 3D animation. Campbell is the founder of <a href="http://www.sitechef.co.uk/" target="_blank">SiteChef</a>. He is also the founder of <a href="http://www.folissimo.com/#/" target="_blank">Folissimo</a>.
-
-	<a href="https://github.com/alanshaw/" target="_blank" class="team-image alan"></a>
-
-	**Alan Shaw**
-	Alan is a full-stack developer and co-founder of <a href="https://tableflip.io/" target="_blank">Tableflip</a>. He builds websites, apps and robots.
-
-	<a href="https://uk.linkedin.com/in/olizilla" target="_blank" class="team-image oli"></a>
-
-	**Oli Evans**
-	Oli is a full-stack developer and co-founder of <a href="https://tableflip.io/" target="_blank">Tableflip</a>. He has previously been a senior developer at Correspondent Corp. and lead front-end developer at Pole Star Space Applications.
-</div>
-
-## Developers
-<div class="overflow-hidden">
-	<div class="grid-4">
-		<a href="https://github.com/NataliaLKB" target="_blank"><div class="team-image-grid natalia"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/FilWisher" target="_blank"><div class="team-image-grid will"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/izaakrogan" target="_blank"><div class="team-image-grid izaak"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/besarthoxhaj" target="_blank"><div class="team-image-grid bes"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/benjaminlees" target="_blank"><div class="team-image-grid benji"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/harrygfox" target="_blank"><div class="team-image-grid harry"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/adamkowalczyk" target="_blank"><div class="team-image-grid adam-4"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/amilvasishtha" target="_blank"><div class="team-image-grid amil-4"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/Neats29" target="_blank"><div class="team-image-grid anita-4"></div></a>
-	</div>
-		<div class="grid-4">
-		<a href="https://github.com/MIJOTHY" target="_blank"><div class="team-image-grid james-4"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/Jasonspd" target="_blank"><div class="team-image-grid jason-4"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/perborgen" target="_blank"><div class="team-image-grid per-4"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/rorysedgwick" target="_blank"><div class="team-image-grid rory-4"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/abdiahmed" target="_blank"><div class="team-image-grid abdi-5"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://uk.linkedin.com/in/gregaubert" target="_blank"><div class="team-image-grid greg-4"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/heron2014" target="_blank"><div class="team-image-grid anitac-5"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/anniva" target="_blank"><div class="team-image-grid anni-5"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/nofootnotes" target="_blank"><div class="team-image-grid claire-5"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/Danwhy" target="_blank"><div class="team-image-grid daniel-5"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/jackpandas" target="_blank"><div class="team-image-grid jackm-5"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/jrans" target="_blank"><div class="team-image-grid jackr-5"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/joshpitzalis" target="_blank"><div class="team-image-grid josh-5"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/Lukars" target="_blank"><div class="team-image-grid lukas-5"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/msmichellegar" target="_blank"><div class="team-image-grid michelle-5"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/minaorangina" target="_blank"><div class="team-image-grid mina-5"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/nikhilaravi" target="_blank"><div class="team-image-grid nikhila-5"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/rjmk" target="_blank"><div class="team-image-grid rafe-5"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/wallcrawler" target="_blank"><div class="team-image-grid ronan-5"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/rub1e" target="_blank"><div class="team-image-grid rubie-5"></div></a>
-	</div>
-	<div class="grid-4">
-		<a href="https://github.com/SimonLab" target="_blank"><div class="team-image-grid simon-5"></div></a>
-	</div>
 </div>

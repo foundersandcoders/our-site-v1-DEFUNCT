@@ -1,75 +1,71 @@
-# Your application
+# APPLY
 
-Applications for our February cohorts opens on November 1st and close on November 30th for London and on December 31st for Nazareth. You may submit your application at any time between these dates and can continue working on prerequisites until the deadline.
+Applications for our February course open November 1 and close November 30 (London) and December 31 (Nazareth). You'll be able to submit your application any time during that window and can continue working on prerequisites until the deadline.
 
-## Course prerequisites
+## COURSE PREREQUISITES
 
 ### STEP 1
 
-Create a [GitHub](https://github.com/) account.
+Create a Github account.
 
 ### STEP 2
 
-Complete the  [Expression of interest](interest.html) form. 
+Complete the [Expression of Interest](http://www.foundersandcoders.com/apply/interest.html) form. Wait to receive an invitation to join https://github.com/codingforeveryone.
 
-Wait to receive an invitation to join https://github.com/codingforeveryone.
-
-When you receive the invitation you know that your expression of interest has been received. 
-
-If you do not receive an invitation within 7 days, please re-submit your Expression of Interest, checking that you have entered your GitHub username accurately.
+When you receive the invitation you know that your Expression of Interest has been received. If you do not receive an invitation within 7 days, please re-submit your Expression of Interest, checking that you have entered your Github username accurately.
 
 ### STEP 3
 
-Join [our Gitter group](https://gitter.im/codingforeveryone) and introduce yourself.
+Join https://gitter.im/codingforeveryone and introduce yourself.
 
 ### STEP 4
 
-Sign up for [our Meetup group](http://www.meetup.com/founderscoders/).
+Sign up for http://www.meetup.com/founderscoders/.
 
 If you live outside London or Nazareth, ask us about setting up a meetup in your home town.
 
 ### STEP 5
 
-Join [Free Code Camp](http://www.freecodecamp.com/).
+Join http://www.freecodecamp.com/.
 
-If you have not done any programming before, then you will probably need to allow yourself a minimum of 100 hours on *Front End Development* before you are ready to tackle *Codewars*.
+If you have not done any programming before, then you will probably need to allow yourself a minimum of 100 hours on Front End Development before you are ready to tackle Codewars.
 
 ### STEP 6
 
-Join [Codewars](https://www.codewars.com/).
+Join https://www.codewars.com/.
 
-Aim to get to at least *5 kyu* by the time the application window closes.
+Aim to get to at least 5 kyu by the time the application window closes. We find that this process typically requires a minimum of 100 hours of study.
 
-Create at least one Codewars [kata](https://www.codewars.com/kata/new/javascript).
+Create at least one kata: https://www.codewars.com/kata/new/javascript.
 
 ### STEP 7
 
-Create a personal website using [GitHub Pages](https://pages.github.com/) 
+Create a personal one-page website using GitHub pages. https://pages.github.com/
 
-Note: We recommend not using a framework like Bootstrap. Also, using Jekyll is entirely optional.
+Note: We recommend not using frameworks like Bootstrap. Also, using Jekyll is entirely optional.
 
-
-## Application instructions
+## APPLICATION INSTRUCTIONS
 
 ### STEP 1
 
-Prepare an application video that answers these questions:
+Prepare an application video that answers these questions (if you do not want to video yourself, please do a screencast instead):
 
-1. Why do you want to do join the programme?
-1. How would you like to use technology to help others?
-1. What do you intend to do when you finish?
-1. What really motivates you?
-1. If we could open a Founders & Coders anywhere else in the world, where would you want it to be?
+  1. Why do you want to do join the programme?
+  2. How would you like to use technology to help others?
+  3. What do you intend to do when you finish?
+  4. What really motivates you?
+  5. If we could open a Founders & Coders anywhere else in the world, where would you want it to be?
 
-Please: 
+Please:
 
-- Keep it to under two minutes. 
-- Use Youtube or Vimeo or a similar service.
-- Record your voice at an adequate sound level.
+ * Keep it to under two minutes.
+ * Use YouTube or Vimeo or a similar service.
+ * Record your voice at an adequate sound level.
 
 ### STEP 2
 
-When applications open, complete the application form. Your application will be considered only after the closing date for applications, so you can continue to work on the prerequisites until that date. 
+When applications open, complete the application form. Your application will be considered only after the closing date for applications, so you can continue to work on the prerequisites until that date.
 
 You can expect to hear from us within 14 days of the application closing date.
 
+Other recommended materials can be found at this README: https://github.com/foundersandcoders/recommended-materials
