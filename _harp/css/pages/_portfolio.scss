@@ -22,5 +22,13 @@
 .portfolio_item_image {
   max-width: 80%;
   margin: 10% auto;
-  opacity: 0.8;
+  @media (min-width: $tablet) {
+    opacity: 0.5;
+    :hover {
+      opacity: 1;
+    }
+  }
+  @media (max-width: $tablet) {
+    opacity: 0.8;
+  }
 }
