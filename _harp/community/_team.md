@@ -1,4 +1,4 @@
-# Our community
+# Our Team
 
 <div class="about-management">
 
