@@ -1,7 +1,7 @@
 # Our Story
 
 <div class="vid">
-	<iframe src="https://player.vimeo.com/video/183210796" width="720px" height="408px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	<iframe src="https://vimeo.com/188014263" width="720px" height="408px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 
