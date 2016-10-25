@@ -9,18 +9,21 @@
   text-align: center;
 }
 
-.portfolio_table_row {
-  max-width: 100%;
-}
-
 .portfolio_item_container {
   width: 30%;
-  align-items: center;
   max-height: 4.5vh;
 }
 
 .portfolio_item_image {
   max-width: 80%;
   margin: 10% auto;
-  opacity: 0.8;
+  @media (min-width: $tablet) {
+    opacity: 0.5;
+    :hover {
+      opacity: 1;
+    }
+  }
+  @media (max-width: $tablet) {
+    opacity: 0.8;
+  }
 }
