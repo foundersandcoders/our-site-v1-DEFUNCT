@@ -1,7 +1,3 @@
-<iframe src="https://drive.google.com/file/d/0B-mliovLR9b_eHNGbDVIMVF3NkE/preview" width="720px" height="408px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-## Programme
-
 In our tuition-free coding academy, we transform talented individuals from all walks of life into sought-after web developers. Our programme is free because we believe that everyone should have access to high quality training in web development.
 
 As of February 2017, we offer two programme locations: [London](https://github.com/foundersandcoders/info/blob/master/london.md), UK and [Nazareth](https://github.com/foundersandcoders/info/blob/master/nazareth.md), Israel.
