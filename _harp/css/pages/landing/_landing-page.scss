@@ -151,15 +151,32 @@
 	.dwyl {
 		width: 100%;
 	}
-	.cast {
-		width: 100%;
-	}
-	.embassy {
-		width: 100%;
-	}
-	.techhub {
-		width: 125%;
-	}
+}
+
+.partners-section {
+  padding: 1% 0;
+  background-color: #FFF;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+.partners-section-item {
+  width: 14%;
+  margin: 0 2%;
+  text-align: center;
+  display: inline-block;
+}
+.partners-section-image {
+  vertical-align: middle;
+  max-height: 100%;
+  max-width: 100%;
+  opacity: 0.6;
+  :hover {
+    opacity: 1;
+  }
+  @media (max-width: $mobile) {
+    opacity: 1;
+  }
 }
 
 @media (max-width:700px) {
@@ -236,7 +253,7 @@
 	background-size: cover;
 	background-position:center center;
 	background-repeat:no-repeat;
-	height: 60vh;
+	height: 90vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -255,12 +272,13 @@
 		padding: 15px 20px;
 		width: 181px;
 	}
-}
-
-@media (max-width: 700px) {
-	.apply-section {
-		flex-direction: column;
-	}
+  @media (max-width: $tablet) {
+    flex-direction: column;
+    height: 58vh
+  }
+  @media (max-width: $tablet) {
+    height: 40vh;
+  }
 }
 
 .section-value-proposition {
