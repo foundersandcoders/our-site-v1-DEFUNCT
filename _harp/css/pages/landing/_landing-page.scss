@@ -281,6 +281,15 @@
 	}
 }
 
+.show-on-mobile-only {
+  @media (min-width: $mobile) {
+		display: none;
+	}
+}
+.separator-small {
+  height: 10vh;
+}
+
 .section-value-proposition {
 	height: 90vh;
 	overflow: hidden;
