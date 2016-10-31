@@ -101,7 +101,11 @@
 }
 
 .contact-icon {
-	font-size: 35px;
+	font-size: 3rem;
 	// float: left;
 	margin-right: 10px;
+	@media (max-width: $mobile) {
+		font-size: 2.2rem;
+		margin-right: 5px;
+	}
 }
