@@ -268,7 +268,7 @@
 	}
 }
 
-@media (max-width: 700px) {
+@media (max-width: $mobile) {
 	.apply-section {
 		flex-direction: column;
 	}
