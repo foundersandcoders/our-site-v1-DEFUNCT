@@ -270,9 +270,15 @@
     flex-direction: column;
     height: 58vh
   }
-  @media (max-width: $tablet) {
+  @media (max-width: $mobile) {
     height: 40vh;
   }
+}
+
+.hide-on-mobile {
+  @media (max-width: $mobile) {
+		display: none;
+	}
 }
 
 .section-value-proposition {
