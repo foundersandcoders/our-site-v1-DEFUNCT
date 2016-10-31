@@ -274,6 +274,12 @@
 	}
 }
 
+@media (max-width: $mobile) {
+	.hide-on-mobile {
+		display: none;
+	}
+}
+
 .section-value-proposition {
 	height: 90vh;
 	overflow: hidden;
