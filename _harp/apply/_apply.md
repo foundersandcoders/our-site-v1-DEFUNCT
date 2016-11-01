@@ -2,6 +2,8 @@
 
 Applications for our February course open November 1 and close November 30 (London) and December 31 (Nazareth). You'll be able to submit your application any time during that window and can continue working on prerequisites until the deadline.
 
+[Applications are now open](now).
+
 ## COURSE PREREQUISITES
 
 ### STEP 1
