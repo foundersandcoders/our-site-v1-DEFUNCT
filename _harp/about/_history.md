@@ -4,7 +4,7 @@ As a project manager working on the London 2012 Olympics websites, Dan realized 
 
 Dan realised he loved peer-led learning so when Camden Collective offered him some space, he decided to expand the meetups by setting up a classroom where aspiring developers could collaborate, and Founders & Coders’ first official cohort began in January 2014.
 
-In November 2014, during the last week of the fourth cohort in Camden, we were informed that our classroom longer be available. Spurred to action, the students spent the last week of their course organising a successful crowdfunding campaign to raise funds for a new classroom.
+In November 2014, during the last week of the fourth cohort in Camden, we were informed that our classroom will no longer be available. Spurred to action, the students spent the last week of their course organising a successful crowdfunding campaign to raise funds for a new classroom.
 
 In January 2015, Ines and Nelson joined the team as a Director and Lead Technical Mentor respectively, bringing with them years of industry experience, and the fourth course began at Founders & Coders’ new home in Bethnal Green. Most of the third cohort stayed to organise the fourth course, providing critical mentorship and together, deepening the community ethos that continues to define Founders & Coders.
 
