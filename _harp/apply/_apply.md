@@ -42,7 +42,7 @@ Create at least one kata: https://www.codewars.com/kata/new/javascript.
 
 ### STEP 7
 
-Create a personal one-page website using GitHub pages. https://pages.github.com/
+Create a one-page website using GitHub pages. https://pages.github.com/
 
 Note: We recommend not using frameworks like Bootstrap. Also, using Jekyll is entirely optional.
 
