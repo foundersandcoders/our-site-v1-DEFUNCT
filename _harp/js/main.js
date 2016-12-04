@@ -332,6 +332,8 @@ $(document).ready(function(){
   img.src = "/assets/fac-teamwork.jpg";
   img.onload = function() {
       $("#section-landing-image").css("background-image", 'url('+img.src+')');
-      $("#section-landing-image").css("filter", 'none');
+      setTimeout(function() {
+        $("#section-landing-image").css("filter", 'none');
+      }, 1);
   };
 });

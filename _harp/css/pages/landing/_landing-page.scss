@@ -13,12 +13,12 @@
 	top: 0;
 	left: 0;
 	z-index: -1;
-	transition: opacity .3s ease-in-out;
-	opacity: 1;
-	transition: 0.5s -webkit-filter linear;
+	transition: 1s filter linear;
+	-webkit-transition: 1s -webkit-filter linear;
+	-moz-transition: 1s -moz-filter linear;
+	-ms-transition: 1s -ms-filter linear;
+	-o-transition: 1s -o-filter linear;
 }
-
-
 
 .section-landing {
 	@extend %section;
