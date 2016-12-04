@@ -327,15 +327,11 @@ var contact_form = (function (){
     return reveal;
 }());
 
-// $(document).ready(function(){
-//   $("#button").hover(function(){
-//       $("#section-landing-image").css("opacity", 0);
-//       }, function(){
-//       $("#section-landing-image").css("opacity", 1);
-//   });
-//   $("#button").hover(function(){
-//       $("#academy-bw-image").css("opacity", 0);
-//       }, function(){
-//       $("#academy-bw-image").css("opacity", 1);
-//   });
-// });
+$(document).ready(function(){
+  var img = new Image()
+  img.src = "/assets/fac-teamwork.jpg";
+  img.onload = function() {
+      $("#section-landing-image").css("background-image", 'url('+img.src+')');
+      $("#section-landing-image").css("filter", 'none');
+  };
+});
