@@ -14,6 +14,15 @@ nav {
 	h4 {
 		cursor: pointer;
 	}
+	.nav-logo {
+		img {
+			height: 100%;
+		}
+		position: absolute;
+		left: -1%;
+		padding: 2%;
+		height: 20vh;
+	}
 	p {
 		float: right;
 		line-height: 20vh;
@@ -202,6 +211,10 @@ nav {
 
 @media (max-width: $mobile) {
 	nav {
+		.nav-logo {
+			height: 10vh;
+			left: 0;
+		}
 		height: 10vh;
 		p {
 			line-height: 10vh;
