@@ -20,7 +20,7 @@ nav {
 		}
 		position: absolute;
 		left: 0%;
-		padding: 2%;
+		padding: 2.5vh;
 		height: inherit;
 	}
 	p {
@@ -211,6 +211,9 @@ nav {
 
 @media (max-width: $mobile) {
 	nav {
+		.nav-logo {
+			padding: 3px;
+		}
 		height: 10vh;
 		p {
 			line-height: 10vh;
