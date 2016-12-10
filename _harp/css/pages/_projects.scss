@@ -1,0 +1,27 @@
+#project-image {
+    width: 100%;
+    height: 350px;
+    display: block;
+    background: url("https://cloud.githubusercontent.com/assets/12380455/19898633/c42562e0-a054-11e6-8568-26b08883c053.png");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin: 40px auto;
+}
+.section-projects {
+    padding-top: 0;
+}
+.section-projects blockquote {
+    font-style: italic;
+    padding: 0;
+}
+.section-projects a {
+    font-family: 'UG med';
+    font-size: 18px;
+    font-weigth: normal;
+    color: #444;
+}
+.section-projects a:hover {
+    text-decoration: underline;
+    color: black;
+}

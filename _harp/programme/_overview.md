@@ -24,4 +24,6 @@ During this period, every bootcamp graduate is expected to:
 
 Each place on the Founders & Coders programme costs us about £2,500 to provide. We ask you to consider either seeking employment with one of our partners who will help pay for these costs or, alternatively, making a regular voluntary contribution after you graduate as a way of 'paying it forward', so that we can provide a place for someone in a future cohort.
 
+Learn more about Founders & Coders Student agreement [here](https://github.com/foundersandcoders/charter/blob/master/README.md).
+
 ### Employers
