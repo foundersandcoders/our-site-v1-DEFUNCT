@@ -133,7 +133,6 @@ var fac = (function (){
                 }
             }
         },
-
          /**
          *  Resize dropdown menu on scroll
          *
@@ -175,6 +174,7 @@ var fac = (function (){
             elements[i].style.height = imgWidth*0.66 + "px";
         }
     }
+
     function home_resize() {
         if (window.location.pathname == '/agency/') {
             img_resize();
@@ -183,28 +183,12 @@ var fac = (function (){
             };
         }
     }
+
     window.onload = function() {
         nav_resize();
         home_resize();
     }
-    /**
-     * Changes the text for the client quotes on the landing page
-     *
-     */
-    // function changeText(nameText, quoteText){
 
-    //     var client_name  = document.getElementById('client-name');
-    //     var client_quote = document.getElementById('client-quote');
-
-    //     client_name.style.opacity = 0;
-    //     client_quote.style.opacity = 0;
-    //     timeout = setTimeout(function(thing) {
-    //         client_name.innerHTML = nameText;
-    //         client_quote.innerHTML = quoteText;
-    //         client_name.style.opacity = 1;
-    //         client_quote.style.opacity = 1;
-    //     }, 1000);
-    // }
     function currentYPosition() {
         if (self.pageYOffset) return self.pageYOffset;
         if (document.documentElement && document.documentElement.scrollTop)
@@ -329,11 +313,18 @@ var contact_form = (function (){
 
 $(document).ready(function(){
   var img = new Image()
-  img.src = "/assets/fac-teamwork.jpg";
+  var location
+  if (window.location.pathname == '/programme/') {
+    img.src = '/assets/academy.jpg';
+    location = '#programme-landing-image'
+  } else {
+    img.src = '/assets/fac-teamwork.jpg';
+    location = '#section-landing-image'
+  }
   img.onload = function() {
-      $("#section-landing-image").css("background-image", 'url('+img.src+')');
+      $(location).css('background-image', 'url('+img.src+')');
       setTimeout(function() {
-        $("#section-landing-image").css("filter", 'none');
+        $(location).css('filter', 'none');
       }, 1);
   };
 });
