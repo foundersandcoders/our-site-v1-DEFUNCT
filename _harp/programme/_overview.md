@@ -6,6 +6,8 @@ As of February 2017, we offer two programme locations: [London](https://github.c
 
 Prospective students use online materials to teach themselves the fundamentals of programming and have the option to attend  weekly in-person meetups at the Founders & Coders campus while they are preparing and submitting their applications to the course.
 
+Visit [our Meetup site](http://www.meetup.com/founderscoders/) to learn more.
+
 ### 16-week full-time coding bootcamp
 
 Our immersive course is peer-led and project-based with sixteen students working in four teams of four. Students take turns delivering seminars, running code reviews and managing projects. The course covers test-driven development, using a full JavaScript stack (JavaScript and Node.js) with both relational and non-relational databases, as well as aspects of UX design and product management.
