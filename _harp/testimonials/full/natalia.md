@@ -1,4 +1,4 @@
-<a href="https://github.com/NataliaLKB" target="_blank"><div class="team-image-grid natalia"></div></a>
+<a href="https://github.com/NataliaLKB" ><div class="team-image-grid natalia"></div></a>
 <br>
 <br>
 
