@@ -1,20 +1,25 @@
 # APPLY
 
-Applications for our February course open November 1 and close November 30 (London) and December 31 (Nazareth). You'll be able to submit your application any time during that window and can continue working on prerequisites until the deadline.
+Applications for our February course in London are now closed.
+Applications for our first Nazareth programme close on December 31.
 
-[Applications are now open](now).
+[Apply now](http://www.foundersandcoders.com/apply/now).
+
+If you’re not sure if you’re ready for the full-time programme, you can sign up for our part-time programme in Nazareth beginning in January.
+
+[Sign up for the part-time programme](https://goo.gl/forms/X8pjSrshOG7UrW0U2).
 
 ## COURSE PREREQUISITES
 
 ### STEP 1
 
-Create a Github account.
+Create a [GitHub](https://www.github.com) account.
 
 ### STEP 2
 
-Complete the [Expression of Interest](http://www.foundersandcoders.com/apply/interest.html) form. Wait to receive an invitation to join https://github.com/codingforeveryone.
+Complete the [Expression of Interest](http://www.foundersandcoders.com/apply/interest.html) form. 
 
-When you receive the invitation you know that your Expression of Interest has been received. If you do not receive an invitation within 7 days, please re-submit your Expression of Interest, checking that you have entered your Github username accurately.
+When we receive your Expression of Interest, we will invite you to our Coding for Everyone community on Gitter. If you do not receive an invitation within 7 days, please re-submit your Expression of Interest, checking that you have entered your GitHub username accurately.
 
 ### STEP 3
 
@@ -22,17 +27,11 @@ Join https://gitter.im/codingforeveryone and introduce yourself.
 
 ### STEP 4
 
-Sign up for http://www.meetup.com/founderscoders/.
-
-If you live outside London or Nazareth, ask us about setting up a meetup in your home town.
-
-### STEP 5
-
 Join http://www.freecodecamp.com/.
 
 If you have not done any programming before, then you will probably need to allow yourself a minimum of 100 hours on Front End Development before you are ready to tackle Codewars.
 
-### STEP 6
+### STEP 5
 
 Join https://www.codewars.com/.
 
@@ -40,7 +39,7 @@ Aim to get to at least 5 kyu by the time the application window closes. We find 
 
 Create at least one kata: https://www.codewars.com/kata/new/javascript.
 
-### STEP 7
+### STEP 6
 
 Create a one-page website using GitHub pages. https://pages.github.com/
 
