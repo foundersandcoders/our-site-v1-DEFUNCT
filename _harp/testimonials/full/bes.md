@@ -1,4 +1,4 @@
-<a href="https://github.com/besarthoxhaj" target="_blank"><div class="team-image-grid bes"></div></a>
+<a href="https://github.com/besarthoxhaj" ><div class="team-image-grid bes"></div></a>
 <br>
 <br>
 

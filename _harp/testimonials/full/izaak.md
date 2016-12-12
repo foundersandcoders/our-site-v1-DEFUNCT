@@ -1,4 +1,4 @@
-<a href="https://github.com/izaakrogan" target="_blank"><div class="team-image-grid izaak"></div></a>
+<a href="https://github.com/izaakrogan" ><div class="team-image-grid izaak"></div></a>
 <br>
 <br>
 
