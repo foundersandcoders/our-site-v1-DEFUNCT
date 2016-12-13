@@ -1,5 +1,5 @@
 
-<a href="https://github.com/jrans" target="_blank"><div class="team-image-grid jackr-5"></div></a>
+<a href="https://github.com/jrans" ><div class="team-image-grid jackr-5"></div></a>
 <br>
 <br>
 

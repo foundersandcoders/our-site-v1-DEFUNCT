@@ -1,4 +1,4 @@
-<a href="https://github.com/nikhilaravi" target="_blank"><div class="team-image-grid nikhila-5"></div></a>
+<a href="https://github.com/nikhilaravi" ><div class="team-image-grid nikhila-5"></div></a>
 <br>
 <br>
 
