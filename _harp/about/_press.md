@@ -1,4 +1,4 @@
-## BRITISH PRESS
+## PRESS
 
 - [Get with the program: the coders offering training for free](https://www.theguardian.com/technology/2015/jul/26/founders-coders-coding-free-training-london) (The Guardian)
 - [The Free Coding Academy Model -- How To Teach Our Next Generation Of Programmers](http://www.forbes.com/sites/adrianbridgwater/2015/08/13/the-free-coding-academy-model-how-to-teach-our-next-generation-of-programmers/#6b07b18829c5) (Forbes)
