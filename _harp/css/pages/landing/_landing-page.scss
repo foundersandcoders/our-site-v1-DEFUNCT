@@ -286,7 +286,7 @@
 }
 
 .hide-on-mobile {
-  @media (max-width: $mobile) {
+  @media (max-width: 687px) {
 		display: none;
 	}
 }

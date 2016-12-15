@@ -1,4 +1,4 @@
-## History
+## HISTORY
 
 As a project manager working on the London 2012 Olympics websites, Dan realized how much he missed the challenges of software development, and when the project wrapped, he decided to take some online programming courses to refresh his skills. In 2013, he started organising regular meetups at the British Library with other people taking similar courses.
 
