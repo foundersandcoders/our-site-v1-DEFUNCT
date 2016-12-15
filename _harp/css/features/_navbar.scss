@@ -22,11 +22,6 @@ nav {
 	}
 	.desktop-only {
 		height: 100%;
-		a {
-			width: 100px;
-			text-align: center;
-			height: 100%;
-		}
 		ul {
 			max-width: 980px;
 			margin: auto;
@@ -35,7 +30,7 @@ nav {
 			align-items: center;
 			height: 100%;
 		}
-		li {
+		a {
 			display: inline;
 			list-style-type: none;
 			line-height: 20vh;
@@ -47,13 +42,12 @@ nav {
 			padding: 20px;
 			text-align: center;
 			&:hover,&:active {
-				font-family: 'UG bold';
 				cursor: pointer;
+				h4 {
+					color:#78B7BA;
+				}
 				.nav-dd {
 					display: block;
-				}
-				.bold {
-					font-family: 'UG bold';
 				}
 			}
 		}
