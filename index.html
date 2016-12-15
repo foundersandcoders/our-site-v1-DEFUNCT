@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+		<title>Founders &amp; Coders | JavaScript Courses in London and Nazareth</title>
+		<meta name="description" content="Javascript Courses in London | Founders and Coders is a non-profit co-operative. We produce beautiful software and provide training, classes and workshops.">
+		<link rel="stylesheet" href="/css/main.css">
+		<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+		<!-- Check if browser supports vh. If not, add styling for crappy browser -->
+		<script src="/js/modernizr.js"></script>
+		<script type="text/javascript">
+		 	if (Modernizr.cssvwunit) {
+				document.getElementById("body").className = "no-cssvhunit";
+			}
+		</script>
+		<script type="text/javascript" src="https://mandrillapp.com/api/docs/js/mandrill.js"></script>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" href="/assets/favicon.ico" >
+		<meta name="google-site-verification" content="mOpWptCT92oi7c5sI1qLgywVvQyN8eAalYCjl3qNurw" />
+		<meta name="google-site-verification" content="mOpWptCT92oi7c5sI1qLgywVvQyN8eAalYCjl3qNurw" />
+	</head>
+    <body id="body">
+        <nav id="navbar">
+	<div class="desktop-only">
+		<ul class="animate-header">
+
+			<li>
+	<a href="/"><h4 class="bold">HOME</h4></a>
+</li>
+<li>
+	<a href="/programme"><h4 class="bold">PROGRAMME</h4></a>
+</li>
+<li>
+  <a href="/portfolio"><h4 class="bold">PORTFOLIO</h4></a>
+</li>
+<li>
+	<a href="/community"><h4 class="bold">OUR TEAM</h4></a>
+</li>
+<li>
+	<a href="/about"><h4 class="bold">OUR STORY</h4></a>
+</li>
+<li>
+	<a href="/apply"><h4 class="bold">APPLY</h4></a>
+</li>
+
+
+		</ul>
+	</div>
+	<div class="dropdownToggle">
+		<div class="tablet-mobile-only tablet-mobile-navigation">
+			<a data-toggle="dropdown">
+				<p>
+					<button id="cmn-toggle-switch" class="icon cmn-toggle-switch cmn-toggle-switch__htx">
+			  			<span>toggle menu</span>
+					</button>
+				</p>
+			</a>
+			<div class="nav-settings-dropdown">
+				<div id="nav-dd-tablet" class="nav-dd-tab">
+					<div class="container">
+						<ul>
+
+							<li>
+	<a href="/"><h4 class="bold">HOME</h4></a>
+</li>
+<li>
+	<a href="/programme"><h4 class="bold">PROGRAMME</h4></a>
+</li>
+<li>
+  <a href="/portfolio"><h4 class="bold">PORTFOLIO</h4></a>
+</li>
+<li>
+	<a href="/community"><h4 class="bold">OUR TEAM</h4></a>
+</li>
+<li>
+	<a href="/about"><h4 class="bold">OUR STORY</h4></a>
+</li>
+<li>
+	<a href="/apply"><h4 class="bold">APPLY</h4></a>
+</li>
+
+
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</nav>
+
+<div class="section-nav-offset"></div>
+
+    	<div class="section-landing">
+		<div id="section-landing-image"></div>
+		<img class="fac-logo" src="../assets/fac-logo.png">
+		<h1>Become a developer</h1>
+		<p>
+      <span class="display-inline-dektop">Create software that makes </span>
+      <span class="display-inline-tablet">Make </span>the world a better place.
+    </p>
+    <div class="separator-small show-on-mobile-only"></div>
+		<!-- <a href="/testimonials">
+      <button class="button-one show-on-mobile-only">TESTIMONIALS</button>
+    </a> -->
+		<a href="/programme">
+      <button id="button" class="button-three" mouseout="image()">APPLY</button>
+    </a>
+		<!-- <a href="/programme/course-information">
+      <button class="button-one show-on-mobile-only">COURSE INFO</button>
+    </a> -->
+</div>
+
+<div class="testimonial-container">
+
+	<div class="testimonial-section hide-on-mobile">
+	     <a><i class="icon-left-open-big"></i></a>
+	     <div class="carousel-wrap">
+             	  <div class="testimonial">
+                    <div class="carousel-item">
+                        <p class="test"><span>"</span>Hands down the best experience of my life<span>"</span></p>
+                        <a href="/testimonials"><div class="team-image-grid natalia"></div></a>
+                        <p class="name">Natalia Baltazar</p>
+                        <p>Full-stack Developer at the Guardian</p>
+                    </div>
+                    <div class="carousel-item">
+                        <p class="test"><span>"</span>Founders & Coders has been life changing<span>"</span></p>
+                        <a href="/testimonials"><div class="team-image-grid bes"></div></a>
+                        <p class="name">Besart Hoxhaj</p>
+                        <p>Lead Developer at Long Neck</p>
+                    </div>
+                    <div class="carousel-item">
+                        <p class="test"><span>"</span>Joining the Founders & Coders course is the best decision I have ever made!<span>"</span></p>
+                        <a href="/testimonials"><div class="team-image-grid nikhila-5"></div></a>
+                        <p class="name">Nikhila Ravi</p>
+                        <p>Full-stack developer at DWYL</p>
+                    </div>
+										<div class="carousel-item">
+                        <p class="test"><span>"</span>The ethos fully resonated with me<span>"</span></p>
+                        <a href="/testimonials"><div class="team-image-grid anita-4"></div></a>
+                        <p class="name">Anita Amini</p>
+                        <p>Full-stack developer at Cohaesus</p>
+                    </div>
+										<div class="carousel-item">
+                        <p class="test"><span>"</span>Great space, amazing people - it has been extremely rewarding!<span>"</span></p>
+                        <a href="/testimonials"><div class="team-image-grid anitac-5"></div></a>
+                        <p class="name">Anita Czapla</p>
+                        <p>Full-stack developer at DWYL</p>
+                    </div>
+										<div class="carousel-item">
+                        <p class="test"><span>"</span>What I learnt in the space of 16 weeks still leaves me astounded<span>"</span></p>
+                        <a href="/testimonials"><div class="team-image-grid benji"></div></a>
+                        <p class="name">Benji Lees</p>
+                        <p>Software engineer at Arcadia Group Ltd</p>
+                    </div>
+										<div class="carousel-item">
+                        <p class="test"><span>"</span>Founders & Coders set me on the path to a career I love<span>"</span></p>
+                        <a href="/testimonials"><div class="team-image-grid rory-4"></div></a>
+                        <p class="name">Rory Sedwick</p>
+                        <p>Full-stack developer at Arup Digital</p>
+                    </div>
+										<div class="carousel-item">
+                        <p class="test"><span>"</span>I did not think it was possible to learn so much in such a short time<span>"</span></p>
+                        <a href="/testimonials"><div class="team-image-grid izaak"></div></a>
+                        <p class="name">Izaak Rogan</p>
+                        <p>CTO at Long Neck</p>
+                    </div>
+										<div class="carousel-item">
+                        <p class="test"><span>"</span>Amazing space full of energy and wonderful people<span>"</span></p>
+                        <a href="/testimonials"><div class="team-image-grid jackr-5"></div></a>
+                        <p class="name">Jack Rans</p>
+                        <p>Full-stack developer at DWYL</p>
+                    </div>
+										<div class="carousel-item">
+                        <p class="test"><span>"</span>I have achieved so much more here than I ever could have done on my own<span>"</span></p>
+                        <a href="/testimonials"><div class="team-image-grid claire-5"></div></a>
+                        <p class="name">Claire Mitchell</p>
+                        <p>Developer at 27 Partners</p>
+                    </div>
+										<div class="carousel-item">
+												<p class="test"><span>"</span>One of the best things I've ever done. Truly life-changing<span>"</span></p>
+												<a href="/testimonials"><div class="team-image-grid michelle-5"></div></a>
+												<p class="name">Michelle Garrett</p>
+												<p>Developer at WonderLuk</p>
+										</div>
+                </div>
+            </div>
+	<a><i class="icon-right-open-big"></i></a>
+	</div>
+
+	<div class="sponsor-section">
+			<div>
+				<a href="https://www.switchup.org/bootcamps/founders-and-coders"><img class="switch" src="./assets/switch_logo.svg"></a>
+			</div>
+			<div>
+				<a href="https://www.coursereport.com/schools/founders-coders"><img class="course" src="./assets/course-report-logo.png"></a>
+			</div>
+			<div>
+				<a href="http://www.theguardian.com/technology/2015/jul/26/founders-coders-coding-free-training-london"><img class="observer" src="./assets/observer.png"></a>
+			</div>
+			<div>
+				<a href="http://www.forbes.com/sites/adrianbridgwater/2015/08/13/the-free-coding-academy-model-how-to-teach-our-next-generation-of-programmers/"><img class="forbes" src="./assets/Forbes_logo.svg"></a>
+			</div>
+	</div>
+
+</div>
+
+<div class="apply-section">
+	<a href="/testimonials"><button class="button-one">TESTIMONIALS</button></a>
+	<!-- <a href="/apply"><button class="button-three">APPLY</button></a> -->
+	<a href="/programme/course-information"><button class="button-one">COURSE INFO</button></a>
+</div>
+    	
+<div class="partners-section">
+  <div class="partners-section-item">
+    <a href="http://www.dwyl.io/"
+      alt="DWYL - Do What You Love"
+
+      >
+      <img class="partners-section-image" src="/assets/partners/dwyl-logo.png"/>
+    </a>
+  </div>
+  <div class="partners-section-item">
+    <a href="http://www.wearecast.org.uk/"
+      alt="Cast"
+
+      >
+      <img class="partners-section-image" src="/assets/partners/cast.png"/>
+    </a>
+  </div>
+  <div class="partners-section-item">
+    <a href="http://hasoub.org/"
+      alt="Hasoub"
+
+      >
+      <img class="partners-section-image" src="/assets/partners/hasoub-logo-ar-en.png"/>
+    </a>
+  </div>
+  <div class="partners-section-item">
+    <a href="http://www.ukisraelhub.com/"
+    alt="UK Israel Hub"
+
+    >
+    <img class="partners-section-image" src="/assets/partners/ukisraeltechhub.jpg"/>
+  </a>
+</div>
+  <div class="partners-section-item">
+    <a href="https://www.gov.uk/government/world/organisations/british-embassy-tel-aviv"
+      alt="British Embassy Israel"
+
+      >
+      <img class="partners-section-image" src="/assets/partners/british_embassy_israel.jpg"/>
+    </a>
+  </div>
+  <div class="partners-section-item">
+    <a href="http://www.nazarethinfo.org/"
+      alt="City of Nazareth"
+
+      >
+      <img class="partners-section-image" src="/assets/partners/nazareth.png"/>
+    </a>
+  </div>
+</div>
+
+    	<div id="contact"></div>
+<div class="contact">
+	<div class="container">
+		<div itemscope itemtype="http://schema.org/LocalBusiness" class="grid-6 info">
+			<p itemprop="telephone">+44 20 3583 2442</p>
+			<a href="mailto:hello@foundersandcoders.com"><p itemprop="email">hello@foundersandcoders.com</p></a>
+			<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+				<span itemprop="streetAddress">14 Palmers Road</span>,
+				<span itemprop="addressLocality">London</span>,
+				<span itemprop="postalCode">E2 0SY</span>
+			</p>
+			<p><span itemprop="name">FOUNDERS & CODERS</span> <span>C.I.C. </span><br/> Company No. 09408874</p>
+			<div>
+				<a href="https://twitter.com/founderscoders" ><i class="icon-twitter-circled contact-icon"></i></a>
+				<a href="https://www.facebook.com/foundersandcoders" ><i class="icon-facebook-circled contact-icon"></i></a>
+				<a href="https://github.com/foundersandcoders" ><i class="icon-github-circled contact-icon"></i></a>
+				<a href="mailto:hello@foundersandcoders.com" ><i class="icon-mail-circled contact-icon"></i></a>
+				<a href="https://www.google.co.uk/maps/place/14+Palmers+Rd,+London+E2+0SY" ><i class="icon-location-circled contact-icon"></i></a>
+				<a href="http://www.meetup.com/founderscoders/" ><i class="icon-meetup contact-icon"></i></a>
+				<!-- <a href=""><i class="icon-instagram-circled contact-icon"></i></a>			 -->
+			</div>
+		</div>
+		<div class="grid-6">
+			<div class="form" method="post">
+				<form action="//foundersandcoders.us9.list-manage.com/subscribe/post?u=a7247a4b4a67ac1517dba5895&amp;id=ee56d303a5" method="post" >
+					<input id="contact-form-name" name="contact-form-name" type="text" placeholder="Name" class="input-one">
+					<input id="contact-form-email" type="email" name="EMAIL" placeholder="Email" class="input-one">
+					<textarea id="contact-form-message" type="text" placeholder="Message"></textarea>
+					<button type="submit" id="mc-embedded-subscribe" class="button-one subscribe">Subscribe</button>
+					<button onclick="contact_form.sendMail(); return false;" class="button-one" type"submit">Send</button>
+					<pre id="response"></pre>
+				</form>
+			</div>
+
+		</div>
+	</div>
+	     <div class="footer">Originally supported by <a href="http://camdencollective.co.uk/">Camden Collective</a></div>
+</div>
+
+		<footer>
+            <script src="/js/main.js"></script>
+            <script src="/js/carousel.js"></script>
+			<script>   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');    ga('create', 'UA-35597887-2', 'auto');   ga('send', 'pageview');  </script>
+		</footer>
+  	</body>
+</html>
