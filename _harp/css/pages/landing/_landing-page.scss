@@ -24,7 +24,6 @@
 	margin-bottom:19px;
 	position: relative;
 	width: 80px;
-	padding-top: 40px;
 	padding-left: 2px;
 	text-align: center;
 	background: radial-gradient(circle, rgba(255,255,255,0.5) 10%, rgba(255,255,255,0) 60%, rgba(255,255,255,0) 30%);
@@ -147,7 +146,7 @@
 	max-height: 110px;
 	div {
 		max-width: 250px;
-		width: 25%;
+		width: 15%;
 	}
 	a {
 		display: flex;
@@ -155,22 +154,19 @@
 	img {
 		filter: grayscale(100%);
 		margin: auto;
+		width: 100%;
 	}
 	.switch {
 		max-width: 110px;
-		width: 90%;
 	}
 	.course {
 		max-width: 90px;
-		width: 90%;
 	}
 	.observer {
 		max-width: 110px;
-		width: 90%;
 	}
 	.forbes {
 		max-width: 90px;
-		width: 90%;
 	}
 	.dwyl {
 		width: 100%;
@@ -201,12 +197,6 @@
   @media (max-width: $mobile) {
     opacity: 1;
   }
-}
-
-@media (max-width:700px) {
-	.sponsor-section {
-		padding:0 2%;
-	}
 }
 
 .testimonial-container {
@@ -282,10 +272,6 @@
 		height: 60px;
 		padding: 20px 40px;
 		font-size: 20px;
-		opacity: 0.7;
-    border: 1px solid grey;
-	}
-	.button-one {
 		height: 50px;
 		padding: 15px 20px;
 		width: 181px;
