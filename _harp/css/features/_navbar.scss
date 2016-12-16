@@ -136,7 +136,6 @@ nav {
 			display: flex;
 			justify-content: space-between;
 			align-items: center;
-			max-width: 650px;
 			margin: auto;
 			padding: 30px;
 		}
@@ -153,7 +152,7 @@ nav {
 			font-family: 'UG med';
 			line-height: 37px;
 			&:hover, &:active {
-				font-family: 'UG bold'
+				color:#78B7BA;
 			}
 		}
 		.top-level {
@@ -191,6 +190,7 @@ nav {
 
 @media (max-width: $mobile) {
 	nav {
+		padding-right: 11px;
 		.nav-logo {
 			padding: 3px;
 		}
