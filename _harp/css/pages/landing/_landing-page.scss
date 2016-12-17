@@ -242,6 +242,10 @@
 	.test {
 		font-size: 24px;
 	}
+	.link-container {
+		max-width: 260px;
+		margin:auto;
+	}
 	p {
 		font-style: italic;
 		opacity: 0.6;
@@ -255,6 +259,14 @@
 	i {
 		font-size: 50px;
 		opacity: 0.6;
+	}
+	.team-image-grid {
+		opacity: 0.7
+	}
+	a:hover {
+		.team-image-grid {
+			opacity: 1
+		}
 	}
 }
 
