@@ -150,23 +150,31 @@
 	}
 	a {
 		display: flex;
+		:hover {
+			img {
+				opacity: 1
+			}
+		}
 	}
 	img {
-		filter: grayscale(100%);
 		margin: auto;
 		width: 100%;
+		opacity: 0.6;
+		@media (max-width: $mobile) {
+			opacity: 1;
+		}
 	}
 	.switch {
-		max-width: 110px;
+		max-width: 145px;
 	}
 	.course {
-		max-width: 90px;
+		max-width: 100px;
 	}
 	.observer {
-		max-width: 110px;
+		max-width: 140px;
 	}
 	.forbes {
-		max-width: 90px;
+		max-width: 110px;
 	}
 	.dwyl {
 		width: 100%;
