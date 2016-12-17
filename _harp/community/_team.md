@@ -1,4 +1,4 @@
-# Our Team
+# OUR TEAM
 
 <div class="about-management">
 

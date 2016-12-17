@@ -11,9 +11,6 @@ nav {
 	-ms-transition:height 0.3s line-height 0.3s;
 	-o-transition:height 0.3s line-height 0.3s;
 	transition:height 0.3s line-height 0.3s;
-	h4 {
-		cursor: pointer;
-	}
 	p {
 		float: right;
 		line-height: 20vh;
@@ -25,11 +22,6 @@ nav {
 	}
 	.desktop-only {
 		height: 100%;
-		a {
-			width: 100px;
-			text-align: center;
-			height: 100%;
-		}
 		ul {
 			max-width: 980px;
 			margin: auto;
@@ -38,7 +30,7 @@ nav {
 			align-items: center;
 			height: 100%;
 		}
-		li {
+		a {
 			display: inline;
 			list-style-type: none;
 			line-height: 20vh;
@@ -47,14 +39,15 @@ nav {
 			-ms-transition: line-height 0.3s;
 			-o-transition: line-height 0.3s;
 			transition: line-height 0.3s;
-			width: 250px;
+			padding: 20px;
 			text-align: center;
-			&:hover {
+			&:hover,&:active {
+				cursor: pointer;
+				h4 {
+					color:#78B7BA;
+				}
 				.nav-dd {
 					display: block;
-				}
-				.bold {
-					font-family: 'UG bold';
 				}
 			}
 		}
@@ -63,9 +56,6 @@ nav {
 			letter-spacing: 2px;
 			font-family: "UG med";
 			vertical-align: -2px;
-			&:hover, &:active {
-				font-family: 'UG bold';
-			}
 		}
 	}
 }
@@ -146,9 +136,7 @@ nav {
 			display: flex;
 			justify-content: space-between;
 			align-items: center;
-			max-width: 650px;
 			margin: auto;
-			height: 220px;
 			padding: 30px;
 		}
 		ul {
@@ -164,7 +152,7 @@ nav {
 			font-family: 'UG med';
 			line-height: 37px;
 			&:hover, &:active {
-				font-family: 'UG bold'
+				color:#78B7BA;
 			}
 		}
 		.top-level {
@@ -202,6 +190,7 @@ nav {
 
 @media (max-width: $mobile) {
 	nav {
+		padding-right: 11px;
 		.nav-logo {
 			padding: 3px;
 		}
