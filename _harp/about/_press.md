@@ -1,4 +1,4 @@
-## Press
+## PRESS
 
 - [Get with the program: the coders offering training for free](https://www.theguardian.com/technology/2015/jul/26/founders-coders-coding-free-training-london) (The Guardian)
 - [The Free Coding Academy Model -- How To Teach Our Next Generation Of Programmers](http://www.forbes.com/sites/adrianbridgwater/2015/08/13/the-free-coding-academy-model-how-to-teach-our-next-generation-of-programmers/#6b07b18829c5) (Forbes)
@@ -9,7 +9,7 @@
 - [Web developers crack the tuition code to snap up Young Co-operators Prize](http://www.uk.coop/newsroom/web-developers-crack-tuition-code-snap-young-co-operators-prize)
 - [Founders and Coders Interview](http://uk.farnell.com/founders-and-coders-interview)
 
-### Arabic press
+## ARABIC PRESS
  - [panet](http://www.panet.co.il/article/1449709)
  - [Haifanet](http://haifanet.co.il/archives/22041)
  - [almasar](http://almasar.co.il/art.php?ID=80745)

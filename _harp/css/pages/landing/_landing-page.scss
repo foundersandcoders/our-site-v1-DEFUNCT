@@ -21,13 +21,12 @@
 }
 
 .fac-logo {
-	margin-bottom:19px;
+	margin-bottom:10px;
 	position: relative;
-	width: 80px;
-	padding-top: 40px;
-	padding-left: 2px;
+	width: 70px;
+	padding: 36px 0 0 2px;
 	text-align: center;
-	background: radial-gradient(circle, rgba(255,255,255,0.5) 10%, rgba(255,255,255,0) 60%, rgba(255,255,255,0) 30%);
+	background: radial-gradient(circle 60px,rgba(255,255,255,0.5) 47%,rgba(255,255,255,0) 60%,rgba(255,255,255,0) 30%);
 	img {
 		height:70px;
 		width: 55px;
@@ -147,7 +146,7 @@
 	max-height: 110px;
 	div {
 		max-width: 250px;
-		width: 25%;
+		width: 15%;
 	}
 	a {
 		display: flex;
@@ -155,22 +154,19 @@
 	img {
 		filter: grayscale(100%);
 		margin: auto;
+		width: 100%;
 	}
 	.switch {
 		max-width: 110px;
-		width: 90%;
 	}
 	.course {
 		max-width: 90px;
-		width: 90%;
 	}
 	.observer {
 		max-width: 110px;
-		width: 90%;
 	}
 	.forbes {
 		max-width: 90px;
-		width: 90%;
 	}
 	.dwyl {
 		width: 100%;
@@ -203,24 +199,12 @@
   }
 }
 
-@media (max-width:700px) {
-	.sponsor-section {
-		padding:0 2%;
-	}
-}
-
 .testimonial-container {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
 	background-color: $color-two;
 }
-
-// @media(max-width: 650px) {
-// 	.testimonial-section {
-// 		display: none;
-// 	}
-// }
 
 .testimonial-section {
 	padding: 6% 5%;
@@ -261,7 +245,7 @@
 		font-size: 25px;
 	}
 	i {
-		font-size: 30px;
+		font-size: 50px;
 		opacity: 0.6;
 	}
 }
@@ -282,10 +266,6 @@
 		height: 60px;
 		padding: 20px 40px;
 		font-size: 20px;
-		opacity: 0.7;
-    border: 1px solid grey;
-	}
-	.button-one {
 		height: 50px;
 		padding: 15px 20px;
 		width: 181px;
@@ -300,7 +280,7 @@
 }
 
 .hide-on-mobile {
-  @media (max-width: $mobile) {
+  @media (max-width: 687px) {
 		display: none;
 	}
 }
