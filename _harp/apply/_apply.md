@@ -17,7 +17,7 @@ Create a [GitHub](https://www.github.com) account.
 
 ### STEP 2
 
-Complete the [Expression of Interest](http://www.foundersandcoders.com/apply/interest.html) form. 
+Complete the [Expression of Interest](http://www.foundersandcoders.com/apply/interest.html) form.
 
 When we receive your Expression of Interest, we will invite you to our Coding for Everyone community on Gitter. If you do not receive an invitation within 7 days, please re-submit your Expression of Interest, checking that you have entered your GitHub username accurately.
 
@@ -30,6 +30,8 @@ Join https://gitter.im/codingforeveryone and introduce yourself.
 Join http://www.freecodecamp.com/.
 
 If you have not done any programming before, then you will probably need to allow yourself a minimum of 100 hours on Front End Development before you are ready to tackle Codewars.
+
+At Founders & Coders we focus on using vanilla Javascript as we believe it is important to learn the basics of HTML, CSS and Javascript before using frameworks and libraries such as Bootstrap or jQuery. When going through Free Code Camp you can skip the Responsive Design with Bootstrap and jQuery lessons and move straight to the Basic Javascript section.
 
 ### STEP 5
 
