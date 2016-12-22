@@ -33,7 +33,7 @@
 
 ### STEP 5*
 
-  Create an empty repo ([Create a Repo on GitHub](https://help.github.com/articles/create-a-repo/)) on GitHub where you will eventually build your own one-page website.
+  [Create an empty Repo](https://help.github.com/articles/create-a-repo/) on GitHub, where you will eventually build your own one-page website.
 
 ### STEP 6
 
