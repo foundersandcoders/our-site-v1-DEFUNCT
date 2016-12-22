@@ -27,7 +27,7 @@
 
   Join [Codewars](https://www.codewars.com/).
 
-  Note: When joining Codewars, you will be asked to solve a basic coding exercise. If you cannot solve it, please skip this step and return to it when you have spent a few hours doing practicing [Basic JavaScript](https://www.freecodecamp.com/map-aside#nested-collapseBasicJavaScript)on Free Code Camp.
+  Note: When joining Codewars, you will be asked to solve a basic coding exercise. If you cannot solve it, please skip this step and return to it when you have spent a few hours practicing [Basic JavaScript](https://www.freecodecamp.com/map-aside#nested-collapseBasicJavaScript)on Free Code Camp.
 
   Note: You can easily use your GitHub account to join [Freecodecamp](http://www.freecodecamp.com/) and [Codewars](https://www.codewars.com/).
 
@@ -75,4 +75,4 @@
 
   Note: We recommend not using frameworks like Bootstrap. Also, using Jekyll is entirely optional.
 
-  Other recommended materials can be found at [here](https://github.com/foundersandcoders/recommended-materials).
+  Other recommended materials can be found [here](https://github.com/foundersandcoders/recommended-materials).
