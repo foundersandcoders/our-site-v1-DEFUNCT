@@ -27,14 +27,13 @@
 
   Join [Codewars](https://www.codewars.com/).
 
-  Note: When joining Codewars, you will be asked to solve a couple of  basic coding exercises.
-  If you find them not easy to solve, please, spend a few hours on [Freecodecamp](http://www.freecodecamp.com/)(on the 'Basic JAVASCRIPT' section) and come back here.
+  Note: When joining Codewars, you will be asked to solve a basic coding exercise. If you cannot solve it, please skip this step and return to it when you have spent a few hours doing practicing [Basic JavaScript](https://www.freecodecamp.com/map-aside#nested-collapseBasicJavaScript)on Free Code Camp.
 
   Note: You can easily use your GitHub account to join [Freecodecamp](http://www.freecodecamp.com/) and [Codewars](https://www.codewars.com/).
 
 ### STEP 5*
 
-  Create an empty repo ([How to create a repo on github](https://help.github.com/articles/create-a-repo/)) on GitHub where you will eventually build your own one-page website.
+  Create an empty repo ([Create a Repo on GitHub](https://help.github.com/articles/create-a-repo/)) on GitHub where you will eventually build your own one-page website.
 
 ### STEP 6
 
@@ -54,7 +53,7 @@
 
   B) [Complete the application form](http://www.foundersandcoders.com/apply/now).
 
-  <h3>Your application will be considered only after the closing date for applications, so you can continue to work on Codewars and Freecodecamp (See COURSE PREREQUISITES) until that date.</h3>
+  <h3>Your application will be considered only after the closing date for applications, so you can continue to work on Codewars and Freecodecamp (See COURSE PREREQUISITES below) until that date.</h3>
 
   You can expect to hear from us within 14 days of the application closing date.
 
@@ -76,4 +75,4 @@
 
   Note: We recommend not using frameworks like Bootstrap. Also, using Jekyll is entirely optional.
 
-  Other recommended materials can be found at this README: https://github.com/foundersandcoders/recommended-materials
+  Other recommended materials can be found at [here](https://github.com/foundersandcoders/recommended-materials).
