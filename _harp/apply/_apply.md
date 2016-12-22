@@ -27,7 +27,7 @@
 
   Join [Codewars](https://www.codewars.com/).
 
-  Note: When joining Codewars, you will be asked to solve a basic coding exercise. If you cannot solve it, please skip this step and return to it when you have spent a few hours practicing [Basic JavaScript](https://www.freecodecamp.com/map-aside#nested-collapseBasicJavaScript)on Free Code Camp.
+  Note: When joining Codewars, you will be asked to solve a basic coding exercise. If you cannot solve it, please skip this step and return to it when you have spent a few hours practicing [Basic JavaScript](https://www.freecodecamp.com/map-aside#nested-collapseBasicJavaScript) on Free Code Camp.
 
   Note: You can easily use your GitHub account to join [Freecodecamp](http://www.freecodecamp.com/) and [Codewars](https://www.codewars.com/).
 
