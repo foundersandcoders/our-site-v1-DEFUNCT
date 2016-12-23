@@ -3,6 +3,8 @@
   Applications for our February course in London are now closed.
 
   Applications for our February course in Nazareth close on December 31.
+  
+  NOTE: if you want help with meeting the prerequisites, [SIGN UP NOW for our Nazareth pre-programme](https://goo.gl/forms/X8pjSrshOG7UrW0U2) running in January.
 
 <h2 align='center'> HOW DO I APPLY FOR THE PROGRAMME?<h2>
 
