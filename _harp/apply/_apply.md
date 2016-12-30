@@ -42,7 +42,7 @@
   A) Prepare an application video that answers these questions (if you do not want to video yourself, please do a screencast instead):
 
   1. Why do you want to do join the programme?
-  2. How would you like to use technology to help others?
+  2. What problem would you most like to solve using technology?
   3. What do you intend to do when you finish?
   4. What really motivates you?
   5. If we could open a Founders & Coders anywhere else in the world, where would you want it to be?
