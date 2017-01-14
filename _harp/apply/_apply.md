@@ -73,8 +73,10 @@
 
   B) Create at least one kata: https://www.codewars.com/kata/new/javascript.
 
+
 ### 3)
 
   Referring to step 5* from the instructions to apply for the programme, edit the repo you created to end up with one-page website using GitHub pages. https://pages.github.com/
+
 
   Other recommended materials can be found [here](https://github.com/foundersandcoders/recommended-materials).

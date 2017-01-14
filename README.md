@@ -22,7 +22,9 @@ Pull requests should be made with master as the base. Master is uncompiled so le
 
 The repo owner will merge your pull, pull master into gh-pages, compile and push to gh-pages.
 
-The process is as follows:
+----
+
+The process for the repo owner is as follows:
 ```
 $ git checkout gh-pages
 $ git merge master

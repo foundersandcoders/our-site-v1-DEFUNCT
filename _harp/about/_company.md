@@ -1,4 +1,4 @@
-# OUR STORY
+<h1 align='center'>OUR STORY</h1>
 
 <div class="vid">
 	<iframe src="https://player.vimeo.com/video/188014263" width="720px" height="408px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
