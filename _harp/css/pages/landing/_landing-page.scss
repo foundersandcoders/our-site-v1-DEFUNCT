@@ -270,6 +270,12 @@
 	}
 }
 
+@media (max-width: 700px) {
+	.testimonial-section {
+		display: none;
+	}
+}
+
 .apply-section {
 	background-image: url('../assets/fac9-start.jpg');
 	background-size: cover;
