@@ -1,4 +1,6 @@
-In our tuition-free coding academy, we transform talented individuals from all walks of life into sought-after web developers. Our programme is free because we believe that everyone should have access to high quality training in web development.
+We have graduated more than 150 students on our full-time programme. Over the last two years, more than 90% of our graduates have gone on to work in software or a related field.
+
+We believe that high quality education should be accessible to everyone. Our students continue to be involved with our programme long after they graduate. With their support and the work of the broader Founders & Coders community, we continue to offer our programme free at the point of delivery.
 
 As of February 2017, we offer two programme locations: [London](https://github.com/foundersandcoders/info/blob/master/london.md), UK and [Nazareth](https://github.com/foundersandcoders/info/blob/master/nazareth.md), Israel.
 
