@@ -1,17 +1,10 @@
-# Our website
+# Founders & Coders Website
 
-## Why
-Founders and Coders needs a website
-
-## What
-A website to showcase the school and our work.
-
-## How
 Get involved! https://github.com/foundersandcoders/oursite/pulls
 
 Our site uses [Harp](http://harpjs.com/).
 ```
-$ npm install -g harp 
+$ npm install -g harp
 $ cd Desktop
 $ git clone https://github.com/foundersandcoders/oursite.git
 $ cd oursite
@@ -31,5 +24,3 @@ $ git merge master
 $ harp compile _harp .
 ```
 Then commit and push the changes back to Github.
-
-
