@@ -2,11 +2,11 @@
 <html>
 	<head>
 		<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-		<title>Founders &amp; Coders | JavaScript Courses in London and Nazareth</title>
-		<meta name="description" content="Javascript Courses in London | Founders and Coders is a non-profit co-operative. We produce beautiful software and provide training, classes and workshops.">
+		<title><%= title %></title>
+    <meta name="description" content="<%= description %>"/>
 		<link rel="stylesheet" href="/css/main.css">
 		<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-		<!-- Check if browser supports vh. If not, add styling for crappy browser -->
+		<!-- Check if browser supports vh. If not, add styling -->
 		<script src="/js/modernizr.js"></script>
 		<script type="text/javascript">
 		 	if (Modernizr.cssvwunit) {
@@ -19,15 +19,15 @@
 		<meta name="google-site-verification" content="mOpWptCT92oi7c5sI1qLgywVvQyN8eAalYCjl3qNurw" />
 		<meta name="google-site-verification" content="mOpWptCT92oi7c5sI1qLgywVvQyN8eAalYCjl3qNurw" />
 	</head>
-    <body id="body">
-        <%- partial("_partials/navbar") %>
-    	<%- yield %>
-    	<%- partial("_partials/partners") %>
-    	<%- partial("_partials/contact") %>
+  <body id="body">
+    <%- partial("_partials/navbar") %>
+  	<%- yield %>
+  	<%- partial("_partials/partners") %>
+  	<%- partial("_partials/contact") %>
 		<footer>
-            <script src="/js/main.js"></script>
-            <script src="/js/carousel.js"></script>
+	    <script src="/js/main.js"></script>
+	    <script src="/js/carousel.js"></script>
 			<script>   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');    ga('create', 'UA-35597887-2', 'auto');   ga('send', 'pageview');  </script>
 		</footer>
-  	</body>
+	</body>
 </html>
