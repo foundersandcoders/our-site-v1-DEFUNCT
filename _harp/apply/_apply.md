@@ -63,16 +63,20 @@
 
   If you have not done any programming before, then you will probably need to allow yourself a minimum of 100 hours on Front End Development on http://www.freecodecamp.com/ before you are ready to tackle Codewars.
 
+
+ Note: At Founders & Coders we focus on using vanilla Javascript as we believe it is important to learn the basics of HTML, CSS and Javascript before using frameworks and libraries such as Bootstrap or jQuery. When going through Free Code Camp you can skip the Responsive Design with Bootstrap and jQuery lessons and move straight to the Basic Javascript section.
+
+
 ### 2)
 
   A) Aim to get to at least 5 kyu on https://www.codewars.com/ by the time the application window closes. We find that this process typically requires a minimum of 100 hours of study.
 
   B) Create at least one kata: https://www.codewars.com/kata/new/javascript.
 
+
 ### 3)
 
   Referring to step 5* from the instructions to apply for the programme, edit the repo you created to end up with one-page website using GitHub pages. https://pages.github.com/
 
-  Note: We recommend not using frameworks like Bootstrap. Also, using Jekyll is entirely optional.
 
   Other recommended materials can be found [here](https://github.com/foundersandcoders/recommended-materials).
