@@ -59,7 +59,7 @@
   You can expect to hear from us within 14 days of the application closing date.
 
 <h2 align='center'>COURSE PREREQUISITES<h2>
-<h3> If you want to be accepted, you want to at least make sure you complete these three steps before the application closing date.</h3>
+<h3> In order for your application to be considered, you should make sure you complete these three steps before the application closing date.</h3>
 ### 1)
 
   If you have not done any programming before, then you will probably need to allow yourself a minimum of 100 hours on Front End Development on http://www.freecodecamp.com/ before you are ready to tackle Codewars.
@@ -72,8 +72,8 @@
 
 ### 3)
 
-  Referring to step 5* from the instructions to apply for the programme, edit the repo you created to end up with one-page website using GitHub pages. https://pages.github.com/
+  Referring to step 5* from the instructions to apply for the programme, edit the repo you created to end up with one-page website on [GitHub pages](https://pages.github.com/). Your website can be about anything you like so pick a topic that you think is interesting!
 
-  Note: We recommend not using frameworks like Bootstrap. Also, using Jekyll is entirely optional.
+  Note: We recommend not using frameworks or libraries like Bootstrap or jQuery. Also, using Jekyll is entirely optional.
 
   Other recommended materials can be found [here](https://github.com/foundersandcoders/recommended-materials).
