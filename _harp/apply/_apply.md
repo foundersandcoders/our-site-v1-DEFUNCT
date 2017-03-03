@@ -17,9 +17,9 @@
   Complete the [Expression of Interest](http://www.foundersandcoders.com/apply/interest.html) form.
 
 
-  When we receive your Expression of Interest, we will invite you to our Coding for Everyone community on [Gitter](https://gitter.im/codingforeveryone). Please, join us and introduce yourself.
+  When we receive your Expression of Interest, we will invite you to our Coding for Everyone community on [Gitter](https://gitter.im/codingforeveryone). Please join us and introduce yourself.
 
-  If you do not receive an invitation within 3 days, please re-submit your Expression of Interest, checking that you have entered your GitHub username accurately.
+  If you do not receive an invitation within 3 days, please resubmit your Expression of Interest, checking that you have entered your GitHub username accurately.
 
 ### STEP 3
 
@@ -29,7 +29,7 @@
 
   Join [Codewars](https://www.codewars.com/).
 
-  Note: When joining Codewars, you will be asked to solve a basic coding exercise. If you cannot solve it, please skip this step and return to it when you have spent a few hours practicing [Basic JavaScript](https://www.freecodecamp.com/map-aside#nested-collapseBasicJavaScript) on Free Code Camp.
+  Note: When joining Codewars, you will be asked to solve a basic coding exercise. If you cannot solve it, please skip this step and return to it when you have spent a few hours practising [Basic JavaScript](https://www.freecodecamp.com/map-aside#nested-collapseBasicJavaScript) on FreeCodeCamp.
 
   Note: You can easily use your GitHub account to join [Freecodecamp](http://www.freecodecamp.com/) and [Codewars](https://www.codewars.com/).
 
@@ -42,10 +42,9 @@
   A) Prepare an application video that answers these questions (if you do not want to video yourself, please do a screencast instead):
 
   1. Why do you want to do join the programme?
-  2. How would you like to use technology to help others?
+  2. What problem would you most like to solve with technology?
   3. What do you intend to do when you finish?
   4. What really motivates you?
-  5. If we could open a Founders & Coders anywhere else in the world, where would you want it to be?
 
 ### Please:
   * Make sure you keep it to under two minutes.
