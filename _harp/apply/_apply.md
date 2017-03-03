@@ -2,7 +2,9 @@
 
   Our programmes in Nazareth and London run three times a year, starting in February, June and October.
 
-  Applications for our Summer 2017 programmes open in March.
+  We will be accepting applications for our Summer 2017 programme from Sunday 5th March 2017. Applications for the London cohort close on March 31st 2017. Applications for the Nazareth cohort close on April 30th 2017.
+
+  The summer programme will run from 26th June 26th until 13th October 2017.
 
 <h2 align='center'> HOW DO I APPLY FOR THE PROGRAMME?<h2>
 
