@@ -52,7 +52,7 @@
   * Record your voice at an adequate sound level.
 
 
-  B) [Complete the application form](http://www.foundersandcoders.com/apply/now).
+  B) [Complete the application form](https://goo.gl/ENPIlD).
 
   <h3>Your application will be considered only after the closing date for applications, so you can continue to work on Codewars and Freecodecamp (See COURSE PREREQUISITES below) until that date.</h3>
 
