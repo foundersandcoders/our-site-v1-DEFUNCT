@@ -1,17 +1,12 @@
 <h1 align='center'>APPLY</h1>
 
-  Our programmes in Nazareth and London run three times a year, starting in February, June and October.
+<h2 align='center'>APPLICATIONS FOR THE NEXT COHORT ARE NOW OPEN</h2>
 
-  Cohorts starting in 2017:
-  + 20th February - 9th June (applications closed)
-  + **26th June - 13th October**
-  + 23rd October - 23rd February
+<p align='center'>Submission deadlines for our 26th June - 13th October programme:</p>
 
-  Expressions of interest should be submitted as early as possible.
+<p align='center'>**31st March 2017** (London)</p>
+<p align='center'>**30th April 2017** (Nazareth)</p>
 
-  **Applications for the next cohort must be submitted between the following dates:**
-  London: Sunday 5th March 2017 - March 31st 2017
-  Nazareth: Sunday 5th March 2017 - April 30th 2017.
 
 <h2 align='center'> HOW DO I APPLY FOR THE PROGRAMME?<h2>
 
