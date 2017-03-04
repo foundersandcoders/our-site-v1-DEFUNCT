@@ -2,7 +2,9 @@
 
   Our programmes in Nazareth and London run three times a year, starting in February, June and October.
 
-  Applications for our Summer 2017 programmes open in March.
+  We will be accepting applications for our Summer 2017 programme from Sunday 5th March 2017. Applications for the London cohort close on March 31st 2017. Applications for the Nazareth cohort close on April 30th 2017.
+
+  The summer programme will run from 26th June until 13th October 2017.
 
 <h2 align='center'> HOW DO I APPLY FOR THE PROGRAMME?<h2>
 
@@ -15,9 +17,9 @@
   Complete the [Expression of Interest](http://www.foundersandcoders.com/apply/interest.html) form.
 
 
-  When we receive your Expression of Interest, we will invite you to our Coding for Everyone community on [Gitter](https://gitter.im/codingforeveryone). Please, join us and introduce yourself.
+  When we receive your Expression of Interest, we will invite you to our Coding for Everyone community on [Gitter](https://gitter.im/codingforeveryone). Please join us and introduce yourself.
 
-  If you do not receive an invitation within 3 days, please re-submit your Expression of Interest, checking that you have entered your GitHub username accurately.
+  If you do not receive an invitation within 3 days, please resubmit your Expression of Interest, checking that you have entered your GitHub username accurately.
 
 ### STEP 3
 
@@ -27,7 +29,7 @@
 
   Join [Codewars](https://www.codewars.com/).
 
-  Note: When joining Codewars, you will be asked to solve a basic coding exercise. If you cannot solve it, please skip this step and return to it when you have spent a few hours practicing [Basic JavaScript](https://www.freecodecamp.com/map-aside#nested-collapseBasicJavaScript) on Free Code Camp.
+  Note: When joining Codewars, you will be asked to solve a basic coding exercise. If you cannot solve it, please skip this step and return to it when you have spent a few hours practising [Basic JavaScript](https://www.freecodecamp.com/map-aside#nested-collapseBasicJavaScript) on FreeCodeCamp.
 
   Note: You can easily use your GitHub account to join [Freecodecamp](http://www.freecodecamp.com/) and [Codewars](https://www.codewars.com/).
 
@@ -40,10 +42,9 @@
   A) Prepare an application video that answers these questions (if you do not want to video yourself, please do a screencast instead):
 
   1. Why do you want to do join the programme?
-  2. How would you like to use technology to help others?
+  2. What problem would you most like to solve with technology?
   3. What do you intend to do when you finish?
   4. What really motivates you?
-  5. If we could open a Founders & Coders anywhere else in the world, where would you want it to be?
 
 ### Please:
   * Make sure you keep it to under two minutes.
@@ -51,14 +52,14 @@
   * Record your voice at an adequate sound level.
 
 
-  B) [Complete the application form](http://www.foundersandcoders.com/apply/now).
+  B) [Complete the application form](https://goo.gl/ENPIlD).
 
   <h3>Your application will be considered only after the closing date for applications, so you can continue to work on Codewars and Freecodecamp (See COURSE PREREQUISITES below) until that date.</h3>
 
   You can expect to hear from us within 14 days of the application closing date.
 
 <h2 align='center'>COURSE PREREQUISITES<h2>
-<h3> If you want to be accepted, you want to at least make sure you complete these three steps before the application closing date.</h3>
+<h3> In order for your application to be considered, you should make sure you complete these three steps before the application closing date.</h3>
 ### 1)
 
   If you have not done any programming before, then you will probably need to allow yourself a minimum of 100 hours on Front End Development on http://www.freecodecamp.com/ before you are ready to tackle Codewars.
@@ -71,8 +72,8 @@
 
 ### 3)
 
-  Referring to step 5* from the instructions to apply for the programme, edit the repo you created to end up with one-page website using GitHub pages. https://pages.github.com/
+  Referring to step 5* from the instructions to apply for the programme, edit the repo you created to end up with one-page website on [GitHub pages](https://pages.github.com/). Your website can be about anything you like so pick a topic that you think is interesting!
 
-  Note: We recommend not using frameworks like Bootstrap. Also, using Jekyll is entirely optional.
+  Note: We recommend not using frameworks or libraries like Bootstrap or jQuery. Also, using Jekyll is entirely optional.
 
   Other recommended materials can be found [here](https://github.com/foundersandcoders/recommended-materials).
