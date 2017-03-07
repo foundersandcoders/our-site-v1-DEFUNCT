@@ -41,7 +41,7 @@
 
   A) Prepare an application video that answers these questions (if you do not want to video yourself, please do a screencast instead):
 
-  1. Why do you want to do join the programme?
+  1. Why do you want to join the programme?
   2. What problem would you most like to solve with technology?
   3. What do you intend to do when you finish?
   4. What really motivates you?
