@@ -1,5 +1,5 @@
 # Course Information
 
-[London course](https://github.com/foundersandcoders/info/blob/master/london.md)
+[London course](/programme/course-information/london)
 
-[Nazareth course](https://github.com/foundersandcoders/info/blob/master/nazareth.md)
+[Nazareth course](/programme/course-information/nazareth)
