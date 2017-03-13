@@ -2,7 +2,7 @@ We have graduated more than 150 students on our full-time programme. Over the la
 
 We believe that high quality education should be accessible to everyone. Our students continue to be involved with our programme long after they graduate. With their support and the work of the broader Founders & Coders community, we continue to offer our programme free at the point of delivery.
 
-As of February 2017, we offer two programme locations: [London](https://github.com/foundersandcoders/info/blob/master/london.md), UK and [Nazareth](https://github.com/foundersandcoders/info/blob/master/nazareth.md), Israel.
+As of February 2017, we offer two programme locations: [London](/programme/course-information/london), UK and [Nazareth](/programme/course-information/nazareth), Israel.
 
 ### Pre-course introductory study
 
