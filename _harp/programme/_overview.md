@@ -12,6 +12,11 @@ Visit [our Meetup site](http://www.meetup.com/founderscoders/) to learn more.
 
 ### 16-week full-time coding bootcamp
 
+Our programmes in Nazareth and London run three times a year. The dates for our 2017 cohorts are as follows:
+ + 20th February - 9th June
+ + **26th June - 13th October** ([applications open](http://www.foundersandcoders.com/apply/))
+ + 23rd October - 23rd February
+
 Our immersive course is peer-led and project-based with sixteen students working in four teams of four. Students take turns delivering seminars, running code reviews and managing projects. The course covers test-driven development, using a full JavaScript stack (JavaScript and Node.js) with both relational and non-relational databases, as well as aspects of UX design and product management.
 
 Read more about our curriculum [here](https://github.com/foundersandcoders/info/blob/master/curriculum.md).
