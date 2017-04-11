@@ -63,7 +63,11 @@
 <h3> In order for your application to be considered, you should make sure you complete these three steps before the application closing date.</h3>
 ### 1)
 
-  If you have not done any programming before, then you will probably need to allow yourself a minimum of 100 hours on Front End Development on http://www.freecodecamp.com/ before you are ready to tackle Codewars.
+  Complete the following sections on [Free Code Camp](http://www.freecodecamp.com/)'s "Front End Development" course:
+  + HTML5 & CSS
+  + Basic JavaScript
+  + Object Oriented and Functional Programming
+  + Basic Algorithm Scripting
 
 ### 2)
 
