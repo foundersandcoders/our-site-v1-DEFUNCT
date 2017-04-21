@@ -18,52 +18,41 @@
   Complete the [Expression of Interest](http://www.foundersandcoders.com/apply/interest.html) form.
 
 
-  When we receive your Expression of Interest, we will invite you to our Coding for Everyone community on [Gitter](https://gitter.im/codingforeveryone). Please join us and introduce yourself.
+  When you send your Expression of Interest, you DO NOT register to the course, in order to do so please see STEP 3.
 
+  When we receive your Expression of Interest, we will invite you to our Coding for Everyone community on [Gitter](https://gitter.im/codingforeveryone). Please join us and introduce yourself.
   If you do not receive an invitation within 3 days, please resubmit your Expression of Interest, checking that you have entered your GitHub username accurately.
 
+
 ### STEP 3
+  What will you need to complete your application form:
 
-  Join [Freecodecamp](http://www.freecodecamp.com/).
+  1) Free Code Camp Account(see #1 under COURSE PREREQUISITES)
 
-### STEP 4
+  2) Codewars Account(see #2 under COURSE PREREQUISITES)
 
-  Join [Codewars](https://www.codewars.com/).
+  3)Prepare an application video that answers these questions (if you do not want to video yourself, please do a screencast instead):
 
-  Note: When joining Codewars, you will be asked to solve a basic coding exercise. If you cannot solve it, please skip this step and return to it when you have spent a few hours practising [Basic JavaScript](https://www.freecodecamp.com/map-aside#nested-collapseBasicJavaScript) on FreeCodeCamp.
-
-  Note: You can easily use your GitHub account to join [Freecodecamp](http://www.freecodecamp.com/) and [Codewars](https://www.codewars.com/).
-
-### STEP 5*
-
-  [Create an empty repo](https://help.github.com/articles/create-a-repo/) on GitHub, where you will eventually build your own one-page website.
-
-### STEP 6
-
-  A) Prepare an application video that answers these questions (if you do not want to video yourself, please do a screencast instead):
-
-  1. Why do you want to join the programme?
-  2. What problem would you most like to solve with technology?
-  3. What do you intend to do when you finish?
-  4. What really motivates you?
-
-### Please:
-  * Make sure you keep it to under two minutes.
-  * Use YouTube or Vimeo or a similar service.
-  * Record your voice at an adequate sound level.
+   + Why do you want to join the programme?
+   + What problem would you most like to solve with technology?
+   + What do you intend to do when you finish?
+   + What really motivates you?
 
 
-  B) [Complete the application form](https://goo.gl/ENPIlD).
+  Please, Make sure to keep it to under two minutes and record your voice at an adequate sound level.
+  You can use YouTube or Vimeo or similar service to upload your video.
 
-  <h3>Your application will be considered only after the closing date for applications, so you can continue to work on Codewars and Freecodecamp (See COURSE PREREQUISITES below) until that date.</h3>
+  [Complete the application form](https://goo.gl/ENPIlD).
 
   You can expect to hear from us within 14 days of the application closing date.
 
-<h2 align='center'>COURSE PREREQUISITES<h2>
+<h2 align='center'>COURSE PREREQUISITES</h2>
 <h3> In order for your application to be considered, you should make sure you complete these three steps before the application closing date.</h3>
+We suggest you start working on Free Code Camp first, and when you feel comfortable enough with Javascript,  start solving Katas on CodeWars while finishing Free Code Camp required sections.
+
 ### 1)
 
-  Complete the following sections on [Free Code Camp](http://www.freecodecamp.com/)'s "Front End Development" course:
+  Sign up to [Free Code Camp](http://www.freecodecamp.com/) then complete the following sections on "Front End Development" course:
   + HTML5 & CSS
   + Basic JavaScript
   + Object Oriented and Functional Programming
@@ -71,13 +60,13 @@
 
 ### 2)
 
-  A) Aim to get to at least 5 kyu on https://www.codewars.com/ by the time the application window closes. We find that this process typically requires a minimum of 100 hours of study.
+  A)Sign up to https://www.codewars.com/ then aim to get to at least 5 kyu by the time the application window closes.
 
   B) Create at least one kata: https://www.codewars.com/kata/new/javascript.
 
 ### 3)
-
-  Referring to step 5* from the instructions to apply for the programme, edit the repo you created to end up with one-page website on [GitHub pages](https://pages.github.com/). Your website can be about anything you like so pick a topic that you think is interesting!
+  To demonstrate your HTML, CSS & Javascript skills, please
+  [Create new repository on Github](https://help.github.com/articles/create-a-repo/) named F&C-OP and build a one-page website on [GitHub pages](https://pages.github.com/). Your website can be about anything you like so pick a topic that you think is interesting!
 
   Note: We recommend not using frameworks or libraries like Bootstrap or jQuery. Also, using Jekyll is entirely optional.
 
