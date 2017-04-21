@@ -1,10 +1,11 @@
 <h1 align='center'>APPLY</h1>
 
-  Our programmes in Nazareth and London run three times a year, starting in February, June and October.
+<h2 align='center'>APPLICATIONS FOR THE NEXT COHORT ARE NOW OPEN</h2>
 
-  We will be accepting applications for our Summer 2017 programme from Sunday 5th March 2017. Applications for the London cohort close on March 31st 2017. Applications for the Nazareth cohort close on April 30th 2017.
+<p align='center'>Submission deadlines for our 26th June - 13th October programme:</p>
 
-  The summer programme will run from 26th June until 13th October 2017.
+<p align='center'>**31st March 2017** (London)</p>
+<p align='center'>**30th April 2017** (Nazareth)</p>
 
 <h2 align='center'> HOW DO I APPLY FOR THE PROGRAMME?<h2>
 
@@ -62,7 +63,11 @@
 <h3> In order for your application to be considered, you should make sure you complete these three steps before the application closing date.</h3>
 ### 1)
 
-  If you have not done any programming before, then you will probably need to allow yourself a minimum of 100 hours on Front End Development on http://www.freecodecamp.com/ before you are ready to tackle Codewars.
+  Complete the following sections on [Free Code Camp](http://www.freecodecamp.com/)'s "Front End Development" course:
+  + HTML5 & CSS
+  + Basic JavaScript
+  + Object Oriented and Functional Programming
+  + Basic Algorithm Scripting
 
 ### 2)
 
