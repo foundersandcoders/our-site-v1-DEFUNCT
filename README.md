@@ -23,4 +23,10 @@ $ git checkout gh-pages
 $ git merge master
 $ harp compile _harp .
 ```
-Then commit and push the changes back to Github.
+Then commit and push the changes back to GitHub.
+
+----
+
+### Domain hosting
+
+The domain is registered on @sofer's namecheap account and the DNS records are hosted on Cloudflare.
