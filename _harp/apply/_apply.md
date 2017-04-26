@@ -42,7 +42,7 @@
   Please, Make sure to keep it to under two minutes and record your voice at an adequate sound level.
   You can use YouTube or Vimeo or similar service to upload your video.
 
-  [Complete the application form here](https://goo.gl/ENPIlD).
+  [Submit your application here](https://goo.gl/ENPIlD).
 
   You can expect to hear from us within 14 days of the application closing date.
 
