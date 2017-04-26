@@ -25,13 +25,13 @@
 
 
 ### STEP 3
-  What will you need to complete your application form:
+  What will you need to complete the application form:
 
   1) Free Code Camp Account(see #1 under COURSE PREREQUISITES)
 
   2) Codewars Account(see #2 under COURSE PREREQUISITES)
 
-  3)Prepare an application video that answers these questions (if you do not want to video yourself, please do a screencast instead):
+  3) Prepare an application video that answers these questions (if you do not want to video yourself, please do a screencast instead):
 
    + Why do you want to join the programme?
    + What problem would you most like to solve with technology?
@@ -42,7 +42,7 @@
   Please, Make sure to keep it to under two minutes and record your voice at an adequate sound level.
   You can use YouTube or Vimeo or similar service to upload your video.
 
-  [Complete the application form](https://goo.gl/ENPIlD).
+  [Complete the application form here](https://goo.gl/ENPIlD).
 
   You can expect to hear from us within 14 days of the application closing date.
 
