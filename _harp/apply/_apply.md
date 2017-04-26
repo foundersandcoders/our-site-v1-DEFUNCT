@@ -66,7 +66,7 @@ We suggest you start working on Free Code Camp first, and when you feel comforta
 
 ### 3)
   To demonstrate your HTML, CSS & Javascript skills, please
-  [Create new repository on Github](https://help.github.com/articles/create-a-repo/) named F&C-OP and build a one-page website on [GitHub pages](https://pages.github.com/). Your website can be about anything you like so pick a topic that you think is interesting!
+  [Create a new repository on Github](https://help.github.com/articles/create-a-repo/) named F&C-OP and build a one-page website on [GitHub pages](https://pages.github.com/). Your website can be about anything you like so pick a topic that you think is interesting!
 
   Note: We recommend not using frameworks or libraries like Bootstrap or jQuery. Also, using Jekyll is entirely optional.
 
