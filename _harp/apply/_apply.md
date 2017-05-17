@@ -18,18 +18,20 @@
   Complete the [Expression of Interest](http://www.foundersandcoders.com/apply/interest.html) form.
 
 
-  When you send your Expression of Interest, you DO NOT register to the course, in order to do so please see STEP 3.
+  Sending your Expression of Interest is NOT the same as submitting an application to the course.
+
+  To submit an application, got to STEP 3.
 
   When we receive your Expression of Interest, we will invite you to our Coding for Everyone community on [Gitter](https://gitter.im/codingforeveryone). Please join us and introduce yourself.
   If you do not receive an invitation within 3 days, please resubmit your Expression of Interest, checking that you have entered your GitHub username accurately.
 
 
 ### STEP 3
-  What will you need to complete the application form:
+  Before completing the application form:
 
-  1) Free Code Camp Account(see #1 under COURSE PREREQUISITES)
+  1) Create Free Code Camp Account(see #1 under COURSE PREREQUISITES)
 
-  2) Codewars Account(see #2 under COURSE PREREQUISITES)
+  2) Create Codewars Account(see #2 under COURSE PREREQUISITES)
 
   3) Prepare an application video that answers these questions (if you do not want to video yourself, please do a screencast instead):
 
