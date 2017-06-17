@@ -1,75 +1,57 @@
-<h1 align='center'>APPLY</h1>
+<h1 align='center'>APPLY TO FOUNDERS & CODERS</h1>
 
-<h2 align='center'>APPLICATIONS FOR THE NEXT COHORT ARE NOW OPEN</h2>
+Founders & Coders welcomes applicants over 18 from all academic and professional backgrounds. We find that successful students are self-motivated, prepared to work long hours, and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.
 
-<p align='center'>Submission deadlines for our 26th June - 13th October programme:</p>
+Before beginning a Founders & Coders programme, you will need to complete our prerequisites. We do not expect you finish this work before applying, but you will need to show us that you have made sincere effort to start this work and provide us with working usernames for GitHub, Free Code Camp, and Codewars in your application so that we can monitor your progress. Other recommended materials can be found [here](https://github.com/foundersandcoders/recommended-materials)..
 
-<p align='center'>**31st March 2017** (London)</p>
-<p align='center'>**30th April 2017** (Nazareth)</p>
+Applications are open for our next set of courses, which begin in late October. Please visit our LONDON and NAZARETH pages to learn more about the application and selection process in each location.
 
-<h2 align='center'> HOW DO I APPLY FOR THE PROGRAMME?<h2>
-
-### STEP 1
-
-  Create a [GitHub](https://www.github.com) account.
-
-### STEP 2
-
-  Complete the [Expression of Interest](http://www.foundersandcoders.com/apply/interest.html) form.
-
-
-  Sending your Expression of Interest is NOT the same as submitting an application to the course.
-
-  To submit an application, got to STEP 3.
-
-  When we receive your Expression of Interest, we will invite you to our Coding for Everyone community on [Gitter](https://gitter.im/codingforeveryone). Please join us and introduce yourself.
-  If you do not receive an invitation within 3 days, please resubmit your Expression of Interest, checking that you have entered your GitHub username accurately.
-
-
-### STEP 3
-  Before completing the application form:
-
-  1) Create Free Code Camp Account(see #1 under COURSE PREREQUISITES)
-
-  2) Create Codewars Account(see #2 under COURSE PREREQUISITES)
-
-  3) Prepare an application video that answers these questions (if you do not want to video yourself, please do a screencast instead):
-
-   + Why do you want to join the programme?
-   + What problem would you most like to solve with technology?
-   + What do you intend to do when you finish?
-   + What really motivates you?
-
-
-  Please, Make sure to keep it to under two minutes and record your voice at an adequate sound level.
-  You can use YouTube or Vimeo or similar service to upload your video.
-
-  [Submit your application here](https://goo.gl/ENPIlD).
-
-  You can expect to hear from us within 14 days of the application closing date.
+<div align='center'>
+  <a href="https://goo.gl/forms/84rV5RO0W2pymY6m2"><button class="button-three">APPLY TO LONDON</button></a>
+  <a href="https://goo.gl/forms/1PSI8o8SLLQIAAMw2"><button class="button-three">APPLY TO NAZARETH</button></a>
+</div>
 
 <h2 align='center'>COURSE PREREQUISITES</h2>
-<h3> In order for your application to be considered, you should make sure you complete these three steps before the application closing date.</h3>
-We suggest you start working on Free Code Camp first, and when you feel comfortable enough with Javascript,  start solving Katas on CodeWars while finishing Free Code Camp required sections.
 
-### 1)
+<h3 align='center'>CODING FOR EVERYONE</h3>
 
-  Sign up to [Free Code Camp](http://www.freecodecamp.com/) then complete the following sections on "Front End Development" course:
-  + HTML5 & CSS
-  + Basic JavaScript
-  + Object Oriented and Functional Programming
-  + Basic Algorithm Scripting
+Each of our campuses hosts one or more regular meetups for all people interested in learning web development. Please make every effort to attend one of our local meetups:
 
-### 2)
+London: please check [meetup.com](https://www.meetup.com/founderscoders/) for our meetup schedule.
++ Coding for Everyone: every Monday, 6:30 PM, 14 Palmers Road
++ Coding for Women: every other Tuesday, 6:30 PM, 14 Palmers Road
 
-  A)Sign up to https://www.codewars.com/ then aim to get to at least 5 kyu by the time the application window closes.
+Nazareth:
++ Coding for Everyone, every Monday, 6:30 PM, [Khan el-Basha building](https://waze.to/lr/hsvc451n7h)
 
-  B) Create at least one kata: https://www.codewars.com/kata/new/javascript.
+<a href="http://www.github.com/"
+  alt="GitHub website">
+  <img class="partners-section-image" alt="GitHub logo" src="http://www.aha.io/assets/github.7433692cabbfa132f34adb034e7909fa.png"/>
+</a>
 
-### 3)
-  To demonstrate your HTML, CSS & Javascript skills, please
-  [Create a new repository on Github](https://help.github.com/articles/create-a-repo/) named F&C-OP and build a one-page website on [GitHub pages](https://pages.github.com/). Your website can be about anything you like so pick a topic that you think is interesting!
+1. Create a GitHub account (note: you can easily use this account to join Free Code Camp and Codewars, our other prerequisites)
+2. Join our online community on [Gitter](https://gitter.im/home/explore), and actively participate in the chatroom of the course for which you are applying:
+  + London
+  + Nazareth
+3. When you’re ready (which could be after some work on Free Code Camp), create a one-page website using GitHub pages. Your website can be about anything you like, so pick a topic you think is interesting! Note: We recommend not using frameworks or libraries like Bootstrap or jQuery. Also, using Jekyll is entirely optional.
 
-  Note: We recommend not using frameworks or libraries like Bootstrap or jQuery. Also, using Jekyll is entirely optional.
+<a href="http://www.freecodecamp.com/"
+  alt="Free Code Camp website">
+  <img class="partners-section-image" alt="Free Code Camp logo" src="https://softwareengineeringdaily.com/wp-content/uploads/2017/01/freecodecamp.jpeg">
+</a>
 
-  Other recommended materials can be found [here](https://github.com/foundersandcoders/recommended-materials).
+We love Free Code Camp and think it’s a fantastic way to begin your journey as a web developer. Complete the following sections on Free Code Camp's Front End Development course:
++ HTML5 & CSS
++ Basic JavaScript
++ Object Oriented and Functional Programming
++ Basic Algorithm Scripting
+
+<a href="http://www.codewars.com/"
+  alt="Codewars website">
+  <img class="partners-section-image" alt="Codewars logo" src="https://media.licdn.com/media/p/8/000/249/391/267400f.png">
+</a>
+
+Codewars provides a strong introduction to the problem-solving skills you’ll need in order to be successful as a web developer. If selected for Founders & Coders, you will need to:
+
++ Reach 5 kyu on Codewars
++ [Create at least one JavaScript kata](https://www.codewars.com/kata/new/javascript)
