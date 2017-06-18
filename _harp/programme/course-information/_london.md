@@ -17,26 +17,6 @@
   </tr>
 </table>
 
-[Apply today](https://goo.gl/forms/1PSI8o8SLLQIAAMw2) for our next course, which runs from 23 October, 2017 until February 9, 2018.
-
-We will review applications and offer interviews at the end of July to all candidates who have completed the course prerequisites. Interviews will be conducted in-person (or via Google hangouts) in early August. We will select 16 people for the course.
-
-All applications received from August onwards will enter the pool for our February course, which begins 18 February, 2018. We will be conducting interviews for the February course in October and will be offering a prep-course to support candidates for this programme.
-
-<h2 align='center'>LEARN MORE</h2>
-
-+ [Get with the program: the coders offering training for free](https://www.theguardian.com/technology/2015/jul/26/founders-coders-coding-free-training-london) (The Guardian)
-+ [The Free Coding Academy Model -- How To Teach Our Next Generation Of Programmers](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/adrianbridgwater/2015/08/13/the-free-coding-academy-model-how-to-teach-our-next-generation-of-programmers/&refURL=&referrer=#6b07b18829c5) (Forbes)
-+ [Founders & Coders pooling developer talent through free education course](http://www.computerweekly.com/news/2240236082/Founders-Coders-pooling-developer-talent-through-free-education-course) (Computer Weekly)
-+ [How I Became a Web Developer in 5 Months](https://medium.com/learning-new-stuff/from-non-technical-to-hired-in-5-months-d010f601b1bc#.qnysdqs1z) (Medium)
-+ [Fusing nonprofits with tech talent](https://medium.com/@wearecast/fusing-nonprofits-with-tech-talent-bddd5ddbe7bb#.16xbm32wb) (Medium)
-+ [Founders & Coders: The UK’s Only Free Coding Academy](http://www.intelligenthq.com/innovation-management/founders-coders-the-uks-only-free-coding-academy/) (Intelligent HQ)
-+ [Web developers crack the tuition code to snap up Young Co-operators Prize](http://www.uk.coop/newsroom/web-developers-crack-tuition-code-snap-young-co-operators-prize) (Coop News)
-+ [Founders and Coders Interview](http://uk.farnell.com/founders-and-coders-interview) (Farnell)
-
-
-<h2 align='center'>LONDON PROGRAMME</h2>
-
 ### Location and Directions
 Founders & Coders London is located at 14 Palmers Road, E2 OSY, in Bethnal Green.
 
@@ -53,3 +33,15 @@ We welcome international applicants who commit to spending at least six months i
 
 ### Living Expenses
 In the UK, we are a registered Learning Provider for Professional and Career Development Loans (PCDL) with registration number REG01-21442.
+
+
+<h2 align='center'>LEARN MORE</h2>
+
++ [Get with the program: the coders offering training for free](https://www.theguardian.com/technology/2015/jul/26/founders-coders-coding-free-training-london) (The Guardian)
++ [The Free Coding Academy Model -- How To Teach Our Next Generation Of Programmers](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/adrianbridgwater/2015/08/13/the-free-coding-academy-model-how-to-teach-our-next-generation-of-programmers/&refURL=&referrer=#6b07b18829c5) (Forbes)
++ [Founders & Coders pooling developer talent through free education course](http://www.computerweekly.com/news/2240236082/Founders-Coders-pooling-developer-talent-through-free-education-course) (Computer Weekly)
++ [How I Became a Web Developer in 5 Months](https://medium.com/learning-new-stuff/from-non-technical-to-hired-in-5-months-d010f601b1bc#.qnysdqs1z) (Medium)
++ [Fusing nonprofits with tech talent](https://medium.com/@wearecast/fusing-nonprofits-with-tech-talent-bddd5ddbe7bb#.16xbm32wb) (Medium)
++ [Founders & Coders: The UK’s Only Free Coding Academy](http://www.intelligenthq.com/innovation-management/founders-coders-the-uks-only-free-coding-academy/) (Intelligent HQ)
++ [Web developers crack the tuition code to snap up Young Co-operators Prize](http://www.uk.coop/newsroom/web-developers-crack-tuition-code-snap-young-co-operators-prize) (Coop News)
++ [Founders and Coders Interview](http://uk.farnell.com/founders-and-coders-interview) (Farnell)
