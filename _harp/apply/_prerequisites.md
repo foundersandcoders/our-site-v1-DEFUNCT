@@ -1,16 +1,5 @@
 <h2 align='center'>COURSE PREREQUISITES</h2>
 
-<h3 align='center'>CODING FOR EVERYONE</h3>
-
-Each of our campuses hosts one or more regular meetups for all people interested in learning web development. Please make every effort to attend one of our local meetups:
-
-London: please check [meetup.com](https://www.meetup.com/founderscoders/) for our meetup schedule.
-+ Coding for Everyone: every Monday, 6:30 PM, 14 Palmers Road
-+ Coding for Women: every other Tuesday, 6:30 PM, 14 Palmers Road
-
-Nazareth:
-+ Coding for Everyone, every Monday, 6:30 PM, [Khan el-Basha building](https://waze.to/lr/hsvc451n7h)
-
 <a href="http://www.github.com/"
   title="GitHub website">
   <img class="partners-section-image" alt="GitHub logo" src="http://www.aha.io/assets/github.7433692cabbfa132f34adb034e7909fa.png"/>
