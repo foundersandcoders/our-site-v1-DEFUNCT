@@ -1,29 +1,39 @@
 <h1 align='center'>NAZARETH</h1>
 
-Visit us on [Facebook](https://www.facebook.com/founderscodersnazareth/) and follow us on [Instagram](https://www.google.com/url?q=http://instagram.com/founderscoders&sa=D&ust=1497712841902000&usg=AFQjCNFFj2GREAg77qDqE6uelnZ10xPI9Q)
+<p align='center'>Visit us on [Facebook](https://www.facebook.com/founderscodersnazareth/) and follow us on [Instagram](https://www.google.com/url?q=http://instagram.com/founderscoders&sa=D&ust=1497712841902000&usg=AFQjCNFFj2GREAg77qDqE6uelnZ10xPI9Q)</p>
 
-<table class='portfolio_table'>
-  <tr class='portfolio_table_row'>
-    <td class='portfolio_item_container'>
-      <a href="http://www.ukisraelhub.com/"
-        alt="DWYL - Do What You Love">
-        <img class="partners-section-image" alt="UK Israel Tech HUB logo" src="/assets/partners/ukisraeltechhub.jpg"/>
-      </a>
-    </td>
-    <td class='portfolio_item_container'>
-      <a href="https://www.gov.uk/government/world/organisations/british-embassy-tel-aviv"
-        alt="Cast">
-        <img class="partners-section-image" alt="Cast logo" src="/assets/partners/british_embassy_israel.jpg"/>
-      </a>
-    </td>
-    <td class='portfolio_item_container'>
-      <a href="http://www.nazarethinfo.org/"
-        alt="Cast">
-        <img class="partners-section-image" alt="Cast logo" src="/assets/partners/nazareth.png"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div class="partners-section">
+  <div class="partners-section-item">
+    <a href="http://tsofen.org"
+      alt="Tsofen">
+      <img class="partners-section-image" alt="Tsofen logo" src="/assets/partners/tsofen-logo.png"/>
+    </a>
+  </div>
+  <div class="partners-section-item">
+    <a href="http://www.nazarethinfo.org/"
+      alt="Cast">
+      <img class="partners-section-image" alt="Cast logo" src="/assets/partners/nazareth.png"/>
+    </a>
+  </div>
+  <div class="partners-section-item">
+    <a href="http://www.ukisraelhub.com/"
+      alt="DWYL - Do What You Love">
+      <img class="partners-section-image" alt="UK Israel Tech HUB logo" src="/assets/partners/ukisraeltechhub.jpg"/>
+    </a>
+  </div>
+  <div class="partners-section-item">
+    <a href="https://www.gov.uk/government/world/organisations/british-embassy-tel-aviv"
+      alt="Cast">
+      <img class="partners-section-image" alt="Cast logo" src="/assets/partners/british_embassy_israel.jpg"/>
+    </a>
+  </div>
+  <div class="partners-section-item">
+    <a href="http://hasoub.org/"
+      alt="Hasoub">
+      <img class="partners-section-image" alt="Hasoub logo" src="/assets/partners/hasoub-logo-ar-en.png"/>
+    </a>
+  </div>
+</div>
 
 ### Location and Directions
 
