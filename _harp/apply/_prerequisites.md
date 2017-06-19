@@ -1,4 +1,4 @@
-<h2 align='center'>COURSE PREREQUISITES</h2>
+<h1 align='center'>COURSE PREREQUISITES</h1>
 
 <a href="http://www.github.com/"
   title="GitHub website">

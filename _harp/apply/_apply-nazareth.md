@@ -1,4 +1,4 @@
-<h1 align='center'>NAZARETH</h1>
+<h1 align='center'>NAZARETH APPLICATIONS</h1>
 
 <h2 align='center'>HOW TO PREPARE</h2>
 
