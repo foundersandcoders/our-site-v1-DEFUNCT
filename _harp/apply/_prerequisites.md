@@ -31,3 +31,7 @@ Codewars provides a strong introduction to the problem-solving skills you’ll n
 
 + Reach 5 kyu on Codewars
 + [Create at least one JavaScript kata](https://www.codewars.com/kata/new/javascript)
+
+---
+
+If you’re curious and would like to take a break from the required material, try some of [these recommendations](https://github.com/foundersandcoders/recommended-materials).
