@@ -10,4 +10,4 @@ Get started by creating a new account on each of the following websites (you wil
 
 Before beginning a Founders & Coders programme, you will need to complete [our prerequisites](./prerequisites). Please apply _as soon as you decide you are interested_ - **we do not expect you finish the course prerequisites before putting in your application**. But you should make a sincere effort to start this work before we conduct interviews.
 
-Applications are open for our next set of courses, which begin in late October. Choose a location to learn more about the application and selection process at each of our campuses.
+Choose a location to learn more about the application and selection process at each of our campuses.
