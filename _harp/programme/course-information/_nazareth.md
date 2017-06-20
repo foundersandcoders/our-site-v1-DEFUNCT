@@ -74,7 +74,9 @@ Founders & Coders Nazareth is a partnership between Founders & Coders Internatio
 Please see https://www.gov.uk/foreign-travel-advice/israel for official UK recommendations for travel in Israel.
 
 Contact: Esraa Jbara
+
 Phone: +972 050-6610848
+
 Email: nazareth@foundersandcoders.com
 
 
