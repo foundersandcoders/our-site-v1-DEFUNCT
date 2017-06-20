@@ -4,7 +4,7 @@ Nazareth is an international programme taught in English. For the course beginni
 
 <h2 align='center'>CANDIDATES APPLYING FROM ISRAEL</h2>
 
-We will interview all interested local candidates in late July. We will then select 12-16 people for an eight week prep-course, where we will provide structured support for completing the [course prerequisites](./prerequisites). All those who successfully complete our course prerequisites before the end of September are guaranteed a place on the October course.
+We will interview all interested local candidates in late July. We will then select 12-16 people for an eight-week prep-course, where we will provide structured support for completing the [course prerequisites](./prerequisites). All those who successfully complete our course prerequisites before the end of September are guaranteed a place on the October course.
 
 <h2 align='center'>CANDIDATES APPLYING FROM OUTSIDE OF ISRAEL</h2>
 

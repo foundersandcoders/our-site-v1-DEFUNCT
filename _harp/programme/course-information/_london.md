@@ -18,13 +18,13 @@
 </table>
 
 ### Location and Directions
-Founders & Coders London is located at 14 Palmers Road, E2 OSY, in Bethnal Green.
+Founders & Coders London is located at 14 Palmers Road, E2 0SY, in Bethnal Green.
 
 ### Hours
 Our London programme runs Monday to Friday from 10am to 6pm.
 
 ### Dates
-Our next courses begin 26 June 2017, 23 October 2017 and 18 February 2018.
+Our next courses begin 26 June 2017, 23 October 2017 and 18 February, 2018.
 
 ### Eligibility
 If you are over the age of 18 and can legally stay in the UK for six months, you are eligible to apply for our London programme.
