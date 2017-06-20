@@ -10,11 +10,11 @@ Prospective students use online materials to teach themselves the fundamentals o
 
 ### Prep-course
 
-After conducting interviews, we select a group of finalists for an in-person, weekly prep-course, where we provide support completing [our course prerequisites](../apply/prerequisites).
+After conducting interviews, we select a group of finalists for an in-person, weekly prep-course, where we provide support completing [our course prerequisites](../apply/prerequisites) (note: this course is new and will be offered in Nazareth beginning in advance of the October course and in London before the February course).
 
 ### 16-week full-time coding bootcamp
 
-Our immersive course is peer-led and project-based with sixteen students working in four teams of four. Students take turns delivering workshops, running code reviews and managing projects. The course covers test-driven development, using a full JavaScript stack (JavaScript and Node.js) with both relational databases, as well as aspects of UX design and product management.
+Our immersive course is peer-led and project-based with sixteen students working in four teams of four. Students take turns delivering workshops, running code reviews and managing projects. The course covers test-driven development, using a full JavaScript stack (JavaScript and Node.js) with relational databases. We also teach aspects of UX design and project management.
 
 Our curriculum is an entirely open source project and is [available for viewing on GitHub](https://github.com/foundersandcoders/info/blob/master/curriculum.md).
 
