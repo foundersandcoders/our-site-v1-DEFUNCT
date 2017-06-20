@@ -11,20 +11,20 @@
   </div>
   <div class="partners-section-item">
     <a href="http://www.nazarethinfo.org/"
-      alt="Cast">
-      <img class="partners-section-image" alt="Cast logo" src="/assets/partners/nazareth.png"/>
+      alt="Nazreth Cultural and Tourism Association">
+      <img class="partners-section-image" alt="Nazreth Cultural and Tourism Association logo" src="/assets/partners/nazareth.png"/>
     </a>
   </div>
   <div class="partners-section-item">
     <a href="http://www.ukisraelhub.com/"
-      alt="DWYL - Do What You Love">
+      alt="UK Israel Tech HUB logo">
       <img class="partners-section-image" alt="UK Israel Tech HUB logo" src="/assets/partners/ukisraeltechhub.jpg"/>
     </a>
   </div>
   <div class="partners-section-item">
     <a href="https://www.gov.uk/government/world/organisations/british-embassy-tel-aviv"
-      alt="Cast">
-      <img class="partners-section-image" alt="Cast logo" src="/assets/partners/british_embassy_israel.jpg"/>
+      alt="British Embassy Israel">
+      <img class="partners-section-image" alt="British Embassy Israel logo" src="/assets/partners/british_embassy_israel.jpg"/>
     </a>
   </div>
   <div class="partners-section-item">
@@ -75,7 +75,7 @@ Please see https://www.gov.uk/foreign-travel-advice/israel for official UK recom
 
 Contact: Esraa Jbara
 
-Phone: +972 050-6610848
+Phone: +972 506610848
 
 Email: nazareth@foundersandcoders.com
 
