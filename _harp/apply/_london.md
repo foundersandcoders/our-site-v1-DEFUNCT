@@ -1,6 +1,6 @@
 <h2 align='center'>SELECTION PROCESS</h2>
 
-From 31st July we will review applications and offer interviews, including a guaranteed interview to all candidates who have completed the course prerequisites. Interviews will be conducted in-person (or via Google hangouts) in early August. We will select 16 people for the course beginning in October.
+From 31 July we will review applications and offer interviews, including a guaranteed interview to all candidates who have completed the course prerequisites. Interviews will be conducted in-person (or via Google hangouts) in early August. We will select 16 people for the course beginning in October.
 
 All applications received from August onwards will enter the pool for our February course, which begins 18 February, 2018. We will be conducting interviews for the February course in October and, for the first time, we will be offering a prep-course to support candidates for this programme in completing [our course prerequisites](./prerequisites).
 
