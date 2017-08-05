@@ -6,15 +6,11 @@ We plan to conduct two rounds of interviews for the October course, the first in
 
 <h2 align='center'>CANDIDATES APPLYING FROM ISRAEL</h2>
 
-On July 20, we will invite local candidates for interviews which will be held in Nazareth on July 26 and 27.
-
 We will then select up to 12 local candidates for an eight-week prep-course, where we will provide structured support for completing the [course prerequisites](./prerequisites). All those who attend all sessions of the prep-course _and_ successfully complete our course prerequisites before the end of September are guaranteed a place on the October course.
 
 Candidates who submit applications between July 20 and August 20 may be invited to interview for any remaining places on the October programme during the last week in August.
 
 <h2 align='center'>CANDIDATES APPLYING FROM OUTSIDE OF ISRAEL</h2>
-
-On July 20, we will invite international candidates who have completed the course prerequisites for interviews over Hangouts which will be held on July 26 and 27.
 
 Candidates who complete the course prerequisites between July 20 and August 20 may be invited to interview for any remaining places on the October programme during last week in August.
 
