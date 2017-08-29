@@ -1,8 +1,6 @@
 <h2 align='center'>SELECTION PROCESS</h2>
 
-From 31 July we will review applications and offer interviews, which will be conducted in-person (or via Google hangouts) in early August. We will select 16 people for the course beginning in October.
-
-All applications received from August onwards will enter the pool for our February course, which begins 18 February, 2018. We will be conducting interviews for the February course in October and, for the first time, we will be offering a prep-course to support candidates for this programme in completing [our course prerequisites](./prerequisites).
+We will review applications and conduct interviews in early November for the programme beginning in late February, and will offer places to sixteen people. 
 
 <h2 align='center'>HOW TO PREPARE</h2>
 
