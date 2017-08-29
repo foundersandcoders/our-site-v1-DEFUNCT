@@ -1,6 +1,6 @@
 <h2 align='center'>SELECTION PROCESS</h2>
 
-We will review applications and conduct interviews in early November for the programme beginning in late February, and will offer places to sixteen people. 
+We will review applications and conduct interviews in early December for the programme beginning in late February, and will offer places to sixteen people. 
 
 <h2 align='center'>HOW TO PREPARE</h2>
 
