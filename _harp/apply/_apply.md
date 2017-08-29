@@ -1,6 +1,6 @@
 <h1 align='center'>APPLY TO FOUNDERS & CODERS</h1>
 
-Applications are open for our next set of courses, which begin in late October.
+Applications open soon for our spring programmes, which begin in late Feburary (London) and early March (Nazareth).
 
 Get started by creating a new account on each of the following websites (you will need these accounts in order to submit an application):
 
