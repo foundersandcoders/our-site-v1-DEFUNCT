@@ -8,5 +8,5 @@
    + Contain links to your Free Code Camp and Codewars pages;
    + Not use a GitHub theme;
    + Not use a framework like Bootstrap or libraries like jQuery.
-
-Also, using Jekyll is entirely optional.
+ 
+  Also, using Jekyll is entirely optional.
