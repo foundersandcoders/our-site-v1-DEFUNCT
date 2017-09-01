@@ -16,14 +16,6 @@
 
 	<a href="https://www.linkedin.com/in/rebecca-radding"  class="team-image rebecca"></a>
 
-	**Rebecca Radding** is our Director of Development for the Middle East and North Africa. She’s been a teacher, community organizer, and advocate for democratic education in the United States. She divides her time between London, our new campus in Nazareth, and Tangier, Morocco, where she is currently based.
-
-	<a href="https://www.linkedin.com/in/dona-haj-33b7ab84"  class="team-image dona"></a>
-
-	**Dona Haj** is our liaison at the *UK Israel Tech Hub*, where she is the creative industries manager. She previously worked as finance team manager for the *Nazareth Business Development Center*. She is based in London.
-
-	<a href="https://www.linkedin.com/in/eoindesmondmccarthy"  class="team-image eoin"></a>
-
-	**Eoin McCarthy** is the developer in residence at *Founders & Coders Nazareth*. He graduated from *Founders & Coders* in February 2016 and works with *DWYL* as a freelance developer.
+	**Rebecca Radding** is our Director of Development. She’s been a teacher, community organizer, and advocate for democratic education in the United States. She divides her time between London, our new campus in Nazareth, and Tangier, Morocco, where she is currently based.
 
 </div>
