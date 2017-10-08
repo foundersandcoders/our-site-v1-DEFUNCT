@@ -20,15 +20,21 @@ Each programme runs for 16 weeks. After graduation, you will be expected to help
 
 ### Eligibility
 
-If you are over the age of 18 and can legally travel to the region, you are eligible to apply for our Nazareth programme.
-We welcome international applicants who commit to spending 16 weeks in Nazareth. Please note that at this time, we cannot provide students with any financial support during the programme.
+If you are over the age of 18 and can legally travel to the region, you are eligible to apply for our Nazareth programme. We also welcome applicants from the West Bank, and can apply for permits through a partnership with the Palestinian Internship Programme.
+
+We welcome international applicants who commit to spending 16 weeks in Nazareth. 
 
 ### Accommodation
 
-We will help local students find affordable housing in Nazareth, including flats for women only.
-Founders & Coders manages a guest house in Nazareth for our international students and mentors, located across the street from our campus at Khan el-Basha. Rent for a private room is £400 a month, including city tax, utilities, and internet. Food prices are similar to those in the UK and Europe.
+Founders & Coders manages a guest house in Nazareth for our students and mentors, located across the street from our campus at Khan el-Basha. Rent for a private room is £400 a month, including city tax, utilities, and internet. Food prices are similar to those in the UK and Europe. 
 
-### Stipends
+We will help local students find affordable housing in Nazareth, including flats for women only.
+
+### Travel
+
+Our local partner, the Nazareth Cultural & Tourism Association, applies for B-4 volunteer visas on behalf of all international course participants. 
+
+### Financial support
 
 At this time, we do not offer financial support to local or international students. We are actively exploring ways to provide a modest living stipend to local students.
 
