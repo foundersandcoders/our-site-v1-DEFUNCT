@@ -1,6 +1,8 @@
 <h2 align='center'>SELECTION PROCESS</h2>
 
-We will review applications and conduct interviews in early December for the programme beginning in late February, and will offer places to sixteen people. 
+We will review applications and conduct interviews in early December for the programme beginning February 26, and will offer places to sixteen people. If you have not met our course prerequisites by the application deadline, it is unlikely that you will be offered an interview.
+
+We welcome applicants from all backgrounds, though we particularly encourage applications from members of groups underrepresented in the tech industry.
 
 <h2 align='center'>HOW TO PREPARE</h2>
 
