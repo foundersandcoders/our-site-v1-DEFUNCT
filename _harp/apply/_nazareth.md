@@ -2,7 +2,7 @@
 
 Nazareth is an international programme taught in English. For the course beginning March 4, we will conduct the first round of interviews in late November. Pending space available, we will interview a second group of local candidates in late December. We plan to offer sixteen places to a mix of local and international students. 
 
-We welcome applicants from all backrounds, and particularly encourage applications from members of groups underrepresented in the tech industry.
+We welcome applicants from all backrounds, though we particularly encourage applications from members of groups underrepresented in the tech industry.
 
 <h2 align='center'>HOW TO PREPARE</h2>
 
