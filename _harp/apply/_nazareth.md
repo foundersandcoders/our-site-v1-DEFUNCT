@@ -1,6 +1,12 @@
 <h2 align='center'>SELECTION PROCESS</h2>
 
-Nazareth is an international programme taught in English. We plan to conduct interviews in November for the course beginning in early March. We will likely offer 16 places to a mix of local and international students (please note that we welcome applicants from the West Bank).
+Nazareth is an international programme taught in English.
+
+For the course beginning March 4, we will conduct the first round of interviews in late November. Pending space available, we will interview a second group of local candidates in late December. We plan to offer sixteen places to a mix of local and international students. 
+
+Applicants should make every effort to meet the prerequisites by the application deadline, but it is likely that we will interview some candidates whose work is in progress at the time of the deadline.
+
+We welcome applicants from all backrounds, though we particularly encourage applications from members of groups underrepresented in the tech industry.
 
 <h2 align='center'>HOW TO PREPARE</h2>
 
