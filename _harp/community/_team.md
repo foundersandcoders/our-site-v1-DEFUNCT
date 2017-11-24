@@ -4,7 +4,7 @@
 
 	<a href="https://www.linkedin.com/in/dsofer"  class="team-image dan"></a>
 
-	**Dan Sofer** Dan is the founding director of *Founders & Coders C.I.C.*. He has been building websites since 1995 for clients that include *The Guardian* and the *BBC*. He project managed the build of the official website of the *London 2012 Olympic Games*.
+	**Dan Sofer** is the founding director of *Founders & Coders C.I.C.* (our London programme) and is the director of *Founders & Coders International.* He has been building websites since 1995 for clients that include *The Guardian* and the *BBC*. He project managed the build of the official website of the *London 2012 Olympic Games*.
 
 	<a href="https://www.linkedin.com/in/iteles"  class="team-image ines"></a>
 
