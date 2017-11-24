@@ -16,6 +16,6 @@
 
 	<a href="https://www.linkedin.com/in/rebecca-radding"  class="team-image rebecca"></a>
 
-	**Rebecca Radding** is our Director of Development. She’s been a teacher, community organizer, and advocate for democratic education in the United States. She divides her time between London, our new campus in Nazareth, and Tangier, Morocco, where she is currently based.
+	**Rebecca Radding** has been a teacher, community organiser, and advocate for democratic education in the United States. Together with Dan, she has spearheaded the Founders & Coders expansion to the Middle East. She is currently behind development of *Founders & Coders International*, the UK-based charity that will be responsible for future expansion projects. She is based in Tangier, Morocco.
 
 </div>
