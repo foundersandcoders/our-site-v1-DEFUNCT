@@ -6,7 +6,7 @@
 
 Founders & Coders Nazareth is based at the Nazareth Cultural & Tourism Association, inside the Khan El Basha Building, across from the Basilica of the Annunciation.
 
-Nazareth is a small city of 75,000 people, with a mixed Christian and Muslim population. 
+Nazareth is a small city of 75,000 people, with a mixed Christian and Muslim population.
 
 ### Hours
 
@@ -14,25 +14,26 @@ Our Nazareth programme runs Sunday through Thursday from 10 AM to 6 PM.
 
 ### Dates
 
-Our next programmes begin on October 29 and February 24.
+Our next programme is likely to resume in spring 2018.
 
 Each programme runs for 16 weeks. After graduation, you will be expected to help mentor the following cohort, and we will help you find employment.
+
 
 ### Eligibility
 
 If you are over the age of 18 and can legally travel to the region, you are eligible to apply for our Nazareth programme. We also welcome applicants from the West Bank, and can apply for permits through a partnership with the Palestinian Internship Programme.
 
-We welcome international applicants who commit to spending 16 weeks in Nazareth. 
+We welcome international applicants who commit to spending 16 weeks in Nazareth.
 
 ### Accommodation
 
-Founders & Coders manages a guest house in Nazareth for our students and mentors, located across the street from our campus at Khan el-Basha. Rent for a private room is £400 a month, including city tax, utilities, and internet. Food prices are similar to those in the UK and Europe. 
+Founders & Coders manages a guest house in Nazareth for our students and mentors, located across the street from our campus at Khan el-Basha. Rent for a private room is £400 a month, including city tax, utilities, and internet. Food prices are similar to those in the UK and Europe.
 
 We will help local students find affordable housing in Nazareth, including flats for women only.
 
 ### Travel
 
-Our local partner, the Nazareth Cultural & Tourism Association, applies for B-4 volunteer visas on behalf of all international course participants. 
+Our local partner, the Nazareth Cultural & Tourism Association, applies for B-4 volunteer visas on behalf of all international course participants.
 
 ### Financial support
 
@@ -40,7 +41,7 @@ At this time, we do not offer financial support to local or international studen
 
 ### Security
 
-Please see https://www.gov.uk/foreign-travel-advice/israel for official UK recommendations for travel in Israel.
+Please see the [official UK recommendations](https://www.gov.uk/foreign-travel-advice/israel) for travel in Israel.
 
 ### Contact
 
