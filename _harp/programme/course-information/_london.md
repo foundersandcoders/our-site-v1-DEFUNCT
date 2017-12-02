@@ -26,6 +26,14 @@ Our London programme runs Monday to Friday from 10am to 6pm.
 ### Dates
 Our next courses begin 26 February 2018, 2 July 2018, and 29 October 2018.
 
+The application windows for the upcoming courses are:
+
+1 November 2017 to 30 November 2017 for the course starting on 26 February 2018.
+
+1 April 2018 to 30 April 2018 for the course starting on 2 July 2018.
+
+1 August 2018 to 31 August 2018 for the course starting on 29 October 2018.
+
 ### Eligibility
 If you are over the age of 18 and can legally stay in the UK for six months, you are eligible to apply for our London programme.
 
