@@ -12,28 +12,11 @@ Nazareth is a small city of 75,000 people, with a mixed Christian and Muslim pop
 
 Our Nazareth programme runs Sunday through Thursday from 10 AM to 6 PM.
 
-### Dates
-
-Our next programme is likely to resume in spring 2018.
-
-Each programme runs for 16 weeks. After graduation, you will be expected to help mentor the following cohort, and we will help you find employment.
-
-
-### Eligibility
-
-If you are over the age of 18 and can legally travel to the region, you are eligible to apply for our Nazareth programme. We also welcome applicants from the West Bank, and can apply for permits through a partnership with the Palestinian Internship Programme.
-
-We welcome international applicants who commit to spending 16 weeks in Nazareth.
-
 ### Accommodation
 
 Founders & Coders manages a guest house in Nazareth for our students and mentors, located across the street from our campus at Khan el-Basha. Rent for a private room is £400 a month, including city tax, utilities, and internet. Food prices are similar to those in the UK and Europe.
 
 We will help local students find affordable housing in Nazareth, including flats for women only.
-
-### Travel
-
-Our local partner, the Nazareth Cultural & Tourism Association, applies for B-4 volunteer visas on behalf of all international course participants.
 
 ### Financial support
 

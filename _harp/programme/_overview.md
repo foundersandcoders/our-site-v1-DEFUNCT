@@ -10,7 +10,7 @@ Prospective students use online materials to teach themselves the fundamentals o
 
 ### Prep-course
 
-After conducting interviews, we select a group of finalists for an in-person, weekly prep-course, where we provide support completing [our course prerequisites](../apply/prerequisites) (note: this course is new and will be offered in Nazareth beginning in advance of the October course and in London before the February course).
+After conducting interviews, we select a group of finalists for an in-person, weekly prep-course, where we provide support completing [our course prerequisites](../apply/prerequisites) (note: this course is new and will be offered in Nazareth).
 
 ### 16-week full-time coding bootcamp
 
