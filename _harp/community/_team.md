@@ -20,19 +20,3 @@
 	**Yvonne Liu** leads operations for *Founders & Coders International*. She is an advocate for growing communities, open-source systems, accessible education, and previously led operations in Asia for *iFixit*. A graduate of *Founders & Coders London*, she now divides her time between our UK and Middle East campuses.
 
 </div>
-
-# OUR BOARD OF TRUSTEES
-
-<div class="about-management">
-
-<a href="https://www.linkedin.com/in/nelsonic"  class="team-image nelson"></a>
-
-**Nelson Correia** is our lead technical mentor and co-founder and CTO of [dwyl.io](http://www.dwyl.io/). He’s a prolific open source developer, technical architect, and has previously led development teams at *Thomas Cook*, *Pearson* and *Groupon*.
-
-</div>
-
-<a href="https://www.linkedin.com/in/natalia-baltazar-31051159/"  class="team-image natalia2"></a>
-
-**Natalia Baltazar** is a Developer Manager at *The Guardian* and a graduate of *Founders & Coders London*. She is passionate about providing a free and accessible way for people to learn software development and believes in the Founders & Coders mission.
-
-</div>
