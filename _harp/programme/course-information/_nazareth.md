@@ -33,7 +33,6 @@ nazareth@foundersandcoders.com
 
 <h2 align='center'>LEARN MORE</h2>
 
-+ Read about our launch in the [Jerusalem Post](http://www.jpost.com/Israel-News/UK-funded-coding-boot-camp-to-launch-in-Nazareth-next-week-481537) and the [Times of Israel](http://www.timesofisrael.com/nazareth-tech-scene-to-get-programmers-boost/)
 + Read about [life as an international student](https://medium.com/founders-coders/founders-and-coders-nazareth-life-as-an-international-student-c2be76fb161d) in Nazareth
 + [Watch a video](https://www.facebook.com/butto/videos/10155329543299323/) about our recent cohort’s work on the Nazareth Tourism Digital Accelerator (Arabic and English with Arabic and English subtitles)
 + Watch a video ([part 1](https://goo.gl/5nvP58)/[part 2](https://tinyurl.com/m8rkvkf))from Musawa Channel - we were featured on their #USB show about exciting events in tech (Arabic)
