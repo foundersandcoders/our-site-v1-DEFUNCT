@@ -7,11 +7,15 @@ We operate in London and Nazareth. Before applying to the Founders & Coders prog
 
 <h1 align='center'>LONDON</h1>
 
+**Expression of interest:**
+
+Submit an [expression of interest](https://docs.google.com/forms/d/e/1FAIpQLSdU_HNAYn-C7HW60TGneX3s6_KnnkSWOWsrGiuJ7jBzVXUQgA/viewform) now for our London programme.
+
 **Upcoming course dates:**
 
-For our summer cohort beginning on 2 July 2018, the application window will be open from March 12th until April 13th (23:59 GMT). Interview dates will be between April 23rd to April 27th.
-
 For our winter cohort beginning on 29 October 2018, the application window will be open from July 16th until August 17th (23:59 GMT). Interview dates will be between August 27th to August 31st.
+
+For our spring cohort beginning on 4 March 2019, the application window will be open from November 1st until November 30th (23:59 GMT). Interview dates will be between December 16th to December 22nd.
 
 **Eligibility:**
 
