@@ -13,8 +13,9 @@
    + Basic Algorithm Scripting
 
 5. [Codewars](https://www.codewars.com/) provides a strong introduction to the problem-solving skills you’ll need in order to be successful as a web developer. You will need to:
-   + Reach 5 kyu in JavaScript on Codewars
+   + Reach 5 kyu and 300 honor points in JavaScript on Codewars
    + [Create at least one JavaScript kata](https://www.codewars.com/kata/new/javascript)
+      + Before creating your kata, check out these tips from Codewars on [creating your first kata](https://github.com/Codewars/codewars.com/wiki/Tutorial%3A-Create-Your-First-Kata) and [kata best practices](https://github.com/Codewars/codewars.com/wiki/Kata-Best-Practices). 
 
 6. When you’re ready (which could be after some work on Free Code Camp), create a one-page website using GitHub Pages. Your website must:
    + Tell us something interesting about yourself that will support your application;
