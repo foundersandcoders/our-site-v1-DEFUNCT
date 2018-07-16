@@ -19,7 +19,7 @@
 
 
 ### Location and Directions
-Founders & Coders London is located at 14 Palmers Road, E2 0SY, in Bethnal Green.
+Founders & Coders London is located at [Space4](http://www.space4.tech), 149 Fonthill Road, N4 3HF, in Finsbury Park.
 
 ### Hours
 Our London programme runs Monday to Friday from 10am to 6pm.
