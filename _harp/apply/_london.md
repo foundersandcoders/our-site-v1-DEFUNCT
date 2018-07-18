@@ -6,7 +6,7 @@ We welcome applicants from all backgrounds, though we particularly encourage app
 
 <h2 align='center'>HOW TO PREPARE</h2>
 
-Our London campus (14 Palmers Road) hosts regular meetups for everyone interested in learning web development. Please make every effort to attend one of our meetups (check [meetup.com](https://www.meetup.com/founderscoders/) for an updated schedule):
+Our London campus (149 Fonthill Road) hosts regular meetups for everyone interested in learning web development. Please make every effort to attend one of our meetups (check [meetup.com](https://www.meetup.com/founderscoders/) for an updated schedule):
 
-+ Coding for Everyone: Monday, 6:30 PM
-+ Coding for Women: every other Tuesday, 6:30 PM
+- Coding for Everyone: Monday, 6:30 PM
+- Coding for Women: every other Tuesday, 6:30 PM
