@@ -7,9 +7,9 @@ We operate in London and Nazareth. Before applying to the Founders & Coders prog
 
 <h1 align='center'>LONDON</h1>
 
-**Expression of interest:**
+**Apply**
 
-Submit an [expression of interest](https://docs.google.com/forms/d/e/1FAIpQLSdU_HNAYn-C7HW60TGneX3s6_KnnkSWOWsrGiuJ7jBzVXUQgA/viewform) now for our London programme.
+Application [now open](https://docs.google.com/forms/d/e/1FAIpQLSfczihTcCcdKiwHS2evUyJbQBMoGlbuOgJOS2oxNYZwBSUBsA/viewform) for our winter cohort for our London programme.
 
 **Upcoming course dates:**
 
@@ -32,10 +32,6 @@ We welcome applicants from all backgrounds, though we particularly encourage app
 [More information about our London Programme.](https://foundersandcoders.com/programme/course-information/london)
 
 <h1 align='center'>NAZARETH</h1>
-
-**Upcoming course dates:**
-
-Our next course for Nazareth is TBD.
 
 **Eligibility:**
 
