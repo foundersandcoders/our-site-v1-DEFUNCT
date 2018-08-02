@@ -3,7 +3,7 @@
 We operate in London and Nazareth. Before applying to the Founders & Coders programme, you will need to complete our [course prerequisites](https://foundersandcoders.com/apply/prerequisites/). Please read these instructions carefully and apply as soon as you are ready. Your application will only be looked at after the application window closes, it will not be based on your progress on the date that you submit your application.
 <br>
 <br>
-<div align='center'><a href="/apply/prerequisites" target="blank"><button class="button-three">PREREQUISITES</button></a></div>
+<div align='center'><a href="/apply/prerequisites"><button class="button-three">PREREQUISITES</button></a></div>
 
 <h1 align='center'>LONDON</h1>
 
