@@ -3,7 +3,7 @@
 We operate in London and Nazareth. Before applying to the Founders & Coders programme, you will need to complete our [course prerequisites](https://foundersandcoders.com/apply/prerequisites/). Please read these instructions carefully and apply as soon as you are ready. Your application will only be looked at after the application window closes, it will not be based on your progress on the date that you submit your application.
 <br>
 <br>
-<div align='center'><a href="/apply/prerequisites" target="blank"><button class="button-three">PREREQUISITES</button></a></div>
+<div align='center'><a href="/apply/prerequisites"><button class="button-three">PREREQUISITES</button></a></div>
 
 <h1 align='center'>LONDON</h1>
 
@@ -13,7 +13,7 @@ Application [now open](https://docs.google.com/forms/d/e/1FAIpQLSfczihTcCcdKiwHS
 
 **Upcoming course dates:**
 
-For our winter cohort beginning on 29 October 2018, the application window will be open from July 16th until August 17th (23:59 GMT). Interview dates will be between August 27th to August 31st.
+For our winter cohort beginning on 29 October 2018, the application window will be open from July 16th until August 17th (23:59 GMT). Applicants will have until August 31st (23:59 GMT) to complete their prerequisites. Remote or in-person interview dates will be confirmed via email. 
 
 For our spring cohort beginning on 4 March 2019, the application window will be open from November 1st until November 30th (23:59 GMT). Interview dates will be between December 16th to December 22nd.
 
