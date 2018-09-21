@@ -1,10 +1,9 @@
-1. To help you while you’re working on the prerequisites, we host [regular meetups](https://www.meetup.com/founderscoders/events/). Please make every effort to attend.
+1. Create a [GitHub](https://github.com/) account (note: you can easily use this account to join Gitter, freeCodeCamp, and Codewars)
 
-2. Create a GitHub account (note: you can easily use this account to join freeCodeCamp and Codewars, our other prerequisites)
-
-3. Join our online community on Gitter, and actively participate in the chatroom of the course for which you are applying:
+2. Join our online community on Gitter, and actively participate in the chatroom:
    + [London](https://gitter.im/codingforeveryone/london)
-   + [Nazareth](https://gitter.im/codingforeveryone/nazareth)
+
+3. To help you while you’re working on the prerequisites, we host regular meetups. Please make every effort to attend. You can find out more about our meetups by submitting an [expression of interest](https://docs.google.com/forms/d/e/1FAIpQLSepdNxKsrMjhfnbdkzKUgNpeWFmp8WLyiqTe_UY10TsPpFOEQ/viewform) or in our [Gitter room](https://gitter.im/codingforeveryone/london).
 
 4. We love [freeCodeCamp](https://www.freecodecamp.org/) and think it’s a fantastic way to begin your journey as a web developer. Complete the following sections on freeCodeCamp's updated curriculum:
    + Responsive Web Design Certification:
