@@ -33,16 +33,4 @@ We welcome applicants from all backgrounds, though we particularly encourage app
 
 [More information about our London Programme.](https://foundersandcoders.com/programme/course-information/london)
 
-<h1 align='center'>NAZARETH</h1>
-
-**Eligibility:**
-
-The Nazareth programme is currently being funded by the Palestinian Welfare Association in partnership with the Nazareth Cultural and Tourism Association. Palestinians over 18 years age from both Israel and the West Bank are eligible to apply. If you are from the West Bank, we can apply for permits through a partnership with the Palestinian Internship Programme.
-
-**Selection Process:**
-
-We aim to offer at least eight spots for local students and at least four spots for international students. If needed, we will offer an in-person prep-course for local students in our classroom 2-3 evenings a week for four weeks prior to the start of the programme.
-
-[More information about our Nazareth Programme.](https://foundersandcoders.com/programme/course-information/nazareth)
-
 <h1 align='center'>APPLY NOW</h1>
