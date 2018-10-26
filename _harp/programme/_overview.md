@@ -1,4 +1,4 @@
-We have graduated more than 180 students on our full-time programmes in [London](./course-information/london) and [Nazareth](./course-information/nazareth). Over the last two years, more than 90% of our graduates have gone on to work in software or a related field.
+We have graduated more than 200 students on our full-time programmes in [London](./course-information/london). Over the last two years, more than 90% of our graduates have gone on to work in software or a related field.
 
 We believe that high quality education should be accessible to everyone. Our students continue to be involved with our programme long after they graduate. With their support and the work of the broader Founders & Coders community, we continue to offer our programmes for free at the point of delivery.
 
@@ -10,7 +10,7 @@ Prospective students use online materials to teach themselves the fundamentals o
 
 ### Prep-course
 
-After conducting interviews, we select a group of finalists for an in-person, weekly prep-course, where we provide support completing [our course prerequisites](../apply/prerequisites) (note: this course is new and will be offered in Nazareth).
+After conducting interviews, we select a group of finalists for an in-person, weekly prep-course, where we provide support completing [our course prerequisites](../apply/prerequisites).
 
 ### 16-week full-time coding bootcamp
 
@@ -27,6 +27,6 @@ During this period, every bootcamp graduate is expected to:
 
 ### Employment
 
-Each place on the Founders & Coders programme costs us about £2,500 to provide. We ask you to consider either seeking employment with one of our partners who will help pay for these costs or, alternatively, making a regular voluntary contribution after you graduate. This is a way of 'paying it forward', so that we can provide a place for someone in a future cohort.
+Each place on the Founders & Coders programme costs us about £3,000 to provide. We ask you to consider either seeking employment with one of our partners who will help pay for these costs or, alternatively, making a regular voluntary contribution after you graduate. This is a way of 'paying it forward', so that we can provide a place for someone in a future cohort.
 
 To learn more, see the Founders & Coders [student agreement](https://github.com/foundersandcoders/charter/blob/master/README.md).
