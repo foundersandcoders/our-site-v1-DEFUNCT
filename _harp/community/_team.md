@@ -4,7 +4,7 @@
 
 	<a href="https://www.linkedin.com/in/dsofer"  class="team-image dan"></a>
 
-	**Dan Sofer** is the founding director of *Founders & Coders C.I.C.* (our London programme) and is the director of *Founders & Coders International.* He has been building websites since 1995 for clients that include *The Guardian* and the *BBC*. He project managed the build of the official website of the *London 2012 Olympic Games*.
+	**Dan Sofer** is the founding director of *Founders & Coders C.I.C.*. He has been building websites since 1995 for clients that include *The Guardian* and the *BBC*. He project managed the build of the official website of the *London 2012 Olympic Games*.
 
 	<a href="https://www.linkedin.com/in/iteles"  class="team-image ines"></a>
 
@@ -12,11 +12,11 @@
 
 	<a href="https://www.linkedin.com/in/rebecca-radding"  class="team-image rebecca"></a>
 
-	**Rebecca Radding** has been a teacher, community organiser, and advocate for democratic education in the United States. Together with Dan, she has spearheaded the Founders & Coders expansion to the Middle East. She is currently behind development of *Founders & Coders International*, the UK-based charity that will be responsible for future expansion projects. She is based in Tangier, Morocco.
+	**Rebecca Radding** has been a teacher, community organiser, and advocate for democratic education in the United States. Together with Dan, she has spearheaded the Founders & Coders expansion to the Middle East. She is based in Tangier, Morocco.
 
 	<a href="https://www.linkedin.com/in/liu-yvonne"  
 	class="team-image yvonne"></a>
 
-	**Yvonne Liu** leads operations for *Founders & Coders International*. She is an advocate for growing communities, open-source systems, accessible education, and previously led operations in Asia for *iFixit*. A graduate of *Founders & Coders London*, she now divides her time between our UK and Middle East campuses.
+	**Yvonne Liu** leads operations for *Founders & Coders*. She is an advocate for growing communities, open-source systems, accessible education, and previously led operations in Asia for *iFixit*. A graduate of *Founders & Coders London*, she now divides her time between our UK and Middle East campuses.
 
 </div>

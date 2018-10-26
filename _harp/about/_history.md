@@ -8,6 +8,4 @@ In November 2014, during the last week of the fourth cohort in Camden, we were i
 
 In January 2015, Ines and Nelson joined the team as a Director and Lead Technical Mentor respectively, bringing with them years of industry experience, and the fourth course began at Founders & Coders’ new home in Bethnal Green. Most of the third cohort stayed to organise the fourth course, providing critical mentorship and together, deepening the community ethos that continues to define Founders & Coders.
 
-Founders & Coders has become a highly selective programme with a reputation for producing outstanding graduates. In summer 2016, Dan met Rebecca Radding, an educator, and began planning for the international expansion of Founders & Coders, starting with Nazareth in February 2017.
-
-In late 2017, we began the process of incorporating a UK-based charity, Founders & Coders International, to support our international expansion efforts.
+In summer 2016, Dan met Rebecca Radding, an educator, and began planning for the international expansion of Founders & Coders, starting in the Middle East, where we now run two campuses.
