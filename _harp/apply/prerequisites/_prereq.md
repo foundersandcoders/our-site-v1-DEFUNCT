@@ -20,9 +20,11 @@
     _Completing these recommended sections should leave you with at least 200 points, but you are encouraged to also complete any of the other topics that take your interest._
 
 5. [Codewars](https://www.codewars.com/) provides a strong introduction to the problem-solving skills you’ll need in order to be successful as a web developer. You will need to:
-   + Reach 5 kyu and 300 honor points in JavaScript on Codewars
+   + Reach at least 5 kyu and 300 honour points in JavaScript on Codewars
    + [Create at least one JavaScript kata](https://www.codewars.com/kata/new/javascript)
-      + Before creating your kata, check out these tips from Codewars on [creating your first kata](https://github.com/Codewars/codewars.com/wiki/Tutorial%3A-Create-Your-First-Kata) and [kata best practices](https://github.com/Codewars/codewars.com/wiki/Kata-Best-Practices).
+    + Before creating your kata, you must carefully read through tips from Codewars on [creating your first kata](https://github.com/Codewars/codewars.com/wiki/Tutorial%3A-Create-Your-First-Kata) and [kata best practices](https://github.com/Codewars/codewars.com/wiki/Kata-Best-Practices);
+    + Don’t forget to [write random tests](https://github.com/codingforeveryone/READMEs/blob/master/codewars/random-test-cases-for-complete-beginners.md)!
+    + Before publishing your kata, publish it as a draft first and ask for feedback in the [Codewars community](https://gitter.im/Codewars/codewars.com/kata-authoring-help) (bear in mind this is not moderated by Founders and Coders); 
 
 6. When you’re ready (which could be after some work on freeCodeCamp), create a one-page website using GitHub Pages. Your website must:
    + Tell us something interesting about yourself that will support your application;
